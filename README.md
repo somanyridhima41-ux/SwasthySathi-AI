@@ -48,7 +48,7 @@ graph LR
 | Route | Functionality |
 |---|---|
 | **`/`** | **Landing Overview**: Hero with 3-profile interactive risk simulator, Problem analysis (Indian hazard scenarios), Solution (6-stage stepper), 6 Features, Innovation breakdown, Real Impact, and Team. |
-| **`/dashboard`** | **Interactive Health Companion**: Real-time atmospheric telemetry, computed personal risk card, wearable sensor simulator (running ECG stroke, HRV, SpO2, thermal stress), 12-hour predictive timeline, Aura AI body triage assistant, low-connectivity mode, and one-touch emergency SOS. |
+| **`/dashboard`** | **Interactive Health Companion**: Real-time atmospheric telemetry, computed personal risk card, wearable sensor simulator (running ECG stroke, HRV, SpO2, thermal stress), 12-hour predictive timeline, SwasthyaSathi AI body triage assistant, low-connectivity mode, and one-touch emergency SOS. |
 | **`/profile`** | **Personalization & Sensitivities**: Minimal parameters (First name, age bracket, outdoor exposure, sensitivity checkboxes, emergency contact) + 1-click demographic demo presets. |
 | **`/privacy`** | **Privacy Architecture**: Data minimization guarantee, local execution explanation, permission-based GPS, and future mobile edge roadmap. |
 
