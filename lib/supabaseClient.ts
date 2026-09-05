@@ -110,3 +110,4 @@ export async function logRiskEvaluationEvent(record: RiskHistoryRecord): Promise
     console.warn("Could not log risk event to Supabase:", err);
   }
 }
+
