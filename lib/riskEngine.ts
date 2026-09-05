@@ -265,3 +265,128 @@ export function computeRisk(input: {
   };
 }
 
+export interface DisasterWarning {
+  id: string;
+  title: string;
+  severity: "critical" | "high" | "moderate" | "normal";
+  hazardType: "heat" | "aqi" | "flood" | "humidity" | "normal";
+  shortExplanation: string;
+  actionGuidance: string;
+}
+
+/**
+ * Evaluates hyper-local meteorological and air quality telemetry against
+ * IMD (India Meteorological Department) and CPCB disaster warning thresholds.
+ */
+export function computeDisasterWarnings(input: {
+  temperatureC: number;
+  feelsLikeC: number;
+  humidityPct: number;
+  aqi: number;
+  weatherCode?: number;
+  weatherDescription?: string;
+  pm25?: number;
+}): DisasterWarning[] {
+  const {
+    temperatureC,
+    feelsLikeC,
+    humidityPct,
+    aqi,
+    weatherCode = 0,
+    weatherDescription = "",
+    pm25 = 0,
+  } = input;
+
+  const warnings: DisasterWarning[] = [];
+
+  // 1. Extreme Heat Wave Warning (IMD Heatwave Criteria)
+  const effectiveTemp = Math.max(temperatureC, feelsLikeC);
+  if (effectiveTemp >= 43 || temperatureC >= 42) {
+    warnings.push({
+      id: "heat-wave-severe",
+      title: "IMD Red Alert: Severe Heat Wave",
+      severity: "critical",
+      hazardType: "heat",
+      shortExplanation: `Ambient temperature of ${temperatureC}°C (Feels like ${feelsLikeC}°C) exceeds critical biological thermoregulation thresholds.`,
+      actionGuidance: "Suspend strenuous outdoor labor. Access shaded cooling centers and ingest electrolyte rehydration fluids.",
+    });
+  } else if (effectiveTemp >= 38 || temperatureC >= 37) {
+    warnings.push({
+      id: "heat-wave-moderate",
+      title: "IMD Orange Alert: Heat Wave Advisory",
+      severity: "high",
+      hazardType: "heat",
+      shortExplanation: `Elevated thermal stress (${temperatureC}°C, Feels like ${feelsLikeC}°C) accelerates dehydration and cardiovascular fatigue.`,
+      actionGuidance: "Pre-hydrate with 350-400 mL water every 40 minutes and limit direct solar exposure between 11:30 AM and 3:30 PM.",
+    });
+  }
+
+  // 2. Toxic Particulate Pollution Alert (CPCB National AQI Standards)
+  if (aqi >= 300) {
+    warnings.push({
+      id: "aqi-severe",
+      title: "CPCB Red Alert: Hazardous Particulate Smog",
+      severity: "critical",
+      hazardType: "aqi",
+      shortExplanation: `Hazardous AQI of ${aqi} (PM2.5: ${pm25 || "Elevated"} µg/m³) triggers acute bronchial reactivity and systemic inflammation.`,
+      actionGuidance: "Wear certified N95 respirators outdoors. Maintain indoor HEPA air purification and avoid open-air aerobic exercise.",
+    });
+  } else if (aqi >= 200) {
+    warnings.push({
+      id: "aqi-poor",
+      title: "CPCB Orange Alert: Very Poor Air Quality",
+      severity: "high",
+      hazardType: "aqi",
+      shortExplanation: `High particulate smog (${aqi} AQI) causes nasal and ocular mucosa irritation and exacerbates latent respiratory conditions.`,
+      actionGuidance: "Sensitive groups should remain indoors with windows closed. Limit continuous outdoor exposure to under 30 minutes.",
+    });
+  }
+
+  // 3. Monsoon Cloudburst / Flash Flood / Severe Thunderstorm Advisory
+  if (weatherCode >= 95) {
+    warnings.push({
+      id: "storm-thunder",
+      title: "Convective Severe Thunderstorm & Lightning Alert",
+      severity: "high",
+      hazardType: "flood",
+      shortExplanation: "Severe convective storm activity with squally gusts and lightning discharge. High risk of localized power disruption and flash flooding.",
+      actionGuidance: "Stay clear of tall trees, power lines, and open metal structures. Remain in sturdy indoor shelter until squalls pass.",
+    });
+  } else if (weatherCode >= 80 || (weatherCode >= 61 && weatherCode <= 65)) {
+    warnings.push({
+      id: "monsoon-rain",
+      title: "Intense Monsoon Precipitation & Urban Inundation Advisory",
+      severity: "moderate",
+      hazardType: "flood",
+      shortExplanation: `Heavy rainfall (${weatherDescription || "Monsoon showers"}) may overwhelm urban storm drains, leading to road waterlogging.`,
+      actionGuidance: "Avoid traversing waterlogged streets due to open manhole hazards and contaminated stormwater runoff.",
+    });
+  }
+
+  // 4. Wet-Bulb Humidity Trap (High RH + High Temp)
+  if (humidityPct >= 75 && temperatureC >= 32) {
+    warnings.push({
+      id: "wet-bulb-trap",
+      title: "Wet-Bulb High-Humidity Heat Trap",
+      severity: "high",
+      hazardType: "humidity",
+      shortExplanation: `High ambient humidity (${humidityPct}%) arrests cutaneous sweat evaporation, causing rapid internal heat retention.`,
+      actionGuidance: "Operate fans or cross-ventilation, wear lightweight breathable cotton, and apply damp cloth compresses to pulse points.",
+    });
+  }
+
+  // 5. Normal Baseline if no alerts triggered
+  if (warnings.length === 0) {
+    warnings.push({
+      id: "baseline-normal",
+      title: "No Active Meteorological Disaster Alerts",
+      severity: "normal",
+      hazardType: "normal",
+      shortExplanation: `Atmospheric parameters (${temperatureC}°C, AQI ${aqi}) are within standard physiological baseline limits for this region.`,
+      actionGuidance: "Follow standard seasonal hydration habits and daily outdoor schedules without special meteorological restrictions.",
+    });
+  }
+
+  return warnings;
+}
+

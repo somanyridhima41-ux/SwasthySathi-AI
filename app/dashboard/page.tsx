@@ -28,7 +28,10 @@ import {
   Share2,
   FileText,
   User,
-  ExternalLink
+  ExternalLink,
+  Flame,
+  CloudRain,
+  AlertOctagon
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { 
@@ -38,6 +41,8 @@ import {
 } from "@/lib/environmentalApi";
 import { 
   computeRisk, 
+  computeDisasterWarnings,
+  DisasterWarning,
   RiskLevel 
 } from "@/lib/riskEngine";
 import { 
@@ -87,6 +92,9 @@ export default function DashboardPage() {
     primaryDriver: "Loading hyper-local microclimate and evaluating personal sensitivities...",
     recommendations: ["Stay hydrated", "Monitor hourly changes"],
   });
+
+  // Active Disaster Warnings & Advisories State
+  const [activeWarnings, setActiveWarnings] = useState<DisasterWarning[]>([]);
 
   // Offline / Low-Connectivity Demo Mode
   const [isOfflineMode, setIsOfflineMode] = useState(false);
@@ -162,6 +170,18 @@ export default function DashboardPage() {
         sensitivities: profile.sensitivities,
       });
       setRiskResult(risk);
+
+      // Compute Disaster-Specific Warnings & Advisories (IMD & CPCB Thresholds)
+      const warnings = computeDisasterWarnings({
+        temperatureC: data.temperatureC,
+        feelsLikeC: data.feelsLikeC,
+        humidityPct: data.humidityPct,
+        aqi: data.aqi,
+        weatherCode: data.weatherCode,
+        weatherDescription: data.weatherDescription,
+        pm25: data.pm25,
+      });
+      setActiveWarnings(warnings);
     } catch (err) {
       console.error("Error updating telemetry:", err);
     } finally {
@@ -617,18 +637,21 @@ export default function DashboardPage() {
                 </div>
               </div>
 
-              {/* Active Disaster Warning Banner */}
-              {telemetry && (telemetry.temperatureC >= 38 || telemetry.aqi >= 200) && (
-                <div className="p-3 rounded-xl bg-amber-50 border border-amber-200 flex items-start gap-2.5">
-                  <AlertTriangle className="w-4 h-4 text-amber-700 flex-shrink-0 mt-0.5" />
-                  <div className="text-xs text-amber-950">
-                    <span className="font-bold block">Regional Weather Warning Active</span>
-                    <span className="text-amber-900 leading-tight block mt-0.5">
-                      {telemetry.temperatureC >= 38 ? "Extreme diurnal heat wave advisory." : "High particulate air pollution alert."} Exercise preventive pacing.
-                    </span>
-                  </div>
-                </div>
-              )}
+              {/* Regional Alert Indicator */}
+              <div className="pt-1 flex items-center justify-between text-xs">
+                <span className="text-outline">Disaster Protocol Status:</span>
+                <span className={cn(
+                  "font-mono font-bold px-2 py-0.5 rounded text-[11px]",
+                  activeWarnings.some(w => w.severity === "critical") ? "bg-red-100 text-red-800" :
+                  activeWarnings.some(w => w.severity === "high") ? "bg-orange-100 text-orange-800" :
+                  activeWarnings.some(w => w.severity === "moderate") ? "bg-amber-100 text-amber-800" :
+                  "bg-teal-100 text-teal-800"
+                )}>
+                  {activeWarnings.filter(w => w.severity !== "normal").length > 0 
+                    ? `${activeWarnings.filter(w => w.severity !== "normal").length} Active Advisories` 
+                    : "Normal Baseline"}
+                </span>
+              </div>
             </div>
 
             <div className="mt-4 pt-3 border-t border-surface-container flex items-center justify-between text-xs text-outline font-mono">
@@ -637,6 +660,89 @@ export default function DashboardPage() {
             </div>
           </div>
 
+        </div>
+
+        {/* Dedicated Active Disaster Warnings & Climate Advisories Card (Section 6.3) */}
+        <div className="bg-white rounded-2xl p-6 border border-surface-container shadow-sm space-y-4">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 pb-3 border-b border-surface-container">
+            <div className="flex items-center gap-2.5">
+              <div className={cn(
+                "w-8 h-8 rounded-lg flex items-center justify-center font-bold text-sm",
+                activeWarnings.some(w => w.severity === "critical") ? "bg-red-100 text-red-700" :
+                activeWarnings.some(w => w.severity === "high") ? "bg-orange-100 text-orange-700" :
+                activeWarnings.some(w => w.severity === "moderate") ? "bg-amber-100 text-amber-700" :
+                "bg-teal-100 text-teal-800"
+              )}>
+                <AlertOctagon className="w-4 h-4" />
+              </div>
+              <div>
+                <h3 className="font-headline font-bold text-base text-on-surface">
+                  Active Disaster Warnings &amp; Climate Advisories
+                </h3>
+                <p className="text-xs text-on-surface-variant">
+                  IMD &amp; CPCB meteorological threshold alerts evaluated in real-time for {currentCity.name}
+                </p>
+              </div>
+            </div>
+            <div className="flex items-center gap-2">
+              <span className={cn(
+                "text-xs font-mono font-bold px-3 py-1 rounded-full uppercase",
+                activeWarnings.some(w => w.severity === "critical") ? "bg-red-600 text-white" :
+                activeWarnings.some(w => w.severity === "high") ? "bg-orange-600 text-white" :
+                activeWarnings.some(w => w.severity === "moderate") ? "bg-amber-500 text-white" :
+                "bg-teal-700 text-white"
+              )}>
+                {activeWarnings.filter(w => w.severity !== "normal").length > 0 
+                  ? `${activeWarnings.filter(w => w.severity !== "normal").length} Active Hazard Alerts`
+                  : "Baseline Normal Status"}
+              </span>
+            </div>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+            {activeWarnings.map((warning) => (
+              <div
+                key={warning.id}
+                className={cn(
+                  "p-4 rounded-xl border flex flex-col justify-between space-y-2 transition-all",
+                  warning.severity === "critical" ? "bg-red-50/80 border-red-200 text-red-950" :
+                  warning.severity === "high" ? "bg-orange-50/80 border-orange-200 text-orange-950" :
+                  warning.severity === "moderate" ? "bg-amber-50/80 border-amber-200 text-amber-950" :
+                  "bg-teal-50/70 border-teal-200 text-teal-950"
+                )}
+              >
+                <div className="space-y-1.5">
+                  <div className="flex items-center justify-between gap-2">
+                    <span className="font-headline font-bold text-sm tracking-tight flex items-center gap-2">
+                      {warning.hazardType === "heat" ? <Flame className="w-4 h-4 text-orange-600" /> :
+                       warning.hazardType === "aqi" ? <Wind className="w-4 h-4 text-purple-600" /> :
+                       warning.hazardType === "flood" ? <CloudRain className="w-4 h-4 text-blue-600" /> :
+                       warning.hazardType === "humidity" ? <Droplets className="w-4 h-4 text-cyan-600" /> :
+                       <ShieldCheck className="w-4 h-4 text-teal-700" />}
+                      {warning.title}
+                    </span>
+                    <span className={cn(
+                      "text-[10px] font-mono font-bold px-2 py-0.5 rounded uppercase",
+                      warning.severity === "critical" ? "bg-red-600 text-white" :
+                      warning.severity === "high" ? "bg-orange-500 text-white" :
+                      warning.severity === "moderate" ? "bg-amber-500 text-white" :
+                      "bg-teal-700 text-white"
+                    )}>
+                      {warning.severity}
+                    </span>
+                  </div>
+                  <p className="text-xs leading-relaxed opacity-90">
+                    {warning.shortExplanation}
+                  </p>
+                </div>
+
+                <div className="pt-2 border-t border-black/5 flex items-start gap-2 text-xs font-medium">
+                  <span className="text-[10px] font-bold uppercase tracking-wider opacity-70 font-mono">Action:</span>
+                  <span className="leading-snug">{warning.actionGuidance}</span>
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
 
         {/* Row 2: Physiological Sensor Telemetry (Wearable Simulation) */}
