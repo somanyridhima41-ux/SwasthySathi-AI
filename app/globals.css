@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 243 252 245; /* #f3fcf5 */
+    --foreground: 21 29 25;    /* #151d19 */
+  }
+
+  body {
+    background-color: #f3fcf5;
+    color: #151d19;
+    font-feature-settings: "rlig" 1, "calt" 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Restrained card hover elevation */
+.interactive-card {
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.2s ease;
+}
+
+.interactive-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px -5px rgba(3, 86, 87, 0.08), 0 4px 10px -2px rgba(0, 0, 0, 0.02);
+}
+
+/* Telemetry number styling */
+.font-telemetry {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.01em;
+}
+
