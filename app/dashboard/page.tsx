@@ -71,6 +71,7 @@ const POPULAR_INDIAN_CITIES: CityPreset[] = [
 
 export default function DashboardPage() {
   // User Profile State
+  const [isChatOpen, setIsChatOpen] = useState(false);
   const [profile, setProfile] = useState<UserProfile>(DEFAULT_PROFILE);
 
   // Selected Location
@@ -656,7 +657,12 @@ export default function DashboardPage() {
 
             <div className="mt-4 pt-3 border-t border-surface-container flex items-center justify-between text-xs text-outline font-mono">
               <span>Station: {currentCity.name} Central</span>
-              <span>Updated: {lastRefreshedAt.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })}</span>
+            <span suppressHydrationWarning>
+  Updated: {lastRefreshedAt.toLocaleTimeString([], {
+    hour: "2-digit",
+    minute: "2-digit"
+  })}
+</span>
             </div>
           </div>
 
@@ -918,90 +924,123 @@ export default function DashboardPage() {
         {/* Row 4: SwasthyaSathi AI Symptom Assistant & Edge Engine Buffer */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
           
-          {/* AI Symptom Chat Panel (8 Cols) */}
-          <div className="lg:col-span-8 bg-white rounded-2xl p-6 border border-surface-container shadow-sm flex flex-col justify-between">
-            <div className="space-y-4">
-              <div className="flex items-center justify-between pb-3 border-b border-surface-container">
-                <div className="flex items-center gap-2.5">
-                  <div className="w-8 h-8 rounded-lg bg-primary flex items-center justify-center text-white shadow-xs">
-                    <Sparkles className="w-4 h-4 text-primary-fixed" />
-                  </div>
-                  <div>
-                    <h3 className="font-headline font-bold text-base text-on-surface">
-                      SwasthyaSathi AI Symptom Assistant
-                    </h3>
-                    <span className="text-[11px] text-primary font-mono font-medium">
-                      Physiological-Weather Cross-Referencing
-                    </span>
-                  </div>
-                </div>
-                <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-surface-container font-semibold text-outline">
-                  On-Device Triage
-                </span>
-              </div>
+          {/* Floating AI Assistant Button */}
+             <button
+  onClick={() => setIsChatOpen(!isChatOpen)}
+  className="fixed bottom-6 right-6 z-50 w-14 h-14 rounded-full bg-primary text-white shadow-lg flex items-center justify-center hover:scale-105 transition-all"
+  aria-label="Open SwasthyaSathi AI Assistant"
+>
+  {isChatOpen ? (
+    <span className="text-2xl">✕</span>
+  ) : (
+    <Sparkles className="w-6 h-6" />
+  )}
+             </button>
 
-              {/* Body Map Selector Pill Bar */}
-              <div className="p-3 rounded-xl bg-surface-container-low border border-surface-container flex flex-wrap items-center justify-between gap-2">
-                <span className="text-xs font-bold text-outline uppercase tracking-wider">
-                  Target Anatomical Focus:
-                </span>
-                <div className="flex items-center gap-1.5">
-                  {(["head", "chest", "joints", "lumbar"] as const).map((part) => (
-                    <button
-                      key={part}
-                      onClick={() => setSelectedBodyPart(part)}
-                      className={cn(
-                        "px-3 py-1 rounded-lg text-xs font-semibold capitalize transition-all",
-                        selectedBodyPart === part
-                          ? "bg-primary text-white shadow-xs"
-                          : "bg-white text-on-surface border border-surface-container hover:bg-surface-container"
-                      )}
-                    >
-                      {part}
-                    </button>
-                  ))}
-                </div>
-              </div>
+          {/* Floating AI Chat Window */}
+            {isChatOpen && (
+              <div className="fixed bottom-24 right-6 z-50 w-[calc(100vw-2rem)] sm:w-[400px] h-[550px] bg-white rounded-2xl border border-surface-container shadow-2xl flex flex-col overflow-hidden">
 
-              {/* Chat Messages Stream */}
-              <div className="space-y-3 max-h-64 overflow-y-auto pr-1">
-                {chatMessages.map((msg, idx) => (
-                  <div
-                    key={idx}
-                    className={cn(
-                      "flex flex-col max-w-[85%] rounded-xl p-3.5 text-xs sm:text-sm leading-relaxed",
-                      msg.sender === "user"
-                        ? "ml-auto bg-primary text-white rounded-br-none shadow-xs"
-                        : "mr-auto bg-surface-container-low text-on-surface border border-surface-container rounded-bl-none"
-                    )}
-                  >
-                    <span className="font-semibold text-[10px] uppercase font-mono tracking-wider opacity-70 mb-1">
-                      {msg.sender === "user" ? "You" : "SwasthyaSathi Companion"} • {msg.time}
-                    </span>
-                    <p>{msg.text}</p>
-                  </div>
-                ))}
-              </div>
-            </div>
+              {/* Header */}
+    <div className="p-4 bg-primary text-white flex items-center justify-between">
+      <div className="flex items-center gap-3">
+        <div className="w-9 h-9 rounded-lg bg-white/20 flex items-center justify-center">
+          <Sparkles className="w-5 h-5" />
+        </div>
 
-            {/* Chat Input Form */}
-            <form onSubmit={handleSendMessage} className="pt-4 border-t border-surface-container mt-3 flex gap-2">
-              <input
-                type="text"
-                placeholder="Ask SwasthyaSathi AI about dizziness, cramping, hydration, or air quality..."
-                value={inputMessage}
-                onChange={(e) => setInputMessage(e.target.value)}
-                className="flex-1 text-xs sm:text-sm px-3.5 py-2.5 rounded-xl bg-surface-container-low border border-surface-container focus:outline-none focus:ring-2 focus:ring-primary/20"
-              />
-              <button
-                type="submit"
-                className="px-4 py-2.5 rounded-xl bg-primary text-white font-semibold text-xs flex items-center gap-1.5 shadow-sm hover:bg-primary-container transition-all"
-              >
-                <span>Send</span>
-                <Send className="w-3.5 h-3.5" />
-              </button>
-            </form>
-          </div>
+        <div>
+          <h3 className="font-bold text-sm">
+            SwasthyaSathi AI
+          </h3>
+          <span className="text-[10px] opacity-80">
+            AI Health Assistant
+          </span>
+        </div>
+      </div>
+
+      <button
+        onClick={() => setIsChatOpen(false)}
+        className="text-white/80 hover:text-white text-xl"
+        aria-label="Close chat"
+      >
+        ✕
+      </button>
+    </div>
+
+    {/* Body Part Selector */}
+    <div className="p-3 bg-surface-container-low border-b border-surface-container">
+      <span className="text-[10px] font-bold text-outline uppercase tracking-wider">
+        Target Anatomical Focus
+      </span>
+
+      <div className="flex gap-1.5 mt-2">
+        {(["head", "chest", "joints", "lumbar"] as const).map((part) => (
+          <button
+            key={part}
+            onClick={() => setSelectedBodyPart(part)}
+            className={cn(
+              "px-2.5 py-1 rounded-lg text-[11px] font-semibold capitalize transition-all",
+              selectedBodyPart === part
+                ? "bg-primary text-white shadow-xs"
+                : "bg-white text-on-surface border border-surface-container hover:bg-surface-container"
+            )}
+          >
+            {part}
+          </button>
+        ))}
+      </div>
+    </div>
+
+    {/* Chat Messages */}
+    <div className="flex-1 overflow-y-auto p-4 space-y-3">
+      {chatMessages.map((msg, idx) => (
+        <div
+          key={idx}
+          className={cn(
+            "flex flex-col max-w-[85%] rounded-xl p-3 text-xs sm:text-sm leading-relaxed",
+            msg.sender === "user"
+              ? "ml-auto bg-primary text-white rounded-br-none shadow-xs"
+              : "mr-auto bg-surface-container-low text-on-surface border border-surface-container rounded-bl-none"
+          )}
+        >
+          <span
+  suppressHydrationWarning
+  className="font-semibold text-[9px] uppercase font-mono tracking-wider opacity-70 mb-1"
+>
+            {msg.sender === "user"
+              ? "You"
+              : "SwasthyaSathi Companion"}{" "}
+            • {msg.time}
+          </span>
+
+          <p>{msg.text}</p>
+        </div>
+      ))}
+    </div>
+
+    {/* Chat Input */}
+    <form
+      onSubmit={handleSendMessage}
+      className="p-3 border-t border-surface-container flex gap-2"
+    >
+      <input
+        type="text"
+        placeholder="Ask SwasthyaSathi AI..."
+        value={inputMessage}
+        onChange={(e) => setInputMessage(e.target.value)}
+        className="flex-1 text-xs sm:text-sm px-3.5 py-2.5 rounded-xl bg-surface-container-low border border-surface-container focus:outline-none focus:ring-2 focus:ring-primary/20"
+      />
+
+      <button
+        type="submit"
+        className="px-4 py-2.5 rounded-xl bg-primary text-white font-semibold text-xs shadow-sm hover:bg-primary-container transition-all"
+      >
+        Send
+      </button>
+    </form>
+
+  </div>
+)}
 
           {/* Edge Engine & Clinician Buffer Card (4 Cols) */}
           <div className="lg:col-span-4 bg-white rounded-2xl p-6 border border-surface-container shadow-sm flex flex-col justify-between space-y-4">
