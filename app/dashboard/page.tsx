@@ -1,5 +1,5 @@
 "use client";
-
+import ReactMarkdown from "react-markdown";
 import React, { useState, useEffect, useCallback } from "react";
 import Link from "next/link";
 import { 
@@ -252,42 +252,82 @@ export default function DashboardPage() {
   };
 
   // AI Chat Submission
-  const handleSendMessage = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!inputMessage.trim() || !telemetry) return;
+ const handleSendMessage = async (e: React.FormEvent) => {
+  e.preventDefault();
 
-    const userText = inputMessage.trim();
-    const newMsg = {
-      sender: "user" as const,
-      text: userText,
-      time: "Just now",
-    };
+  if (!inputMessage.trim() || !telemetry) return;
 
-    setChatMessages((prev) => [...prev, newMsg]);
-    setInputMessage("");
+  const userText = inputMessage.trim();
 
-    setTimeout(() => {
-      let aiReply = "";
-      if (selectedBodyPart === "head") {
-        aiReply = `Current wet-bulb heat index (${telemetry.feelsLikeC}°C) and PM2.5 particulate levels (${telemetry.aqi} AQI) correlate directly with microvascular dilation and sinus irritation. Protocol: Cold towel compression to the forehead and ingest 300 mL electrolyte fluid immediately.`;
-      } else if (selectedBodyPart === "chest") {
-        aiReply = `Particulate concentration (PM2.5: ${telemetry.pm25} µg/m³, AQI: ${telemetry.aqi}) is triggering airway hyper-responsiveness. If you have asthma or cardiovascular sensitivity, retreat indoors with air filtration. If pulse exceeds 95 BPM, alert ${profile.emergencyContactName}.`;
-      } else if (selectedBodyPart === "joints") {
-        aiReply = `Barometric reading of ${telemetry.pressureHpa} hPa coupled with ${telemetry.humidityPct}% humidity induces synovial fluid pressure shifts. Gentle indoor mobility and adequate salt hydration will alleviate stiffness.`;
-      } else {
-        aiReply = `Prolonged physical activity under ${telemetry.temperatureC}°C solar radiation accelerates potassium and sodium depletion. Rest in shade for 20 minutes and consume rehydration salts.`;
-      }
-
-      setChatMessages((prev) => [
-        ...prev,
-        {
-          sender: "ai" as const,
-          text: aiReply,
-          time: "Just now",
-        },
-      ]);
-    }, 500);
+  const newMsg = {
+    sender: "user" as const,
+    text: userText,
+    time: "Just now",
   };
+
+  // Show user's message
+  setChatMessages((prev) => [...prev, newMsg]);
+
+  // Clear input
+  setInputMessage("");
+
+  // Show temporary loading message
+  setChatMessages((prev) => [
+    ...prev,
+    {
+      sender: "ai" as const,
+      text: "Thinking...",
+      time: "Just now",
+    },
+  ]);
+
+  try {
+    const response = await fetch("http://127.0.0.1:8000/ask", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        question: userText,
+      }),
+    });
+
+    if (!response.ok) {
+      throw new Error("RAG API request failed");
+    }
+
+    const data = await response.json();
+
+    // Replace "Thinking..." with the real AI answer
+    setChatMessages((prev) => {
+      const updated = [...prev];
+
+      updated[updated.length - 1] = {
+        sender: "ai" as const,
+        text: data.answer,
+        time: "Just now",
+      };
+
+      return updated;
+    });
+
+  } catch (error) {
+    console.error("RAG API error:", error);
+
+    setChatMessages((prev) => {
+      const updated = [...prev];
+
+      updated[updated.length - 1] = {
+        sender: "ai" as const,
+        text:
+          "I'm having trouble connecting to the SwasthyaSathi research system. Please try again.",
+        time: "Just now",
+      };
+
+      return updated;
+    });
+  }
+};
 
   // Visual Risk Color Mapping
   const riskColorConfig = {
@@ -966,31 +1006,7 @@ export default function DashboardPage() {
         ✕
       </button>
     </div>
-
-    {/* Body Part Selector */}
-    <div className="p-3 bg-surface-container-low border-b border-surface-container">
-      <span className="text-[10px] font-bold text-outline uppercase tracking-wider">
-        Target Anatomical Focus
-      </span>
-
-      <div className="flex gap-1.5 mt-2">
-        {(["head", "chest", "joints", "lumbar"] as const).map((part) => (
-          <button
-            key={part}
-            onClick={() => setSelectedBodyPart(part)}
-            className={cn(
-              "px-2.5 py-1 rounded-lg text-[11px] font-semibold capitalize transition-all",
-              selectedBodyPart === part
-                ? "bg-primary text-white shadow-xs"
-                : "bg-white text-on-surface border border-surface-container hover:bg-surface-container"
-            )}
-          >
-            {part}
-          </button>
-        ))}
-      </div>
-    </div>
-
+    
     {/* Chat Messages */}
     <div className="flex-1 overflow-y-auto p-4 space-y-3">
       {chatMessages.map((msg, idx) => (
@@ -1013,7 +1029,63 @@ export default function DashboardPage() {
             • {msg.time}
           </span>
 
-          <p>{msg.text}</p>
+          {msg.sender === "user" ? (
+  <p>{msg.text}</p>
+) : (
+  <div className="max-w-none">
+    <ReactMarkdown
+      components={{
+        h1: ({ children }) => (
+          <h1 className="text-base font-bold mt-3 mb-2">
+            {children}
+          </h1>
+        ),
+        h2: ({ children }) => (
+          <h2 className="text-base font-bold mt-3 mb-2">
+            {children}
+          </h2>
+        ),
+        h3: ({ children }) => (
+          <h3 className="text-sm font-bold mt-3 mb-1">
+            {children}
+          </h3>
+        ),
+        p: ({ children }) => (
+          <p className="mb-2 leading-relaxed">
+            {children}
+          </p>
+        ),
+        ul: ({ children }) => (
+          <ul className="list-disc ml-5 mb-2 space-y-1">
+            {children}
+          </ul>
+        ),
+        ol: ({ children }) => (
+          <ol className="list-decimal ml-5 mb-2 space-y-1">
+            {children}
+          </ol>
+        ),
+        li: ({ children }) => (
+          <li className="leading-relaxed">
+            {children}
+          </li>
+        ),
+        strong: ({ children }) => (
+          <strong className="font-bold">
+            {children}
+          </strong>
+        ),
+        blockquote: ({ children }) => (
+          <blockquote className="border-l-4 border-primary pl-3 my-3 italic">
+            {children}
+          </blockquote>
+        ),
+      }}
+    >
+      {msg.text}
+    </ReactMarkdown>
+  </div>
+)}
         </div>
       ))}
     </div>

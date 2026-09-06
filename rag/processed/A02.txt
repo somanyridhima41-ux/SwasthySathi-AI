@@ -1,0 +1,1934 @@
+Contents lists available atScienceDirect
+Environment International
+journal homepage: www.elsevier.com/locate/envint
+Review article
+Short-term exposure to particulate matter (PM10 and PM2.5), nitrogen
+dioxide (NO2), and ozone (O3) and all-cause and cause-specific mortality:
+Systematic review andmeta-analysis
+Pablo Orellanoa,⁎
+, Julieta Reynosob, Nancy Quarantac,d, Ariel Bardache, Agustin Ciapponie
+a Centro de Investigaciones y Transferencia San Nicolás, Universidad Tecnológica Nacional (CONICET), San Nicolás, Argentina
+b Hospital General “San Felipe”, San Nicolás, Argentina
+c Facultad Regional San Nicolás, Universidad Tecnológica Nacional, San Nicolás, Argentina
+d Comisión de Investigaciones Científicas de la Provincia de Buenos Aires, La Plata, Argentina
+e Instituto de Efectividad Clínica y Sanitaria (IECS-CONICET), Buenos Aires, Argentina
+ARTICLE INFO
+Keywords:
+Air pollutants
+Mortality
+Time series studies
+Observational study
+Systematic review
+Meta-analysis
+ABSTRACT
+Background: Air pollution is a leading cause of mortality and morbidity worldwide. Short-term exposure (from
+one hour to days) to selected air pollutants has been associated with human mortality. This systematic review
+was conducted to analyse the evidence on the effects of short-term exposure to particulate matter with aero-
+dynamic diameters less or equal than 10 and 2.5 µm (PM10, PM2.5), nitrogen dioxide (NO2), and ozone (O3), on
+all-cause mortality, and PM10 and PM2.5 on cardiovascular, respiratory, and cerebrovascular mortality.
+Methods: We included studies on human populations exposed to outdoor air pollution from any source, ex-
+cludingoccupationalexposures.Relativerisks(RRs)per10µg/m 3 increaseinairpollutantsconcentrationswere
+used as the effect estimates. Heterogeneity between studies was assessed using 80% prediction intervals. Risk of
+bias (RoB) in individual studies was analysed using a new domain-based assessment tool, developed by a
+working group convened by the World Health Organization and designed specifically to evaluate RoB within
+eligible air pollution studies included in systematic reviews. We conducted subgroup and sensitivity analyses by
+age, sex, continent, study design, single or multicity studies, time lag, and RoB. The certainty of evidence was
+assessed for each exposure-outcome combination. The protocol for this review was registered with PROSPERO
+(CRD42018087749).
+Results: We included 196 articles in quantitative analysis. All combinations of pollutants and all-cause and
+cause-specific mortality were positively associated in the main analysis, and in a wide range of sensitivity
+analyses. The only exception was NO2, but when considering a 1-hour maximum exposure. We found positive
+associations between pollutants and all-cause mortality for PM10 (RR: 1.0041; 95% CI: 1.0034–1.0049), PM2.5
+(RR: 1.0065; 95% CI: 1.0044–1.0086), NO2 (24-hour average) (RR: 1.0072; 95% CI: 1.0059–1.0085), and O3
+(RR: 1.0043; 95% CI: 1.0034–1.0052). PM10 and PM2.5 were also positively associated with cardiovascular,
+respiratory, and cerebrovascular mortality. We found some degree of heterogeneity between studies in three
+exposure-outcomecombinations,andthisheterogeneitycouldnotbeexplainedaftersubgroupanalysis.RoBwas
+low or moderate in the majority of articles. The certainty of evidence was judged as high in 10 out of 11
+combinations, and moderate in one combination.
+Conclusions: This study found evidence of a positive association between short-term exposure to PM10, PM2.5,
+NO2, and O3 and all-cause mortality, and between PM10 and PM2.5 and cardiovascular, respiratory and cere-
+brovascular mortality. These results were robust through several sensitivity analyses. In general, the level of
+evidence was high, meaning that we can be confident in the associations found in this study.
+1. Introduction
+A high proportion of ambient air pollution is generated from
+combustion processes (Goldberg et al., 2003). Particularly for the most
+studied and widespread air pollutants, i.e. particles with aerodynamic
+diameters under 10 and 2.5 µm (PM10 and PM2.5), ozone (O3), sulphur
+https://doi.org/10.1016/j.envint.2020.105876
+Received 19 December 2019; Received in revised form 1 June 2020; Accepted 3 June 2020
+⁎ Corresponding author at: Colon 332, San Nicolas, Provincia de Buenos Aires, ZIP 2900, Argentina.
+E-mail address:porellano@frsn.utn.edu.ar (P. Orellano).
+Environment International 142 (2020) 105876
+Available online 23 June 2020
+0160-4120/ © 2020 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+T
+
+dioxide (SO2), nitrogen dioxide (NO2), and carbon monoxide (CO), air
+quality standards including safe thresholds have been established (Suh
+et al., 2000).
+Air pollution has a widely recognized impact on human health, and
+there is a broad body of evidence that relates the exposure to air pol-
+lution and a wide range of adverse effects (WHO Regional Office for
+Europe, 2013). Short- and long-term exposure to ambient air pollution
+contributes to disease burden through an increase in mortality risk,
+years of life lost, and years lived with disability (Ostro et al., 2018).
+According to the Global Burden of Disease (GBD) study estimates,
+around 4.2 million total deaths were directly attributable to particulate
+matter smaller than 2.5 µm (PM2.5) ambient air pollution in 2015
+(Cohen et al., 2017). Evidence of the effects of the short-term exposure
+(from one hour to days) to air pollutants are conclusive for all-cause,
+respiratory, and cardiovascular mortality, and also for hospital admis-
+sions or emergency department visits (WHO|Air quality guidelines -
+globalupdate2005,”2018).Anumberofrecentsystematicreviewsand
+meta-analyses have demonstrated the effect of PM (Atkinson et al.,
+2015, 2014; Bell et al., 2013; Shah et al., 2015), NO2, NOx (Newell
+et al., 2018; Shah et al., 2013), and O3 (Bell et al., 2014) on all-cause
+and cause-specific mortality. In general, time-series studies have been
+useful to provide substantial information to derive ambient air quality
+guidelines and standards for acute exposure (Goldberg et al., 2003). In
+fact, this evidence is in consonance with the air quality guidelines
+(AQGs) published by the World Health Organization (WHO), a primary
+reference for air pollution standards worldwide (Landrigan et al.,
+2018). These are useful documents accessible to health professionals
+and decision makers, which provide recommendations for key air pol-
+lutants, based on global synthesis of scientific evidence. However, nu-
+merous recent studies have been published that analyse associations
+betweenpollutantsandoutcomesintheshort-term,andtheexactshape
+of the concentration–response functions (CRFs) is unknown or in-
+sufficientlydefinedformanypollutantsandoutcomes(Landriganetal.,
+2018).
+As new scientific evidence is generated, AQGs need to be periodi-
+cally revised and, where necessary, updated. As a result of the vast
+amount of evidence published in recent years, especially on the lower
+and upper bounds of the air pollution exposure distribution, WHO has
+convened a Guideline Development Group to revise the last version of
+the guidelines published in 2006.
+Our systematic review was commissioned by the WHO in order to
+generateevidencetosupportthe newupdateof theAQGs,withtheaim
+of providing updated evidence-based numerical concentration levels
+(i.e. guidelines) and, where possible, an indication of the shape of the
+CRFs for a number of ambient air pollutants, for relevant averaging
+times (i.e. long- and short-term exposure duration) and in relation to
+critical health outcomes. In particular, the objective of this systematic
+review andmeta-analysis was to synthetize the worldwide evidence on
+the effects of short-term exposure to PM (PM2.5 and PM10), NO2, and
+O3, on all-cause and/or cause-specific mortality, including cardiovas-
+cular, respiratory, and cerebrovascular mortality. We aimed to fill the
+gap in the knowledge in this field, as previous studies were focused on
+specificairpollutantsoroutcomes,publicationdatesvaried,orsearches
+were more restricted. Based on previous evidence, the exposure-out-
+come combinations that were analysed included PM, NO2, and O3 – all-
+cause mortality, and PM – cardiovascular, respiratory and cere-
+brovascular mortality. SO2 was not included in this study, as this pol-
+lutant was specifically addressed in a different systematic review. This
+systematicreviewwasguidedbytherequirementsoutlinedintheWHO
+Handbook for Guideline Development, 2nd edition (WHO Handbook
+for Guideline Development – 2nd Edition, 2014).
+2. Methods
+2.1. Protocol, registration, and reporting standards
+The protocol for this study was registered with PROSPERO (http://
+www.crd.york.ac.uk/PROSPERO/) under registration number
+CRD42018087749, before the formal screening of search results
+(Supplementary File S.1). The reporting complied with the Preferred
+Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)
+standards(Moheretal.,2009),withslightadaptations,sincethesewere
+originally intended for health care intervention evaluation. The
+PRISMA checklist for this study can be seen in Table A.1 (Appendix).
+2.2. Research question
+AsummaryofthePopulation,Exposure,Comparator,andOutcomes
+(PECO) question (Morgan et al., 2018) is presented below:
+P: Among human population, what is the effect of
+E:Short-termexposuretoambientairpollutants(PM 10,PM2.5,NO2,
+O3) versus
+C:Exposuretolowerlevelsofairpollution(differenceof10µg/m3)
+on
+O: All-cause, cardiovascular, respiratory, and cerebrovascular mor-
+tality.
+2.3. Eligibility criteria
+Our study population consisted of general human population, in-
+cluding subgroups at risk, i.e. children, pregnant women, the elderly,
+and patients with particular conditions, of all ages, developed and de-
+veloping areas, both urban and rural settings. We have not imposed
+geographical restrictions.
+We considered only short-term exposures, defined in the order of
+onehourto7days(Shahetal.,2013),toambientairPM 10,PM2.5,NO2,
+and O3, from anysource, expressed in aconcentration unit (e.g. µg/m3,
+ppb). Articles evaluating NOx were also included in the calculations,
+using a factor of 0.44 for the conversion from NOx to NO2 (Anderson
+et al., 2013). The exposure to the pollutant of interest had to be via
+inhalation through outdoor ambient air predominantly. For PM10 and
+PM2.5, daily (24-hour) averages were considered, while 8-hour or 24-
+hour maximum concentrations were included together for O3. In the
+case of NO2, two separate analyses were performed, one for 24-hour
+average, and one for daily 1-hour maximum. The comparison was with
+the same population exposed to a lower level of air pollutants, con-
+sidering a given difference in a standardized concentration (10 µg/m3).
+The outcomes were classified using the International Statistical
+Classification of Diseases and Related Health Problems (ICD), and en-
+compassed all-cause natural mortality (ICD-10: A00 to R99), cause-
+specific mortality including cardio (ICD-10: I01 to I59) and cere-
+brovascular(ICD-10:I60toI69),andrespiratorymortality(ICD-10:J00
+to J99) (WHO|International Classification of Diseases (ICD)
+Information Sheet,” n.d.). We defined an exposure-outcome combina-
+tion as a pair comprising one of the pollutants selected, and one of the
+outcomes. Based on previous evidence, the exposure-outcome combi-
+nations that were analysed included PM, NO2, and O3 – all-cause
+mortality, and PM – cardiovascular, respiratory, and cerebrovascular
+mortality.
+As for study designs, we included human epidemiological studies,
+i.e. ecological time-series (ETS), case-crossover (CCO), cohort, and
+panelstudies;systematicreviewsoftheabovestudieswereusedtoscan
+forreferences.Aglossaryofdefinitionsusedinthisstudycanbeseenin
+P. Orellano, et al. Environment International 142 (2020) 105876
+2
+
+Table A.2 (Appendix). Studies were excluded if they evaluated the ex-
+posure in occupational settings, or as a result of indoor exposure ex-
+clusively; qualitative studies, reviews, methodological papers, and non-
+human studies (i.e. in vivo, in vitro), were also excluded. These ex-
+clusions were made at the title-abstract screening stage. Other reasons
+for exclusions were in the case of studies with partial or complete
+geographical and temporal overlap verified duringmeta-analysis, in
+order to avoid double-counting participants (Shah et al., 2015). In case
+oftotalorpartialoverlappingdata,thearticleforinclusionwasselected
+according to the following criteria: 1) wider geographical distribution;
+2) longer duration of the study period; 3) more recent publishing date.
+Whenmultiplereportsofthesamestudyweredetected,allarticleswere
+includedinafirststage,andpreviouslymentionedcriteriawereusedto
+prevent double-counting. After the selection of the more informative
+article, the rest of the articles were excluded from the analysis. Re-
+gardinglagtimes,whenmultiplelag-estimateswerereportedinpapers,
+the framework proposed by Atkinson et al. (Atkinson et al., 2014) was
+followed: if only one lag estimate for a given pollutant/outcome pair is
+reported, it was included in the analysis. If multiple lag-estimates were
+reported,theselectionalgorithmwas:1)themostfrequentlyusedlagin
+all selected studies (0 and 1 days in this systematic review); 2) single
+lags, but not cumulative/distributed lags.
+2.4. Studies search and selection
+Studies were searched comprehensively in the following biblio-
+graphicdatabasesandcitationindexes:MedicalLiteratureAnalysisand
+Retrieval System Online (MEDLINE) via PubMed, and Scopus via
+Elsevier. Moreover, regional databases in English and other languages
+as Literatura Latinoamericana y del Caribe en Ciencias de la Salud
+(LILACS), Western Pacific Region Index Medicus (WPRIM), Index
+Medicus for South-East Asia Region (IMSEAR), Index Medicus for the
+Eastern Mediterranean Region (IMEMR), and African Index Medicus
+(AIM) were searched to retrieve additional articles and grey literature.
+WHO Regional Databases are open access resources that comprises
+journal indexes of locally produced information, especially some de-
+veloping country health journals and other reports, and complement
+the internationally known bibliographic databases. References of
+identified relevant articles were scanned to identify additional reports
+matching the research question.
+Data search included studies from January 1990 up to November
+2017.WeperformedanupdateofthedatasearchinSeptember2018,in
+order to incorporate relevant studies that might have been published
+shortly before the finalization of the review.
+We developed a literature search strategy for each database, using
+free text and medical subject headings (MeSH) terms, and considering
+all the eligibility criteria. An example of the search strategy applied to
+PubMed can be seen in Table A.3 (Appendix). In addition, a manual
+search in reference lists from other systematic reviews was performed
+to find additional relevant studies. The strategy was developed by PO,
+with input from the systematic review team, and reviewed by JR and
+NQ.
+PO and JR independently screened titles and abstracts, and poten-
+tially eligible studies were assessed again by the same reviewers based
+on the full-text, to ensure that those met all the eligibility criteria. Any
+disagreement on inclusion was resolved by discussion and, if no con-
+sensus was reached, a third reviewer (NQ) was consulted. Reasons for
+excluding articles at this stage were recorded, and registered in an
+electronic extraction form developed in Microsoft Excel®. When the
+samestudypopulationwasusedinseveralpublications,onlythelargest
+and the most complete study (i.e. multicity studies, or studies with
+wider temporal or geographical coverage) was included. In all cases,
+multicitystudieswerepreferredoversingle-citystudies.Whenfull-texts
+werenotavailable,theoriginalauthorswerecontactedviaemail,using
+the author information section. If no response from the author was
+received, the article was excluded from the analysis.
+2.5. Data extraction and process
+Data from selected studies was extracted by one reviewer and
+checked by a second. The data was then transferred to electronic ex-
+traction forms developed in Microsoft Excel®. The bibliography was
+managed using the software Zotero (Ahmed and Al Dhubaib, 2011).
+Extracted data included study details, exposures, outcomes, and data
+analysis. Association measures were relative risks (RRs), odds ratios
+(ORs), and percentage excess (increment) or change in mortality (Perc-
+Incr). The data on pollutants concentrations included the mean or
+median, standard deviation (SD), range, interquartile range (IQR), and
+percentiles.Duetotherelevanceofthe5thpercentileasaproxyforthe
+lowest level of exposure in a given study, these values were registered,
+when available. If a given study did not report the 5th percentile, but
+the SD or the 10th percentile were available, we estimated the 5th
+percentile using a normal approximation. If only the range was avail-
+able, we estimated the SD as the range divided by four (Hozo et al.,
+2005).
+All included articles contributed with at least one effect size (i.e.
+RR) to each exposure-outcome combinations for the main or the sub-
+groupanalyses.Insomecases,onearticlecontributedwithtwoormore
+effectsizestothesamecombination;forexample,onestudymighthave
+reported independent results from different cities, or from rural and
+urbansettings.Inthesesituations,thenumberofeffectsizescouldhave
+been higher than the number of articles, for a given exposure-outcome
+combination. Moreover, one article might have contributed with evi-
+dence for two or more exposure-outcome combinations. These defini-
+tions can be seen in Table A.2 (Appendix).
+2.6. Risk of bias
+Theriskofbias(RoB)assessmentofincludedstudieswasconducted
+using a new domain-based RoB assessment tool, developed by a group
+ofexpertsconvenedbythe WHO.Adetaileddescriptionofthistoolcan
+be seen in the WHO website (Risk of bias assessment instrument for
+systematicreviewsinformingWHOglobalairqualityguidelines,2020).
+The instrument allows rating sections according to 13 items grouped in
+sixdomains:confounding,selectionbias,exposureassessment,outcome
+measurement, missing data, and selective reporting (Morgan et al.,
+2019). Each item can be judged as having low, moderate, or high RoB.
+For the item of potential confounders that were accounted for in the
+analysis, four critical confounders (temperature, seasonality, day-of-
+the-week, long-term trends) and two additional confounders (holidays,
+influenza epidemics) were considered. If all these confounders were
+included,theitemwasclassifiedashavinglowRoB;ifoneortwoofthe
+additional confounders were not included, but the four critical con-
+founderswereincorporated,theitemwasclassifiedashavingmoderate
+RoB; otherwise, a high RoB rating was assigned. Touloumi and collea-
+gues have demonstrated that for cardiovascular diseases, the estimates
+of models that fail in the inclusion of influenza epidemics as a con-
+founderareconsistentwithmodelsthatincludethisfactor,andthuswe
+considered this potential confounder as not critical, i.e. the absence of
+that confounder led to moderate RoB (Touloumi et al., 2005). The re-
+sults for each domain were analysed separately, without considering a
+single result for the whole article/dataset. If only one item of the same
+domain was judged as having high RoB, the entire domain was classi-
+fied as having high RoB. The same logic was applied to moderate vs.
+low RoB. In the same article, judgments regarding the RoB were as-
+sessed separately for each exposure-outcome combination. The assess-
+ment of RoB across studies was performed as one of the sensitivity
+analyses, as will be detailed later.
+2.7. Data synthesis and analysis
+We used RRs as the common association measure in pooled ana-
+lyses. Meta-analyses input data were RRs for a standardized increment
+P. Orellano, et al. Environment International 142 (2020) 105876
+3
+
+in pollutant concentration (10 µg/m3), assuming a linear exposure-
+outcome relationship (Shah et al., 2013), and taking into account the
+original increment of the pollutant, as for the following equation:
+=RR estandardized RR original Increment original( ) Ln( ( ))x10/ ( )
+The effects expressed as interquartile (or quintile, or percentile
+differences) were converted into effects per concentration unit increase
+with the previous equation. When ORs were reported in a study, they
+were supposed to approach the RRs, under the “rare disease assump-
+tion” (Greenland and Thomas, 1982; Knol et al., 2008; Pace and
+Multani, 2018), given the fact that a cumulative incidence of the out-
+come lower than 10% was demonstrated or assumed in all articles for
+all-cause and cause-specific mortality. Effects expressed as Perc-Incr
+were also recalculated to reflect a RR for a concentration unit increase
+in the pollutant, assuming a linear relationship, according to the fol-
+lowing equation:
+RR =
++ 1Perc Incr
+100
+For the summary measure (pooled RRs), a random-effects (RE)
+model was employed, assuming that the included studies were a
+random selection of all possible results. The DerSimonian-Laird esti-
+mator was used for the pooled RRs (DerSimonian and Laird, 1986), a
+straightforward method that allows the incorporation of heterogeneity
+in the analysis. When the pooled effect size was calculated from 20 or
+less effect sizes, the Hartung and Knapp adjustment was employed
+(Hartung and Knapp, 2001).
+Heterogeneity between studies was assessed using 80% prediction
+intervals(PI),thisparameterusedtoestimatethe80%intervalinwhich
+the true RR in a new air pollution study will lie (Chiolero et al., 2012).
+We have chosen not to measure heterogeneity using the I2 parameter,
+because this statistic is a relative measure, and it is difficult to make a
+judgement about the absolute amount of heterogeneity. Further, the
+main problem with the I2 parameter isthat itcan be artificiallyinflated
+when increasing the sample size (number of included studies), or when
+increasing the precision of the estimates from primary studies (Rücker
+et al., 2008). On the contrary, the use of the PI has been strongly ad-
+vocated in the literature (Borenstein, 2019; Borenstein et al., 2011), as
+it provides an estimate of the distribution of the true effect sizes. This
+parameter shows whether the effect is consistent, or if it varies sub-
+stantially; it also shows if the effect is harmful in all populations, or if
+there is no effect in some populations. The rule was that when the PI
+included the null effect (IntHout et al., 2016), some degree of hetero-
+geneitywassuspected.Inthissituation,anattemptwasmadetoexplain
+the source of heterogeneity by subgroup analyses, using readily avail-
+able study information (age group, sex, and geographical area). Sub-
+groups were statistically compared using the χ2 test. Chosen subgroups
+wereassumedtoexplaintheheterogeneityifstatisticaldifferenceswere
+foundbetweensubgroupeffectsizes.Severeheterogeneitywasassumed
+when PI included the null effect, and at the same time this 80% PI was
+larger than the 95% CI by a factor of two.
+Sensitivity analysis was carried out in order to assess the extent to
+which model assumptions could have influenced the association mea-
+sures. This assessment included six analyses, i.e. the inclusion of effect
+sizes that considered only lags of 0, 1 and 0–1 days, an analysis by
+epidemiological study design (e.g. ETS, CCO), an analysis excluding
+papers with declared conflicts of interest (CoI), an analysis comparing
+articlesshowinghighRoBinsomeofthe6domainsversusarticleswith
+low or moderate RoB, and an analysis comparing multicity versus
+single-city studies. This last analysis was not previously reported in the
+protocol. The sixth sensitivity analysis was the evaluation of potential
+unmeasured confounders through the calculation of the E-value
+(VanderWeele and Ding, 2017). This type of sensitivity analysis con-
+siders a potential unmeasured confounder, which is associated with the
+exposure and with the disease. The E-value is the minimum strength of
+association, measured as RR, that an unmeasured confounder would
+need to have with both the exposure and the outcome, conditional on
+the measured covariates, to fully explain away a specific ex-
+posure–outcomeassociation.It takesintoaccountthe associationofthe
+unmeasured confounder with the exposure (RREU) and with the disease
+(RRUD). We have chosen temperature as an example of unmeasured
+confounder, and focused on the association between temperature and
+mortality (RRU). We selected RRU values of temperature for each spe-
+cific mortality cause from a systematic review on temperature and
+mortality as reported in the review bySong and colleagues(Song et al.,
+2017). In order to be conservatives, the higher values of different
+central estimates reported in that paper were selected. Then a com-
+parisonwasmadebetweenthe RR U andtheRRscalculatedbymeansof
+meta-analysisinthisstudy(RR observed),butconsideringawiderrangeof
+pollutants increase (50 µg/m3). The E-value was then calculated using
+the following equation:
+= + ×E value RR RR RR ( 1)observed observed observed
+For each exposure-outcome combination, the rule was that when
+the RRU was higher than the lower confidence limit of the E-value,
+comparatively weaker confounder associations could explain away the
+observed association, i.e. the presence of unmeasured confounders is
+plausible.
+The potential for publication bias was assessed through two
+methods. First, the visual examination of funnel plots asymmetry
+(Sterneetal.,2011).Second,anumericalevaluationofthepotentialfor
+publication bias was performed by means of the Egger’s regression test
+(Egger et al., 1997).
+The shape of the CRFs was analysed for each exposure-outcome
+combination, to assess the suitability of linear assumptions regarding
+the RRs calculations, and the possibility of thresholds occurrence. The
+CRF can be displayed as a graph that shows the relationship between
+levelsofadversehealthresponsesinexposedpopulations(verticalaxis)
+and levels of ambient concentrations of a pollutant (horizontal axis),
+and is widely used to predict the public health impacts of proposed
+reductions in air pollutants (Cox, 2017).
+The interaction between pollutants was analysed by means of the
+inclusion of co-pollutant models, considering only studies that ad-
+dressed the effect of the main pollutant controlled by the inclusion of
+one or more co-pollutants in the regression model.
+Allanalyses andgraphics wereperformed usingthe “meta” package
+(version 4.9–2) (Schwarzer et al., 2015) in the statistical software R,
+version 3.4.4 (https://www.r-project.org/) (Albert and Rizzo, 2012).
+The script used for the analysis can be seen inSupplementary File S.2.
+Only one example for each exposure-outcome combination analysis is
+presented in the script, as the same structure can be replicated with
+slight modifications to cover the rest of the combinations.
+2.8. Certainty of evidence across studies
+The certainty of evidence (CoE) for each exposure-outcome com-
+bination was judged using an adaptation of the Grading of
+Recommendations Assessment, Development and Evaluation (GRADE)
+approach (Balshem et al., 2011; Guyatt et al., 2011; Morgan et al.,
+2016), developed by a group of experts convened by the WHO. The
+approach is briefly described here, and its full version can be seen in
+Supplementary File S.3. The CoE was assessed across five domains:
+limitations in studies, indirectness, inconsistency, imprecision, and
+publication bias. In short, the procedure was as follows: an evidence
+related to an exposure-outcome combination based on a number of
+articles was initially judged as being of moderate CoE, and then was
+potentiallydowngradingaccordingtothesefivedomains.Theapproach
+implies that there is always a risk of unmeasured confounding in ob-
+servational studies. Therefore, it starts at moderate certainty. After this
+first analysis, three other domains were evaluated, allowing the possi-
+bility of upgrading the CoE. These additional domains were the large
+magnitude of the effect, the occurrence of all possible confounding
+P. Orellano, et al. Environment International 142 (2020) 105876
+4
+
+factors shifting towards the null effect, and the evidence of a con-
+centration–response gradient (equivalent to CRFs). After applying this
+tool, the overall certainty was rated as: high, meaning that further re-
+search is very unlikely to change the confidence in the estimate of the
+effect; moderate, meaning that further research is likely to have an
+important impact on the confidence in the estimate of the effect; low,
+meaning that further research is very likely to have an important im-
+pact on the confidence in the estimate of the effect; or very low,
+meaningthattheestimateoftheeffectisveryuncertain.Somedomains
+of this tool were evaluated using results of the RoB, heterogeneity,
+sensitivity, and publication bias analyses, which were previously de-
+scribed in the methodology.
+Limitations in studies: the level of evidence was downgraded if there
+were statistical differences between studies showing high versus mod-
+erate or low RoB in the sensitivity analysis. However, we also analysed
+the number of studiesandtheimpactthey hadin themeta-analysis.For
+example, the presence of small studies with high RoB but limited in-
+fluence on the meta-analysis was not a reason to downgrade. If the
+sensitivity analysis for RoB showed a considerable influence on the
+pooled effect-size, the conclusions were based on the high-quality stu-
+diesonly,andtheevidencewasnotdowngraded.Thiswasajudgement
+and there were no clear pre-set cut-off points.
+Indirectness: the evidence was not downgraded based on this do-
+main, as the research question in the included studies always reflected
+the original question.
+Inconsistency: the evidence was downgraded if severe heterogeneity
+was detected, i.e. the PI included unity and was more than twice the
+random effectsmeta-analysis confidence interval.
+Imprecision: the evidence was downgraded if the number of mor-
+tality cases used when calculating the pooled effect size was below
+100,000. This number is lower than the value proposed in the adapted
+GRADE approach (Supplementary File S.3), because that value was
+computed for rate ratios in long-term studies. We have decided to use
+our own cut-off point for short-term studies, using data from selected
+multi-city studies (Chiusolo et al., 2011; Taneepanichskul et al., 2018;
+Ueda et al., 2009), in which significant positive effect sizes were found
+considering approximately 100,000 events (deaths) or less. The idea
+behind this reasoning is that if the number of events is sufficient for a
+given study to derive significant effect sizes, the same number will be
+adequate formeta-analysis.
+Publication bias: the evidence was downgraded if publication bias
+was detected by visual inspection of the funnel plot or through the
+Egger’stest.However,ifanalysescomparingmulticityversussingle-city
+studies did not show statistical differences, publication bias was dis-
+missed, and the evidence was not downgraded.
+Large effect size: unmeasured confounders and the results of the E-
+value were used, i.e. when the RRU between air temperature and
+mortalitywashigherthanthelowerconfidencelimitoftheE-value(the
+Records identified through 
+database search 
+(n = 2,412)
+Additional records identified 
+through other sources 
+(n = 54)
+Total records retrieved 
+  (n = 2,466) 
+Records screened 
+(n = 1,632) 
+Records excluded 
+(n = 1,232) 
+Full-text articles assessed for 
+eligibility 
+(n = 400)
+Full-text articles 
+excluded 
+(n = 204) 
+Data overlap (n = 112) 
+Not found (n = 25) 
+Duplicate (n = 15) 
+Other (n = 52)* 
+* See text (results). 
+Studies included in 
+qualitative/quantitative review 
+(meta-analysis) 
+(n = 196) 
+Screening Included Eligibility Identification 
+Duplicate records 
+removed 
+(n = 834) 
+Fig. 1.Flowchart of assessment of eligible studies.
+P. Orellano, et al. Environment International 142 (2020) 105876
+5
+
+presenceofunmeasuredconfoundersisplausible),theevidencewasnot
+upgraded. Otherwise, the evidence was upgraded.
+Confounding domain: the evidence was not upgraded using this do-
+main, as several potential confounders could shift the RR in both di-
+rections.
+Concentration- response gradient domain: the evidence was upgraded
+when estimations of CRFs were statistically significant, and thus a po-
+sitive linear or nonlinear association can be assumed.
+3. Results
+3.1. Studies included
+Databasesearchesretrieved2,412studies,and54additionalarticles
+that we identifiedthrough reference lists of selected systematic reviews
+(Achilleos et al., 2017; Atkinson et al., 2014; Bell et al., 2014, 2013;
+DeVries et al., 2017; Fajersztajn et al., 2017; Li et al., 2016; Lu et al.,
+2015a; Mills et al., 2015; Newell et al., 2017; Shang et al., 2013; Wang
+et al., 2014; Zhang et al., 2018). After removing duplicates, 1,632 re-
+cordswerescreenedbytitleandabstract,and400articleswereselected
+for full-text eligibility assessment. Finally, we included 196 articles in
+quantitative analysis, showing at least one specific combination of ex-
+posure, outcome, age-group and sex (Fig. 1). These 196 articles re-
+presented 796 effect sizes. From the 54 additional articles found in
+selected systematic reviews, only 15 were effectively incorporated in
+this quantitative analysis, in general due to duplicate data or analysis,
+to overlapping with more recent articles, or to differences in the se-
+lected exposures or outcomes.
+Extracted information from included articles can be seen in
+Supplementary File S.4. These articles comprised a period of publica-
+tion of 27 years, between 1992 and 2019. The mean duration of the
+studies was 5.76 years (SD: 4.38, range: 1–31). The majority of studies
+were carried out in Asia (73), Europe (69), and America (45). Other
+continentswerelessrepresented,forexampleOceania(5),orAfrica(1),
+while 3 studies comprised more than one continent. Among selected
+articles, 62 reported results of multicenter collaborative studies, e.g.
+APHEA, APHENA, EpiAir, EMECAM, ESCALA, MED-PARTICLES,
+NMMAPS, PAPA. The most frequently used study designs were ETS
+studies (1 4 3), followed by CCO (47) and cohort (6) studies. However,
+the few studies evaluating a cohort of patients were, in all cases, ana-
+lysedusingcommonmethodsfromETSorCCOdesigns,i.e.generalized
+additive models (GAMs) and conditional logistic regression (CLR).
+There were no studies self-defined as panel studies. Almost all studies
+considered mortality in general populations (1 8 9); conversely, 7 stu-
+dies estimated the influence of air pollution on mortality in specific
+populations, i.e. persons with cardiovascular diseases, congestive heart
+failure, hypertension, chronic obstructive pulmonary disease (COPD),
+or asthma. Some studies reported more than one effect size per ex-
+posure-outcomecombination, for the samesexandage groups. In these
+cases, different effect sizes represented separate areas (e.g. rural vs.
+urban settings), cities, or countries, and were taken as independent
+samples in themeta-analysis.
+Regarding individual characteristics of cases considered in the ex-
+posure-outcome combinations, 550 effect sizes were retrieved for all-
+ages or adults,207 for elderly people, and 38 for children or newborns.
+Only 183 effect sizes were sex-specific, while 612 effect sizes con-
+sidered both sexes. All combinations of selected pollutants and out-
+comes were well represented, with 7 or more effect sizes (range: 7–66
+effect sizes). Conversely, in the full-text selection stage, 204 articles
+wereexcludedduetodifferentreasons,i.e.totalorpartialgeographical
+or temporal data overlap (1 1 2), full-text articles not found (25), du-
+plicate data or analysis (15), differences in the applied methodology
+(e.g. multiple Pearson correlation, principal component analysis, in-
+strumental variable models) (13), pollutants or exposures other than
+selected (11), lack of data on pollutant’s increase (6), a different asso-
+ciation measure or analytic model (5), lack of reporting on error terms
+(5), long-term exposure only (4), incomplete data (4), not a paper or
+scientific publication (2), and only protocol presented (2)
+(Supplementary File S.5). Regarding exclusions due to overlapping, in
+all casesmulticity studieswerereplacedbyother multicitystudieswith
+wider geographical or temporal coverage (SeeSupplementary File S.6
+for details on replacements due to overlap between multicity studies).
+The mean/median concentration of pollutants ranged from 14.0 to
+245.0 µg/m3 (PM10), from 5.7 to 176.7 µg/m3 (PM2.5), from 18.4 to
+99.2 µg/m3 (NO2 24-hour average), from 40.0 to 161.2 µg/m3 (NO2 1-
+hour max.), and from 15.2 to 206.0 µg/m3 (O3). Fifth (5th) percentiles
+reported in the articles or estimated in this study ranged from 0.0 to
+221.0 µg/m3 (PM10), from 0.0 to 26.15 µg/m3 (PM2.5), from 0.0 to
+63.8 µg/m3 (NO2 24-hour average), from 0.0 to 65.8 µg/m3 (NO2 1-
+hour max.), and from 0.0 to 93.1 µg/m3 (O3). All these data regarding
+included studies can be seen inSupplementary File S.4.
+3.2. Risk of bias
+In three out of 6 domains, the RoB was found to be only low or
+moderate.Thesedomainswereselectionbias,exposureassessment,and
+selective responding. For example, in the selective responding domain,
+21% (77) of the exposure-outcome combinations (31 articles) were
+classifiedasmoderateRoBbecausetheyreportedasubsetorre-analysis
+of data that was already published in a previous article, or because
+reported results are preliminary analyses (in both cases, regardless of
+being non-overlapping data). In the other three domains, a variable
+proportion of articles were found to have high RoB. The domain with a
+higher proportion of high RoB was missing data (59% of exposure-
+outcome combinations presenting high RoB), while confounding and
+outcome measurement showed low proportions of high RoB (7% and
+2% of exposure-outcome combinations with high RoB, respectively).
+ThereasonsforthehighRoBinthemissingdatadomainwererelatedto
+the lack of information on the number of missing values in the ex-
+posure,ortotheabsenceofinformationregardingimputationmethods.
+The same judgment was applied when the number of missing data was
+higher than 5%. A summary of the results of the RoB analysis can be
+seen inFig. 2. The description of the RoB analysis per item and domain
+in individual studies, together with the rationale to justify each judg-
+ment, are presented inSupplementary File S.7.
+3.3. Meta-analysis
+The detailed results regarding pooled effect sizes (RRs) for a 10 µg/
+m3 increase in pollutants, p-values, heterogeneity, and funnel plot
+asymmetry can be seen inTable 1. We found positive associations be-
+tween pollutants andall-cause mortality for PM10 (RR: 1.0041;95% CI:
+1.0034–1.0049),PM2.5 (RR:1.0065;95%CI:1.0044–1.0086),NO 2 (24-
+hour average) (RR: 1.0072; 95% CI: 1.0059–1.0085), and O3 (RR:
+1.0043; 95% CI: 1.0034–1.0052). On the contrary, the association was
+non-significant for NO 2 (1-hour max.) (RR: 1.0024; 95% CI:
+0.9995–1.0053). PM10 and PM2.5 were also positively associated with
+cardiovascular, respiratory, and cerebrovascular mortality (Table 1).
+The forest plots for these analyses are shown in Figs. A.1 to A.11 (Ap-
+pendix).
+In the majority of the exposure-outcome combinations, the 80% PIs
+excluded the null effect; this means that the heterogeneity between
+studies was not substantial. All these values can be seen inTable 1.
+Conversely, in the associations between PM2.5 and respiratory or cere-
+brovascular mortality, and between NO2 (1-hour max.) and all-cause
+mortality, the 80% PIs included the null effect. This suggests hetero-
+geneityto someextent,sufficienttofindsomepopulationsinwhichthe
+effects of these pollutants on the outcome could be null. The three ex-
+posure-outcome combinations that displayed some degree of hetero-
+geneity between studies in the main analysis did not show statistical
+differencesbetweensubgroupsinthesubgroupanalysisbyage,sex,and
+continent. In this sense, heterogeneity couldnot be explained by means
+P. Orellano, et al. Environment International 142 (2020) 105876
+6
+
+of differences in subpopulations, at least in the subgroups that were
+consideredinthisreview.Theresultsofthesesubgroupanalysescanbe
+seen in Table A.4 (Appendix).
+The visual inspection of funnel plots gave, in the majority of cases,
+subtle to pronounced indication of asymmetry for PM10, with the ex-
+ception of the combination PM10 - respiratory mortality. In the case of
+PM2.5, the asymmetry in the funnel plot was only evident for all-cause
+mortality. We also found evidence of asymmetric funnel plots for O3
+and NO2 (24-hour average). All these results were confirmed by the
+Egger’s test (Table 1), when this test could be performed (exposure-
+outcome combinations with 10 or more effect sizes). Funnel plots for
+exposure-outcome combinations with 10 or more effect sizes can be
+seen inFig. 3.
+The sensitivity analysis by lag showed positive associations in the
+sameexposure-outcomecombinationsasinthemainanalysis,withtwo
+exceptions, i.e. PM2.5 and cerebrovascular mortality, and NO2 (1-hour
+max.) and all-cause mortality (Table A.5 of the Appendix). The same
+occurred with the analysis by study design for ETS (Table A.6 of the
+Appendix), but not for CCO (Table A.7 of the Appendix), probably due
+to the small number of studies. This design also showed in general
+higher values of heterogeneity. When considering only multicity stu-
+dies, the associations were positive in the same exposure-outcome
+combinations as in the main analysis, with the exception of two (PM10
+and PM2.5 with cerebrovascular mortality), probably due to the small
+number of effect sizes (Table A.8 of the Appendix). NO2 (1-hour max.)
+was not analysed because the number of studies was too small.
+Differences between multicity and single-city studies were observed in
+only one exposure-outcome combination (PM10 – respiratory mor-
+tality).IntheanalysisusingonlystudieswithlowormoderateRoB,the
+results were similar to the main analysis (Table A.9 of the Appendix).
+Still, statistical differences between studies with low/moderate versus
+high RoB were found in the combinations PM2.5 – all-cause mortality,
+PM2.5 – cerebrovascular mortality, and NO2 (24-hour average) – all-
+cause mortality. The analysis by declared CoI was not performed, as
+only one of the included papers declared potential conflicts.
+E-values with 95% CIs and RRUs can be seen in (Table A.10 of the
+Fig. 2.Summary of the RoB assessment.
+Table 1
+Exposures, outcomes and pooled effect sizes.
+Pollutant Outcome Number of effect sizes RR
+(95% CI)
+p-value PI Egger's test
+(p-value)
+PM10 All-cause mortality 66 1.0041
+(1.0034–1.0049)
+<0.0001 1.0013–1.0070 <0.001
+PM10 Cardiovascular mortality 44 1.0060
+(1.0044–1.0077)
+<0.0001 1.0016–1.0105 0.024
+PM10 Respiratory mortality 41 1.0091
+(1.0063–1.0119)
+<0.0001 1.0017–1.0166 0.209
+PM10 Cerebrovascular mortality 20 1.0044
+(1.0022–1.0066)
+0.0005 1.0001–1.0087 <0.001
+PM2.5 All-cause mortality 29 1.0065
+(1.0044–1.0086)
+<0.0001 1.0017–1.0114 0.015
+PM2.5 Cardiovascular mortality 28 1.0092
+(1.0061–1.0123)
+<0.0001 1.0026–1.0158 0.803
+PM2.5 Respiratory mortality 20 1.0073
+(1.0029–1.0116)
+0.0023 0.9998–1.0148 0.606
+PM2.5 Cerebrovascular mortality 7 1.0072
+(1.0012–1.0132)
+0.0257 0.9953–1.0192 N/A
+NO2 (24-hour average) All-cause mortality 54 1.0072
+(1.0059–1.0085)
+<0.0001 1.0031–1.0113 0.048
+NO2 (1-hour max.) All-cause mortality 10 1.0024
+(0.9995–1.0053)
+0.0892 0.9985–1.0064 0.154
+O3 All-cause mortality 48 1.0043
+(1.0034–1.0052)
+<0.0001 1.0013–1.0073 0.001
+RR,pooledrelativerisks;95%CI,95%confidenceinterval;p-value,significanceoftheassociationorstatisticaltests;PI,80%predictioninterval;N/A,notapplicable
+(<10 studies).
+P. Orellano, et al. Environment International 142 (2020) 105876
+7
+
+Appendix). In all exposure-outcome combinations except two, the RRUs
+were below the lower limit of the E-value, meaning that unmeasured
+confounders are not supposed to have a major influence on the asso-
+ciation. The exceptions were the combinations PM2.5 – respiratory
+mortality and NO2 (1-hour) – all-cause mortality, which showed the
+RRU above the lower limit of the E-value, and thus the presence of
+unmeasured confounders that explain away the exposure-outcome as-
+sociations cannot be ruled out.
+Fig.3. Funnelplotstoexplorepublicationbiasforeachexposure-outcomecombination.(a)PM 10 –all-causemortality;(b)PM 10 –cardiovascularmortality;(c)PM 10
+– respiratory mortality; (d) PM10 – cerebrovascular mortality; (e) PM2.5 – all-cause mortality; (f) PM2.5 – cardiovascular mortality; (g) PM2.5 – respiratory mortality;
+(h) NO2 (24-hour average) – all-cause mortality; (i) NO2 (1-hour max.) – all-cause mortality; (j) O3 – all-cause mortality.
+P. Orellano, et al. Environment International 142 (2020) 105876
+8
+
+Table 2
+Certainty of evidence profile for each exposure-outcome combination.
+Exposure - Outcome Limitations in studies Indirectness Inconsistency Imprecision Publication bias Large effect size Confounding Concentration-
+response gradient
+Certainty of
+evidence
+Downgrade Upgrade
+PM10 – all-cause mortality (0)
+No differences between
+studies with low/moderate
+versus high RoB
+(0)
+The research
+question in the
+studies reflects the
+original question.
+(0)
+80% prediction
+interval did not
+include unity.
+(0)
+Number of
+mortality cases
+higher than
+100,000.
+(0)
+Publication bias
+detected, but no
+difference between
+multicity and single-
+city studies was
+observed.
+(+1)
+Unmeasured
+confounding would
+not suffice to explain
+away the effect
+estimate.
+(0)
+Several potential
+confounders that
+would shift the RR in
+both directions.
+(+1)
+Significant positive
+associationdetectedin
+the main analysis.
+High
+⊗⊗⊗⊗
+PM10 – cardiovascular
+mortality
+(0)
+No differences between
+studies with low/moderate
+versus high RoB
+(0)
+The research
+question in the
+studies reflects the
+original question.
+(0)
+80% prediction
+interval did not
+include unity.
+(0)
+Number of
+mortality cases
+higher than
+100,000.
+(0)
+Publication bias
+detected, but no
+difference between
+multicity and single-
+city studies was
+observed.
+(+1)
+Unmeasured
+confounding would
+not suffice to explain
+away the effect
+estimate.
+(0)
+Several potential
+confounders that
+would shift the RR in
+both directions.
+(+1)
+Significant positive
+associationdetectedin
+the main analysis.
+High
+⊗⊗⊗⊗
+PM10 – respiratory
+mortality
+(0)
+No differences between
+studies with low/moderate
+versus high RoB
+(0)
+The research
+question in the
+studies reflects the
+original question.
+(0)
+80% prediction
+interval did not
+include unity.
+(0)
+Number of
+mortality cases
+higher than
+100,000.
+(0)
+Publication bias was
+not detected.
+(+1)
+Unmeasured
+confounding would
+not suffice to explain
+away the effect
+estimate.
+(0)
+Several potential
+confounders that
+would shift the RR in
+both directions.
+(+1)
+Significant positive
+associationdetectedin
+the main analysis.
+High
+⊗⊗⊗⊗
+PM10 –cerebrovascular
+mortality
+(0)
+No differences between
+studies with low/moderate
+and high RoB
+(0)
+The research
+question in the
+studies reflects the
+original question.
+(0)
+80% prediction
+interval did not
+include unity.
+(0)
+Number of
+mortality cases
+higher than
+100,000.
+(0)
+Publication bias
+detected, but no
+difference between
+multicity and single-
+city studies was
+observed.
+(+1)
+Unmeasured
+confounding would
+not suffice to explain
+away the effect
+estimate.
+(0)
+Several potential
+confounders that
+would shift the RR in
+both directions.
+(+1)
+Significant positive
+associationdetectedin
+the main analysis.
+High
+⊗⊗⊗⊗
+PM2.5 – all-cause mortality (0)
+Statistical differences
+between studies with low/
+moderate versus high RoB,
+but studies showing high
+RoB had small weight on
+the results
+(0)
+The research
+question in the
+studies reflects the
+original question.
+(0)
+80% prediction
+interval did not
+include unity.
+(0)
+Number of
+mortality cases
+higher than
+100,000.
+(0)
+Publication bias
+detected, but no
+difference between
+multicity and single-
+city studies was
+observed.
+(+1)
+Unmeasured
+confounding would
+not suffice to explain
+away the effect
+estimate.
+(0)
+Several potential
+confounders that
+would shift the RR in
+both directions.
+(+1)
+Significant positive
+associationdetectedin
+the main analysis.
+High
+⊗⊗⊗⊗
+PM2.5 – cardiovascular
+mortality
+(0)
+No differences between
+studies with low/moderate
+versus high RoB
+(0)
+The research
+question in the
+studies reflects the
+original question.
+(0)
+80% prediction
+interval did not
+include unity.
+(0)
+Number of
+mortality cases
+higher than
+100,000.
+(0)
+Publication bias was
+not detected.
+(+1)
+Unmeasured
+confounding would
+not suffice to explain
+away the effect
+estimate.
+(0)
+Several potential
+confounders that
+would shift the RR in
+both directions.
+(+1)
+Significant positive
+associationdetectedin
+the main analysis.
+High
+⊗⊗⊗⊗
+PM2.5 – respiratory
+mortality
+(0)
+No differences between
+studies with low/moderate
+versus high RoB
+(0)
+The research
+question in the
+studies reflects the
+original question.
+(0)
+80% prediction
+interval included
+unity, but is not twice
+the confidence
+interval.
+(0)
+Number of
+mortality cases
+higher than
+100,000.
+(0)
+Publication bias was
+not detected.
+(0)
+Unmeasured
+confounding could
+influence the effect
+estimate.
+(0)
+Several potential
+confounders that
+would shift the RR in
+both directions.
+(+1)
+Significant positive
+associationdetectedin
+the main analysis.
+High
+⊗⊗⊗⊗
+PM2.5 – cerebrovascular
+mortality
+(-1)
+Statistical differences
+between studies with low/
+moderate versus high RoB
+(0)
+The research
+question in the
+(0)
+80% prediction
+interval included
+unity, but is not twice
+(0)
+Number of
+mortality cases
+(0)
+Publication bias was
+not detected.
+(+1)
+Unmeasured
+confounding would
+not suffice to explain
+(0)
+Several potential
+confounders that
+(+1)
+Significant positive
+associationdetectedin
+the main analysis.
+High
+⊗⊗⊗⊗
+(continued on next page)
+P. Orellano, et al. Environment International 142 (2020) 105876
+9
+
+Table 2(continued)
+Exposure - Outcome Limitations in studies Indirectness Inconsistency Imprecision Publication bias Large effect size Confounding Concentration-
+response gradient
+Certainty of
+evidence
+Downgrade Upgrade
+studies reflects the
+original question.
+the confidence
+interval.
+higher than
+100,000.
+away the effect
+estimate.
+would shift the RR in
+both directions.
+NO2 (24-hour average) –
+all-cause mortality
+(-1)
+Statistical differences
+between studies with low/
+moderate versus high RoB
+(0)
+The research
+question in the
+studies reflects the
+original question.
+(0)
+80% prediction
+interval did not
+include unity.
+(0)
+Number of
+mortality cases
+higher than
+100,000.
+(0)
+Publication bias
+detected, but no
+difference between
+multicity and single-
+city studies was
+observed.
+(+1)
+Unmeasured
+confounding would
+not suffice to explain
+away the effect
+estimate.
+(0)
+Several potential
+confounders that
+would shift the RR in
+both directions.
+(+1)
+Significant positive
+associationdetectedin
+the main analysis.
+High
+⊗⊗⊗⊗
+NO2 (1-hour max.) – all-
+cause mortality
+(0)
+No differences between
+studies with low/moderate
+versus high RoB
+(0)
+The research
+question in the
+studies reflects the
+original question.
+(0)
+80% prediction
+interval did not
+include unity.
+(0)
+Number of
+mortality cases
+higher than
+100,000.
+(0)
+Publication bias was
+not detected.
+(0)
+Unmeasured
+confounding could
+influence the effect
+estimate.
+(0)
+Several potential
+confounders that
+would shift the RR in
+both directions.
+(0)
+No significant
+associationdetectedin
+the main analysis.
+Moderate
+⊗⊗○○
+O3 – all-cause mortality (0)
+No differences between
+studies with low/moderate
+versus high RoB
+(0)
+The research
+question in the
+studies reflects the
+original question.
+(0)
+80% prediction
+interval did not
+include unity.
+(0)
+Number of
+mortality cases
+higher than
+100,000.
+(0)
+Publication bias
+detected, but no
+difference between
+multicity and single-
+city studies was
+observed.
+(+1)
+Unmeasured
+confounding would
+not suffice to explain
+away the effect
+estimate.
+(0)
+Several potential
+confounders that
+would shift the RR in
+both directions.
+(+1)
+Significant positive
+associationdetectedin
+the main analysis.
+High
+⊗⊗⊗⊗
+Certainty of evidence, starting from moderate certainty (⊗⊗⊗○); CRFs, concentration–response functions; (), between brackets is the downgrading of levels in that domain; RoB, risk of bias in individual studies; RR,
+relative risk.
+P. Orellano, et al. Environment International 142 (2020) 105876
+10
+
+3.4. Concentration-response functions
+Inallpapers,thedescriptionregardingconcentrationsonlyincluded
+full-period averages, ranges and dispersion of the pollutants, but not
+daily values. Accordingly, only a description regarding the shape of the
+concentration–response curves and potential thresholds in a daily basis
+was carried out, in those papers in which this analysis was performed.
+The linearity assumptions were investigated in 40 of the included ar-
+ticles, in general by means of semi-parametric regressions (GAMs). The
+existence of non-linear behaviour and potential thresholds were mainly
+analysed through visual inspection of the graphics produced by the
+GAMs, and occasionally through statistical tests (e.g. using the Akaike
+InformationCriterion).ThepapersanalysingtheCRFsarementionedin
+Supplementary File S.4, where a specific column was added to show in
+which articles evidence of deviation from linearity was found. The in-
+dividual studies that analysed the CRF in specific cities reported, in
+general,linearassociationsbetweendaily(24-hour)meanPM 10 andall-
+cause and cause-specific mortality (18 out of 21 articles that analysed
+linearity assumptions), and no threshold was detected. The exceptions
+were three papers that showed some non-linearity for all-cause, cardi-
+ovascular, respiratory, and cerebrovascular mortality (Chen et al.,
+2008; Dong et al., 2018; Li et al., 2013), with no references to potential
+thresholds. In the same line, the CRF between daily (24-hour) mean
+PM2.5 and all-cause and cause-specific mortality was analysed in 11
+articles, all of them showing indication of a linear behaviour, and with
+no indication of potential thresholds. The behaviour of the NO2 (24-
+hour average) CRF was analysed in 16 papers, among which 13 did not
+show evidence of deviations from linearity. In three papers, the curve
+was found to be non-linear (Guo et al., 2017), especially at higher
+concentrations(Luetal.,2015b),withapotentialthresholdat37.6µg/
+m3 in the daily concentration of this pollutant (Moolgavkar et al.,
+2013). There were no papers dealing with CRFs for NO2 (1-hour max.).
+AsforO 3 (8-houror24-hourmax.),theCRFwasanalysedin11articles,
+showing evidence of non-linear behaviour in 5 of them (Collart et al.,
+2018; Maji et al., 2017; Pascal et al., 2012; Qian et al., 2007; Williams
+et al., 2014). Non-linear models with thresholds at 100 µg/m3 (Pascal
+et al., 2012) and at 60 to 80 µg/m3 (Collart et al., 2018) were hy-
+pothesized, as well as linear models with thresholds at 65 µg/m3 (in
+urban settings) (Atkinson et al., 2012) and 85 µg/m3 (Collart et al.,
+2018).
+3.5. Co-pollutant models
+In general, two-pollutant models showed non-significant associa-
+tions for PM10, PM2.5, and O3 and mortality, when adjusting for a
+second air pollutant. This fact could be related to the low number of
+studies analysing co-pollutant models, which in turn impacts the sta-
+tistical power of the tests. However, some exposure-outcome combi-
+nations showed positive associations, i.e. the association between PM10
+and all-cause mortality and between PM2.5 and respiratory mortality
+when adjusted by NO2, and the association between NO2 (24-hour
+average) and all-cause mortality when adjusted by PM or by O3 (Table
+A.11 of the Appendix). Association values were higher than single-
+pollutant models in some combinations, and lower in others, irrespec-
+tive of the statistical significance. Three-pollutant models were not
+evaluated, as in all the articles we haven’t found more than two effect
+sizes reporting adjustments by the same combination of two pollutants,
+while a minimum of three effect sizes was required formeta-analysis.
+On the other hand, in a high proportion of articles the correlations
+between multiple pollutants were moderate to high (correlation coef-
+ficient > 0.4)(DaiandZhou,2017),whichmightthreatenthevalidity
+of co-pollutant models (Supplementary File S.4).
+3.6. Certainty of evidence
+The only reason for downgrading the CoE in the different exposure-
+outcomecombinationswasthe limitationsregardingRoBinthe articles
+(in two combinations). On the other hand, the evidence was upgraded
+due to large effect size (9 combinations), and the assumption of con-
+centration–response curves in all but one of the exposure-outcome
+combinations,i.e.therelationbetweenNO 2 (1-hourmax.)andall-cause
+mortality.AsforthefinaljudgmentregardingtheCoE,itwashighin10
+combinations, and moderate in one combination (NO2 (1-hour max.) –
+all-cause mortality). The descriptions associated with this analysis, to-
+gether with explanations of the rationale behind the judgements made,
+can be seen inTable 2.
+4. Discussion
+4.1. Summary of evidence
+This systematic review andmeta-analysis found evidence of a po-
+sitive association between short-term exposure to PM10, PM2.5, NO2
+(24-hour average) and O3 and all-cause mortality in humans, and be-
+tween PM10, PM2.5 and cardiovascular,respiratory andcerebrovascular
+mortality.Conversely,NO 2 (1-hourmax.)hasshownapositivebutnon-
+significant association with all-cause mortality. These analyses,
+showing an increased risk of all-cause and cause-specific mortality as-
+sociated with short-term exposure to air pollutants, are in consonance
+with previous evidence of publishedmeta-analyses for PM (Atkinson
+et al., 2015, 2014; Bell et al., 2013; Shah et al., 2015), O3 (Bell et al.,
+2014), and NO2 or NOx (Newell et al., 2018; Shah et al., 2015). In the
+same line, the Integrated Science Assessment for Particulate Matter, a
+comprehensive review of the United States Environmental Protection
+Agency, found that the newly published evidence from multiple high
+quality studies reinforces the causal relationship between PM2.5 ex-
+posure and mortality, with biological plausibility for PM2.5-related
+cardiovascular and respiratory morbidity (U.S. EPA, 2019). They also
+found evidence of an independent effect of PM2.5 from co-pollutant
+models, and a linear CRF with no-threshold. Additionally, a recent
+studythatevaluatedshort-termassociationsofPM 10 andPM2.5 withall-
+cause mortality in 652 cities has reported evidence of a positive re-
+lationship, with RRs very close to the values found in our study (Liu
+et al., 2019). In fact, that study analysed data from many of the cities
+that were included in our study, but the authors accessed the original
+data, while our study used RRs from published results. Anyway, the
+obtainedRRsaresimilar,althoughlesspreciseinourstudy.Bycontrast,
+wewereabletoperformmanysubgroupandsensitivityanalyses,which
+were inputs to further evaluate heterogeneity, publication bias, and the
+CoE. The same occurred with a recent study analysing the effects of O3
+on mortality in 406 locations, which also found a positive effect
+(Vicedo-Cabrera et al., 2020).
+Comparingtoprevioussystematicreviewsandmulticitystudies,our
+research had the advantage of including international and local in-
+formation published in several databases, which contains articles
+communicating national or sub-national data. This comprehensive
+search allowed us a better control of publication bias, even though this
+issue could not be completely controlled. Furthermore, our study
+comprehensively analysed several air pollutants and outcomes, con-
+sidering numerous subgroup analyses to evaluate the source of het-
+erogeneity, and sensitivity analyses to assess the influence of model
+assumptions in the associations.
+The magnitude of the associations was, as expected, lower than the
+associations between mortality and the exposure to these same air
+pollutants in the long-term; however, in epidemiology small risks ap-
+plied to large populations are likely to represent a major health pro-
+blem. Larger magnitudes in long-term studies might be attributable to
+cumulative effects (Beverland et al., 2012), due to the fact that short-
+term exposure studies only take into account a small proportion of the
+health effects; in addition, adverse effects are dependent of both con-
+centration and length of the exposure (Pope, 2007). As for the study
+design,timeseriesstudiescapturecasesinwhichairpollutionincreases
+P. Orellano, et al. Environment International 142 (2020) 105876
+11
+
+boththeriskofunderlyingdiseasesleadingtofrailtyandtheshort-term
+risk of death among the frail, and cases in which air pollution is un-
+related to risk of chronic diseases but short-term exposure increases
+mortality among persons who are frail (Künzli et al., 2001). In this
+sense, short-term exposure to air pollution might be acting as a trigger
+of long-term exposure deaths, or as a trigger of deaths related to un-
+derlying susceptibility from other causes.
+Heterogeneity between studies was detected in some of the ex-
+posure-outcome combinations. However, heterogeneity in a certain
+degree is expected in epidemiological studies on air pollution, due to
+differences in populations, exposures, and study conditions (Goodman
+et al., 2015). Further, if the CRFs between the pollutants and the out-
+comes are non-linear, e.g. if the size of the effect depends on the mean
+level of air pollution in the area, as shown in the article by Liu and
+colleagues for PM (Liu et al., 2019), some unexplained heterogeneity
+may emerge. In addition, although the large majority of studies were
+conducted in the general population, at least one study among patients
+with co-morbidities was included in quantitative analysis for almost all
+the exposure-outcome combinations. This might have been another
+source of heterogeneity. Subgroup analyses were carried-out to explain
+potential sources of heterogeneity, in those exposure-outcome combi-
+nations that showed some degree of heterogeneity. These combinations
+included the associations between PM2.5 and respiratory and cere-
+brovascular mortality, and the association between NO2 (1-hour max.)
+and all-cause mortality. In none of these associations the heterogeneity
+wasreducedaftercontrolfor someco-variables,i.e.agegroup,sex,and
+continent, meaning that other unmeasured factors might possibly be
+acting as moderators.
+The RoBin individualstudieswashigh in aconsiderableproportion
+of articles, but only in the missing data domain. In this domain, several
+studies did not report methods used to impute missing data, nor de-
+claredtheproportionornumberofmissingdaysfortheexposure.Other
+domains were more stable, mainly due to the high standardization in
+time-series studies analysing short-term exposure to air pollutants.
+Other domain that influenced the RoB was the confounding domain,
+but in a small proportion of studies. However, the direction of the as-
+sociations did not change after excluding articles showing high RoB, as
+demonstrated in the sensitivity analysis. A known confounder of the
+association between air pollution and mortality is ambient air tem-
+perature. This confounder has a recognized influence both on air pol-
+lution levels and mortality. In this line, we considered this factor as a
+critical confounder in the RoB domain, and in the E-value assessment.
+Asforpublicationbias,in6outof11combinationsofoutcomesand
+pollutants some asymmetries in the funnel plots were detected. This
+suggeststhatsmallstudiesshowingnon-significanteffectscouldremain
+unpublished,andthusthetrueeffectcouldbeoverestimated(Rothstein
+et al., 2008). However, these methods are indications of publication
+bias, but in some circumstances funnel plots can show misleading evi-
+dence of publication bias that isin factrelated to heterogeneity (Levine
+et al., 2009; Peters et al., 2007; Terrin et al., 2003), as commonly ob-
+servedinairpollutionstudies(Andersonetal.,2005).Itispossiblethat
+the cause behind funnel plots asymmetry in thismeta-analysis can be
+partiallyrelatedtothisexplanation.Aprocedurethatwasimplemented
+to reduce the potential effect of publication bias was to carry out a
+comprehensive literature review, which encompassed an inclusive
+searchstrategyandthesearchinregionaldatabases,andallowedusthe
+possibility of including other sources commonly considered gray lit-
+erature (Rothstein et al., 2008). Nevertheless, the effect of publication
+biaswasnotcompletelyavoidedinallexposure-outcomecombinations.
+However, the RRs of the exposure-outcome combinations were con-
+sistent in the main analysis and in the multicity sensitivity analysis, i.e.
+the associations were positive in all multicity analyses with the ex-
+ception of cerebrovascular mortality. In this sense, the asymmetry of
+funnel plots could be more related to heterogeneity than to publication
+bias, as the probability of not publishing multicity studies due to ad-
+verse results is assumed to be minimal. All things considered,
+publication bias could have inflated the size of the true effect, but it
+could not have affected the general conclusion, i.e. a positive effect of
+air pollutants in mortality, as previously concluded in an article that
+assessed publication bias for PM (Anderson et al., 2005).
+We found that the sensitivity analysis did not modify the results of
+the main analysis substantially, indicating that structural modelling
+decisions have not influenced the associations. The exception was for
+CCOdesigns,whichshowedlessevidentassociations.Thisfactcouldbe
+related to small statistical power, as the number of CCO studies is no-
+tably lower than ETS studies. However, it should be noted that CCO
+designs could be less prone to bias when compared with Poisson time-
+series designs (Carracedo-Martínez et al., 2010), and thus these differ-
+ences could be reflecting more than merely methodological issues. This
+point deserves future confirmatory research.
+In general, linear CRFs were found for PM10 and PM2.5 associated
+with all-cause and cause-specific mortality. In contrast, some articles
+found a non-linear behaviour for NO2 (24-hour average), with a po-
+tential threshold at 37.6 µg/m3 average daily concentration. For O3, a
+number of articles also found a non-linear behaviour, with potential
+thresholds in the range of 60–100 µg/m3. The linear behaviour of some
+of the associations is consistent with the idea of a negative effect of
+pollutants even at low or background ambient concentrations, as was
+previously observed for PM2.5, PM10, and NO2 (Kelly and Fussell, 2015;
+Li et al., 2015). This apparent absence of a safe level of air pollution
+below which health detrimental effects are negligible has deep im-
+plications for the development of ambient concentration limits in air
+qualityguidelines,asevensmallreductionsinairpollutionlevelsmight
+have a considerable impact in preventing mortality (Medina et al.,
+2004). A linear association and the absence of thresholds were found
+for O3 in a recent paper, although levels of this pollutant below 70 μg/
+m3 might be attributed to non-anthropogenic sources (Vicedo-Cabrera
+et al., 2020).
+4.2. Co-pollutant models
+Commonly, co-pollutant models show problems in the validity of
+associations between pollutants and mortality or morbidity outcomes,
+due to multicollinearity between pollutants. This is particularly re-
+cognized when high values of correlations between pollutants, mea-
+sured as Pearson or Spearman correlation coefficients, are observed
+(Dominici et al., 2010). In many cases the multicollinearity between
+predictors hasthe effect ofinflating the standard errors,leadingto type
+II errors (Mason and Perreault, 1991). However, in this study the as-
+sociations were observed even after the adjustment by a second pollu-
+tant, at least in some combinations of pollutants and outcomes. In al-
+most all the associations, problems might have arisen with statistical
+power, as only a small proportion of studies analysed two or three-
+pollutantmodels.Infact,theanalysisofthree-pollutantmodelswasnot
+possible, due to the reduced number of articles assessing these asso-
+ciations (two or fewer studies per combination). Moreover, the results
+of these co-pollutant models should be interpreted with caution, given
+the high correlation between pollutants, and the known influence that
+multicollinearity has in model estimates (Stafoggia et al., 2017). Sev-
+eral statistical methods have been developed recently to analyse the
+effect of co-pollutant models, and at the same time dealing with mul-
+ticollinearityissues(Stafoggiaetal.,2017);nevertheless,thesemethods
+are not currently widespread, and none of the articles that were in-
+cluded in this review adopted these approaches. Independently of sta-
+tistical issues, the challenges of multi-pollutant models are, first, to
+differentiate the direct effect of each pollutant from the spurious as-
+sociations due to pollutants acting as surrogate of others (Billionnet
+et al., 2012). Second, multi-pollutant exposures might affect multiple
+target organs, leading to higher health risks. To achieve a better un-
+derstanding of the effect of multiple pollutants, more research on the
+biological mechanisms of each pollutant should be carried out, pre-
+ferably grouping pollutants according to their mode of action.
+P. Orellano, et al. Environment International 142 (2020) 105876
+12
+
+4.3. Strengths and limitations of the review
+Thereareafewstrengthsthatareworthbeingmentionedinrelation
+tothisreview.First,theeffortsmadeatdifferentstagesofthereview,in
+order to overcome publication bias. This encompasses the inclusive
+search strategy, the query in regional databases that included gray lit-
+erature, and the consideration of different study designs, i.e. ETS, CCO,
+panel and cohort studies. Second, sensitivity analyses showed that the
+associations reported in the main analyses were stable in different si-
+tuations, which contributed to the reliability of results. In the majority
+of cases, the main results were stable in relation to methodological
+choices, i.e. the lag structure, the study design, and the RoB in some
+domains. Third and more relevant, the CoE was high in 10 out of 11
+combinations, and moderate in one combination.
+On the other hand, this review was subject to several limitations.
+First, the use of non-randomized observational studies made the ana-
+lyses more prone to bias, related to failure in the control of potential
+confounders. This issue is common with other reviews that assess non-
+interventionalstudies.Second,severalarticleswerepotentiallyselected
+for inclusion after reading the title or the abstract, but the full-texts
+werenotfound.However,itshouldbementionedthatinallthemissing
+articles in which the abstract was accessible, the associations between
+pollutants and mortality were positive. In this sense, it is reasonable to
+consider that the inclusion of these articles in quantitative analyses
+wouldnotmodifythedirectionoftheassociations.Third,theuseofthe
+E-value as an indication for the presence of an unmeasured confounder
+in the context of air pollution epidemiology is debatable, because the
+RRs estimated from these studies are typically lower than the associa-
+tion between outcomes and potential confounders. The use of the ori-
+ginal cut-off point proposed in the standard GRADE approach
+(RR > 2) is not feasible for the same reason. Fourth, in some judge-
+ments for the CoE assessment we had no other option than using ar-
+bitrary thresholds. An example of this was the cut-off point of 100,000
+deaths for the imprecision domain. More assessments to develop sui-
+table criteria are to be developed in the future, in order to judge the
+minimum number of cases in short-term studies for precision evalua-
+tion. Finally, there were differences in the representation between
+continents. For example, the number of studies from North America,
+Europe and Asia was much higher than the number of studies from
+Latin America or Africa. Given the influence of several moderators in
+the associations, it is difficult that global estimates can be extrapolated
+to all regions. It is worth noting that low and middle economies were
+not fully represented in studies, and it is not clear if some variables,
+characteristic of these areas, could have an influence on the associa-
+tions between pollutants and mortality. However, this fact is not a
+limitation of this particular study, but rather a shortcoming of research
+in this field. To overcome this deficiency, more resources should be
+allocated to research in these areas, preferably in the form of multi-
+collaborative projects.
+The results of this systematic review contribute evidence on the
+influence of selected air pollutants on general and specific mortality,
+which is meant to be used for the update of the WHO Air Quality
+Guidelines. First, this information includes numerical values for the
+associations between air pollutants and specific risks, in order to be
+used in studies on the economic and disease burden attributable to air
+pollution, risk assessments, and other analyses. Second, consideration
+about single and multiple-pollutant exposures can be considered to
+discuss about unifactorial and multifactorial causation. Third, the re-
+sults about CRFs and thresholds are useful for determination of air
+pollutionlimitsininternationalrecommendations,andnationalorlocal
+legislations. Fourth, subgroup analyses contribute to evaluation of the
+differential risk associated with different subpopulations. Finally, the
+assessment of the CoE of the different exposure-outcome combinations
+is relevant to understand the quality of the evidence presented in this
+review and in future guidelines.
+5. Conclusions
+Despite the limitations of this review, it was shown that an increase
+inoutdoorconcentrationsofPM 10,PM2.5,NO2 andO3 increasestherisk
+of all-cause and cause-specific mortality in humans. These associations
+were proved to be stable through a number of sensitivity analyses,
+which enhance the validity of the conclusions presented here. As for
+CRFs, these curves have shown for NO2 and O3 non-linearity effects,
+and some evidence of thresholds, in line with previous estimates. The
+high consistency in the direction of the associations, and the high or
+moderate CoE reinforce the hypothesis of a positive association be-
+tween air pollution and human mortality.
+Declaration of Competing Interest
+The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influ-
+ence the work reported in this paper.
+Acknowledgements
+The systematic review was funded by the World Health
+Organization Regional Office for Europe, supported by the European
+Commission (DG Environment), Federal Ministry for the Environment,
+NatureConservationandNuclearSafety(Germany),FederalMinistryof
+Health(Germany),GovernmentoftheRepublicofKorea,FederalOffice
+for the Environment (Switzerland) and United States Environmental
+Protection Agency, and delivered as part of the evidence base that in-
+forms the ongoing development of WHO global air quality guidelines.
+All rights in the work, including ownership of the original work and
+copyright thereof, are vested in WHO. The authors alone are re-
+sponsible for the views expressed in this publication and they do not
+necessarily represent the decisions or the stated policy of the World
+Health Organization. The authors would like to recognize the valuable
+contributionofJosVerbeek,RománPérezVelasco,HannaYang,Dorota
+Jarosińska, Rebecca Morgan, and experts from the Guideline
+Development Group (GDG). They all provided a consistent support
+during the full extension of the project, along with guidance, evalua-
+tion, and useful suggestions. The authors also recognize the contribu-
+tion of Jiankun Fang, Yutong Zhu, and Ingu Kim, for the translation of
+four articles in Chinese and Korean.
+Appendix A. Supplementary material
+Supplementary data to this article can be found online athttps://
+doi.org/10.1016/j.envint.2020.105876.
+References
+Achilleos, S., Kioumourtzoglou, M.-A., Wu, C.-D., Schwartz, J.D., Koutrakis, P.,
+Papatheodorou, S.I., 2017. Acute effects of fine particulate matter constituents on
+mortality: A systematic review and meta-regression analysis. Environ. Int. 109,
+89–100. https://doi.org/10.1016/j.envint.2017.09.010.
+Ahmed,K.K.M.,AlDhubaib,B.E.,2011.Zotero:Abibliographicassistanttoresearcher.J.
+Pharmacol. Pharmacother. 2, 303–305.https://doi.org/10.4103/0976-500X.85940.
+Albert, J., Rizzo, M., 2012. R by Example, Use R!. Springer-Verlag, New York.
+Anderson, H.R., Atkinson, R.W., Peacock, J.L., Sweeting, M.J., Marston, L., 2005.
+Ambient particulate matter and health effects: publication bias in studies of short-
+term associations. Epidemiol. Camb. Mass 16, 155–163.
+Anderson, H.R., Favarato, G., Atkinson, R.W., 2013. Long-term exposure to air pollution
+and the incidence of asthma: meta-analysis of cohort studies. Air Qual. Atmosphere
+Health 6, 47–56.https://doi.org/10.1007/s11869-011-0144-5.
+Atkinson,R.W.,Kang,S.,Anderson,H.R.,Mills,I.C.,Walton,H.A.,2014.Epidemiological
+timeseriesstudiesofPM2.5anddailymortalityandhospitaladmissions:asystematic
+review and meta-analysis. Thorax 69, 660–665.https://doi.org/10.1136/thoraxjnl-
+2013-204492.
+Atkinson,R.W., Mills, I.C.,Walton,H.A., Anderson, H.R.,2015. Fine particle components
+and health–a systematic review and meta-analysis of epidemiological time series
+studies of daily mortality and hospital admissions. J. Expo. Sci. Environ. Epidemiol.
+25, 208–214.https://doi.org/10.1038/jes.2014.63.
+P. Orellano, et al. Environment International 142 (2020) 105876
+13
+
+Atkinson, R.W., Yu, D., Armstrong, B.G., Pattenden, S., Wilkinson, P., Doherty, R.M.,
+Heal, M.R., Anderson, H.R., 2012. Concentration-response function for ozone and
+daily mortality: results from five urban and five rural U.K. populations. Environ.
+Health Perspect. 120, 1411–1417.https://doi.org/10.1289/ehp.1104108.
+Balshem, H., Helfand, M., Schünemann, H.J., Oxman, A.D., Kunz, R., Brozek, J., Vist,
+G.E., Falck-Ytter, Y., Meerpohl, J., Norris, S., Guyatt, G.H., 2011. GRADE guidelines:
+3. Rating the quality of evidence. J. Clin. Epidemiol. 64, 401–406.https://doi.org/
+10.1016/j.jclinepi.2010.07.015.
+Bell, M.L., Zanobetti, A., Dominici, F., 2014. Who is more affected by ozone pollution? A
+systematic review and meta-analysis. Am. J. Epidemiol. 180, 15–28.https://doi.org/
+10.1093/aje/kwu115.
+Bell, M.L., Zanobetti, A., Dominici, F., 2013. Evidence on vulnerability and susceptibility
+tohealthrisksassociatedwithshort-termexposuretoparticulatematter:asystematic
+review and meta-analysis. Am. J. Epidemiol. 178, 865–876.https://doi.org/10.
+1093/aje/kwt090.
+Beverland, I.J., Cohen, G.R., Heal, M.R., Carder, M., Yap, C., Robertson, C., Hart, C.L.,
+Agius,R.M.,2012.AComparisonofShort-termandLong-termAirPollutionExposure
+Associations with Mortality in Two Cohorts in Scotland. Environ. Health Perspect.
+120, 1280–1285.https://doi.org/10.1289/ehp.1104509.
+Billionnet, C., Sherrill, D., Annesi-Maesano, I., GERIE study, 2012. Estimating the health
+effectsofexposuretomulti-pollutantmixture. Ann.Epidemiol. 22,126–141.https://
+doi.org/10.1016/j.annepidem.2011.11.004.
+Borenstein, M., 2019. Common Mistakes in Meta-Analysis: And How to Avoid Them.
+Biostat, Incorporated.
+Borenstein,M.,Hedges,L.V.,Higgins,J.P.T.,Rothstein,H.R.,2011.IntroductiontoMeta-
+Analysis Edición: 1, first ed. Wiley.
+Carracedo-Martínez, E., Taracido, M., Tobias, A., Saez, M., Figueiras, A., 2010. Case-
+crossover analysis of air pollution health effects: a systematic review of methodology
+and application. Environ. Health Perspect. 118, 1173–1182.https://doi.org/10.
+1289/ehp.0901485.
+Chen, G., Song, G., Jiang, L., Zhang, Y., Zhao, N., Chen, B., Kan, H., 2008. Short-term
+effects of ambient gaseous pollutants and particulate matter on daily mortality in
+Shanghai. China. J. Occup. Health 50, 41–47.
+Chiolero,A.,Santschi,V.,Burnand,B.,Platt,R.W.,Paradis,G.,2012.Meta-analyses:with
+confidence or prediction intervals? Eur. J. Epidemiol. 27, 823–825.https://doi.org/
+10.1007/s10654-012-9738-y.
+Chiusolo, M., Cadum, E., Stafoggia, M., Galassi, C., Berti, G., Faustini, A., Bisanti, L.,
+Vigotti, M.A., Dessì, M.P., Cernigliaro, A., Mallone, S., Pacelli, B., Minerba, S.,
+Simonato, L., Forastiere, F., EpiAir Collaborative Group, 2011. Short-Term Effects of
+Nitrogen Dioxide on Mortality and Susceptibility Factors in 10 Italian Cities: The
+EpiAir Study. Environ. Health Perspect. 119, 1233–1238.https://doi.org/10.1289/
+ehp.1002904.
+Cohen, A.J., Brauer, M., Burnett, R., Anderson, H.R., Frostad, J., Estep, K., Balakrishnan,
+K., Brunekreef, B., Dandona, L., Dandona, R., Feigin, V., Freedman, G., Hubbell, B.,
+Jobling,A.,Kan,H.,Knibbs,L.,Liu,Y.,Martin,R.,Morawska,L.,Pope,C.A.,Shin,H.,
+Straif, K., Shaddick, G., Thomas, M., van Dingenen, R., van Donkelaar, A., Vos, T.,
+Murray, C.J.L., Forouzanfar, M.H., 2017. Estimates and 25-year trends of the global
+burden of disease attributable to ambient air pollution: an analysis of data from the
+Global Burden of Diseases Study 2015. The Lancet 389, 1907–1918.https://doi.org/
+10.1016/S0140-6736(17)30505-6.
+Collart, P., Dramaix, M., Levêque, A., Mercier, G., Coppieters, Y., 2018. Concentration-
+responsecurveandcumulativeeffectsbetweenozoneanddailymortality:ananalysis
+in Wallonia. Belgium. Int. J. Environ. Health Res. 28, 147–158.https://doi.org/10.
+1080/09603123.2018.1453050.
+Cox, L.A.T., 2017. Do causal concentration-response functions exist? A critical review of
+associationalandcausalrelationsbetweenfineparticulatematterandmortality.Crit.
+Rev. Toxicol. 47, 603–631.https://doi.org/10.1080/10408444.2017.1311838.
+Dai, Y.-H., Zhou, W.-X., 2017. Temporal and spatial correlation patterns of air pollutants
+in Chinese cities. PloS One 12, e0182724.https://doi.org/10.1371/journal.pone.
+0182724.
+DerSimonian, R., Laird, N., 1986. Meta-analysis in clinical trials. Control. Clin. Trials 7,
+177–188.
+DeVries, R., Kriebel, D., Sama, S., 2017. Outdoor Air Pollution and COPD-Related
+Emergency Department Visits, Hospital Admissions, and Mortality: A Meta-Analysis.
+COPD 14, 113–121.https://doi.org/10.1080/15412555.2016.1216956.
+Dominici, F., Peng, R.D., Barr, C.D., Bell, M.L., 2010. Protecting human health from air
+pollution: shifting from a single-pollutant to a multipollutant approach. Epidemiol.
+Camb. Mass 21, 187–194.https://doi.org/10.1097/EDE.0b013e3181cc86e8.
+Dong, H., Yu, Y., Yao, S., Lu, Y., Chen, Z., Li, G., Yao, Y., Yao, X., Wang, S.-L., Zhang, Z.,
+2018. Acute effects of air pollution on ischaemic stroke onset and deaths: a time-
+series study in Changzhou. China. BMJ Open 8, e020425.https://doi.org/10.1136/
+bmjopen-2017-020425.
+Egger, M., Davey Smith, G., Schneider, M., Minder, C., 1997. Bias in meta-analysis de-
+tected by a simple, graphical test. BMJ 315, 629–634.
+Fajersztajn, L., Saldiva, P., Pereira, L.A.A., Leite, V.F., Buehler, A.M., 2017. Short-term
+effects of fine particulate matter pollution on daily health events in Latin America: a
+systematic review and meta-analysis. Int. J. Public Health 62, 729–738.https://doi.
+org/10.1007/s00038-017-0960-y.
+Goldberg, M.S., Burnett, R.T., Stieb, D., 2003. A review of time-series studies used to
+evaluatetheshort-termeffectsofairpollutiononhumanhealth.Rev.Environ.Health
+18, 269–303.
+Goodman, J.E., Petito Boyce, C., Sax, S.N., Beyer, L.A., Prueitt, R.L., 2015. Rethinking
+Meta-Analysis: Applications for Air Pollution Data and Beyond. Risk Anal. Off. Publ.
+Soc. Risk Anal. 35, 1017–1039.https://doi.org/10.1111/risa.12405.
+Greenland, S., Thomas, D.C., 1982. On the need for the rare disease assumption in case-
+control studies. Am. J. Epidemiol. 116, 547–553.
+Guo, Y.,Ma, Y.,Zhang, Y., Huang,S.,Wu, Y.,Yu, S., Zou,F., Cheng, J.,2017. Time series
+analysis of ambient air pollution effects on daily mortality. Environ. Sci. Pollut. Res.
+Int. 24, 20261–20272.https://doi.org/10.1007/s11356-017-9502-7.
+Guyatt,G.,Oxman,A.D.,Akl,E.A.,Kunz,R.,Vist,G.,Brozek,J.,Norris,S.,Falck-Ytter,Y.,
+Glasziou,P.,DeBeer,H.,Jaeschke,R.,Rind,D.,Meerpohl,J.,Dahm,P.,Schünemann,
+H.J., 2011. GRADE guidelines: 1. Introduction-GRADE evidence profiles and sum-
+mary of findings tables. J. Clin. Epidemiol. 64, 383–394.https://doi.org/10.1016/j.
+jclinepi.2010.04.026.
+Hartung,J.,Knapp,G.,2001.Arefinedmethodforthemeta-analysisofcontrolledclinical
+trials with binary outcome. Stat. Med. 20, 3875–3889.
+Hozo, S.P., Djulbegovic, B., Hozo, I., 2005. Estimating the mean and variance from the
+median,range,andthesize ofasample.BMCMed.Res.Methodol.5,13. https://doi.
+org/10.1186/1471-2288-5-13.
+IntHout, J., Ioannidis, J.P.A., Rovers, M.M., Goeman, J.J., 2016. Plea for routinely pre-
+sentingpredictionintervalsinmeta-analysis. BMJOpen6,e010247. https://doi.org/
+10.1136/bmjopen-2015-010247.
+Kelly, F.J., Fussell, J.C., 2015. Air pollution and public health: emerging hazards and
+improvedunderstandingofrisk.Environ.Geochem.Health37,631–649. https://doi.
+org/10.1007/s10653-015-9720-1.
+Knol, M.J., Vandenbroucke, J.P., Scott, P., Egger, M., 2008. What do case-control studies
+estimate? Survey of methods and assumptions in published case-control research.
+Am. J. Epidemiol. 168, 1073–1081.https://doi.org/10.1093/aje/kwn217.
+Künzli, N., Medina, S., Kaiser, R., Quénel, P., Horak, F., Studnicka, M., 2001. Assessment
+of deaths attributable to air pollution: should we use risk estimates based on time
+series or on cohort studies? Am. J. Epidemiol. 153, 1050–1055.https://doi.org/10.
+1093/aje/153.11.1050.
+Landrigan, P.J., Fuller, R., Acosta, N.J.R., Adeyi, O., Arnold, R., Basu, N.N., Baldé, A.B.,
+Bertollini, R., Bose-O’Reilly, S., Boufford, J.I., Breysse, P.N., Chiles, T., Mahidol, C.,
+Coll-Seck, A.M., Cropper, M.L., Fobil, J., Fuster, V., Greenstone, M., Haines, A.,
+Hanrahan, D., Hunter, D., Khare, M., Krupnick, A., Lanphear, B., Lohani, B., Martin,
+K., Mathiasen, K.V., McTeer, M.A., Murray, C.J.L., Ndahimananjara, J.D., Perera, F.,
+Potočnik, J., Preker, A.S., Ramesh, J., Rockström, J., Salinas, C., Samson, L.D.,
+Sandilya,K.,Sly,P.D.,Smith,K.R.,Steiner,A.,Stewart,R.B.,Suk,W.A.,vanSchayck,
+O.C.P., Yadama, G.N., Yumkella, K., Zhong, M., 2018. The Lancet Commission on
+pollution and health. Lancet Lond. Engl. 391, 462–512.https://doi.org/10.1016/
+S0140-6736(17)32345-0.
+Levine, T.R., Asada, K.J., Carpenter, C., 2009. Sample Sizes and Effect Sizes are
+Negatively Correlated in Meta-Analyses: Evidence and Implications of a Publication
+Bias Against NonSignificant Findings. Commun. Monogr. 76, 286–302.https://doi.
+org/10.1080/03637750903074685.
+Li, G.X., Zhou, M.G., Zhang, Y.J., Cai, Y., Pan, X.C., 2013. Seasonal effects of PM10
+concentrations on mortality in Tianjin, China: a time-series analysis. J. Public Health
+21, 135–144.https://doi.org/10.1007/s10389-012-0529-4.
+Li, H., Chen, R., Meng,X., Zhao, Z., Cai, J., Wang,C., Yang, C., Kan, H., 2015. Short-term
+exposure to ambient air pollution and coronary heart disease mortality in 8 Chinese
+cities. Int. J. Cardiol. 197, 265–270.https://doi.org/10.1016/j.ijcard.2015.06.050.
+Li,M.-H.,Fan,L.-C.,Mao,B.,Yang,J.-W.,Choi,A.M.K.,Cao,W.-J.,Xu,J.-F.,2016.Short-
+term Exposure to Ambient Fine Particulate Matter Increases Hospitalizations and
+Mortality in COPD: A Systematic Review and Meta-analysis. Chest 149, 447–458.
+https://doi.org/10.1378/chest.15-0513.
+Liu, C., Chen, R., Sera, F., Vicedo-Cabrera, A.M., Guo, Y., Tong, S., Coelho, M.S.Z.S.,
+Saldiva, P.H.N., Lavigne, E., Matus, P., Valdes Ortega, N., Osorio Garcia, S., Pascal,
+M.,Stafoggia,M.,Scortichini,M.,Hashizume,M.,Honda,Y.,Hurtado-Díaz,M.,Cruz,
+J., Nunes, B., Teixeira, J.P., Kim, H., Tobias, A., Íñiguez, C., Forsberg, B.,Åström, C.,
+Ragettli, M.S., Guo, Y.-L., Chen, B.-Y., Bell, M.L., Wright, C.Y., Scovronick, N.,
+Garland, R.M.,Milojevic, A., Kyselý, J., Urban, A., Orru, H., Indermitte, E., Jaakkola,
+J.J.K., Ryti, N.R.I., Katsouyanni, K., Analitis, A., Zanobetti, A., Schwartz, J., Chen, J.,
+Wu, T., Cohen, A., Gasparrini, A., Kan, H., 2019. Ambient Particulate Air Pollution
+and DailyMortality in 652Cities. N. Engl.J.Med. 381, 705–715.https://doi.org/10.
+1056/NEJMoa1817364.
+Lu,F.,Xu,D.,Cheng,Y.,Dong,S.,Guo,C.,Jiang,X.,Zheng,X.,2015a.Systematicreview
+andmeta-analysisoftheadversehealtheffectsofambientPM2.5andPM10pollution
+in the Chinese population. Environ. Res. 136, 196–204.https://doi.org/10.1016/j.
+envres.2014.06.029.
+Lu, F., Zhou, L., Xu, Y., Zheng, T., Guo, Y., Wellenius, G.A., Bassig, B.A., Chen, X., Wang,
+H., Zheng, X., 2015b. Short-term effects of air pollution on daily mortality and years
+of life lost in Nanjing. China. Sci. Total Environ. 536, 123–129.https://doi.org/10.
+1016/j.scitotenv.2015.07.048.
+Maji, S., Ahmed, S., Siddiqui, W.A., Ghosh, S., 2017. Short term effects of criteria air
+pollutants on daily mortality in Delhi. India. Atmos. Environ. 150, 210–219.https://
+doi.org/10.1016/j.atmosenv.2016.11.044.
+Mason, C.H., Perreault, W.D., 1991. Collinearity, Power, and Interpretation of Multiple
+Regression Analysis. J. Mark. Res. 28, 268–280.https://doi.org/10.2307/3172863.
+Medina, S., Plasencia, A., Ballester, F., Mücke, H.G., Schwartz, J., 2004. Apheis: public
+health impact of PM10 in 19 European cities. J. Epidemiol. Community Health 58,
+831–836. https://doi.org/10.1136/jech.2003.016386.
+Mills, I.C., Atkinson, R.W., Kang, S., Walton, H., Anderson, H.R., 2015. Quantitative
+systematic review of the associations between short-term exposure to nitrogen di-
+oxideandmortality andhospitaladmissions.BMJOpen5,e006946. https://doi.org/
+10.1136/bmjopen-2014-006946.
+Moher, D., Liberati, A., Tetzlaff, J., Altman, D.G., PRISMA Group, 2009. Preferred re-
+porting items for systematic reviews and meta-analyses: the PRISMA statement. BMJ
+339https://doi.org/10.1136/bmj.b2535. b2535.
+Moolgavkar, S.H., McClellan, R.O., Dewanji, A., Turim, J., Luebeck, E.G., Edwards, M.,
+2013. Time-series analyses of air pollution and mortality in the United States: a
+subsampling approach. Environ. Health Perspect. 121, 73–78.https://doi.org/10.
+P. Orellano, et al. Environment International 142 (2020) 105876
+14
+
+1289/ehp.1104507.
+Morgan, R.L., Thayer, K.A., Bero, L., Bruce, N., Falck-Ytter, Y., Ghersi, D., Guyatt, G.,
+Hooijmans, C., Langendam, M., Mandrioli, D.,Mustafa, R.A., Rehfuess, E.A., Rooney,
+A.A., Shea,B.,Silbergeld, E.K., Sutton,P., Wolfe, M.S., Woodruff,T.J., Verbeek,J.H.,
+Holloway, A.C., Santesso, N., Schünemann,H.J., 2016. GRADE: Assessing the quality
+ofevidenceinenvironmentalandoccupationalhealth.Environ.Int.92–93,611–616.
+https://doi.org/10.1016/j.envint.2016.01.004.
+U.S.EPA.IntegratedScienceAssessment(ISA)forParticulateMatter(FinalReport,2019).
+U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-19/188, 2019.
+Morgan,R.L.,Thayer,K.A.,Santesso,N.,Holloway,A.C.,Blain,R.,Eftim,S.E.,Goldstone,
+A.E., Ross,P.,Ansari,M.,Akl, E.A.,Filippini, T.,Hansell, A.,Meerpohl,J.J., Mustafa,
+R.A.,Verbeek,J.,Vinceti,M.,Whaley,P.,Schünemann,H.J.,GRADEWorkingGroup,
+2019. A risk of bias instrument for non-randomized studies of exposures: A users’
+guidetoitsapplicationinthecontextofGRADE.Environ.Int.122,168–184.https://
+doi.org/10.1016/j.envint.2018.11.004.
+Morgan,R.L.,Whaley,P.,Thayer,K.A.,Schünemann,H.J.,2018.IdentifyingthePECO:A
+framework for formulating good questions to explore the association of environ-
+mental and other exposures with health outcomes. Environ. Int. 121, 1027–1031.
+https://doi.org/10.1016/j.envint.2018.07.015.
+Newell, K., Kartsonaki, C., Lam, K.B.H., Kurmi, O., 2018. Cardiorespiratory health effects
+of gaseous ambient air pollution exposure in low and middle income countries: a
+systematicreviewandmeta-analysis.Environ.HealthGlob.AccessSci.Source17,41.
+https://doi.org/10.1186/s12940-018-0380-3.
+Newell, K., Kartsonaki, C., Lam, K.B.H., Kurmi, O.P., 2017. Cardiorespiratory health ef-
+fects of particulate ambient air pollution exposure in low-income and middle-income
+countries: a systematic review and meta-analysis. Lancet Planet. Health 1,
+e368–e380. https://doi.org/10.1016/S2542-5196(17)30166-3.
+Ostro, B., Spadaro, J.V., Gumy, S., Mudu, P., Awe, Y., Forastiere, F., Peters, A., 2018.
+Assessing the recent estimates of the global burden of disease for ambient air pol-
+lution: Methodological changes and implications for low- and middle-income coun-
+tries. Environ. Res. 166, 713–725.https://doi.org/10.1016/j.envres.2018.03.001.
+Pace, N.D., Multani, J.K., 2018. On the Reporting of Odds Ratios and Risk Ratios.
+Nutrients 10.https://doi.org/10.3390/nu10101512.
+Pascal, M., Wagner, V., Chatignoux, E., Falq, G., Corso, M., Blanchard, M., Host, S.,
+Larrieu, S., Pascal, L., Declercq, C., 2012. Ozone and short-term mortality in nine
+French cities: Influence of temperature and season. Atmos. Environ. 62, 566–572.
+https://doi.org/10.1016/j.atmosenv.2012.09.009.
+Peters,J.L.,Sutton,A.J.,Jones,D.R.,Abrams,K.R.,Rushton,L.,2007.Performanceofthe
+trim and fill method in the presence of publication bias and between-study hetero-
+geneity. Stat. Med. 26, 4544–4562.https://doi.org/10.1002/sim.2889.
+Pope, C.A., 2007. Mortality effects of longer term exposures to fine particulate air pol-
+lution: review of recent epidemiological evidence. Inhal. Toxicol. 19 (Suppl 1),
+33–38. https://doi.org/10.1080/08958370701492961.
+Qian,Z.,He,Q.,Lin,H.-M.,Kong,L.,Liao,D.,Yang,N.,Bentley,C.M.,Xu,S.,2007.Short-
+term effects of gaseous pollutants on cause-specific mortality in Wuhan. China. J. Air
+Waste Manag. Assoc. 1995 (57), 785–793.
+Risk of bias assessment instrument for systematic reviews informing WHO global air
+quality guidelines (2020) [WWW Document], 2020. URL http://www.euro.who.int/
+en/health-topics/environment-and-health/air-quality/publications/2020/risk-of-
+bias-assessment-instrument-for-systematic-reviews-informing-who-global-air-
+quality-guidelines-2020 (accessed 3.17.20).
+Rothstein, H.R., Sutton, A.J., Borenstein, M. (Eds.), 2008. Publication Bias in Meta-
+Analysis: Prevention, Assessment and Adjustments, 1 edition. ed. Wiley.
+Rücker,G.,Schwarzer,G.,Carpenter,J.R.,Schumacher,M., 2008.UnduerelianceonI(2)
+in assessingheterogeneity maymislead.BMCMed. Res.Methodol.8, 79. https://doi.
+org/10.1186/1471-2288-8-79.
+Schwarzer, G., Carpenter, J.R., Rücker, G., 2015. Meta-Analysis with R, Use R!. Springer
+International Publishing.
+Shah, A.S.V., Langrish, J.P., Nair, H., McAllister, D.A., Hunter, A.L., Donaldson, K.,
+Newby, D.E.,Mills, N.L.,2013. Globalassociationof airpollutionand heartfailure:a
+systematic review and meta-analysis. Lancet Lond. Engl. 382, 1039–1048.https://
+doi.org/10.1016/S0140-6736(13)60898-3.
+Shah,A.S.V.,Lee,K.K.,McAllister,D.A.,Hunter,A.,Nair,H.,Whiteley,W.,Langrish,J.P.,
+Newby, D.E., Mills, N.L., 2015. Short term exposure to air pollution and stroke:
+systematicreviewandmeta-analysis.BMJ350,h1295. https://doi.org/10.1136/bmj.
+h1295.
+Shang, Y., Sun, Z., Cao, J., Wang, X., Zhong, L., Bi, X., Li, H., Liu, W., Zhu, T., Huang,W.,
+2013. Systematic review of Chinese studies of short-term exposure to air pollution
+and daily mortality. Environ. Int. 54, 100–111.https://doi.org/10.1016/j.envint.
+2013.01.010.
+Song,X.,Wang,S.,Hu,Y.,Yue,M.,Zhang,T.,Liu,Y.,Tian,J.,Shang,K.,2017.Impactof
+ambient temperature on morbidity and mortality: An overview of reviews. Sci. Total
+Environ. 586, 241–254.https://doi.org/10.1016/j.scitotenv.2017.01.212.
+Stafoggia, M., Breitner, S., Hampel, R., Basagaña, X., 2017. Statistical Approaches to
+Address Multi-Pollutant Mixtures and Multiple Exposures: the State of the Science.
+Curr.Environ.HealthRep.4,481–490. https://doi.org/10.1007/s40572-017-0162-z.
+Sterne,J.A.C.,Sutton,A.J.,Ioannidis,J.P.A.,Terrin,N.,Jones,D.R.,Lau,J.,Carpenter,J.,
+Rücker,G.,Harbord,R.M.,Schmid,C.H.,Tetzlaff,J.,Deeks,J.J.,Peters,J.,Macaskill,
+P., Schwarzer, G., Duval, S., Altman, D.G., Moher, D., Higgins, J.P.T., 2011.
+Recommendations for examining and interpreting funnel plot asymmetry in meta-
+analyses of randomised controlled trials. BMJ 343, d4002.https://doi.org/10.1136/
+bmj.d4002.
+Suh, H.H., Bahadori, T., Vallarino, J., Spengler, J.D., 2000. Criteria air pollutants and
+toxic air pollutants. Environ. Health Perspect. 108 (Suppl 4), 625–633.https://doi.
+org/10.1289/ehp.00108s4625.
+Taneepanichskul, N., Gelaye, B., Grigsby-Toussaint, D.S., Lohsoonthorn, V., Jimba, M.,
+Williams, M.A., 2018. Short-term effects of particulate matter exposure on daily
+mortality in Thailand: a case-crossover study. Air Qual. Atmosphere Health 11,
+639–647. https://doi.org/10.1007/s11869-018-0571-7.
+Terrin, N., Schmid, C.H., Lau, J., Olkin, I., 2003. Adjusting for publication bias in the
+presence of heterogeneity. Stat. Med. 22, 2113–2126.https://doi.org/10.1002/sim.
+1461.
+Touloumi, G., Samoli, E., Quenel, P., Paldy, A., Anderson, R.H., Zmirou, D., Galan, I.,
+Forsberg, B., Schindler, C., Schwartz, J., Katsouyanni, K., 2005. Short-term effects of
+air pollution on total and cardiovascular mortality: the confounding effect of influ-
+enza epidemics. Epidemiol. Camb. Mass 16, 49–57.https://doi.org/10.1097/01.ede.
+0000142152.62400.13.
+Ueda,K.,Nitta,H.,Ono,M.,2009.Effectsoffineparticulatematterondailymortalityfor
+specificheartdiseasesinJapan.Circ.J.Off.J.Jpn.Circ.Soc.73,1248–1254. https://
+doi.org/10.1253/circj.cj-08-1149.
+VanderWeele, T.J., Ding, P., 2017. Sensitivity Analysis in Observational Research:
+Introducing the E-Value. Ann. Intern. Med. 167, 268–274.https://doi.org/10.7326/
+M16-2607.
+Vicedo-Cabrera, A.M., Sera, F., Liu, C., Armstrong, B., Milojevic, A., Guo, Y., Tong, S.,
+Lavigne, E., Kyselý, J., Urban, A., Orru, H., Indermitte, E., Pascal, M., Huber, V.,
+Schneider, A., Katsouyanni, K., Samoli, E., Stafoggia, M., Scortichini, M., Hashizume,
+M., Honda, Y., Ng, C.F.S., Hurtado-Diaz, M., Cruz, J., Silva, S., Madureira, J.,
+Scovronick, N., Garland, R.M., Kim, H., Tobias, A., Íñiguez, C., Forsberg, B.,Åström,
+C., Ragettli, M.S., Röösli, M., Guo, Y.-L.L., Chen, B.-Y., Zanobetti, A., Schwartz, J.,
+Bell, M.L., Kan, H., Gasparrini, A., 2020. Short term association between ozone and
+mortality: global two stage time series study in 406 locations in 20 countries. BMJ
+368, m108.https://doi.org/10.1136/bmj.m108.
+Wang, Y., Eliot, M.N., Wellenius, G.A., 2014. Short-term changes in ambient particulate
+matter and risk of stroke: a systematic review and meta-analysis. J. Am. Heart Assoc.
+3. https://doi.org/10.1161/JAHA.114.000983.
+WHO|Airqualityguidelines-globalupdate2005[WWWDocument],2018..WHO.URL
+https://www.who.int/phe/health_topics/outdoorair/outdoorair_aqg/en/ (accessed
+11.12.18).
+WHO|InternationalClassificationofDiseases(ICD)InformationSheet[WWWDocument],
+n.d. . WHO. URL http://www.who.int/classifications/icd/factsheet/en/ (accessed
+11.12.18).
+WHO Regional Office for Europe, 2013. Review of evidence on health aspects of air
+pollution – REVIHAAP Project: Technical Report. WHO Regional Office for Europe,
+Copenhagen.
+Williams, M.L., Atkinson, R.W., Anderson, H.R., Kelly, F.J., 2014. Associations between
+daily mortality in London and combined oxidant capacity, ozone and nitrogen di-
+oxide. Air Qual. Atmosphere Health 7, 407–414.https://doi.org/10.1007/s11869-
+014-0249-8.
+Zhang, Z., Wang, J., Lu, W., 2018. Exposure to nitrogen dioxide and chronic obstructive
+pulmonarydisease(COPD)inadults:asystematicreviewandmeta-analysis.Environ.
+Sci. Pollut. Res. Int. 25, 15133–15145.https://doi.org/10.1007/s11356-018-1629-7.
+WHO Handbook for Guideline Development – 2nd Edition, 2014. URLhttps://apps.who.
+int/iris/handle/10665/145714 (accessed 3.25.20).
+P. Orellano, et al. Environment International 142 (2020) 105876
+15
+

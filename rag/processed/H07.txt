@@ -1,0 +1,1634 @@
+Review article
+Mortality, morbidity and healthcare costs of short-term high temperatures 
+and heatwaves exposure in older populations: a global systematic review 
+and meta-analysis
+Sabrina Günsche a
+ , Matthew A. Borg a, Olga Anikeeva a, Blesson M. Varghese a, Yannan Li a,  
+Dinesh Bhandari a,b, Jing Li c, Haoran Yang c, Yihan Shi c, Jingwen Liu a, Keith Dear a,  
+Bertram Ostendorf d, Nigel Stocks e, Danny Liew f, Peng Bi a,*
+a School of Public Health, The University of Adelaide, Australia
+b School of Nursing and Midwifery, Monash University, Australia
+c School of Public Health, Shandong Second Medical University, China
+d School of Biological Sciences, University of Adelaide, Australia
+e Adelaide Medical School, University of Adelaide, Australia
+f Faculty of Health, Medicine and Behavioural Sciences, The University of Queensland, Australia
+ARTICLE INFO
+Keywords:
+High temperatures
+Heatwaves
+Mortality
+Morbidity
+Healthcare costs
+Older adults
+Climate zones
+ABSTRACT
+Background: Exposure to heat extremes is associated with higher rates of mortality, morbidity and healthcare 
+costs. In the context of population ageing and climate change, which is expected to make extreme heat events 
+more intense, frequent, prolonged, and widespread, understanding their health impacts on older adults is crucial 
+for informing targeted interventions.
+Methods: This systematic review and meta-analysis searched PubMed, Embase, Web of Science, Scopus, CINAHL, 
+and AgeLine for studies published between January 1, 1990, and March 15, 2025. Original research articles 
+assessing morbidity, mortality, and healthcare costs among older adults during periods of high temperatures or 
+heatwaves were included. Eligible studies used observational designs, such as time series, case-crossover, or case 
+time-series, comparing risks across different exposures or time periods. Reviews, commentaries, grey literature, 
+animal studies, and studies not focused on temperature as the primary exposure were excluded. Risk estimates 
+were extracted from published studies. A random-effects meta-analysis was conducted to pool relative risks of 
+morbidity and mortality, focusing on specific disease categories according to ICD-10 codes, climate zones, and 
+demographic factors. The certainty and strength of the evidence were assessed following the Navigation Guide 
+systematic review methodology framework. The study protocol was registered with PROSPERO 
+(CRD42023423311).
+Results: Out of 21,610 identified studies, 623 were eligible, spanning six continents and 305 locations classified 
+by K¨oppen climate zones. Of these, 578 were included in the meta-analysis, 43 in a supplementary meta-analysis, 
+and four on healthcare costs were narratively synthesised. A 1◦C temperature rise was associated with higher 
+morbidity (RR 1.016 [CI95% 1.012–1.019]) and mortality (RR 1.022 [CI95% 1.020–1.024]) among older people. 
+The highest morbidity risks were linked to heat-related illnesses, external causes and endocrine diseases, and in 
+tropical climates. Mortality risk was highest for intentional self-harm and external causes, chronic obstructive 
+pulmonary disease (COPD), and in Mediterranean climates, with the strongest overall impact on those aged ≥ 85 
+years. Heatwaves increased morbidity (RR 1.189 [CI95% 1.146–1.233]), particularly for heat-related illnesses 
+and external causes, with the highest overall risk seen in adults aged 75–84 and in subtropical climates. Mortality 
+also rose (RR 1.117 [CI95% 1.105–1.129]), especially for cerebrovascular, endocrine and respiratory diseases, 
+with the greatest overall risks found in tropical climates and among individuals aged ≥ 85 years. Despite the 
+limited number of studies on healthcare costs they showed significant increases in costs during heat exposure for 
+emergency department presentations, respiratory and ureter calculus hospitalisations. There was high hetero-
+geneity with morbidity (high temperatures: I2 = 84.1%; heatwaves: I2 = 97.6%), whilst for mortality, there was 
+* Corresponding author.
+E-mail address: peng.bi@adelaide.edu.au (P. Bi). 
+Contents lists available at ScienceDirect
+Environment International
+journal homepage: www.elsevier.com/locate/envint
+https://doi.org/10.1016/j.envint.2026.110129
+Received 2 July 2025; Received in revised form 7 January 2026; Accepted 3 February 2026  
+Environment International 208 (2026) 110129 
+Available online 6 February 2026 
+0160-4120/© 2026 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ). 
+
+no observed heterogeneity with high temperatures (I2 = 0.0%) and moderate heterogeneity with heatwaves (I2 
+= 72.2%). The strength of evidence was rated as “sufficient” for an association between heat exposure and 
+increased mortality and morbidity in older adults, and “limited” for healthcare costs.
+Conclusion: This review highlights the critical impact of heat exposure on the health of older adults, particularly 
+in different climate zones, and indicates a potential increase in healthcare costs associated with this risk. With the 
+global rise in temperatures and ageing populations, heat-related health risks will continue to increase. Effective, 
+evidence-based interventions, such as tailored heat health action plans that consider individual risk factors, local 
+resources, climatic characteristics and healthcare infrastructure, are crucial to minimise these risks.
+1. Introduction
+The anticipated increase in chronic and acute heat exposure among 
+older adults poses a significant global public health challenge (Falchetta 
+et al., 2024, Liu et al., 2022, Bunker et al., 2016, Liu et al., 2021b, Lee 
+and Kim, 2016). Extreme heat increases mortality and morbidity, 
+particularly in older individuals (Bunker et al., 2016, Faurie et al., 2022, 
+Liu et al., 2021b, Liu et al., 2022, Lee and Kim, 2016, Ciss´e et al., 2022). 
+It also imposes a significant economic burden on healthcare systems, 
+with most healthcare costs attributed to older people (Wondmagegn 
+et al., 2019). Older adults account for a large proportion of overall 
+healthcare costs due to their higher prevalence of chronic diseases and 
+healthcare utilisation (Kallestrup-Lamb et al., 2024, OECD 2023, WHO 
+2025). Age-related comorbidities, medication use, compromised physi-
+ological function, and financial constraints place many older adults at 
+greater risk of the negative health effects of heat exposure (Zhang et al., 
+2016).
+The global population aged 65 years and older is projected to in-
+crease from 761 million in 2021 to about 1.6 billion by 2050 (United 
+Nations, 2023). The Global Burden of Disease Study in 2019, identified 
+cardiovascular diseases, neoplasms, and chronic respiratory diseases, 
+with ischemic heart disease, stroke, COPD, dementia, and lower respi-
+ratory infections as top causes of death among those aged 70 and older 
+(GBD 2019 Ageing Collaborators, 2022). These climatic and de-
+mographic changes will likely lead to increases in both acute and 
+chronic heat-sensitive diseases, presenting significant challenges to 
+healthcare systems (Bunker et al., 2016, United Nations, 2023, Liu et al., 
+2021a, Liu et al., 2021b, Liu et al., 2022).
+Although studies on healthcare costs related to heat exposure are 
+limited, existing literature suggests the economic impact on the 
+healthcare system is substantial (Wondmagegn et al., 2019, Wondma-
+gegn et al., 2021, Lin et al., 2012, Yang et al., 2024, Wang et al., 2021).
+A 2019 systematic review on heat-attributable healthcare costs 
+encompassed ten studies, but only one specifically addressed healthcare 
+costs among older adults (Wondmagegn et al., 2019). Heat-related 
+healthcare expenses include ambulance services, emergency depart-
+ment visits, hospital admissions, medical devices, and diagnostic pro-
+cedures (Wondmagegn et al., 2021, Wondmagegn et al., 2019, Lin et al., 
+2012). Estimating these costs offers an economic viewpoint on the 
+burden of heat-related health effects (Wondmagegn et al., 2019).
+Previous reviews have explored disease-specific heat-associated 
+risks, such as cardiovascular diseases (Liu et al., 2022, Cheng et al., 
+2019), mental health conditions (Liu et al., 2021b, Byun et al., 2024), 
+heat-related illnesses (Faurie et al., 2022), renal diseases (Liu et al., 
+2021a), diabetes (Song et al., 2021) and respiratory diseases (Cheng 
+et al., 2019, Tran et al., 2025), finding older people to be at risk for both 
+mortality and morbidity. However, few systematic reviews focused 
+specifically on older people, quantifying heat-related morbidity and 
+mortality outcomes. A 2016 meta-analysis showed that for every 1◦C 
+increase in temperature, mortality significantly increased for cardio-
+vascular (3.44%), respiratory (3.60%), and cerebrovascular diseases 
+(1.40%). Similarly, a 1◦C increase in temperature was associated with 
+higher morbidity for respiratory diseases (1.65%), diabetes (1.02%), 
+genitourinary diseases (2.12%), and heat-related illnesses (14.83%) 
+(Bunker et al., 2016). A 2011 meta-analysis indicated that individuals 
+aged 65 and older experienced a 2–5% increase in all-cause mortality for 
+each 1◦C rise in temperature (Yu et al., 2012). However, neither meta- 
+analysis assessed the impact of heatwave exposure, explored climatic 
+characteristics, nor conducted risk of bias (RoB), certainty, or strength of 
+evidence assessments.
+A more recent meta-analysis in 2024 specifically investigated mental 
+and neurological outcomes in older adults and included both high 
+temperature and heatwave exposures. It reported elevated risks for 
+mental disorders during heat events and applied a RoB assessment (Byun 
+et al., 2024). However, the analysis did not account for differences 
+across climate zones and income classifications. While systematic re-
+views and meta-analyses have considered the impact of climate vari-
+ability on these associations, the risk of heat-related mortality and 
+morbidity across different climate zones remains unassessed. Other re-
+views synthesised previous findings narratively (Åstr¨om et al., 2011, 
+Kaltsatou A, 2018). Moreover, many studies on the relationship between 
+heat and health have been published since.
+Appendix 1, Tables S2 and S3 provides a systematic identification 
+and mapping of relevant reviews, assessing their scope, methodological 
+characteristics, and the evidence gaps addressed by this review. No 
+previous review has comprehensively synthesised mortality, morbidity, 
+and healthcare cost outcomes in older populations, nor provided strat-
+ified analyses by climate zones or demographic subgroups.
+This systematic review and meta-analysis addresses these gaps by 
+quantifying the effects of heat exposure, including high temperatures 
+and heatwaves, on mortality, morbidity, and healthcare costs among 
+older adults based on available epidemiological evidence. It focuses on 
+specific disease categories according to ICD-10, climate zones, and de-
+mographic factors, while also assessing risk of bias, overall certainty, 
+and strength of the evidence.
+2. Methods
+This systematic review and meta-analysis followed the Preferred 
+Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 
+guidelines (Appendix 1, Table S1) (Page et al., 2021). The protocol for 
+this review was registered with PROSPERO (CRD42023423311).
+The primary research question guiding this systematic review and 
+meta-analysis is framed using the PECO structure (Population, Exposure, 
+Comparator, Outcomes) (Morgan et al., 2018) as follows:
+Among older adults (P), is exposure to high ambient temperatures or 
+heatwaves (E), associated with increased risk of mortality, morbidity, or 
+healthcare costs (O), compared with cooler reference periods or non- 
+heatwave days (C)?
+2.1. Eligibility criteria
+The inclusion and exclusion criteria for study selection were struc-
+tured using the PECOS framework (Morgan et al., 2018), as outlined in 
+Table 1 and explained in detail below. 
+1) Population: Although the United Nations defines older persons as 
+those aged ≥ 60 years, no single age threshold is used consistently 
+across research or policy. In some settings, lower thresholds reflect 
+not only shorter life expectancy but also socio-cultural perceptions of 
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+2 
+
+ageing (United Nations, 2024). This review included studies using 
+definitions of 60 years and above, as well as two studies from low- 
+and lower-middle-income countries, such as Kenya (≥50 years) and 
+Senegal (≥55 years), where lower thresholds aligned with local de-
+mographic and health contexts (United Nations, 2024, Bunker et al., 
+2016). These were included to avoid data loss, as evidence from 
+these regions is limited. Studies were also included if they stratified 
+their analysis for older adults.
+2) Exposure: High ambient temperature and heatwave exposure 
+included short- term exposure to outdoor heat. Eligible exposure 
+metrics included e.g. minimum, maximum, mean, apparent tem-
+perature, heat index, excess heat factor (EHF), and other validated 
+indicators. Exposure could be modelled as continuous (e.g., per 1◦C 
+increase above a reference) or categorical, using thresholds such as 
+temperature percentiles compared to a reference (e.g., 29◦C vs. 
+15◦C), absolute cut-off values (e.g., >35◦C), or defined heatwave 
+periods (e.g., ≥3 consecutive hot days).
+Heatwaves were eligible if defined by the study as a period of un-
+usually high temperatures, typically over consecutive days, or based on 
+statistical models such as the EHF (Nairn and Fawcett, 2015). Threshold 
+definitions varied by study but were required to reflect excess heat 
+conditions compared to local climate norms.
+We excluded studies that only adjusted for temperature as a covar-
+iate, lacked an appropriate comparator, or assessed only cold or 
+compared seasons (e.g., summer vs. winter) without analysing temper-
+ature or heatwaves as defined exposures. Experimental or simulation- 
+based studies, indoor exposures, and self-reported exposure assess-
+ments were also excluded. 
+3) Comparators: Studies that included cooler reference periods or 
+populations not exposed to high temperature or heatwaves, such as 
+non-heatwave days, lower temperature percentiles, or baseline/ 
+reference temperatures defined by the study. Studies without an 
+appropriate comparator or reference condition were excluded.
+4) Outcomes: All-cause and disease-specific mortality and morbidity 
+among older adults during periods of high temperature or heatwaves 
+were included. Morbidity outcomes were eligible if they were linked 
+to healthcare utilisation, such as hospital admissions, emergency 
+department visits, ambulance call-outs, or outpatient visits. Health-
+care cost outcomes were included when directly related to healthcare 
+utilization during heat exposure. Disease classifications followed the 
+ICD-10 system (codes A00–Z99) and encompassed heat-sensitive 
+categories such as cardiovascular, respiratory, renal, genitourinary, 
+metabolic, and heat-related illnesses Studies were included if they 
+reported outcomes on a daily resolution and provided effect esti-
+mates such as relative risk, odds ratio, percent change, or incidence 
+rate ratios with a 95% confidence interval (CI) based on empirical 
+epidemiological data from observed historical health and tempera-
+ture records. We excluded studies reporting only self-reported 
+symptoms, functional performance, or subjective wellbeing, as well 
+as those focusing solely on physiological parameters or biomarkers 
+without associated health outcomes. Studies using simulated, pro-
+jected, or scenario-based data were excluded. Studies reporting in-
+direct, productivity, or mortality costs (e.g., value-of-statistical-life 
+estimations or economic valuations of years of life lost) were also 
+excluded.
+5) Study designs: Eligible studies used observational ecological study 
+designs such as time series, case crossover, or case time-series designs 
+to compare risks over different exposures or time periods. Only peer- 
+reviewed, original studies in English were included. We excluded 
+studies based on self-reported or questionnaire-based exposure or 
+outcome assessment, as well as experimental, simulation-based, or 
+laboratory studies. Also excluded were reviews, editorials, com-
+mentaries, theses, conference abstracts, and non-English 
+publications.
+2.2. Search strategy
+A comprehensive literature search was conducted with guidance 
+from the university librarian across six databases: PubMed, Embase, 
+Web of Science, Scopus, CINAHL, and AgeLine. The search strategy was 
+structured around the PECO framework and applied keywords and 
+Boolean operators covering the following domains (full search terms 
+listed in Appendix 1, Table S4):
+Population (e.g., “Older people”, “Aged”), Exposure/Comparator (e. 
+g., “Heat”, “Hot weather”, “High Temperature”), Outcomes (e.g., 
+“Health outcomes”, “Morbidity”, “Mortality”, “Health care cost”).
+Within each domain, search terms were combined using “OR” to 
+include all relevant variants. These groups were then connected using 
+the “AND” operator.
+Pilot testing of the search strategy was conducted during its devel-
+opment. Based on preliminary findings, outcome-related terms were 
+refined to include specific morbidity indicators such as hospitalisation, 
+ambulance call-out, emergency department visits, and outpatient visits.
+To assess the completeness and validity of the search, we reviewed 
+the reference lists of 25 relevant systematic reviews identified through 
+targeted searches (Appendix 1, pp. S3–S12). This step helped identify 
+additional eligible primary studies not retrieved through the initial 
+search and confirmed adequate conceptual coverage.
+The final search was conducted for studies published between 
+January 1, 1990, and May 31, 2023. An updated search was performed 
+on March 15, 2025, to capture newly published literature.
+2.3. Study selection and data extraction
+All retrieved articles from the six databases were imported into 
+EndNote (The EndNote Team, 2013), and duplicates were automatically 
+Table 1 
+Inclusion and exclusion criteria based on the PECOS Framework.
+Element Inclusion criteria Exclusion criteria
+Population Older adults ≥ 60 years; 
+any sex, ethnicity, or geographic 
+location.
+Populations < 60 years; non- 
+human studies; populations 
+limited to specific pre-existing 
+conditions.
+Exposure High ambient temperatures and 
+heatwaves, as defined by each 
+study (e.g., maximum 
+temperature, apparent 
+temperature, heat index).
+Studies where temperature 
+was not the main exposure; 
+studies focused only on cold or 
+compared seasons (e.g., 
+summer vs. winter) without 
+analysing temperature or 
+heatwaves as defined 
+exposures; simulated, 
+experimental, or indoor 
+temperature exposures.
+Comparator 
+(s)/control:
+Cooler reference periods, non- 
+heatwave days, reference 
+temperatures with minimum 
+risk of morbidity or mortality.
+Studies lacking a comparator 
+or reference period.
+Outcome(s): All-cause and disease-specific 
+mortality and morbidity 
+outcomes (ICD-10 codes 
+[A00–Z99], morbidity linked to 
+healthcare utilisation; 
+healthcare costs specified as 
+costs related to healthcare 
+utilisation during heat exposure.
+Studies reporting only self- 
+reported symptoms, subjective 
+wellbeing, or functional 
+performance tests.
+Study Design: Observational epidemiological 
+studies using time-series, case- 
+crossover, or case time-series 
+designs. Peer-reviewed journal 
+articles published in English.
+Self-reported or questionnaire- 
+based temperature exposure or 
+health outcomes. 
+Experimental, lab-based or 
+simulation studies; reviews, 
+editorials, conference 
+abstracts, theses, or grey 
+literature. Non-English 
+publications.
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+3 
+
+identified based on combinations of author names, publication year, 
+article title, DOI, and journal information and each flagged record was 
+manually reviewed and duplicates removed.
+The screening of titles, abstracts and full texts was conducted in a 
+two-stages: initial title and abstract screening to remove irrelevant re-
+cords, followed by full-text review for eligibility. Screening was per-
+formed by four authors (SG, BMV, DB, JLiu) through a double-blind 
+independent screening process using Rayyan (Ouzzani et al., 2016). An 
+overall inter-reviewer agreement rate of 96% was achieved, and dis-
+crepancies were resolved through a third reviewer. Eight authors (SG, 
+BMV, DB, YL, MB, JLi, YH, YS) independently extracted and cross- 
+checked the data from each study into a customised form. Any in-
+consistencies were resolved through discussion and cross-verification 
+among reviewers. The extracted data included the following: author, 
+year, location, study period, study design, exposure measurements, 
+confounders, statistical models, effect estimates with corresponding 
+95% CIs.
+All relevant effect estimates were collected from studies. Risk esti-
+mates were obtained from texts, tables, appendices or graphical data 
+using WebPlotDigitizer (Rohatgi, 2017). Additionally, national income 
+levels were recorded based on World Bank data (World Bank, 2024). 
+Climate zones were identified using the K¨oppen–Geiger classification 
+system (Peel et al., 2007).
+2.4. Risk of bias assessment
+The RoB for individual studies was assessed using a modified version 
+of the Office of Health Assessment and Translation (OHAT) RoB Tool, 
+following the Navigation Guide for systematic reviews in environmental 
+health (OHAT, 2019, Liu et al., 2022, Johnson et al., 2014). Each study 
+was evaluated across eight domains: exposure assessment, outcome 
+assessment, confounding, selection bias, incomplete or missing data, 
+selective reporting, conflict of interest, and other sources of bias. For 
+each domain, risk was rated as “low,” “probably low,” “probably high,” 
+or “high” risk based on pre-specified criteria (Appendix 1, Table S5). The 
+intermediate categories (“probably low” and “probably high”) were 
+applied when information was insufficient for a definitive judgment but 
+provided indirect evidence toward lower or higher risk, respectively, 
+consistent with Navigation Guide conventions. The overall RoB was 
+determined based on three key domains: exposure, outcome, and con-
+founding (Liu et al., 2022). The rationale for overall bias ratings is 
+provided in Appendix 1, Table S6.
+Six reviewers (SG, YL, MB, JLi, YH, YS) independently conducted 
+RoB assessments and resolved disagreements through discussion.
+2.5. Synthesis of the evidence
+Study findings were synthesised both quantitatively and narratively. 
+A DerSimonian and Laird random-effects meta-analysis was conducted 
+(DerSimonian and Laird, 1986) to pool effect estimates from studies that 
+provided relative risk (RR), odds ratio (OR), incidence rate ratio (IRR), 
+or other effect estimates that could be converted to RR (e.g. percentage 
+change or excess risk) (DerSimonian and Laird, 1986).
+For high temperature exposures, estimates were converted to RR per 
+1◦C increase above the study-specific reference temperature when 
+studies reported temperature contrasts or increments other than 1◦C 
+(Liu et al., 2022). This standardisation/conversion assumed a log‑linear 
+relationship within the high‑temperature range and was used as a sta-
+tistical scaling to improve comparability across studies, recognising that 
+a 1◦C increase in different metrics does not necessarily represent the 
+same underlying physical change in thermal exposure.
+Separate meta-analyses were performed for heatwave studies, pool-
+ing RRs of outcomes during heatwave versus non– heatwave periods. 
+Heatwave definitions varied widely across studies in terms of tempera-
+ture thresholds and durations. To account for this variability, subgroup 
+analyses were performed by heatwave intensity   low (90th–93rd 
+percentile), middle (94th–96th percentile), and high (97th–99th 
+percentile) (Liu et al., 2022)   as well as durations (e.g. ≥ 2 days, ≥3 
+days, ≥4 days).
+Studies reporting high temperature exposure using categories or 
+percentiles only (e.g. 95th vs. 50th percentile, or 99th (34◦C) vs. refer-
+ence temperature) without reporting the corresponding absolute tem-
+perature were included in a secondary meta-analysis (Appendix 1, 
+Tables S16 and S17) in which effect estimates were pooled as reported.
+Subgroup analyses were performed when four or more estimates 
+were available to explore variations in disease outcomes, demographic 
+factors, national income levels, K¨oppen-Geiger climate zones (Peel et al., 
+2007), continents and healthcare utilisation outcomes. Disease out-
+comes were categorised using the International Classification of Dis-
+eases, Tenth Edition (ICD-10) nomenclature and hierarchy.
+For the studies that reported multiple estimates for either individual 
+lag days (e.g. lag 0, 1, 2) or age groups (e.g. 60–85, ≥ 85 years) without 
+providing an overall estimate, these estimates were combined into a 
+single study-specific effect using an inverse-variance fixed-effect meta- 
+analysis. Effect estimates were first transformed to the log scale and 
+weighted by the inverse of their variance to obtain one overall estimate 
+per study for inclusion in the main analysis (Liu et al., 2022, Liu et al., 
+2021b, Byun et al., 2024, Higgins et al., 2024). Multi-location studies 
+included estimates from all locations for pooled effects (Liu et al., 2022).
+For outcomes that could not be statistically pooled (i.e., health care 
+costs), a narrative synthesis was performed. This included a structured 
+summary of the direction, magnitude, and precision of reported effect 
+estimates, in line with recommendations (Popay et al., 2005).
+Heterogeneity was assessed using Cochrane's Q and Higgins’ I2 sta-
+tistics, with I2 values categorised as low (0–25%), moderate (26–74%), 
+and high (≥75%) (Higgins et al., 2003). Additionally, 80% prediction 
+intervals (PI) were used to estimate the range within which the true RR 
+for future studies is likely to fall, with severe heterogeneity indicated if 
+the 80% PI included the null effect and was more than twice the width of 
+the 95% CIs (IntHout et al., 2016).
+Publication bias was evaluated using Egger's test, funnel plots (Egger 
+et al., 1997), and the trim-and-fill method (Duval and Tweedie, 2004). A 
+univariate meta-regression analysis was performed to explore study- 
+level characteristics that may explain between-study heterogeneity in 
+effect sizes (Liu et al., 2022, Bown and Sutton, 2010, Deeks et al., 2024). 
+The variables tested included K¨oppen-Geiger climate group, lag effects, 
+age group, sex, continent, hemisphere, heatwave intensity and duration, 
+and income classification.
+Sensitivity analyses were undertaken by categorising studies ac-
+cording to temperature metrics, study design, lag periods, overall RoB 
+rating, seasonal variations (warm season vs. whole year), air pollution 
+and humidity adjustment, as well as modelling approach (non-linear or 
+linear) (Liu et al., 2022). Leave-one-out analyses were used to assess the 
+impact of individual studies on pooled RRs.
+Statistical analyses were carried out using R software (version 4.4.1) 
+(R Core Team, 2024) with the package metafor (Viechtbauer, 2010).
+2.6. Certainty of the evidence
+The certainty of the evidence was assessed following the Navigation 
+Guide for systematic reviews of observational studies in environmental 
+health (Johnson et al., 2014, Johnson et al., 2016). This process involved 
+three steps, with the first step—Risk of Bias (RoB) asses-
+sment—described in Section 2.4.
+2) The certainty of evidence across studies was assessed using the 
+Grading of Recommendations, Assessment, Development, and Evalua-
+tion (GRADE) framework (Guyatt et al., 2011). Evidence for each 
+exposure–outcome pair was initially rated as “moderate” and could be 
+downgraded for domains such as risk of bias, inconsistency, indirect-
+ness, imprecision, and publication bias. It could be upgraded based on 
+evidence for a dose–response relationship, large magnitude of effect, or 
+residual confounding that would likely attenuate the observed 
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+4 
+
+association. The final certainty rating was assigned as “high”, “moder-
+ate”, or “low”, based on the net impact of downgrading and upgrading 
+(Johnson et al., 2014, Johnson et al., 2016). The decision rules and 
+justifications for these adjustments are provided in Appendix 1, 
+Table S7, which are also described in detail elsewhere (Johnson et al., 
+2014, Johnson et al., 2016).
+3) The overall strength of the evidence was determined by combining 
+certainty assessments with consistency of findings and confidence in 
+estimated effects. Evidence was categorized as “sufficient,” “limited,” or 
+“inadequate,” following the Navigation Guide framework (Johnson 
+et al., 2014, Johnson et al., 2016).
+3. Results
+3.1. Study selection and characteristics
+The database searches retrieved 21,610 records. After filtering non- 
+English, non-human or non-journal articles and removing duplicates 
+12,131 records remained for title and abstract screening. Most records 
+were excluded at this stage as they were unrelated to heat exposure and 
+health outcomes, were the wrong publication type or not based on 
+human data. Hence, 812 studies were assessed in full text. A further 210 
+studies were excluded, primarily due to irrelevant outcomes or expo-
+sures, unsuitable study design, or populations outside the inclusion 
+criteria (see Fig. 1 for details). An additional 21 studies were identified 
+through the screening of 25 relevant systematic reviews, which had been 
+retrieved via database searches and included data on older adults, sug-
+gesting the primary search was comprehensive. In total, 623 studies met 
+the inclusion criteria (see Fig. 1).
+Table 2 provides an overview of the 623 included studies, cat-
+egorised by exposure type and reported outcome.
+A random-effects meta-analysis was conducted for morbidity and 
+mortality outcomes in relation to high temperature and heatwave 
+exposure (n = 578). An additional 43 studies, which reported high 
+temperature effects using non-standardizable exposure metrics (e.g. 
+high temperature vs. study-defined reference such as minimum risk or 
+percentile-based values), were synthesised in a supplementary meta- 
+analysis (Appendix 1, Tables S16 and S17).
+A meta-analysis for healthcare costs was not feasible due to the 
+limited number of eligible studies. Four studies reported healthcare 
+costs; two of them also contributed to the meta-analysis as they reported 
+morbidity and heat exposure outcomes alongside cost estimates, while 
+two were included in the narrative synthesis only. Key findings from all 
+included studies are summarised in the supplementary material
+(Appendix 2).
+The included studies were published between 1995 and 2025 and 
+were conducted across Asia, Africa, Australia, Europe, North America, 
+and South America. There were 154 location-specific studies for mor-
+tality and 151 for morbidity, which could be classified by the K¨oppen- 
+Geiger climate zones: A (tropical), B (arid), C (temperate–including 
+Mediterranean, Oceanic, and subtropical climates), D (continental), and 
+E (polar) (Peel et al., 2007). Most studies were conducted in temperate 
+(C) and continental (D) climates, primarily across North America, 
+Europe, and East Asia (Fig. 2). A complete list of all study countries and 
+locations is provided in Appendix 1, Table S8.
+3.2. Risk of bias
+The risk of bias assessment was low for 159 studies (27.4%), prob-
+ably low for 380 studies (65.5%), probably high for 40 studies (6.9%), 
+and high for 1 study (0.2%).
+Studies were assessed across eight bias domains using a modified 
+Fig. 1. PRISMA flow diagram of literature search and study inclusion.
+Table 2 
+Overview of exposure and outcome from included studies.
+Exposure Outcome Number of Studies
+High Temperatures Mortality 221
+Morbidity 224
+Health Care Costs 3
+Heatwaves Mortality 95
+Morbidity 73
+Health Care Costs 1
+Note: The same study may appear in multiple outcome categories if it reported 
+on more than one health and exposure outcome.
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+5 
+
+OHAT tool, as described in Section 2.4. Overall, most studies showed 
+low or probably low RoB in outcome assessment, selection bias, missing 
+data, selective reporting, conflict of interest, and other sources of bias. 
+However, higher RoB was frequently observed for exposure assessment 
+and confounding bias, often due to the use of single monitoring stations 
+for a large geographical area, lack of population weighting, or inade-
+quate adjustment for critical time-varying confounders such as season-
+ality or humidity.
+This pattern held across most exposure–outcome categories, with the 
+majority of studies rated as low or probably low overall RoB, and only a 
+small proportion judged as probably high or high. Summary plots were 
+created using the Risk of Bias Visualization Tool (ROBVIS) to illustrate 
+the percentage of RoB ratings across domains for each exposur-
+e–outcome combination (Fig. 3) (McGuinness and Higgins, 2020). The 
+full RoB for each individual study, along with the assessment criteria, 
+are presented in (Appendix 3).
+3.3. Synthesis of high temperature effects
+Overall, a 1◦C rise in temperature increased morbidity (RR 1.016 
+[CI95% 1.012–1.019]) (Fig. 4) and mortality (RR 1.022 [CI95% 
+1.020–1.024]) among older individuals (Fig. 5). The highest morbidity 
+risks were linked to heat-related illnesses (RR 1.228 [CI95% 
+1.155–1.307]), external causes (RR 1.109 [CI95% 1.071–1.149]), and 
+endocrine diseases (RR 1.035 [CI95% 1.010–1.059]), while cardiovas-
+cular, digestive, infectious, and mental diseases showed no significant 
+associations. Individuals aged ≥ 85 years, those in tropical climates, 
+lower-middle-income countries, and residents of Asia experienced the 
+largest increases in morbidity per 1◦C rise (Fig. 4).
+Mortality risk was mostly elevated for intentional self-harm (RR 
+1.068 [CI95% 1.026–1.113]), external causes (RR 1.039 [CI95% 
+1.016–1.063]), COPD (RR 1.038 [CI95% 1.001–1.076]), cerebrovascu-
+lar (RR 1.031 [CI95% 1.012–1.049]), respiratory (RR 1.029 [CI95% 
+1.019–1.039]) and cardiovascular diseases (RR 1.021 [CI95% 
+1.014–1.027]) (Fig. 5).
+The overall test of heterogeneity was statistically significant for 
+continent (QM (df = 5) = 24.8609, p = 0.0001, I2 = 0.0%), age group 
+(QM (df = 2) = 11.7780, p = 0.0028, I2 = 0.0%), and hemisphere (QM 
+(df = 1) = 11.3437, p = 0.0008), suggesting that these factors may 
+significantly modify the association between high temperatures and 
+mortality. Among continents, Australia showed the strongest increase in 
+mortality (RR 1.075 [95% CI 1.052–1.098], p < 0.0001), followed by 
+Europe (RR 1.019 [95% CI 1.012–1.027], p < 0.0001) Asia (RR 1.010 
+[95% CI 1.002–1.018], p = 0.0129), and North America (RR 1.009 [95% 
+CI 1.002–1.015], p = 0.0069).
+Age-stratified effects showed significantly increased mortality for the 
+reference group aged 60–74 years (RR 1.015 [95% CI 1.009–1.022], p <
+0.0001) and those aged ≥ 85 years (RR 1.018 [95% CI 1.008–1.029], p 
+= 0.0006).
+Hemispheres showed significantly elevated mortality risks. The 
+Northern Hemisphere (reference) had an effect estimate of RR 1.021 
+[95% CI 1.018–1.024], p < 0.0001, while the Southern Hemisphere 
+showed a comparable effect (RR 1.021 [95% CI 1.009–1.033], p =
+0.0008) (Appendix 1, Table S9).
+Fig. 2. Distribution of the 305 location-specific studies by exposure and outcome (a: Morbidity, b: Mortality) across the K¨oppen-Geiger climate zones. The map was 
+created using a high-resolution (1 km*1km) K¨oppen-Geiger climate classification map (Beck et al., 2023).
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+6 
+
+Fig. 3. Percentage distribution of Risk of Bias ratings across each bias domain for each exposure-outcome combination.
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+7 
+
+3.4. Synthesis of heatwave effects
+Heatwaves significantly amplified morbidity (RR 1.189 [CI95% 
+1.146–1.233]), with the most substantial increases during moderate- 
+intensity heatwaves (RR 1.229 [CI95% 1.078–1.401]) and heatwaves 
+lasting for ≥ 2 days (RR 1.212 [CI95% 1.137–1.292]) (Fig. 6). The 
+largest increases were observed for external causes (RR 2.371 [CI95% 
+1.764–3.187]), and heat-related illnesses (RR 3.693 [CI95% 
+2.361–5.778]). High risks were also noted for endocrine diseases (RR 
+1.176 [CI95% 1.077–1.285]), fluid and electrolyte disorders (RR 1.155 
+[CI95% 1.057–1.262]) and renal failure (RR 1.146 [CI95% 
+1.041–1.262]). Subtropical climates, Australia, and high-income coun-
+tries experienced the greatest morbidity risks. (See Fig. 6)
+Meta-regression identified age group as a significant risk factor (QM 
+(df = 2) = 7.9391, p = 0.0189, I2 = 94.82%). The highest morbidity risk 
+was observed in the 75–84 age group (RR 1.513 [95% CI 1.103–2.074], 
+p = 0.0101), compared to the reference group (60–74 years). No sig-
+nificant difference was found for individuals aged ≥ 85 years (RR 0.953 
+[95% CI 0.792–1.147], p = 0.6106). However, the limited number of 
+studies (n = 7) for the 75–84 group may affect reliability. Heatwave 
+duration was also a significant moderator (QM (df = 3) = 15.4454, p =
+0.0015, I2 = 91.53%,), although longer events (≥3–≥4 days) did not 
+Fig. 4. Random-effects meta-analysis results showing change in RR and 95% CIs per 1◦C increase in temperature for morbidity among older adults in different 
+groups. k = the number of effects estimates; 95% CIs = 95% Confidence interval, I2 = heterogeneity statistic; p-value = statistical significance of heterogeneity. 
+Yellow markers indicate statistically significant associations; grey markers indicate non-significant associations.
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+8 
+
+show additional risk compared with shorter (≥2-day) heatwaves. 
+Hemisphere significantly explained variation in morbidity effect sizes 
+across studies (QM (df = 1) 7.4009, p = 0.0065, I2 = 97.56%), with 
+higher morbidity observed in the Southern Hemisphere (RR 1.175 [95% 
+CI 1.046–1.320], p = 0.0065) (Appendix 1, Table S10).
+Mortality rose (RR 1.117 [CI95% 1.105–1.129]) during heatwaves, 
+with the highest increases occurring during high-intensity heatwaves 
+(RR 1.165 [CI95% 1.132–1.200]) and heatwaves lasting for ≥ 5 days 
+(RR 1.309 [CI95% 1.195–1.434]). Strong risks were noted for cer-
+ebrovascular (RR 1.295 [CI95% 1.152–1.455]), respiratory diseases (RR 
+1.146 [CI95% 1.082–1.214]) and endocrine diseases (RR 1.149 [CI95% 
+1.067–1.238]). Elevated risks were also noted for diabetes, cardiovas-
+cular and ischaemic heart diseases. Europe and tropical climates showed 
+the highest mortality risks (See Fig. 7).
+Meta-regression showed significant effect modification by age group 
+(QM (df = 2) = 38.0204, p < 0.0001, I2 = 32.09%), continent (QM (df =
+5) = 22.3333, p = 0.0005, I2 = 70.46%), and income classification (QM 
+(df = 2) 24.2293, p < 0.0001, I2 = 72.57%). Mortality risk was highest 
+in adults ≥ 85 years (RR 1.182 [95% CI 1.120–1.247], p < 0.0001), 
+followed by the reference group aged 60–74 years (RR 1.082 [95% CI 
+1.053–1.111], p < 0.0001) and those aged 75–84 years (RR 1.080 [95% 
+CI 1.010–1.155], p = 0.0243). Across continents, the largest effect was 
+observed in Africa (RR 1.461 [95% CI 1.130–1.889], p = 0.0038),fol-
+lowed by Europe (RR 1.100 [95% CI 1.041–1.161], p = 0.0006) and Asia 
+(RR 1.066 [95% CI 1.017–1.118], p = 0.0076) compared with North 
+America (reference: RR 1.057 [95% CI 1.017–1.099], p = 0.0052). High- 
+income countries showed a significant association with heatwave- 
+related mortality (RR 1.079 [95% CI 1.056–1.103], p < 0.0001), as 
+did upper-middle-income countries (RR 1.098 [95% CI 1.058–1.140], p 
+< 0.0001). Heatwave duration was also a significant moderator (QM (df 
+= 3) = 15.2109, p = 0.0016, I2 = 78.61%); longer events (≥4–≥5 days) 
+were associated with higher mortality (Appendix 1, Table S10).
+3.5. Synthesis of healthcare cost outcomes
+Across the four identified studies (Table 3), two were conducted in 
+high-income countries, the United States (Lin et al., 2012) and Australia 
+(Wondmagegn et al., 2021), and two in an upper-middle-income coun-
+try, China (Yang et al., 2024, Wang et al., 2021)
+Wondmagegn et al. (2021) was the only study that assessed heat-
+waves, using the Excess Heat Factor, and reported significant increases 
+in emergency department visits and large attributable costs among 
+adults aged ≥ 65 years in Adelaide, with higher costs during severe 
+events.
+Fig. 5. Random-effects meta-analysis results showing change in RR and 95% CIs per 1◦C increase in temperature for mortality among older adults in different groups. 
+k = the number of effects estimates; 95% CIs = 95% Confidence interval, I2 = heterogeneity statistic; p-value = statistical significance of heterogeneity. Yellow 
+markers indicate statistically significant associations; grey markers indicate non-significant associations.
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+9 
+
+The remaining three studies applied continuous temperature metrics 
+to examine incremental cost increases per degree or percentile change. 
+Lin et al. (2012) found significant increases in respiratory hospital-
+isations and inpatient costs with higher apparent temperature in New 
+York State, with greater excess costs in those aged ≥ 75 years compared 
+with 65–74 years. (Yang et al., 2024) reported higher daily medical costs 
+for ureteral calculi with increasing mean temperature in Nanjing.
+Wang et al. (2021), analysing 17 sites across China, found small 
+variations in relative risks across age groups and cost types for emer-
+gency department visits. Examination costs were slightly elevated 
+among adults aged 60–74 years but lower among those ≥ 75 years, while 
+medication costs showed the opposite pattern, with small increases 
+observed in the older group.
+Overall, heat exposure was generally associated with higher 
+healthcare costs among older adults, although the magnitude and di-
+rection of effects varied by exposure metric, health service type, and age 
+group.
+3.6. Certainty of evidence
+Following the Navigation Guide guidelines for observational studies 
+(Johnson et al., 2014), an initial “moderate” certainty rating was 
+Fig. 6. Random-effects meta-analysis results showing change in RR and 95% CIs during heatwaves for morbidity among older adults in different groups. k = the 
+number of effects estimates; 95% CIs = 95% Confidence interval, I2 = heterogeneity statistic; p-value = statistical significance of heterogeneity. Yellow markers 
+indicate statistically significant associations; grey markers indicate non-significant associations.
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+10 
+
+assigned to the evidence, with potential of downgrading or upgrading 
+based on the certainty factors outlined in Table 4.
+The overall certainty of evidence for mortality and heat exposure was 
+not downgraded for any factors. High temperatures had no observed 
+heterogeneity (I2 = 0%, p = 0.547) and heatwaves moderate heteroge-
+neity (I2 = 72.2%, p < 0.0001).
+Morbidity studies were downgraded for inconsistency due to high 
+heterogeneity, as indicated by both I2 (high temperatures: I2 = 84.1%, p 
+< 0.0001, 80% PI (0.963–1.072); heatwaves: I2 = 97.6%, p < 0.0001, 
+80% PI (0.766–1.845) and 80% prediction intervals which included 
+unity. For these domains, downgrading reflected substantial 
+heterogeneity that remained unexplained after considering a wide range 
+of a priori subgroup and meta‑regression analyses (summarised in Ap-
+pendix 1, Tables S9-S13), together with prediction intervals indicating 
+that future studies could plausibly include either changes in the 
+magnitude of the effect estimates or null effects.
+Evidence certainty for heat exposure for mortality and morbidity was 
+upgraded for showing an exposure–response gradient.
+Heat exposure and healthcare costs were downgraded for inconsis-
+tency and imprecision due to the limited available studies, reflecting the 
+small number of estimates and the resulting statistical uncertainty in the 
+pooled effects. Although both studies showed a dose–response 
+Fig. 7. Random-effects meta-analysis results showing change in RR and 95% CIs during heatwaves for mortality among older adults in different groups. k = the 
+number of effects estimates; 95% CIs = 95% Confidence interval, I2 = heterogeneity statistic; p-value = statistical significance of heterogeneity. Yellow markers 
+indicate statistically significant associations; grey markers indicate non-significant associations.
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+11 
+
+relationship, no upgrading occurred due to the small number of avail-
+able studies.
+No exposure–outcome domain was upgraded for “large magnitude of 
+effect,” as pooled relative risks for high temperatures and heatwaves 
+were consistently below conventional Navigation Guide/GRADE 
+thresholds for very large effects.
+The overall certainty of evidence was rated high for mortality, 
+moderate for morbidity, and low for healthcare costs (Table 4). Leave- 
+one-out sensitivity analysis showed no significant changes to the 
+pooled estimates for heat exposure and morbidity or mortality out-
+comes. Sensitivity analyses demonstrated consistency in both the di-
+rection and magnitude of the associations across the studies (Appendix 
+1, Tables S11-S14).
+The overall strength of evidence was rated as “sufficient” for the 
+association between heat exposure and increased both mortality and 
+morbidity among older people, based on numerous well-designed 
+studies demonstrating a positive association, with reasonable confi-
+dence that chance, bias, and confounding factors have been ruled out as 
+explanations. It is unlikely that future research will significantly alter 
+this conclusion to null or statistically insignificant.
+For healthcare costs and heat exposure, the evidence was rated as 
+“limited” due to reliance on the limited number of studies, meaning 
+future research could significantly alter these findings. (See Table 4)
+4. Discussion
+4.1. Key findings
+To the best of our knowledge, this systematic review provides the 
+largest and most comprehensive overview to date of the global epide-
+miological evidence on heat exposure and its health effects on older 
+adults. Encompassing 623 studies from six continents and 305 locations 
+Table 3 
+Summary of included studies on health care costs of heatwaves and high temperatures.
+Study Location Study 
+Period
+Study Design & 
+Statistical methods
+Exposure Outcome Age Main Findings
+Lin et al. 2012 New York 
+State, USA
+1991–2004 TS, Generalized 
+Additive Model with 
+Poisson distribution
+Apparent 
+temperature, per 1◦F 
+(≈0.56◦C) degree 
+increase > 90◦F 
+(32.2◦C)
+Respiratory 
+hospitalisations; direct 
+inpatient costs
+65–74, 
+≥75
+Age 65–74 years: RR 1.16, 24 excess 
+admissions, US$ 199,609 in excess 
+hospitalisation costs per year. 
+Age ≥ 75 years: RR 1.17, 27 excess 
+admissions, US$ 236,496 in excess 
+hospitalisation costs per year.
+Wondmagegn 
+et al. 2021
+Adelaide, 
+Australia
+2014–2017 TS, Generalized 
+Linear Model 
+combined with a 
+Distributed Lag Non- 
+linear Model
+Heatwaves, Excess 
+Heat Factor
+All-cause emergency 
+department (ED) visits; 
+direct medical ED costs
+≥65 Low-intensity heatwaves (EHF =
+0.01–37.4 K2): RR 1.08 (95% CI 
+1.02–1.14); AU$ 242,800 (95% eCI 
+37,000–440,000). 
+Severe heatwaves (EHF = 37.5–98.6 
+K2): RR 1.31 (95% CI 1.05–1.62); AU$ 
+289,300 (95% eCI 101,600–484,100). 
+All heatwaves (EHF = 0.01–98.6 K2): 
+Total attributable ED cost = AU$ 
+530,100 (95% eCI 160,200–890,400).
+Yang et al. 
+2024
+Nanjing, 
+China
+2013–2017 TS, Distributed Lag 
+Non-linear Model 
+with Poisson 
+regression
+Mean temperature 
+per 1◦C increase
+Hospitalisations and 
+medical costs for ureter 
+calculus
+≥65 Increased daily medical costs for 
+ureteral calculi RR 1.06 (95% CI 
+0.97–1.17); total medical costs for older 
+adults were 48.26 million CNY, with an 
+average cost per admission of 15.62 ±
+15.77 thousand CNY.
+Wang et al. 
+2021
+17 sites, 
+China
+2014–2018 TS, Generalized 
+Additive Model with 
+Poisson regression
+Mean temperature, 
+95th vs 50th 
+percentile 
+temperature
+All-cause ED visits; 
+direct medical costs 
+(examination +
+medication)
+60–74, 
+≥75
+Examination costs: RR 1.01 (95% CI 
+0.92–1.12) for ages 60–74; RR 0.90 
+(95% CI 0.77–1.06) for ≥ 75. 
+Medication costs: RR 0.97 (95% CI 
+0.88–1.08) for ages 60–74; RR 1.04 
+(95% CI 0.90–1.21) for ≥ 75. 
+National ED visits costs (not age 
+specific) 274 million CNY (95% CI 
+95–437 million).
+Table 4 
+Summary of the certainty and strength ratings of the body of evidence on the influence of high temperatures and heatwaves on mortality, morbidity, and healthcare 
+costs.
+High temperature studies Heatwave studies
+Morbidity Mortality Health Care Costs Morbidity Mortality Health Care Costs
+Initial rating Moderate Moderate Moderate Moderate Moderate Moderate
+Certainty of evidence assessment
+Down grading factors
+Risk of bias across studies 0 0 0 0 0 0
+Indirectness 0 0 0 0 0 0
+Inconsistency   1 0   1   1 0   1
+Imprecision 0 0   1 0 0   1
+Publication Bias 0 0 0 0 0 0
+Upgrading factors
+Large magnitude of effect 0 0 0 0 0 0
+Dose response +1 +1 0 +1 +1 0
+Confounding minimises effect estimates 0 0 0 0 0 0
+Summary of the certainty assessment Moderate High Low Moderate High Low
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+12 
+
+classified according to the K¨oppen-Geiger, this review provides an 
+updated synthesis and quantifies mortality and morbidity effects from 
+heat exposure across different climate zones, demographic factors, and 
+income classifications, while offering a narrative synthesis of healthcare 
+costs due to limited available data. Most importantly, it identifies and 
+quantifies disease-specific mortality and morbidity outcomes for older 
+individuals. This review also stratified outcomes by sex and within older 
+age groups (e.g., 60–74, 75–84, and ≥ 85 years), to better understand 
+who is most at risk.
+Morbidity increased by 1.6% (95% CI:1.2–1.9) per 1◦C rise in tem-
+perature and by 18.9% (95% CI:14.6–23.3) during heatwaves, with 
+notable elevations in heat-related illnesses and external causes for both 
+exposures. Mortality rose by 2.2% (95% CI: 2–2.4) per 1◦C increase and 
+by 11.7% (95% CI:10.5–12.9) during heatwaves. The leading causes of 
+excess risk differed by exposure but were highest for external causes 
+including heat-related illnesses and intentional self-harm, as well as 
+cerebrovascular and endocrine diseases.
+Only four studies quantified the economic burden of heat on 
+healthcare systems, showing significant cost increases for emergency 
+department visits, respiratory admissions and ureter calculus hospital-
+isations (Wondmagegn et al., 2021, Lin et al., 2012, Yang et al., 2024, 
+Wang et al., 2021).
+4.2. Context with previous evidence
+The health impacts of extreme heat on older adults are widely rec-
+ognised, yet age-specific quantitative syntheses remain scarce. Only few 
+systematic reviews have specifically concentrated on older adults, 
+providing quantitative analyses of heat-related disease and mortality 
+outcomes. Bunker et al. undertaken in 2016, is the only systematic re-
+view to date that meta-analysed 37 studies to quantify cause-specific 
+heat effects on both mortality and morbidity across multiple disease 
+categories in older populations. They found that per 1◦C increase in 
+temperature, mortality increased by 3.44% (95% CI: 3.10–3.78) for 
+cardiovascular, 3.60% (95% CI: 3.18–4.02) for respiratory, and 1.40% 
+(95% CI: 0.06–2.75) for cerebrovascular diseases. For morbidity, the 
+largest increases were observed for heat-related illnesses (14.83%, 95% 
+CI: 8.22–21.84), respiratory diseases (2.76%, 95% CI: 1.51–4.03), dia-
+betes (1.02%, 95% CI: 0.43–1.62), and acute renal failure (2.12%, 95% 
+CI: 1.59–2.65). However, the effects of heatwaves were not investigated, 
+nor were risk of bias evaluations or climatic and geographic variability 
+addressed.
+A recent systematic review and meta-analysis by Byun et al. (2024)
+synthesised evidence on high temperatures and heatwaves in relation to 
+mental and neurological outcomes, including studies with older pop-
+ulations. Their meta-analysis of five studies found that each 1◦C increase 
+in temperature was associated with an increase in hospital visits for 
+mental disorders (RR: 1.014, 95% CI: 1.001–1.026). For heatwaves, the 
+pooled effect estimates showed a rise in hospital visits (RR: 1.269, 95% 
+CI: 1.030–1.564), while mortality from mental disorders showed a 
+similar pattern (RR: 1.266, 95% CI: 0.956–1.678), although this was not 
+statistically significant. The review also identified substantial method-
+ological heterogeneity across studies, especially regarding heatwave 
+definitions and temperature thresholds.
+Furthermore, a 2012 meta-analysis estimated a 2–5% rise in all-cause 
+mortality per 1◦C among those ≥ 65 years (Yu et al., 2012) and narrative 
+reviews have reported consistent heat-wave–related increases in car-
+diovascular and respiratory mortality (Åstr¨om et al., 2011, Kaltsatou A, 
+2018).
+Our updated findings are broadly consistent with previous system-
+atic reviews and show similar magnitudes for key outcomes in older 
+populations, particularly for cardiovascular, respiratory, and cerebro-
+vascular conditions. Notably, we also identified additional cause- 
+specific risks, including e.g. external causes, intentional self-harm, 
+digestive diseases, COPD, asthma, and dementia/Alzheimer’s disease, 
+that were not previously synthesised. These likely reflect both the 
+expansion in the available evidence and a growing recognition of non- 
+traditional heat-related health outcomes.
+Overall, our pooled estimate of a 2.2% (95% CI: 2–2.4) increase in 
+mortality per 1◦C rise in temperature falls within the 2–5% range re-
+ported by Yu et al (2012).
+These differences in outcomes may be explained by the substantially 
+larger number of included studies, many using recent multi-city datasets 
+with adaptive threshold modelling and the inclusion of a broader, more 
+up-to-date evidence base. This reflects the expanded scope of available 
+research and captures a wider spectrum of heat-related morbidity and 
+mortality, including more recent and previously underrepresented 
+health outcomes.
+Despite growing evidence on the health risks of heat, studies quan-
+tifying the economic burden remain sparse. A 2019 systematic review 
+identified only 10 studies on heat-related healthcare costs, with just one 
+focusing specifically on older adults (Wondmagegn et al., 2019). Re-
+ported costs included ambulance services, emergency department visits, 
+hospital admissions, medical devices, and diagnostic procedures 
+(Wondmagegn et al., 2021, Lin et al., 2012, Yang et al., 2024, Wang 
+et al., 2021). These data suggest that the economic impact of extreme 
+heat on healthcare systems is substantial yet under-investigated in older 
+populations.
+Our review identified only three studies quantifying healthcare costs 
+in the context of heat, all reporting significant increases in expenses 
+related to respiratory admissions and emergency visits. However, there 
+is still no comprehensive synthesis that quantifies heat-attributable costs 
+by disease type, age group, or climate zone. This underscores the need 
+for more targeted economic evaluations, particularly as the ageing 
+population continues to grow and climate-related health risks intensify.
+4.3. Subgroup analysis and potential underlying mechanism
+External causes of morbidity, particularly heat-related illnesses such 
+as heatstroke, heat exhaustion, and dehydration, significantly increased 
+during heatwaves, confirming previous findings (Faurie et al., 2022, 
+Bunker et al., 2016). Prolonged exposure to high temperatures can 
+overwhelm the body’s ability to cool itself, leading to fluid and salt loss 
+and symptoms like nausea, confusion, and seizures. If untreated, this can 
+result in multi-organ failure (Hifumi et al., 2018). Older adults, with 
+diminished thirst perception and widespread use of medications like 
+diuretics, are at greater risk of dehydration (Meade et al., 2020).
+CVDs, particularly cerebrovascular conditions, were strongly asso-
+ciated with heat exposure and mortality. This finding was in line with 
+previous studies (Bunker et al., 2016, Liu et al., 2022, Cheng et al., 2019) 
+and could be explained by heat exposure increasing skin blood flow and 
+sweating, leading to volume depletion, sympathetic nervous system 
+activation, and elevated heart rate (Crandall and Wilson, 2015). This is 
+particularly challenging for older adults, as their physiological ther-
+moregulatory capacity decreases with age. Specifically, sweat gland 
+output becomes less effective, blood flow to the skin is reduced, and 
+increases in cardiac output are smaller (Meade et al., 2020). This raises 
+metabolic demand, potentially causing ischemia or thrombosis (Peters 
+and Schneider, 2021). Fluid loss and electrolyte imbalances further in-
+crease the risk of arrhythmias and myocardial ischemia (Liu et al., 
+2015).. Older people are also more likely to take medications that can 
+impair thermoregulatory responses such as antihypertensives, or di-
+uretics that increase water excretion and thus predispose to dehydra-
+tion. These medications are linked to increased mortality during higher 
+temperatures (Ebi et al., 2021).
+The higher CVD mortality compared to morbidity may result from 
+several factors, including the possibility that patients with severe CVD 
+die before receiving medical care. Limited access to healthcare and cases 
+that do not result in hospitalisation or emergency department visits can 
+contribute to underreporting of morbidity, especially during heat pe-
+riods (Lee et al., 2024, Michelozzi et al., 2009). Additionally, older 
+adults face heightened risk due to multiple health conditions, increased 
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+13 
+
+physiological fragility, and difficulties accessing care on their own (Lee 
+et al., 2024, Leon and Helwig, 2010). To better capture the effects of 
+temperature on morbidity, data from outpatient settings, such as general 
+practices and home visits, should be included, as they are currently 
+underrepresented (Bunker et al., 2016, Smith et al., 2016).
+Respiratory mortality and morbidity were significantly elevated, 
+consistent with previous studies (Achebak et al., 2024, Bunker et al., 
+2016). The mechanisms leading to adverse respiratory outcomes are not 
+fully understood but are likely influenced by thermoregulatory path-
+ways (Michelozzi et al., 2009, Achebak et al., 2024). Heat exposure can 
+worsen conditions like COPD by increasing ventilation and inflamma-
+tory responses (Viegi et al., 2007, Anderson et al., 2013, White, 2006, 
+Leon and Helwig, 2010) COPD is a common medical condition among 
+older people (Bunker et al., 2016, Mollica et al., 2021). This may lead to 
+hyperventilation during extreme heat, increasing the risk of hyperin-
+flation, dyspnea, and cardiovascular complications (Sprung, 1980). 
+Inhalation of hot air can also trigger adverse airway reactions (Anderson 
+et al., 2013) and cause bronchoconstriction in patients with asthma 
+(Hayes et al., 2012). However, this study found a significant effect for 
+COPD morality per 1 degree increase but not for morbidity. No signifi-
+cant effects were found for asthma, or pneumonia, though the overall 
+respiratory impact was notable across all exposures and outcomes.
+Endocrine diseases increased with heat exposure, with diabetes 
+showing significant associations with heatwaves and mortality. Previous 
+reviews also found diabetes significantly elevated among older adults 
+during heat exposure (Bunker et al., 2016, Song et al., 2021).
+Diabetes is linked to various metabolic, cardiovascular, and neuro-
+logical dysfunctions, which can also impact thermoregulatory mecha-
+nisms during heat exposure (Kenny et al., 2010). In both type 1 and type 
+2 diabetes, the blood vessels in the skin may have reduced ability to 
+dilate, potentially leading to decreased blood flow to the skin's surface 
+and impairing heat dissipation (Petrofsky et al., 2005, Stansberry et al., 
+1997, Wick et al., 2006).
+Heat exposure is significantly related with kidney and urinary dis-
+eases mortality and morbidity. During further subgroup analysis, renal 
+failure morbidity was observed to be an increased risk among older 
+people. The kidneys play a key role in thermoregulation by regulating 
+blood pressure and maintaining fluid and electrolyte balances (Robson, 
+2014). Dehydration and reduced blood flow during overheating increase 
+the risk of kidney damage. Ageing kidneys take longer to correct im-
+balances under heat stress (de Lorenzo and Lia˜no, 2017, Rivas Velasquez 
+et al., 2014).
+Morbidity due to mental and behavioural disorders was significantly 
+elevated during heatwaves, while no significant associations were 
+observed for mortality from heatwaves or morbidity during periods of 
+high temperature. Importantly, a notable increase in mortality from 
+intentional self-harm during high temperatures was identified, further 
+highlighting the mental health burden of extreme temperatures. These 
+findings align with previous meta-analytic evidence reporting increased 
+risks of heat-related morbidity and mortality due to mental health 
+conditions among older adults (Liu et al., 2021b). Age-related factors, 
+along with psychotropic medications, impair the body’s ability to 
+manage heat and increase the risk of confusion, delirium, and cognitive 
+decline (Yezli, 2023, Maes et al., 2023). Heat exposure can also intensify 
+psychological distress and trigger risk behaviours, including alcohol use, 
+substance abuse, and suicidal tendencies, especially when individuals 
+are unable to find relief from the heat (Liu et al., 2021b, Page et al., 
+2007).
+While the pooled estimate for dementia and Alzheimer’s disease 
+during high temperatures was not statistically significant, the number of 
+available estimates was limited. This may change as more studies 
+emerge, given the high prevalence of these neurodegenerative condi-
+tions in older adults and their known vulnerability to heat.
+People aged ≥ 85 years had the highest risk overall, but for heat-
+waves and morbidity, the 75–84 age group showed a dramatically 
+higher risk (116.8%, 95% CI: 24.2–278.4) compared to those aged 
+60–64 (34.2%, 95% CI: 21.2–48.6) and ≥ 85 years (28.9%, 95% CI: 
+12.7–47.4). Nevertheless, this may change with future studies due to the 
+limited sample size for this group (n = 7). There was little difference 
+between males and females for high-temperature morbidity and mor-
+tality. However, for heatwaves and mortality, females showed a 
+noticeably larger increase in mortality compared to males (11.7% (95% 
+CI: 7–16.5) vs. 6.6% (95% CI: 2.8–10.5)) respectively. This may reflect 
+both physiological and social differences, including reduced thermo-
+regulatory capacity due to postmenopausal changes in estrogen levels 
+and higher prevalence of living alone, lower income, and chronic health 
+conditions among older women, all of which have been associated with 
+increased heat vulnerability (van Steen et al., 2019). Heatwave-related 
+morbidity could not be analysed due to insufficient data.
+Climate change affects populations differently based on location. 
+Most of the included studies were conducted in high- and upper-middle- 
+income countries, with only two from a low-income country and a few 
+from lower-middle-income countries. This imbalance may limit the 
+generalisability of the findings to lower-income settings, which are more 
+vulnerable to extreme heat due to limited resources and inadequate 
+infrastructure, such as air conditioning, home insulation, and healthcare 
+access (Bowen and Friel, 2012, Gamble et al., 2013).
+The majority of studies in this meta-analysis were conducted in 
+Climate Zone C (Mediterranean, Oceanic, Subtropical). Tropical regions 
+had the highest morbidity risk from elevated temperatures, while 
+Mediterranean climates recorded the highest mortality rates. Heatwave- 
+related morbidity was most pronounced in subtropical climates, and 
+heatwave-related mortality was highest in tropical climates. These 
+findings indicate that mortality and morbidity risks vary across K¨oppen- 
+Geiger climate classifications, potentially related to local climatic con-
+ditions or factors increasing vulnerability, such as socioeconomic status 
+and healthcare infrastructure.
+Furthermore, humidity is another key factor, as it exacerbates heat 
+stress and may contribute to regional differences in heat-related health 
+outcomes (Patel et al., 2019a, Longden, 2019). Sensitivity analyses 
+showed virtually identical high-temperature effects on morbidity (no 
+humidity adjustment: RR 1.019 [95% CI: 1.008–1.030] vs. adjusted: RR 
+1.015 [95% CI: 1.009–1.020]) and mortality (no adjustment: 1.028 
+[95% CI: 1.022–1.034] vs. adjusted: 1.021 [95% CI: 1.018–1.024]).
+For heatwaves, morbidity risks were modestly higher in studies 
+without humidity adjustment (RR 1.247 [95% CI: 1.097–1.418] vs. 
+adjusted: 1.107 [95% CI: 1.072–1.144]), while mortality estimates 
+remained similar (RR 1.053 [95% CI: 1.025–1.082] vs. adjusted: 1.134 
+[95% CI: 1.112–1.157]). These comparisons indicate that humidity 
+adjustment or inclusion does not have a large impact on our overall 
+temperature–health associations for morbidity and mortality (Appendix 
+1; Tables S11-S14). Nevertheless, humidity plays a critical role in 
+amplifying physiological heat strain. Epidemiological studies may un-
+derestimate its effect due to methodological limitations, limited 
+geographical coverage and data constraints, particularly the use of daily 
+data and populations with impaired sweating responses. Moreover, at 
+high temperatures, humidity may have limited additional influence on 
+the health conditions that cause most heat-related deaths (Baldwin et al., 
+2023). Thus, the apparent similarity in effect estimates in our synthesis 
+may reflect these analytical constraints rather than the absence of a 
+physiological effect.
+In addition, we explored heatwave intensity and duration gradients 
+using subgroup meta-analyses. These analyses showed generally higher 
+pooled risks for more intense and longer heatwave events for mortality, 
+but effect estimates did not consistently increase across all intensity or 
+duration categories, particularly for morbidity outcomes (Appendix 1, 
+Tables S13 and S14). Accordingly, the presence of an exposure–response 
+gradient was interpreted as supportive of an association, but not as ev-
+idence of a strictly monotonic increase in risk. Such patterns may be 
+influenced by mortality and morbidity displacement, population adap-
+tation, and differences in target effect estimands across studies.
+Several factors contribute to the heightened vulnerability of older 
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+14 
+
+adults to heat, including age-related physiological changes, co- 
+morbidities and associated medication utilisations, and environmental 
+and social factors (Zhang et al., 2016, Ciss´e et al., 2022). Age-related 
+impairments in thermoregulation, such as reduced sweat production 
+and diminished blood flow to the skin, decrease the body's ability to 
+dissipate heat, increasing the likelihood of cardiovascular complica-
+tions. Furthermore, the combination of multiple chronic conditions and 
+medications exacerbates the risk of adverse health outcomes in response 
+to heat (Bunker et al., 2016, Meade et al., 2020). Other crucial factors 
+that determine vulnerability are living alone, housing with inadequate 
+cooling or heating, behavioural responses to heat stress, and poor access 
+to health care (Bunker et al., 2016).
+4.4. Uncertainty and heterogeneity in studies
+Inter-study heterogeneity was generally high when assessing the 
+relationship between morbidity and heat exposures, indicating inherent 
+differences between the studies. Some subgroup analyses showed low to 
+moderate heterogeneity, while others   such as disease groups, 
+healthcare utilisation, study designs, and heatwave intensities   had 
+higher heterogeneity. Despite adjustments for meteorological factors 
+and air pollutants in most studies, variations in covariates, study pop-
+ulations, research methods, and contexts likely contributed to the het-
+erogeneity. For mortality and heat exposures, heterogeneity was low to 
+moderate. Subgroup and sensitivity analyses indicated consistency in 
+the direction and magnitude of the effects, especially for high temper-
+atures and mortality, which showed consistently low or no observed 
+heterogeneity, indicating high consistency among studies. Factors like 
+age structure, access to medical care, social services, housing quality, 
+and air conditioning likely further amplified these differences in het-
+erogeneity (Bunker et al., 2016). Additionally, morbidity studies can 
+have greater variability due to a wider range of health outcomes, 
+underreporting, and limited access to care, unlike mortality studies 
+which often have more uniform endpoints. Observations that vulnerable 
+people often die instead of being hospitalised during heat events may 
+explain why heat impacts on morbidity appear smaller and more vari-
+able than on mortality (Bunker et al., 2016, Lee et al., 2024, Michelozzi 
+et al., 2009, Turner et al., 2012).
+Differences in study aims, effect definitions, and analytic choices 
+imply that studies may target different underlying effects, making het-
+erogeneity in effect estimates expected rather than indicative of low 
+strength of evidence. Study-specific covariate structures could not be 
+reweighted or standardised across all included studies, which may 
+contribute to residual confounding and heterogeneity.
+Finally, the absence of upgrading for “large magnitude of effect” 
+reflects the conservative Navigation Guide/GRADE criterion, which re-
+serves this domain for unusually strong relative effects rather than for 
+modest but widespread risks. In the context of heat and heatwaves, 
+relative risks well below two can still translate into large pop-
+ulation‑attributable burdens because a high proportion of the popula-
+tion is exposed. Global assessments have documented substantial and 
+increasing burdens of heat‑related mortality and morbidity associated 
+with recent human‑induced warming, illustrating how modest relative 
+risks at the study level can generate large absolute impacts when 
+exposure is ubiquitous (Vicedo-Cabrera et al., 2021, Zhou et al., 2024, 
+Ebi et al., 2021, Romanello et al., 2021).
+4.5. Strengths and limitations
+This review included 623 studies, providing sufficient evidence to 
+analyse a wide range of climate zones, income settings, and disease 
+outcomes. This enabled detailed stratification by age, sex, climate 
+classification, and income group. The limited number of additional 
+studies identified through citation screening of existing reviews further 
+supports the comprehensiveness of the original search strategy.
+This study had several limitations. Only peer-reviewed journal 
+articles published in English were included. Significant publication bias 
+and high heterogeneity were detected, indicating the possibility of un-
+examined factors.
+Effect estimates were standardised to reflect per 1◦C increases for 
+comparability, but these increments are defined relative to each study’s 
+own metric and threshold, and the ranges and interpretations of these 
+metrics (for example, dry‑bulb temperature vs composite indices that 
+incorporate humidity) could differ across studies.
+Consequently, a 1◦C increase in one metric is not physically equiv-
+alent to a 1◦C increase in another and our pooled ‘per 1◦C’ estimates 
+should be interpreted as standardised statistical contrasts rather than 
+strictly comparable physical exposure changes. In addition, stand-
+ardisation was based on high‑temperature thresholds defined in the 
+original studies, not across the full exposure range, so the pooled esti-
+mates do not imply a fully linear exposure–response relationship.
+For heat-wave studies, recent methodological work indicates that 
+non–heat-wave temperatures can act as confounders and that the choice 
+of temperature-adjustment strategy can substantially influence esti-
+mated heat-wave effects (Kim and Bell, 2024). In our review, most 
+studies estimating heat-wave–health associations did not explicitly 
+adjust for non–heat-wave-related temperatures; therefore, the pooled 
+heat-wave estimates may plausibly underestimate the total health ef-
+fects attributable to heat waves. This highlights the importance of 
+careful analytical design and transparent reporting of temperature- 
+adjustment strategies in future heat-wave epidemiological studies.
+Estimates were also pooled across different disease groups to 
+generate overall effects; however, cause-specific subgroup analyses were 
+conducted to address variation in disease pathways and reporting. While 
+many subgroups included a large number of estimates, others had fewer 
+and should be interpreted with caution.
+To avoid bias and over-representation of correlated estimates (e.g. 
+multiple age groups or lag days within the same study), we summarised 
+these using a fixed-effect model to obtain a single study-level estimate. 
+This approach assumes that subgroup estimates reflect a common un-
+derlying effect within each study and provides an appropriate weighting 
+of evidence without over-representing individual studies. While this 
+may slightly smooth or attenuate subgroup-specific differences, it yields 
+a more stable and interpretable pooled estimate (Riley et al., 2015, 
+Borenstein, 2009, Deeks et al., 2024).
+Given the large number of included studies, it was not feasible to 
+assess every study-specific detail in the risk-of-bias evaluation. A 
+consistent approach was applied across all studies, focusing on key do-
+mains such as exposure, outcome, and confounding. This ensured 
+comparability but may have overlooked finer differences in exposure 
+precision, outcome definitions, or covariate adjustment. However, the 
+overall assessment captures the best available reflection of study quality 
+based on reported information.
+Despite including studies from various locations, there were limited 
+numbers from low- and middle-income countries, tropical and polar 
+regions, the African continent and South America. Studies from Africa 
+were largely absent, while those from South America were limited to a 
+few locations. These regions may experience greater vulnerability to the 
+impacts of a warming climate among older populations, although 
+vulnerability factors themselves were not directly assessed in this re-
+view. Additionally, most of the original studies lacked data on modifying 
+factors such as medication use, pre-existing conditions, and co- 
+morbidities. Finally, this review included only four studies investi-
+gating heat-driven healthcare costs, limiting the strength of the evidence 
+on this association.
+5. Conclusion
+Our findings underscore the urgent need for climate policies and 
+tailored health interventions to mitigate the escalating morbidity and 
+mortality risks among older adults. With global climate change expected 
+to increase acute heat exposure and the growing vulnerability of an 
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+15 
+
+ageing population, certain regions will face heightened demands on 
+social and healthcare services, necessitating innovative policy solutions 
+(Falchetta et al., 2024).
+The review identified consistent associations between high temper-
+atures, heatwaves and multiple heat-sensitive outcomes, with variation 
+by exposure definition, outcome type, age group, sex, climate zone and 
+national income classification. To better understand the observed vari-
+ations across exposures, populations and regions, studies should also 
+explore the underlying factors and local resources that influence 
+vulnerability and adaptive capacity. This could include individual-level 
+data on pre-existing conditions, medication use, heat-sensitive diseases 
+and healthcare access. Additional studies are especially needed in un-
+derrepresented regions, including the African continent and South 
+America, as well as polar and tropical climates, and low- and middle- 
+income countries, to understand how health risks vary across 
+populations.
+Finally, few studies have quantified the healthcare-related economic 
+burden of heat, despite its clear challenges on healthcare systems. 
+Further cost-focused research is critical to inform policy and support the 
+implementation of sustainable and equitable heat mitigation strategies.
+Funding source
+This review was funded by the Australian Research Council Discov-
+ery Program (DP230100497). SG is a PhD candidate and supported by 
+the University of Adelaide Scholarship. The funder of the study had no 
+role in study design, data collection, data analysis, data interpretation, 
+or writing of the report.
+CRediT authorship contribution statement
+Sabrina Günsche: Writing – review & editing, Writing – original 
+draft, Visualization, Validation, Methodology, Formal analysis, Data 
+curation, Conceptualization. Matthew A. Borg: Writing – review & 
+editing, Validation, Methodology, Formal analysis, Supervision, Data 
+curation, Conceptualization. Olga Anikeeva: Writing – review & edit-
+ing, Validation, Supervision, Methodology, Formal analysis, Conceptu-
+alization. Blesson M. Varghese: Conceptualization, Data curation. 
+Yannan Li: Validation, Data curation. Dinesh Bhandari: Validation, 
+Data curation. Jing Li: Validation, Data curation. Haoran Yang: Vali-
+dation, Data curation. Yihan Shi: Validation, Data curation. Jingwen 
+Liu: Validation, Methodology, Data curation. Keith Dear: Writing – 
+review & editing, Funding acquisition, Conceptualization. Bertram 
+Ostendorf: Writing – review & editing, Funding acquisition, Concep-
+tualization. Nigel Stocks: Writing – review & editing, Funding acqui-
+sition, Conceptualization. Danny Liew: Writing – review & editing, 
+Funding acquisition, Conceptualization. Peng Bi: Writing – review & 
+editing, Visualization, Validation, Supervision, Methodology, Funding 
+acquisition, Formal analysis, Data curation, Conceptualization.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgements
+The authors thank the anonymous reviewers and the editor for their 
+careful review and constructive comments.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.envint.2026.110129.
+Data availability
+Data will be made available on request.
+References
+Achebak, H., Rey, G., Lloyd, S.J., Quijal-Zamorano, M., M´endez-Turrubiates, R.F., 
+Ballester, J., 2024. Ambient temperature and risk of cardiovascular and respiratory 
+adverse health outcomes: a nationwide cross-sectional study from Spain. Eur. J. 
+Prev. Cardiol. 31, 1080–1089.
+Anderson, G.B., Dominici, F., Wang, Y., Mccormack, M.C., Bell, M.L., Peng, R.D., 2013. 
+Heat-related emergency hospitalizations for respiratory diseases in the Medicare 
+population. Am. J. Respir. Crit. Care Med. 187, 1098–1103.
+Åstr¨om, D.O., Bertil, F., Joacim, R., 2011. Heat wave impact on morbidity and mortality 
+in the elderly population: a review of recent studies. Maturitas 69, 99–105.
+Baldwin, J.W., Benmarhnia, T., Ebi Kristie, L., Jay, O., Lutsko Nicholas, J., Vanos 
+Jennifer, K., 2023. Humidity’s role in heat-related health outcomes: a heated debate. 
+Environ. Health Perspect. 131, 055001.
+Beck, H.E., Mcvicar, T.R., Vergopolan, N., Berg, A., Lutsko, N.J., Dufour, A., Zeng, Z., 
+Jiang, X., Van Dijk, A.I.J.M., Miralles, D.G., 2023. High-resolution (1 km) K¨oppen- 
+Geiger maps for 1901–2099 based on constrained CMIP6 projections. Sci. Data 10, 
+724.
+Borenstein, M., Hedges, L.V., Higgins, J.P.T., Rothstein, H.R., 2009. Multiple outcomes or 
+time-points within a study. Introduction to Meta-Analysis.
+Bowen, K.J., Friel, S., 2012. Climate change adaptation: where does global health fit in 
+the agenda? Glob. Health 8, 10.
+Bown, M.J., Sutton, A.J., 2010. Quality control in systematic reviews and meta-analyses. 
+Eur. J. Vasc. Endovasc. Surg. 40, 669–677.
+Bunker, A., Wildenhain, J., Vandenbergh, A., Henschke, N., Rockl¨ov, J., Hajat, S., 
+Sauerborn, R., 2016. Effects of air temperature on climate-sensitive mortality and 
+morbidity outcomes in the elderly; a systematic review and meta-analysis of 
+epidemiological evidence. EBioMedicine 6, 258–268.
+Byun, G., Choi, Y., Foo, D., Stewart, R., Song, Y., Son, J.-Y., Heo, S., Ning, X., Clark, C., 
+Kim, H., Michelle Choi, H., Kim, S., Kim, S.-Y., Burrows, K., Lee, J.-T., Deziel, N.C., 
+Bell, M.L., 2024. Effects of ambient temperature on mental and neurological 
+conditions in older adults: a systematic review and meta-analysis. Environ. Int. 194, 
+109166.
+Cheng, J., Xu, Z., Bambrick, H., Prescott, V., Wang, N., Zhang, Y., Su, H., Tong, S., 
+Hu, W., 2019. Cardiorespiratory effects of heatwaves: a systematic review and meta- 
+analysis of global epidemiological evidence. Environ. Res. 177, 108610.
+Ciss´e, G., Mcleman, R., Adams, H., Aldunce, P., Bowen, K., Campbell-Lendrum, D., 
+Clayton, S., Ebi, K. L., Hess, J., Huang, C., Liu, Q., Mcgregor, G., Semenza, J. & 
+Tirado, M. C. 2022. Health, Wellbeing, and the Changing Structure of Communities. 
+In: P¨ortner, H.-O., Roberts, D. C., Tignor, M., Poloczanska, E. S., Mintenbeck, K., 
+Alegría, A., Craig, M., Langsdorf, S., L¨oschke, S., M¨oller, V., Okem, A. & Rama, B. 
+(eds.) Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of 
+Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on 
+Climate Change. Cambridge, UK and New York, NY, USA: Cambridge University 
+Press.
+Crandall, C.G., Wilson, T.E., 2015. Human cardiovascular responses to passive heat 
+stress. Compr. Physiol. 5, 17.
+De Lorenzo, A., Lia˜no, F., 2017. High temperatures and nephrology: the climate change 
+problem. Nefrología (english Edition) 37, 492–500.
+Deeks, J. J., Higgins, J. P. T., Altman, D. G. & On Behalf of the Cochrane Statistical 
+Methods, G. 2024. Analysing data and undertaking meta-analyses. Cochrane 
+Handbook for Systematic Reviews of Interventions.
+Dersimonian, R., Laird, N., 1986. Meta-analysis in clinical trials. Control. Clin. Trials 7, 
+177–188.
+Duval, S., Tweedie, R., 2004. Trim and fill: a simple funnel-plot–based method of testing 
+and adjusting for publication bias in meta-analysis. Biometrics 56, 455–463.
+Ebi, K.L., Capon, A., Berry, P., Broderick, C., De Dear, R., Havenith, G., Honda, Y., 
+Kovats, R.S., Ma, W., Malik, A., Morris, N.B., Nybo, L., Seneviratne, S.I., Vanos, J., 
+Jay, O., 2021. Hot weather and heat extremes: health risks. Lancet 398, 698–708.
+Egger, M., Smith, G.D., Schneider, M., Minder, C., 1997. Bias in meta-analysis detected 
+by a simple, graphical test. BMJ 315, 629–634.
+Falchetta, G., De Cian, E., Sue Wing, I., Carr, D., 2024. Global projections of heat 
+exposure of older adults. Nat. Commun. 15, 3678.
+Faurie, C., Varghese, B.M., Liu, J., Bi, P., 2022. Association between high temperature 
+and heatwaves with heat-related illnesses: a systematic review and meta-analysis. 
+Sci. Total Environ. 852, 158332.
+Gamble, J.L., Hurley, B.J., Schultz, P.A., Jaglom, W.S., Krishnan, N., Harris, M., 2013. 
+Climate change and older americans: state of the science. Environ. Health Perspect. 
+121, 15–22.
+Gbd 2019 Ageing Collaborators 2022. Global, regional, and national burden of diseases 
+and injuries for adults 70 years and older: systematic analysis for the Global Burden 
+of Disease 2019 Study. BMJ, 376, e068208.
+Guyatt, G.H., Oxman, A.D., Kunz, R., Woodcock, J., Brozek, J., Helfand, M., Alonso- 
+Coello, P., Falck-Ytter, Y., Jaeschke, R., Vist, G., 2011. GRADE guidelines: 8. rating 
+the quality of evidence—indirectness. J. Clin. Epidemiol. 64, 1303–1310.
+Hayes, D., Collins, P.B., Khosravi, M., Lin, R.-L., Lee, L.-Y., 2012. Bronchoconstriction 
+triggered by breathing hot humid air in patients with asthma. Am. J. Respir. Crit. 
+Care Med. 185, 1190–1196.
+Hifumi, T., Kondo, Y., Shimizu, K., Miyake, Y., 2018. Heat stroke. J. Intensive Care 6.
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+16 
+
+Higgins, J., T, L. & Jj, D. 2024. Chapter 6: Choosing effect measures and computing 
+estimates of effect. In: JP, H., J, T., J, C., M, C., T, L. & MJ, P. (eds.) Cochrane 
+Handbook for Systematic Reviews of Interventions. Version 6.5 ed.: Cochrane.
+Higgins, J.P.T., Thompson, S.G., Deeks, J.J., Altman, D.G., 2003. Measuring 
+inconsistency in meta-analyses. BMJ 327, 557–560.
+Inthout, J., Ioannidis, J.P.A., Rovers, M.M., Goeman, J.J., 2016. Plea for routinely 
+presenting prediction intervals in meta-analysis. BMJ Open 6, e010247.
+Johnson, P.I., Koustas, E., Vesterinen, H.M., Sutton, P., Atchley, D.S., Kim, A.N., 
+Campbell, M., Donald, J.M., Sen, S., Bero, L., Zeise, L., Woodruff, T.J., 2016. 
+Application of the Navigation Guide systematic review methodology to the evidence 
+for developmental and reproductive toxicity of triclosan. Environ. Int. 92–93, 
+716–728.
+Johnson, P.I., Sutton, P., Atchley, D.S., Koustas, E., Lam, J., Sen, S., Robinson, K.A., 
+Axelrad, D.A., Woodruff, T.J., 2014. The navigation guide—evidence-based 
+medicine meets environmental health: systematic review of human evidence for 
+PFOA effects on fetal growth. Environ. Health Perspect. 122, 1028–1039.
+Kallestrup-Lamb, M., Marin, A.O.K., Menon, S., Søgaard, J., 2024. Aging populations and 
+expenditures on health. The Journal of the Economics of Ageing 29, 100518.
+Kaltsatou, A.K.G., Flouris, A.D., 2018. The impact of heat waves on mortality among the 
+elderly: a mini systematic review. J Geriatr Med Geronto 4, 053.
+Kenny, G.P., Yardley, J., Brown, C., Sigal, R.J., Jay, O., 2010. Heat stress in older 
+individuals and patients with common chronic diseases. Can. Med. Assoc. J. 182, 
+1053–1060.
+Kim, H., Bell, M.L., 2024. On adjustment for temperature in heat-wave epidemiology: a 
+new method for estimating the health effects of heat waves. Am. J. Epidemiol. 193, 
+1814–1822.
+Lee, J., Min, J., Lee, W., Sun, K., Cha, W.C., Park, C., Kang, C., Yang, J., Kwon, D., 
+Kwag, Y., Oh, J., Ryoo, J.H., Ha, E., 2024. Timely accessibility to healthcare 
+resources and heatwave-related mortality in 7 major cities of South Korea: a two- 
+stage approach with principal component analysis. Lancet Reg Health West Pac 45, 
+101022.
+Lee, J.Y., Kim, H., 2016. Projection of future temperature-related mortality due to 
+climate and demographic changes. Environ. Int. 94, 489–494.
+Leon, L.R., Helwig, B.G., 2010. Heat stroke: Role of the systemic inflammatory response. 
+J. Appl. Physiol. 109, 1980–1988.
+Lin, S., Hsu, W.H., Van Zutphen, A.R., Saha, S., Luber, G., Hwang, S.A., 2012. Excessive 
+heat and respiratory hospitalizations in New York State: estimating current and 
+future public health burden related to climate change. Environ. Health Perspect. 
+120, 1571–1577.
+Liu, C., Yavar, Z., Sun, Q., 2015. Cardiovascular response to thermoregulatory 
+challenges. American Journal of Physiology-Heart and Circulatory Physiology 309, 
+H1793–H1812.
+Liu, J., Varghese, B.M., Hansen, A., Borg, M.A., Zhang, Y., Driscoll, T., Morgan, G., 
+Dear, K., Gourley, M., Capon, A., Bi, P., 2021a. Hot weather as a risk factor for 
+kidney disease outcomes: a systematic review and meta-analysis of epidemiological 
+evidence. Sci. Total Environ. 801, 149806.
+Liu, J., Varghese, B.M., Hansen, A., Xiang, J., Zhang, Y., Dear, K., Gourley, M., 
+Driscoll, T., Morgan, G., Capon, A., Bi, P., 2021b. Is there an association between hot 
+weather and poor mental health outcomes? a systematic review and meta-analysis. 
+Environ. Int. 153, 106533.
+Liu, J., Varghese, B.M., Hansen, A., Zhang, Y., Driscoll, T., Morgan, G., Dear, K., 
+Gourley, M., Capon, A., Bi, P., 2022. Heat exposure and cardiovascular health 
+outcomes: a systematic review and meta-analysis. The Lancet Planetary Health 6, 
+e484–e495.
+Longden, T., 2019. The impact of temperature on mortality across different climate 
+zones. Clim. Change 157, 221–242.
+Maes, M., Thisayakorn, P., Thipakorn, Y., Tantavisut, S., Sirivichayakul, S., Vojdani, A., 
+2023. Reactivity to neural tissue epitopes, aquaporin 4 and heat shock protein 60 is 
+associated with activated immune–inflammatory pathways and the onset of delirium 
+following hip fracture surgery. European Geriatric Medicine 14, 99–112.
+Mcguinness, L.A., Higgins, J.P.T., 2020. Risk-of-bias VISualization (robvis): an R package 
+and Shiny web app for visualizing risk-of-bias assessments. Research Synthesis 
+Methods, N/a.
+Meade, R.D., Akerman, A.P., Notley, S.R., Mcginn, R., Poirier, P., Gosselin, P., Kenny, G. 
+P., 2020. Physiological factors characterizing heat-vulnerable older adults: a 
+narrative review. Environ. Int. 144, 105909.
+Michelozzi, P., Accetta, G., De Sario, M., D'ippoliti, D., Marino, C., Baccini, M., 
+Biggeri, A., Anderson, H.R., Katsouyanni, K., Ballester, F., Bisanti, L., Cadum, E., 
+Forsberg, B., Forastiere, F., Goodman, P.G., Hojs, A., Kirchmayer, U., Medina, S., 
+Paldy, A., Schindler, C., Sunyer, J., Perucci, C.A., 2009. High temperature and 
+hospitalizations for cardiovascular and respiratory causes in 12 european cities. Am. 
+J. Respir. Crit. Care Med. 179, 383–389.
+Mollica, M., Aronne, L., Paoli, G., Flora, M., Mazzeo, G., Tartaglione, S., Polito, R., 
+Tranfa, C., Ceparano, M., Komici, K., 2021. Elderly with COPD: Comoborbitidies and 
+systemic consequences. Journal of Gerontology and Geriatrics 69, 32–44.
+Morgan, R.L., Whaley, P., Thayer, K.A., Schünemann, H.J., 2018. Identifying the PECO: a 
+framework for formulating good questions to explore the association of 
+environmental and other exposures with health outcomes. Environ. Int. 121, 
+1027–1031.
+Nairn, J.R., Fawcett, R.J.B., 2015. The excess heat factor: a metric for heatwave intensity 
+and its use in classifying heatwave severity. Int. J. Environ. Res. Public Health 12, 
+227–253.
+Ohat, 2019. Handbook for conducting a literature-based health assessment using OHAT 
+approach for systematic review and evidence integration. OHAT (Office of Health 
+Assessment and Translation). Division of the National Toxicology Program. National 
+Institute of Environmental Health Sciences.
+Organisation for Economic Co-Operation and Development (Oecd) 2023. Health at a 
+Glance 2023: OECD Indicators. Paris.
+Ouzzani, M., Hammady, H., Fedorowicz, Z., Elmagarmid, A., 2016. Rayyan—a web and 
+mobile app for systematic reviews. Syst. Rev. 5, 210.
+Page, L.A., Hajat, S., Kovats, R.S., 2007. Relationship between daily suicide counts and 
+temperature in England and Wales. Br. J. Psychiatry 191, 106–112.
+Page, M.J., Mckenzie, J.E., Bossuyt, P.M., Boutron, I., Hoffmann, T.C., Mulrow, C.D., 
+Shamseer, L., Tetzlaff, J.M., Akl, E.A., Brennan, S.E., Chou, R., Glanville, J., 
+Grimshaw, J.M., Hr´objartsson, A., Lalu, M.M., Li, T., Loder, E.W., Mayo-Wilson, E., 
+Mcdonald, S., Mcguinness, L.A., Stewart, L.A., Thomas, J., Tricco, A.C., Welch, V.A., 
+Whiting, P., Moher, D., 2021. The PRISMA 2020 statement: an updated guideline for 
+reporting systematic reviews. BMJ 372, n71.
+Patel, D., Jian, L., Xiao, J.G., Jansz, J., Yun, G., Robertson, A., 2019. Joint effect of 
+heatwaves and air quality on emergency department attendances for vulnerable 
+population in Perth, Western Australia, 2006 to 2015. Environ. Res. 174, 80–87.
+Peel, M.C., Finlayson, B.L., Mcmahon, T.A., 2007. Updated world map of the K¨oppen- 
+Geiger climate classification. Hydrol. Earth Syst. Sci. 11, 1633–1644.
+Peters, A., Schneider, A., 2021. Cardiovascular risks of climate change. Nat. Rev. Cardiol. 
+18, 1–2.
+Petrofsky, J.S., Lee, S., Patterson, C., Cole, M., Stewart, B., 2005. Sweat production 
+during global heating and during isometric exercise in people with diabetes. Med. 
+Sci. Monit. 11, Cr515-21.
+Popay, J., Roberts, H., Aj, S., Petticrew, M., Britten, N., Arai, L., Roen, K., Rodgers, M., 
+2005. Guidance on the conduct of narrative synthesis in systematic reviews final 
+report. J. Epidemiol. Community Health 59 (Suppl 1), A7.
+R Core Team 2024. R: A language and environment for statistical computing. R 
+Foundation for Statistical Computing. 4.4.1 ed. Vienna, Austria: R Foundation for 
+Statistical Computing.
+Riley, R.D., Price, M.J., Jackson, D., Wardle, M., Gueyffier, F., Wang, J., Staessen, J.A., 
+White, I.R., 2015. Multivariate meta-analysis using individual participant data. Res. 
+Synth. Methods 6, 157–174.
+Rivas Velasquez, K.M., Hames, E., Masri, H., 2014. Evaluation and management of the 
+older adult with chronic kidney disease. Primary Care: Clinics in Office Practice 41, 
+857–874.
+Robson, L., 2014. The kidney – an organ of critical importance in physiology. J. Physiol. 
+592, 3953–3954.
+Rohatgi, A. 2017. WebPlotDigitizer. Austin, Texas, USA.
+Romanello, M., Mcgushin, A., Di Napoli, C., Drummond, P., Hughes, N., Jamart, L., 
+Kennard, H., Lampard, P., Solano Rodriguez, B., Arnell, N., Ayeb-Karlsson, S., 
+Belesova, K., Cai, W., Campbell-Lendrum, D., Capstick, S., Chambers, J., Chu, L., 
+Ciampi, L., Dalin, C., Dasandi, N., Dasgupta, S., Davies, M., Dominguez-Salas, P., 
+Dubrow, R., Ebi, K.L., Eckelman, M., Ekins, P., Escobar, L.E., Georgeson, L., 
+Grace, D., Graham, H., Gunther, S.H., Hartinger, S., He, K., Heaviside, C., Hess, J., 
+Hsu, S.-C., Jankin, S., Jimenez, M.P., Kelman, I., Kiesewetter, G., Kinney, P.L., 
+Kjellstrom, T., Kniveton, D., Lee, J.K.W., Lemke, B., Liu, Y., Liu, Z., Lott, M., 
+Lowe, R., Martinez-Urtaza, J., Maslin, M., Mcallister, L., Mcmichael, C., Mi, Z., 
+Milner, J., Minor, K., Mohajeri, N., Moradi-Lakeh, M., Morrissey, K., Munzert, S., 
+Murray, K.A., Neville, T., Nilsson, M., Obradovich, N., Sewe, M.O., Oreszczyn, T., 
+Otto, M., Owfi, F., Pearman, O., Pencheon, D., Rabbaniha, M., Robinson, E., 
+Rockl¨ov, J., Salas, R.N., Semenza, J.C., Sherman, J., Shi, L., Springmann, M., 
+Tabatabaei, M., Taylor, J., Trinanes, J., Shumake-Guillemot, J., Vu, B., Wagner, F., 
+Wilkinson, P., Winning, M., Yglesias, M., Zhang, S., Gong, P., Montgomery, H., 
+Costello, A., Hamilton, I., 2021. The 2021 report of the Lancet Countdown on health 
+and climate change: code red for a healthy future. Lancet 398, 1619–1662.
+Smith, S., Elliot, A.J., Hajat, S., Bone, A., Bates, C., Smith, G.E., Kovats, S., 2016. The 
+impact of heatwaves on community morbidity and healthcare usage: a retrospective 
+observational study using real-time syndromic surveillance. Int. J. Environ. Res. 
+Public Health 13.
+Song, X., Jiang, L., Zhang, D., Wang, X., Ma, Y., Hu, Y., Tang, J., Li, X., Huang, W., 
+Meng, Y., Shi, A., Feng, Y., Zhang, Y., 2021. Impact of short-term exposure to 
+extreme temperatures on diabetes mellitus morbidity and mortality? a systematic 
+review and meta-analysis. Environ. Sci. Pollut. Res. Int. 28, 58035–58049.
+Sprung, C.L., 1980. Heat stroke: modern approach to an ancient disease. Chest 77, 
+461–462.
+Stansberry, K.B., Hill, M.A., Shapiro, S.A., Mcnitt, P.M., Bhatt, B.A., Vinik, A.I., 1997. 
+Impairment of peripheral blood flow responses in diabetes resembles an enhanced 
+aging effect. Diabetes Care 20, 1711–1716.
+The Endnote Team 2013. EndNote. EndNote 20.6 ed. Philadelphia, PA: Clarivate.
+Tran, H.M., Tsai, F.J., Lee, K.Y., Wang, Y.H., Yang, F.M., Ho, S.C., Bui, H.T.M., Hoang, L. 
+N.N., Bui, L.T.M., Ho, K.F., Chung, K.F., Chuang, K.J., Chuang, H.C., 2025. Extreme 
+temperature increases the risk of COPD morbimortality: a systematic review and 
+meta-analysis. Sci. Total Environ. 958, 178087.
+Turner, L.R., Barnett, A.G., Connell, D., Tong, S., 2012. Ambient temperature and 
+cardiorespiratory morbidity: a systematic review and meta-analysis. Epidemiology 
+23.
+United Nations 2023. World Social Report 2023: Leaving No One Behind in an Ageing World, 
+New York, Department of Economic Social Affairs, United Nations.
+United Nations. 2024. Older persons [Online]. UNHCR Emergency Handbook. Available: 
+https://emergency.unhcr.org/protection/persons-risk/older-persons [Accessed 16 
+June 2025].
+Van Steen, Y., Ntarladima, A.-M., Grobbee, R., Karssenberg, D., Vaartjes, I., 2019. Sex 
+differences in mortality after heat waves: are elderly women at higher risk? Int Arch 
+Occup Environ Health 92, 37–48.
+Vicedo-Cabrera, A.M., Scovronick, N., Sera, F., Roy´e, D., Schneider, R., Tobias, A., 
+Astrom, C., Guo, Y., Honda, Y., Hondula, D.M., Abrutzky, R., Tong, S., Coelho, M.D. 
+S.Z.S., Saldiva, P.H.N., Lavigne, E., Correa, P.M., Ortega, N.V., Kan, H., Osorio, S., 
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+17 
+
+Kyselý, J., Urban, A., Orru, H., Indermitte, E., Jaakkola, J.J.K., Ryti, N., Pascal, M., 
+Schneider, A., Katsouyanni, K., Samoli, E., Mayvaneh, F., Entezari, A., Goodman, P., 
+Zeka, A., Michelozzi, P., De’donato, F., Hashizume, M., Alahmad, B., Diaz, M.H., 
+Valencia, C.D.L.C., Overcenco, A., Houthuijs, D., Ameling, C., Rao, S., Di Ruscio, F., 
+Carrasco-Escobar, G., Seposo, X., Silva, S., Madureira, J., Holobaca, I.H., 
+Fratianni, S., Acquaotta, F., Kim, H., Lee, W., Iniguez, C., Forsberg, B., Ragettli, M.S., 
+Guo, Y.L.L., Chen, B.Y., Li, S., Armstrong, B., Aleman, A., Zanobetti, A., Schwartz, J., 
+Dang, T.N., Dung, D.V., Gillett, N., Haines, A., Mengel, M., Huber, V., Gasparrini, A., 
+2021. The burden of heat-related mortality attributable to recent human-induced 
+climate change. Nat. Clim. Chang. 11, 492–500.
+Viechtbauer, W., 2010. Conducting meta-analyses in R with the metafor package. J. Stat. 
+Softw. 36, 1–48.
+Viegi, G., Pistelli, F., Sherrill, D.L., Maio, S., Baldacci, S., Carrozzi, L., 2007. Definition, 
+epidemiology and natural history of COPD. Eur. Respir. J. 30, 993–1013.
+Wang, Y., Liu, Y., Ye, D., Li, N., Bi, P., Tong, S., Wang, Y., Cheng, Y., Li, Y., Yao, X., 2021. 
+Temperatures and health costs of emergency department visits: a multisite time 
+series study in China. Environ. Res. 197, 111023.
+White, M.D., 2006. Components and mechanisms of thermal hyperpnea. J. Appl. Physiol. 
+101, 655–663.
+Wick, D.E., Roberts, S.K., Basu, A., Sandroni, P., Fealey, R.D., Sletten, D., 
+Charkoudian, N., 2006. Delayed threshold for active cutaneous vasodilation in 
+patients with Type 2 diabetes mellitus. J. Appl. Physiol. 100, 637–641.
+Wondmagegn, B.Y., Xiang, J., Dear, K., Williams, S., Hansen, A., Pisaniello, D., 
+Nitschke, M., Nairn, J., Scalley, B., Varghese, B.M., Xiao, A., Jian, L., Tong, M., 
+Bambrick, H., Karnon, J., Bi, P., 2021. Impact of heatwave intensity using excess 
+heat factor on emergency department presentations and related healthcare costs in 
+Adelaide, South Australia. Sci. Total Environ. 781, 146815.
+Wondmagegn, B.Y., Xiang, J., Williams, S., Pisaniello, D., Bi, P., 2019. What do we know 
+about the healthcare costs of extreme heat exposure? a comprehensive literature 
+review. Sci. Total Environ. 657, 608–618.
+World Bank. 2024. World bank country and lending groups [Online]. The World Bank 
+Group. Available: https://datahelpdesk.worldbank.org/knowledgebase/articles/ 
+906519 [Accessed 20 March 2025].
+World Health Organization (Who). 2025. Ageing and health [Online]. Geneva, 
+Switzerland: World Health Organization. Available: https://www.who.int/news-roo 
+m/fact-sheets/detail/ageing-and-health [Accessed October 8, 2025].
+Yang, C.-L., Bao, J.-Z., Bi, P., Zhang, Y.-D., Tan, C.-M., Chen, K., 2024. Association 
+between heat and upper urinary tract stones morbidity and medical costs: a study in 
+the subtropical humid climate zone. Adv. Clim. Chang. Res. 15, 717–724.
+Yezli, S., 2023. Risk factors for heat-related illnesses during the Hajj mass gathering: an 
+expert review. Rev. Environ. Health 38, 33–43.
+Yu, W., Mengersen, K., Wang, X., Ye, X., Guo, Y., Pan, X., Tong, S., 2012. Daily average 
+temperature and mortality among the elderly: a meta-analysis and systematic review 
+of epidemiological evidence. Int. J. Biometeorol. 56, 569–581.
+Zhang, Y., Nitschke, M., Krackowizer, A., Dear, K., Pisaniello, D., Weinstein, P., 
+Tucker, G., Shakib, S., Bi, P., 2016. Risk factors of direct heat-related hospital 
+admissions during the 2009 heatwave in Adelaide, Australia: a matched case–control 
+study. BMJ Open 6, e010666.
+Zhou, L., Liu, C., He, C., Lei, J., Zhu, Y., Gao, Y., Xuan, J., Kan, H., Chen, R., 2024. 
+Quantification of the heat-related risk and burden of hospitalizations for cause- 
+specific injuries and contribution of human-induced climate change: a time-stratified 
+case-crossover study in China. Environ. Health Perspect. 132, 57005.
+S. Günsche et al.                                                                                                                                                                                                                                Environment International 208 (2026) 110129 
+18 
+

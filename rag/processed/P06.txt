@@ -1,0 +1,2039 @@
+npj | cardiovascular health Review
+https://doi.org/10.1038/s44325-025-00082-6
+A guide to consumer-grade wearables in
+cardiovascular clinical care and
+population health for non-experts
+Check for updates
+Alexandra Jamieson1 , Timothy J. A. Chico2, Siana Jones1, Nishi Chaturvedi1, Alun D. Hughes1 &
+Michele Orini1,3
+Consumer-grade wearables provide an opportunity to understand public health trends, develop risk
+stratiﬁcation tools and monitor interventions. This review introduces the most common wearable
+sensors and describes the health parameters that can be measured using them. We highlight research
+into the validity and accuracy of these measurements and practical considerations for the use of
+wearable data. Finally, we provide future perspectives on wearables in cardiovascular clinical practice
+and population health research.
+Use of consumer-grade wearables has grown considerably in recent years1.
+These devices, most commonly in the form of smartwatches, wrist-bands or
+rings, enable users to access personalised healthcare data and physical
+activity parameters remotely, continuously and in real-time. In the context
+of healthcare and population researc h, wearable technology provides an
+opportunity to harness data at scal e, understand public health trends,
+develop risk stratiﬁcation tools and monitor interventions.
+Some features of consumer-gra de wearables have regulatory
+board (e.g. United States Food and Drug Administration; US FDA)
+approval, however, the majority of b iometric parameters are derived
+from sensor signals such as photoplethysmography (PPG) and tri-
+axial accelerometery and propri etary algorithms which are not
+available for public scrutiny. Wear able device software and hardware
+are regularly improved in the form of software updates and new
+models with an increasing number of features on offer. The pro-
+prietary nature and iterative approach in this market makes product
+comparison and clinical utility dif ﬁcult to quantify and track in real-
+time. Furthermore, these devices are engineered and marketed pre-
+dominantly for individual use and therefore consideration for the
+practicalities surrounding data a cquisition at scale and analysis
+pipelines is required.
+This review aims to provide a non- expert guide to practitioners in
+clinical care and population health who are considering the use of
+consumer-grade wearables in cardiovascular healthcare or research settings,
+with a focus on the following: 1) a general introduction to wearable sensors;
+2) the health parameters that can be measured using these sensors; 3) the
+validity and accuracy of these measurements; 4) practical considerations for
+the acquisition and use of wearable data at scale and 5) clinical cardiovas-
+cular and population health future perspectives.
+What sensors are used in wearables?
+While a growing number of sensors can potentially be embedded into
+wearables, most of the physiologicaldata in consumer-grade smartwatches
+and rings is captured by accelerometery, photoplethysmography (PPG) and
+electrocardiography (ECG) sensors (Fig.1).
+Photoplethysmography (PPG)
+PPG is a non-invasive optical technique that uses an infrared light
+source and a detector at the surface of the skin to measure small
+variations in blood volume. The intensity of the light transmitted
+through, or re ﬂected from, skin capillaries is proportional to the
+blood volume and its light absorption 2.I nr e ﬂectance PPG, the
+methodology commonly built into wearables, light is shone from a
+light emitting diode (LED) on to the skin, and the amount of light
+reﬂected back is measured using a phot odetector positioned close to
+the emitting LED 3. Wearable technology utilises the PPG signal,
+whose shape is analogous to an arterial pulse wave but its unitless (Fig.
+1), to estimate heart rate (HR) and HR variability (HRV) 4.O t h e r
+physiological parameters derived from the PPG include respiratory
+rate5, peripheral oxygen saturation 6 and, more recently, blood pres-
+sure (BP) 7,8.
+Accelerometery
+Accelerometers are sensors that detect and measure acceleration forces (the
+rate of change in velocity). Tri-axial accelerometers can detect changes in
+movement and orientation in three planes (x; medial-lateral, y; cranial-
+caudal and Z; anterior-po sterior axes) and are widely incorporated into
+wearables to estimate body position, and several measures of physical
+activity9.
+1Unit for Lifelong Health and Ageing, UCL, London, UK. 2Department of Infection, Immunity and Cardiovascular Disease Medical School, University of Shef ﬁeld,
+Shefﬁeld, UK. 3Department of Biomedical Engineering, King ’s College London, London, UK. e-mail: alexandra.jamieson@ucl.ac.uk; m.orini@kcl.ac.uk
+npj Cardiovascular Health |            (2025) 2:44 1
+1234567890():,;
+1234567890():,;
+
+Electrocardiography (ECG)
+The ECG is the gold-standard non-invasive measure of the rhythm of the
+heart. A standard 12-lead ECG provides a visual representation of the pro-
+pagation of the electrical impulse through the heart during each cardiac cycle.
+The variations in the amplitude of the ECG signal over time provide infor-
+mation relating to both HR (e.g., fast ors l o w )a n dr h y t h m( e . g . ,n o r m a lo r
+abnormal). Traditionally, for clinical purposes this method of cardiac mon-
+itoring is performed for 10-seconds at rest or can be performed for 24-hours
+to several days using portable continuous Holter monitors. With advance-
+ments in wearable technology, the recording of short ( ~ 30-second) single-
+lead ECG recordings is now feasible in the most recent devices. These mea-
+surements tend to be taken between opposite arms via two electrodes in close
+proximity to one another, often a positive electrode on the back of a wrist-
+worn wearable and a negative electrode positioned on the digital screen, to
+create a bipolar ECG signal similar to lead I of the traditional 12-lead ECG10,11.
+Additional Sensors
+Wearables are now commonly equipped with many more sensors such as
+barometers (elevation/altitude), magnetometers (magnetic ﬁelds), global
+positioning systems (GPS; geolocation) and thermometers (temperature), to
+provide more comprehensive functionality.
+Electrodermal activity (EDA)
+Electrodermal activity (EDA) sensors, also known as galvanic skin response
+s e n s o r su s ee l e c t r o d e so nt h es k i nt om e a s u r es u b t l ev a r i a t i o n si ne l e c t r i c a l
+conductance. These changes occur as aresult of sweat gland activity and are
+commonly associated with changes in emotional state. In the context of
+wearables, EDA sensors are often usedto infer periods of perceived stress12,13.
+Bioelectrical Impedance (BioZ)
+Body composition (fat mass, fat free mass, body water content and body fat
+percentage) can be estimated through the use of bioelectrical impedance
+analysis (BioZ). BioZ measures the body’s resistance to a low-level electrical
+current. Traditionally, the integration of this metric with wearable-derived
+data has been achieved through the use of manufacturer speciﬁc compatible
+bioimpedance scales which can be synchronised to an individual’sw e a r a b l e
+health dashboard14. More recently, this technology has been integrated into
+a consumer-grade smartwatch, enabling individuals to estimate body
+composition by taking a measurement at rest14. This is done by placing two
+ﬁngers from the opposite hand to the watch on designated smartwatch
+button sensors to administer the m icrocurrent required for BioZ
+assessment15. Due to its association with tissue hydration status, BioZ has
+also been used in conjunction with the ECG sensor to predict heart failure
+decompensation16,17 and has been used as part of predictive algorithms in
+implantable devices18.
+Gyroscopes
+Gyroscopes are sensors that measure angular velocity (gyration) and can
+detect very small angular displacements caused by cardiac activity19.G y r o -
+scopes are often used in combination with accelerometers in a technique
+called Gyrocardiography torecord cardiac vibrationsignals in the chest. This
+technique has been developed to provide insights into the mechanical aspects
+of the cardiac cycle and detect cardiovascular diseases such as atrialﬁbrillation
+(AF) and heart failure usingsmartphone applications20.
+What health parameters can be derived from these
+sensors and how accurate are they?
+Table 1 provides details about commonly used smartwatch, wrist-band and
+ring (Apple, Fitbit, Garmin, Oura, Polar, Samsung, Withings and Whoop)
+devices and their biometric features. Table2 highlights systematic reviews
+and meta-analyses that have been performed in each of the biometric
+parameters described in this section along with the wearable manufacturers
+that were reviewed in each. This table is detailed but not exhaustive.
+A living umbrella review of systematic reviews evaluating the accuracy
+of consumer-grade technologies in health measurement can be found
+elsewhere21.
+Resting heart rate (HR) and HR tracking
+HR is modulated by the autonomic nervous system (ANS) and can be
+modiﬁed by several physiological and environmental factors. HR changes in
+response to many physiological and medical stimuli, such as exercise,
+anxiety, pregnancy, physical ﬁtness, and cardiovascular and non-
+cardiovascular diseases. A chronica lly elevated resting HR is a strong
+independent risk factor for all-cause mortality and for adverse outcomes in
+individuals with cardiovascular disease22,23.
+The accuracy of PPG estimation of HR has been widely documented
+with validation performed against reference ECG measurements. At rest,
+wearables are widely considered to measure HR accurately, with mean
+absolute errors (AE) in the region of 2 beats per minute (bpm), mean absolute
+percentage errors (MAPE) reported as less than 10% and correlations
+between the devices and reference methods consistently reported as moderate
+to excellent24– 32.
+A systematic review of the reliability and validity of commercially
+available wearables (Fitbit, Apple Watch, Samsung and Garmin) was
+Fig. 1 | Consumer-grade wearable sensor signals.
+A schematic representation of three sensor signals
+commonly used in consumer-grade wearables: tri-
+axial accelerometery (Accel.), photoplethysmography
+(PPG) and electrocardiography (ECG).
+Tri-axial
+Accel. Signal
+PPG
+Signal
+ECG
+Signal
+Time (seconds)
+Time (seconds)
+Time (seconds)
+R
+P T
+Q S
+PR
+QT
+Y
+Z
+X
+Systolic
+peak Diastolic
+peak
+Diastolic
+decaySystolic
+upstroke
+Dicrotic
+notch
+Cycle duration
+Steps
+Pulse Rate
+Heart Rate
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 2
+
+Table 1 | Biometric features available in commonly used smartwatch, wrist-band and ring (Apple, Fitbit, Garmin, Oura, Polar, Samsung, Withings and W hoop) wearables
+Apple Fitbit Garmin Oura Polar Samsung Withings Whoop
+Health metrics
+Resting HR Every 5 mins Every 1 min Every 15 sec Every 5 mins Every 1 sec Every 5 mins Every 10 mins Every 1 sec
+HR during activity Every 1 sec Every 1 sec Every 1 sec Every 1 sec Every 1 sec Every 1 sec Every 1 sec Every 1 sec
+HR sensor PPG & ECG PPG PPG PPG PPG PPG PPG PPG
+HRV ✓
+SDNN
+✓
+RMSSD
+✓
+RMSSD
+SDNN
+* selected models
+✓
+RMSSD
+✓
+RMSSD
+✓
+SDNN
+✓
+SDNN
+* selected models
+✓
+RMSSD
+HRV sensor PPG & ECG PPG PPG PPG PPG PPG PPG & ECG PPG
+HRV measurements Sleep & at rest Sleep Sleep & Health Snapshot
+(informs body battery &
+overnight recovery data)
+Sleep Sleep & training Sleep & stress tracking Sleep Sleep
+(informs baseline
+recovery, strain, overall
+readiness score)
+ECG ✓
+* Series 4 &
+later models
+✓
+* Sense & Charge 5
+✓
+* Venu2+ onwards, Epix Pro
+(Gen 2), Fenix 7 pro onwards,
+quatix 7 Pro, tactix 7, D2 Mach
+1 Pro, Enduro 3
+× ✓
+* Grit X2 Pro,
+Vantage V3
+✓
+* Galaxy Watch 3,
+Galaxy Watch Active 2
+& later models
+✓
+* ScanWatch &
+Move ECG
+×
+ECG recording
+duration
+30 s on demand 30 s on demand 30 s on demand n/a 30 s on demand 30 s on demand 30 s on demand n/a
+ECG reporting Sinus rhythm
+Atrial ﬁbrillation
+Low or high HR ( < 50
+or >120 bpm)
+Inconclusive
+Poor recording
+Sinus rhythm
+Atrial Fibrillation
+Sinus rhythm
+Atrial Fibrillation
+n/a Average HR
+HRV
+Beat to beat interval
+Pulse arrival time
+Orthostatic test
+Sinus rhythm
+Atrial Fibrillation
+Sinus rhythm
+Possible Atrial
+Fibrillation
+n/a
+FDA clearance for AF
+detection
+✓
+ECG & PPG
+✓
+ECG & PPG
+×× × ✓
+ECG
+✓
+ECG
+×
+SpO2 ✓
+Blood Oxygen
+* Series 6 &
+later models
+✓
+SpO2 Sensor /
+Estimated Oxygen
+Variation
+* Charge 4 & later
+models, Sense &
+Versa series
+✓
+Pulse Ox
+(On demand or continuously)
+✓
+Blood oxygen sensing
+* Gen 3
+✓
+SpO2
+* Vantage
+✓
+Blood oxygen
+* Galaxy Watch 3,
+Galaxy Watch Active 2
+& later models
+✓
+Oxygen saturation
+On demand and sleep
+tracking
+✓
+Blood oxygen saturation
+* 4.0
+Respiratory rate ✓
+Respiratory rate
+* Series 4 &
+later models
+✓
+Breathing rate
+* Charge 4 & later
+models, Sense &
+Versa series
+✓
+Respiration rate
+* Venu, Fenix, Forerunner
+series
+✓
+Respiratory rate
+* Gen 2 & onwards
+✓
+Respiration rate
+* Vantage
+✓
+Respiratory rate
+* Galaxy Watch 3 &
+onwards
+✓
+Breathing disturbances
+✓
+Respiratory rate
+* 3.0 onwards
+Respiratory rate
+measurements
+Sleep Sleep, rest & activity Sleep, rest & activity Readiness & sleep scores Nightly recharge
+Serene guided
+breathing exercise
+Sleep analysis Irregular breathing
+patterns during sleep
+Continuously
+Temperature ✓
+Wrist temperature
+* Series 8 &
+later models
+✓
+Skin temperature
+variation
+* Sense, Versa 3 &
+Charge 5
+✓
+Skin temperature
+* Venu3 onwards, Epix Pro
+(Gen 2), Fenix 7 pro onwards,
+quatix 7 Pro, tactix 7, D2 Mach
+1 Pro, Enduro 3
+✓
+Body temperature
+* Gen 3
+✓
+Nightly skin
+temperature
+✓
+Skin temperature
+* Galaxy Watch 5
+✓
+Body temperature
+* Scanwatch 2
+✓
+Skin temperature
+* 3.0 onwards
+Stress /
+readiness score
+× ✓
+Stress management
+score / daily
+readiness score
+✓
+Stress tracking / body battery
+✓
+Readiness score /
+daytime stress / resilience
+✓
+Nightly recharge
+✓
+Stress monitoring
+✓
+Stress level
+✓
+Stress score / day strain /
+recovery
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 3
+
+Table 1 (continued) | Biometric features available in commonly used smartwatch, wrist-band and ring (Apple, Fitbit, Garmin, Oura, Polar, Samsung, W ithings and Whoop)
+wearables
+Apple Fitbit Garmin Oura Polar Samsung Withings Whoop
+Stress/ readiness
+score based on
+n/a EDA, HRV & sleep HRV, sleep & activity HRV, sleep, recovery
+metrics
+HRV & sleep HRV & other biometrics HRV HRV & HR data
+Blood pressure ×
+Compatible with
+external BP cuffs
+×× × × ✓
+* requires periodic
+calibration with a
+traditional BP cuff
+* region dependent
+* Galaxy Watch 3,
+Galaxy Watch Active 2
+& later models
+×
+Compatible with
+external BP cuffs
+(Withings BPM Connect)
+×
+Body composition × ×
+* From compatible
+smart scales
+(Fitbit Aria)
+×
+* From compatible smart
+scales (Garmin Index Scale)
+×× ✓
+Body fat %, skeletal
+muscle, basal
+metabolic rate & body
+water.
+* Galaxy Watch 4 &
+onwards
+×
+* From compatible smart
+scales (Withings Body+
+and Body Cardio)
+×
+Energy expenditure ✓
+Active & total calories
+✓
+Active & resting
+calories
+✓
+Total calories
+✓
+Calories burned
+✓
+Total calories burned
+& calorie tracking for
+workouts
+✓
+Calories burned during
+activities & during
+the day
+✓
+Calories burned
+✓
+Calories burned
+Women’s health ✓
+Digital diary with
+predictions
+✓
+Digital diary with
+predictions
+✓
+Digital diary with predictions
+✓
+Digital diary with
+predictions
+× ✓
+Digital diary with
+predictions
+✓
+Digital diary
+✓
+Digital diary
+Activity metrics
+Step count ✓✓ ✓ ✓ ✓✓ ✓ ✓
+Distance ✓
+via step count & GPS
+✓
+via step count & GPS
+✓
+via step count & GPS
+✓
+via step count
+✓
+via step count & GPS
+✓
+via step count & GPS
+✓
+via step count & GPS
+✓
+via activity data
+Built in GPS ✓
+most models
+✓
+most models
+✓
+most models
+×
+location access can be
+granted via mobile
+phone app
+✓
+most models
+✓
+most models
+✓
+most models
+×
+location access can be
+granted via mobile
+phone app
+Floors climbed ✓
+3 m (10 feet)
+✓
+3 m (10 feet)
+✓
+3 m (10 feet)
+× ✓
+* Vantage & Grit
+series
+✓
+3 m (10 feet)
+××
+Auto. activity
+recognition
+✓✓
+SmartTrack
+✓
+Auto Activity Start
+× ✓
+Automatic Training
+Detection
+✓
+Auto Detect Activity
+✓
+Automatic Workout
+Detection
+✓
+CRF ✓
+VO2max
+(Cardio Fitness Level)
+✓
+Cardio Fitness Score
+✓
+VO2max
+✓
+Cardio Capacity
+✓
+Fitness test for
+VO2max
+✓
+VO2max
+✓
+Cardio Fitness
+✓
+Strain Score
+CRF estimate
+based on
+HR & activity data
+from outdoor walking
+or running
+HR & activity data HR & activity data from outdoor
+activities (walking, running,
+cycling)
+Anthropometric data &
+walking test
+HR during speciﬁc
+activities
+During speciﬁc
+workouts
+HR & activity data Workout intensity
+(indirect cardiovascular
+ﬁtness)
+CRF units ml/kg/min ml/kg/min ml/kg/min ml/kg/min ml/kg/min ml/kg/min ml/kg/min Score
+Sleep
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 4
+
+performed for the measurement of HR (Table 2)33. A total of 29 studies
+examined wearable device HR measurements compared with reference
+measures including ECG, Polar chest straps and pulse oximetry. Of the 177
+comparisons, 100 (56.5%) were within ±3% measurement error, 44
+(24.9%) were below -3% measurement error and 33 (18.6%) were above 3%
+measurement error, with a slight tendency to underestimate HR33.
+However, the accuracy of HR measurement in wearables is known to
+decline during physical activity. In addition to activity intensity, the activity
+type and speciﬁcally arm movement during the activity have been shown to
+inﬂuence the accuracy of HR measurements 34– 36. We recently observed
+excellent accuracy in measuring HR at rest, and during recovery
+(MAPE ≤3%), in both Garmin and Fitbit devices, but accuracy worsened
+during peak exercise37. MAPE was similar to rest and recovery during peak
+exercise, however, the limits of agreement widened due to an increase in the
+number of outliers ( ~ 7% for Garmin and ~ 12% for Fitbit) 37.C o n t a c t
+pressure and sweat have also been shown to impact accuracy38.
+Heart rate variability (HRV) and pulse rate
+variability (PRV)
+HRV is a measure of the variation in thetime interval between each successive
+heartbeat, speciﬁcally the variation in the duration of consecutive R-R intervals
+on an ECG. HRV is considered a non-invasive ANS marker representing the
+balance between the sympathetic and parasympathetic branches39.L o wH R V
+is associated with cardiovascular disease, diabetes mellitus, hypertension,
+arrhythmia and all-cause mortality40 and conversely, optimal HRV is asso-
+ciated with health and resilience41. There are several HRV parameters that can
+be measured from an ECG which are grouped primarily into time domain and
+frequency domain markers 42, but more complex markers have been
+proposed43. Time-domain measurements quantify HRV over a period of time
+(e.g., 2 min to 24 h) and include the root mean square of successive differences
+(RMSSD) and the standard deviation ofnormal-to-normal intervals (SDNN).
+In contrast, frequency domain metrics measure the signal in various bands of
+frequency and include high frequency power and low frequency power.
+In the context of wearables, ‘HRV’ measurements may be obtained
+using an ECG sensor, PPG sensor or both. When measured using PPG, the
+most appropriate metric to use would be pulse rate variability44,45,w h i c hi s
+derived from consecutive pulses recorded in the wrist orﬁnger and not from
+consecutive R-R intervals on an ECG. Despite presentingsome differences
+related to the pulse arrival time, i.e., the interval between the R-wave in the
+ECG and the onset of the PPG pulse, HRV from ECG and PPG have been
+shown to be similar, even in dynamic conditions45. Smartwatches measure
+the ECG for a short period of time, typically 30 s, from which only measures
+of ultra-short HRV can be derived22,46.
+Pulse rate variability has been shown to correlate with HRV during
+rest and during autonomic challenges 45. According to a recent review,
+mainly focusing on measurements derived at rest, the correlation between
+ECG and wearable derived HRV ranged from very good to excellent at rest
+and declined progressively as exercise intensity increased (Table2)47.
+In a recent validation study of PPG derived HRV (RMSSD and SDNN)
+using Garmin’s health snapshot, we observed a strong correlation (between
+0.82 and 0.89) between Garmin and reference ECG HRV32.
+Arrhythmia and AF detection
+An arrhythmia refers to an abnormality of the heart’sr h y t h mi nw h i c ht h e
+heart may beat too slowly, too quicklyor irregularly. AF is the most common
+serious arrhythmia, and refers to a n irregular heart rhythm in which
+uncoordinated electrical activation in the top chambers of the heart (the
+atria) can impair cardiac efﬁciency. Although many people with AF are not
+aware of it, AF can also cause disabling symptoms of an awareness of an
+unusual heartbeat, breathlessness, dizziness and fatigue. AF affects
+approximately 59 million individuals worldwide and is associated with an
+increased risk of blood clots and stroke48. Early detection of AF allows for the
+prompt implementation of patient m anagement and treatment such as
+medication, or interventions (such as ablation or cardioversion) as well as
+risk reduction for the development of AF complications such as stroke and
+Table 1 (continued) | Biometric features available in commonly used smartwatch, wrist-band and ring (Apple, Fitbit, Garmin, Oura, Polar, Samsung, W ithings and Whoop)
+wearables
+Apple Fitbit Garmin Oura Polar Samsung Withings Whoop
+Time spent asleep ✓✓ ✓ ✓ ✓✓ ✓ ✓
+Sleep stages ✓
+REM, Core & Deep
+✓
+Light, deep & REM
+✓
+Light, deep & REM
+✓
+Light, deep & REM
+✓
+Light, deep & REM
+✓
+Light, deep & REM
+✓
+Light, deep & REM
+✓
+Light, deep & REM
+Technical
+speciﬁcations
+Bluetooth
+connectivity
+✓✓ ✓ ✓ ✓✓ ✓ ✓
+iOS requirements iPhone 6 s or later
+with iOS 14 or later
+iOS 14 or later iOS 12 or later iOS 12 or later iOS 12 or later May not support all
+features with iOS
+iOS 12 or later iOS 12 or later
+Android
+requirements
+Not compatible Android 8.0 or later Android 6.0 or later Android 8.0 or later Android 6.0 or later Android 6.0 or later Android 6.0 or later Android 6.0 or later
+Battery life ~3 days ~5 days ~5 days 4 –7 days 5 –14 days 1 –2 days 30 days 4 –5 days
+HR heart rate, PPG photoplethysmography, ECG electrocardiography, RMSSD root mean square of successive differences, SDNN standard deviation of the normal sinus beat intervals, HRV heart rate variability, FDA Food & Drug administration, AF atrial ﬁbrillation, EDA
+electrodermal activity, GPS geolocation positioning system, CRF cardiorespiratory ﬁtness, REM rapid eye movement.
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 5
+
+Table 2 | Highlighted publications organised by wearable biometric parameter
+First Author
+[Reference]
+Year Title Wearable Manufacturer
+Health metrics
+HR
+Systematic review/ meta-analysis Chan 135 2022 Novel wearable and contactless heart rate, respiratory rate, and oxygen saturation monitoring
+devices: a systematic review and meta-analysis.
+Apple
+Cardiacsense
+Everion
+Fitbit
+Samsung
+Wavelet
+Systematic review/ meta-analysis Chevance 136 2022 Accuracy and precision of energy expenditure, heart rate, and steps measured by combined-
+sensing ﬁtbits against reference measures: systematic review and meta-analysis.
+Fitbit
+Systematic review/ meta-analysis Fuller 33 2020 Reliability and validity of commercially available wearable devices for measuring steps, energy
+expenditure, and heart rate: systematic review.
+Apple
+Fitbit
+Garmin
+Mio
+Polar
+Samsung
+Withings
+Xiaomi
+Systematic review/ meta-analysis Germini 137 2022 Accuracy and acceptability of wrist-wearable activity-tracking devices: systematic review of the
+literature.
+Apple
+Basis
+Fitbit
+Garmin
+Polar
+Huawei
+Jawbone
+Withings
+Xiaomi
+Systematic review/ meta-analysis Irwin 138 2022 Systematic review of Fitbit Charge 2 validation studies for exercise tracking. Apple
+Empatica
+Fitbit
+Honor
+Huawei
+Polar
+Samsung
+Wavelet Health
+Xiaomi
+Systematic review/ meta-analysis Koerber 139 2022 Accuracy of heart rate measurement with wrist-worn wearable devices in various skin tones: a
+systematic review.
+Apple
+Fitbit
+Garmin
+Mio Alpha
+Systematic review/ meta-analysis Zhang 24 2020 Validity of wrist-worn photoplethysmography devices to measure heart rate: a systematic review
+and meta-analysis.
+Apple
+Basis Peak
+Empatica
+Fitbit
+Garmin
+Microsoft
+Mio
+Omron
+Philips
+Polar
+PulseOn
+Samsung
+Tempo
+TomTom
+Wavelet
+HRV
+Systematic review/ meta-analysis Board 140 2016 Validity of telemetric-derived measures of heart rate variability: a systematic review. Polar
+Suunto
+Systematic review/ meta-analysis Dobbs 141 2019 The Accuracy of Acquiring Heart Rate Variability from Portable Devices: A Systematic Review and
+Meta-Analysis.
+Polar
+Suunto
+Systematic review/ meta-analysis Georgiou 47 2018 Can Wearable Devices Accurately Measure Heart Rate Variability? A Systematic Review. 4IIII
+60beat
+BlueLeza
+Cardiosport
+Carre Technologies
+Cositea
+Empatica
+Garmin
+Mad Apparel
+Medronic
+Mio
+Polar
+Qardio
+Sony
+Sunnto
+Wahoo Fitness
+Whoop
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 6
+
+Table 2 (continued) | Highlighted publications organised by wearable biometric parameter
+First Author
+[Reference]
+Year Title Wearable Manufacturer
+ECG/Arrhythmia detection
+Systematic review/ meta-analysis Belani 142 2021 Accuracy of detecting atrial ﬁbrillation: a systematic review and meta-analysis of wrist-worn
+wearable technology.
+Apple
+Kardiaband
+Samsung
+Systematic review/ meta-analysis Giebal 143 2019 Accuracy of mHealth devices for atrial ﬁbrillation screening: systematic review. Apple
+Fitbit
+Polar
+Systematic review/ meta-analysis Hermans 144 2022 Mobile health solutions for atrial ﬁbrillation detection and management: a systematic review. Apple
+Empatica
+Fitbit
+Honor
+Huawei
+Polar
+Samsung
+Wavelet Health
+Xiaomi
+Systematic review/ meta-analysis Koerber 139 2022 Accuracy of heart rate measurement with wrist-worn wearable devices in various skin tones: a
+systematic review.
+Apple
+Fitbit
+Garmin
+Mio Alpha
+Systematic review/ meta-analysis Lopez 145 2021 Mobile health applications for the detection of atrial ﬁbrillation: a systematic review. Empatica
+Honor
+Huawei
+Wavelet Health
+Systematic review/ meta-analysis Nazarian 146 2021 Diagnostic accuracy of smartwatches for the detection of cardiac arrhythmia: systematic review
+and meta-analysis.
+Apple
+Empatica
+Huawei
+Huami
+Samsung
+Wavelet wristband
+SpO2
+Systematic review/ meta-analysis Windisch 64 2023 Accuracy of the Apple Watch Oxygen Saturation Measurement in Adults: A Systematic Review. Apple
+Respiratory Rate
+Systematic review/ meta-analysis Chan 135 2022 Novel wearable and contactless heart rate, respiratory rate, and oxygen saturation monitoring
+devices: a systematic review and meta-analysis.
+Apple
+Cardiacsense
+Everion
+Fitbit
+Samsung
+Wavelet
+Stress
+Systematic review/ meta-analysis Hickey 116 2021 Smart Devices and Wearable Technologies to Detect and Monitor Mental Health Conditions and
+Stress: A Systematic Review.
+Apple
+Bodymonitor
+Empatica
+Polar
+Samsung
+Blood or pulse pressure
+Systematic review/ meta-analysis Islam 98 2022 Wearable cuf ﬂess blood pressure monitoring devices: a systematic review and meta-analysis. B-pro
+Checkme
+Freescan
+SeismoWatch
+T2-Mart
+Perspective Schutte 95 2024 Wearable cuf ﬂess blood pressure tracking: when will they be good enough?
+Energy expenditure
+Systematic review/ meta-analysis Chevance 136 2022 Accuracy and precision of energy expenditure, heart rate, and steps measured by combined-
+sensing ﬁtbits against reference measures: systematic review and meta-analysis.
+Fitbit
+Systematic review/ meta-analysis Evenson 147 2015 Systematic review of the validity and reliability of consumer-wearable activity trackers. Fitbit
+Jawbone
+Systematic review/ meta-analysis Feehan 148 2018 Accuracy of ﬁtbit devices: systematic review and narrative syntheses of quantitative data. Fitbit
+Systematic review/ meta-analysis Fuller 33 2020 Reliability and validity of commercially available wearable devices for measuring steps, energy
+expenditure, and heart rate: systematic review.
+Apple
+Fitbit
+Garmin
+Mio
+Polar
+Samsung
+Withings
+Xiaomi
+Systematic review/ meta-analysis Germini 137 2022 Accuracy and acceptability of wrist-wearable activity-tracking devices: systematic review of the
+literature.
+Apple
+Basis
+Fitbit
+Garmin
+Polar
+Huawei
+Jawbone
+Withings
+Xiaomi
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 7
+
+Table 2 (continued) | Highlighted publications organised by wearable biometric parameter
+First Author
+[Reference]
+Year Title Wearable Manufacturer
+Systematic review/ meta-analysis Henriksen 149 2020 Measuring physical activity using triaxial wrist worn polar activity trackers: a systematic review. Polar
+Systematic review/ meta-analysis Leung 150 2022 A meta-analysis of Fitbit devices: same company, different models, different validity evidence. Fitbit
+Systematic review/ meta-analysis O ’Driscoll151 2020 How well do activity monitors estimate energy expenditure? A systematic review and meta-
+analysis of the validity of current technologies.
+Apple
+Basis
+Beurer
+Epson
+ePulse
+Fitbit
+Garmin
+Jawbone
+LifeCheck
+Microsoft
+Mio
+Misft
+Nike
+Polar
+Samsung
+SenseWear
+TomTom
+Vivago
+Withings
+Activity metrics
+Step count & distance covered
+Systematic review/ meta-analysis Chevance 136 2022 Accuracy and precision of energy expenditure, heart rate, and steps measured by combined-
+sensing ﬁtbits against reference measures: systematic review and meta-analysis.
+Fitbit
+Systematic review/ meta-analysis Evenson 147 2015 Systematic review of the validity and reliability of consumer-wearable activity trackers. Fitbit
+Jawbone
+Systematic review/ meta-analysis Feehan 148 2018 Accuracy of ﬁtbit devices: systematic review and narrative syntheses of quantitative data. Fitbit
+Systematic review/ meta-analysis Fuller 33 2020 Reliability and validity of commercially available wearable devices for measuring steps, energy
+expenditure, and heart rate: systematic review.
+Apple
+Fitbit
+Garmin
+Mio
+Polar
+Samsung
+Withings
+Xiaomi
+Systematic review/ meta-analysis Germini 137 2022 Accuracy and acceptability of wrist-wearable activity-tracking devices: systematic review of the
+literature.
+Apple
+Basis
+Fitbit
+Garmin
+Polar
+Huawei
+Jawbone
+Withings
+Xiaomi
+Systematic review/ meta-analysis Henriksen 149 2020 Measuring physical activity using triaxial wrist worn polar activity trackers: a systematic review. Polar
+Systematic review/ meta-analysis Irwin 138 2022 Systematic review of Fitbit Charge 2 validation studies for exercise tracking. Apple
+Empatica
+Fitbit
+Honor
+Huawei
+Polar
+Samsung
+Wavelet Health
+Xiaomi
+Systematic review/ meta-analysis Kenyon 152 2013 Validity of pedometers in people with physical disabilities: a systematic review. Yamax Dig-Walker SW
+Physical activity (PA)
+Systematic review/ meta-analysis Chan 135 2022 Reporting adherence, validity and physical activity measures of wearable activity trackers in
+medical research: A systematic review.
+ActiGraph
+Fitbit
+Axivity
+Systematic review/ meta-analysis Feehan 148 2018 Accuracy of ﬁtbit devices: systematic review and narrative syntheses of quantitative data. Fitbit
+Systematic review/ meta-analysis Germini 137 2022 Accuracy and acceptability of wrist-wearable activity-tracking devices: systematic review of the
+literature.
+Apple
+Basis
+Fitbit
+Garmin
+Polar
+Huawei
+Jawbone
+Withings
+Xiaomi
+Systematic review/ meta-analysis Henriksen 149 2020 Measuring physical activity using triaxial wrist worn polar activity trackers: a systematic review. Polar
+Cardiorespiratory ﬁtness
+Systematic review/ meta-analysis Molina-Garcia 86 2022 Validity of Estimating the Maximal Oxygen Consumption by Consumer Wearables: A Systematic
+Review with Meta-analysis and Expert Statement of the INTERLIVE Network.
+Garmin
+Fitbit
+Polar
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 8
+
+heart failure. Wearables can detect AF through both ECG and PPG
+sensors49– 51. Currently, other arrhythmias (e.g., atrial or ventricular tachy-
+cardia) or premature cont ractions (called ectopic beats) are not usually
+detected by consumer-grade smartwa tches or rings, despite this may
+potentially contribute to improving risk assessment52.
+Wrist-worn devices have been shown to have excellent diagnostic
+accuracy in AF diagnosis based on a systematic review and meta-analysis of
+28 studies (n = 13,463, area under the ROC curve of 0.97 (95% CI: 0.94,0.99);
+Table 2)53.
+The BASEL wearable study reported that the sensitivity and speciﬁcity
+for AF detection were 85% and 75% for the Apple Watch 6, 85% and 75% for
+the Samsung Galaxy Watch 3, 58% and 75% for the Withings Scanwatch
+and 66% and 79% for the Fitbit Sense, respectively54.T h ea u t h o r’sr e p o r t e d
+that in a clinical setting, manual review of tracings is required in about one-
+fourth of cases.
+Wearable models from Apple, Fitbit, Samsung and Withings have been
+cleared by the US FDA for pre-diagnostic AF detection that are not intended
+for clinical decision-making.
+Cardiac intervals
+Cardiac intervals such as the QT interval, which measures the duration of
+ventricular repolarisation, or the PR interval, which measures the duration
+of atrial activation, carry important diagnostic and prognostic value (Fig.1).
+Recent studies have shown that cardiac intervals derived from smartwatch
+ECGs show moderate to strong correla tion with standard medical-grade
+ECGs55– 57, however, these are not currently measured by consumer-grade
+wearables.
+It was noted in a 2023 review that only two commercially available
+devices (Apple Watch and Withings ScanWatch) had been adequately
+compared to 12-lead ECG measurements with respect to QTc
+measurements 56. In 177 patients (56%), the Withings ScanWatch
+automated algorithm was able to automatically measure QTc with a
+mean difference of 6.6 ms [Limits of Agreement; LoA: −59, 72 ms]
+compared to manual measurements . The authors concluded that the
+Withings ScanWatch tends to underestimate the QTc interval in line
+with others 56,58.
+In another study, adequate QT measurements were observed in 85% of
+patients when the smartwatch was worn in the standard wrist position55.
+Respiratory rate
+Respiratory rate refers to the number of breaths taken per minute, and like
+HR is affected by a wide range of physiological and medical conditions59,60.
+Respiratory rate can be estimated by wearables through the analysis of subtle
+c h a n g e si nt h eE C Go rP P Gs i g n a lt h a to c c u rd u et or e s p i r a t o r ym o d u l a t i o n ;
+including baseline wander of the signal, changes in the amplitude of the
+signal and the frequency of the signal5,61.
+Table 2 (continued) | Highlighted publications organised by wearable biometric parameter
+First Author
+[Reference]
+Year Title Wearable Manufacturer
+Sleep
+Scoping review Birrer 153 2024 Evaluating reliability in wearable devices for sleep staging. Actical
+ActiGraph
+Actiwatch
+Apple
+AW-64
+Basis
+Empatica
+Fitbit
+Garmin
+GeneActiv
+GTX3+
+Jawbone
+Motionlogger
+MyCadian
+Oura
+Polar
+Whoop
+Zulu
+Systematic review/ meta-analysis Evenson 147 2015 Systematic review of the validity and reliability of consumer-wearable activity trackers. Fitbit
+Jawbone
+Systematic review/ meta-analysis Feehan 148 2018 Accuracy of ﬁtbit devices: systematic review and narrative syntheses of quantitative data. Fitbit
+Systematic review/ meta-analysis Haghayegh 111 2019 Accuracy of Wristband Fitbit Models in Assessing Sleep: Systematic Review and Meta-Analysis. Fitbit
+Systematic review/ meta-analysis Imtiaz 154 2021 A Systematic Review of Sensing Technologies for Wearable Sleep Staging. Apple
+Basis
+Fitbit
+Microsoft
+Oura
+Samsung
+Whoop
+Zulu
+Review Rentz 155 2021 Deconstructing Commercial Wearable Technology: Contributions toward Accurate and Free-
+Living Monitoring of Sleep.
+Systematic review/ meta-analysis Schyvens 108 2024 Accuracy of Fitbit Charge 4, Garmin Vivosmart 4, and WHOOP Versus Polysomnography:
+Systematic Review.
+Fitbit
+Garmin
+Whoop
+Systematic review/ meta-analysis Scott 156 2020 A systematic review of the accuracy of sleep wearable devices for estimating sleep onset. Actiwatch
+Fitbit
+GT3X+
+Jawbone
+Sleepwatch
+Somno
+Withings
+Women’s Health
+Systematic review/ meta-analysis Lyzwinski 120 2024 Innovative approaches to menstruation and fertility tracking using wearable reproductive health
+technology: systematic review.
+Ava
+Oura
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 9
+
+The accuracy of the respiratory rate estimation during sleep using the
+Samsung Galaxy Watch compared to polysomnography has been investi-
+gated in 195 individuals with varying degrees of obstructive sleep apnoea
+(OSA)62. OSA is a sleep disorder characterised by periods of partial or
+complete closure of the airway resulting in reduced and irregular respiratory
+rate during sleep. The root mean squared error (RMSE) of the average
+overnight and continuous respiratory rate measurements were 1.13 bpm
+and 1.62 bpm, respectively, showing a small bias of 0.39 bpm and 0.37 bpm,
+respectively62.I np a r t i c i p a n t sw i t hn o r m a l - t o - m o d e r a t eO S A ,a v e r a g e
+overnight and continuous respiratory rate measurements were at least 90%
+accurate62. For patients with severe OSA, accuracy decreased to 79.5% and
+75.8%, respectively62. Recently, Samsung and Apple watches offer the pos-
+sibility to detect increased risk for OSA, however little validation data is
+currently available.
+Pulse oximetry (SpO2)
+Oxygen saturation is a measure of the amount of haemoglobin that is bound
+to oxygen compared to how much haemoglobin remains unbound in the
+blood. SpO2 refers to the saturation of peripheral oxygen reported as the
+percentage of oxygen in the blood. SpO2 values can be observed in indivi-
+duals with heart and lung conditions, OSA and at high altitude63. Previously
+mostly used only in high-intensity hospital settings, COVID-19 led to much
+wider use of oximetry in the community, including monitors bought
+directly by citizens and patients. SpO2 can be measured using reﬂectance
+PPG in wearables 4. For the majority of individuals, a normal SpO 2 is
+between 95% and 99%.
+In a 2023 review,ﬁve publications (n = 973) using Apple Watch Series
+6 to measure SpO2 were evaluated (Table2)64.W h e nc o m p a r e dt om e d i c a l -
+grade pulse oximeters, the 95% limi ts of agreement were reported to be
+−2.7% to 5.9% SpO2, however, outliers of up to 15% were reported. Whether
+wearables are suited for remote monitoring in patients with established
+conditions that affect their oxygen saturation is yet to be addressed and
+further validation in both patients and healthy controls is necessary before
+smartwatches are recommended for clinical use65. In a recent study using
+Garmin’s health snapshot, we observed frequent underestimation of SpO2
+32.
+Step count and distance travelled
+Step count is a measure of physical activity which can objectively be mea-
+sured by counting the number of steps an individual takes in a given period
+of time. The number of steps taken per day have strong associations with risk
+of chronic disease and mental health66 and are inversely related to obesity,
+OSA, gastroesophageal reﬂux disease and major depressive disorder67.T h e
+length of a walking step correlates to an individual’sh e i g h t68, however, can
+be impacted by age, ﬁtness level and health status.
+Step count using wearables is derived as a composite of walking motion
+detected by the accelerometer and stride length (determined by pre-
+programmed height) and has been used as an outcome in clinical trials69.
+Distance travelled is commonly calculated from step count or measured
+through the activation of the GPS du ring outdoor activities and is the
+primary outcome of established sub-maximal tests of exercise capacity such
+as the 6 min walk test70.
+32 studies of Garmin smartwatches were assessed for step count
+validity in a 2019 review71. 16 studies were found to have good (0.75– 0.89) to
+excellent ( ≥ 0.90) correlation coefﬁcients with acceptable APE ( < 5% in
+laboratory or controlled conditions and <10% in free-living conditions)71.
+Distance validity, which was tested in three studies, had lower correlation
+coefﬁcients of <0.60 with acceptable APE and both over and under-
+estimation was reported71.
+In the context of established sub-maximal tests of exercise capacity, we
+recently observed that distance measured by Garmin and Fitbit through the
+activation of GPS was accurate, with as little as 6– 8% error during a 6 min
+walk test if participants walked around a park37. However, error increased to
+18– 20% when a standard 30 m lap protocol was used. Step count was a more
+accurate measure of distance compared to GPS distance (MAPE: 0.9% [0.4,
+2.2%] and 6.8% [3.2, 12.9%] for Garmin and Fitbit, respectively)37.
+A 2020 systematic review of wearables (Fitbit, Apple Watch, Samsung
+and Garmin) also evaluated the reliability and validity of the measurement
+of step count 33. From 158 studies, 805 comparisons between wearable
+derived step count and reference measures (manual counting or accel-
+erometery) were made. Of these, 364 (45.2%) were within ±3% measure-
+ment error, 344 (42.7%) were below −3% measurement error and 97
+(12.1%) were above 3% measurement error with an overall tendency to
+underestimate step count33.
+Physical Activity Recognition
+Physical activity recognition can refer to the classiﬁcation process of phy-
+siological motion measurements that may occur in a laboratory or free-
+living conditions72. Wearables often include a feature whereby the type and
+duration of a physical activity is automatically recognised and recorded
+without input from the user.
+In 2019, a validation study assessed the automatic identi ﬁcation of
+physical activity type and duration using three Fitbit models (Flex 2, Alta HR
+a n dC h a r g e2 )a n do n eG a r m i nm o d e l( V i v o s m a r tH R )73. The activities were
+a treadmill walk, treadmill run, embedded run, outdoor walk, outdoor run,
+elliptical, bike and swim, each for a duration of 15 min. The proportion of
+trials in which the activity type was correctly identiﬁed was 93% to 97% for
+treadmill walking, 93% to 100% for treadmill running, 36% to 62% for
+treadmill running when preceded and followed by a walk, 97% to 100% for
+outdoor walking, 100% for outdoor running, 3% to 97% for using an
+elliptical, 44% to 97% for biking, and 87.5% for swimming73.
+Cardiorespiratory Fitness (CRF) and VO2max
+Estimation
+During exercise, an integrated and coordinated response from the heart,
+lungs, cardiovascular system and skeletal muscles is required to meet the
+metabolic demands of contracting muscles74. Maximal oxygen consump-
+tion (VO2max) is dependent on the ability of the oxygen transport system to
+deliver blood and the ability of cells to take up and utilise oxygen in energy
+production75. While maximal cardiopulmonary exercise testing (CPET) is
+the gold standard for assessing VO2max76, it requires clinical staff, space,
+expensive equipment and time and is rarely performed even in medical
+assessments.
+CRF has been linked to several hea lth-related outcomes, with low
+ﬁtness being associated with increased risk of cardiovascular disease 77,78,
+metabolic syndrome79, cognitive function80 and severe COVID-1981.C o n -
+currently, increased levels of CRF arewidely promoted as cardioprotective
+measures in the primary and secondary prevention of cardiovascular and
+coronary heart disease82,83 and a useful marker of training effectiveness in
+athletic individuals.
+Smartwatch estimates of CRF can be estimated using anthropometric
+parameters (age, sex, height and weight), PPG-measured HR and HRV at
+rest, the relationship between changes in PPG-measured HR and HRV in
+relation to estimated workload during physical activity, exercise type or a
+combination of these factors using proprietary algorithms84,85.
+A systematic review with meta-analysis of 14 studies that assessed the
+validity of smartwatch estimation of VO 2max using either resting mea-
+surements (seated or supine resting HR) or exercise test-based measure-
+ments (outdoor running for at least10 min) was performed in 2022 (Table
+2)86. In the context of using resting measurements, an overestimation of
+VO2max was observed (mean difference [LoA]= 2.17 [−13.07, 17.41] ml/
+kg/min, p = 0.020) compared to the reference measurement. In contrast, a
+bias close to nil compared to the reference measurement (mean difference
+[LoA]= −0.09 [−16.79, 16.61] ml/kg/min, p = 0.910) was observed when
+outdoor running exercise measurements were used. However, the studies
+included in the meta-analysis were small (mean sample per study of 29) and
+based on young (pooled age 24.6 ± 5.7 years) healthy adults, who were
+active, recreational runners or soccer players86.
+Absolute values and changes over time in VO 2max as measured by
+Apple or Garmin wearables and CPET have been shown to correlate well
+(Pearson’s >0.80) in 48 adults with complex congenital heart disease 87.
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 10
+
+However, in line with the ﬁndings of the Apple smartwatch validation
+study49 and prior work of ours utilising free-living activity 88,d e s p i t e
+observing moderate correlations, a large positive bias in smartwatch esti-
+mated VO2max has been observed, indicating that wearables often over-
+estimate VO2max87.
+Wearable estimates of CRF are currently limited to VO 2max as an
+outcome parameter. In contrast, clinical CPET provides many other valu-
+a b l em e t r i c ss u c ha sa n a e r o b i cthreshold and oxygen uptake efﬁciency slope
+that contribute to a more comprehensive assessment of CRF and the utili-
+sation of oxygen throughout exercise.
+Energy expenditure
+Energy expenditure is deﬁned as the energy expended, above resting levels,
+during purposeful exercise89. Doubly labelled water, is considered the gold-
+standard indirect calorimetry assessment of free-living energy
+expenditure90, however, is associated with high costs and limited by the
+requirement for structured acti vities in laboratory settings 91. Wearables
+estimate energy expenditure, often referred to as ‘Calories burned’ or
+similar, using anthropomorphic data such as body mass, PPG-measured
+HR, physical activity derived from accelerometery, GPS or both and exercise
+intensity using proprietary algorithms.
+Two systematic reviews established that commercially available wear-
+ables estimated energyexpenditure with insufﬁcient validity33,92.C o n s i s t e n t
+with a separate review of Fitbit accuracy93, it was reported that wearables tend
+to underestimate energy expenditure compared to criterion laboratory
+measures (Oxycon Mobile, CosMed K4b2, or MetaMax 3B), however, at
+higher intensities of activity energy expenditure is overestimated92.
+In 2020, it was also reported that no brand of wearable was within ±3%
+of measurement error more than 13% of the time 33. Underestimation of
+energy expenditure was observed in Garmin wearables 69% of the time, and
+in Withings wearables 74% of the time, respectively. Apple wearables
+overestimated energy expenditure 58% of the time and Polar wearables
+overestimated energy expenditure 69% of the time, respectively. Despite
+showing reasonable median value fo r accuracy, Fitbit devices under-
+estimated energy expenditure 48% of the time and overestimated energy
+expenditure 40% of the time33.
+Blood Pressure (BP)
+BP is the outward force by which blood pushes against the artery walls as it
+moves around the body. BP is describedas the systolic over the diastolic BP
+(maximum over minimum) measuredin millimetres of mercury (mmHg).
+Hypertension (elevated BP levels) affect more than 1 billion people globally
+and is the leading modiﬁable risk factor for preventable death94.T h em o s t
+commonly used method of BP assessment incorporates a cuff sphygmo-
+manometer to assess brachial arterial BP level which can be incorporated
+into automatic oscillometric devices with a brachial cuff95.
+Some wrist-worn devices (e.g., Omron HeartGuide) incorporate a cuff
+to measure BP at the wrist, but limited data on their accuracy is publicly
+available.
+Cufﬂess wearables are emerging but often require user calibration
+prior to use 8. BP measurements can then be derived from the time it
+takes for an arterial pulse wave to reach the periphery (pulse transit
+time) using ECG or pulse wave analysis using PPG in which the change
+in blood volume with each heart beat is assessed 96. The amplitude of the
+PPG signal can provide information about the strength of the pulse,
+with consistently elevated amplitu de in signal being an indication of
+hypertension 7. The devices reviewed in Table 1 do not measure BP, but
+information about cuf ﬂess wearables for blood pressure monitoring
+can be found elsewhere 95,97.
+A systematic review and meta-analysis of 16 studies ( n = 974) was
+performed in 2022 98. 81% of devices in the analyses used PPG to esti-
+mate BP against a reference device. The authors de ﬁned devices with a
+mean bias of <5 mmHg as valid as a con sensus. Eight devices showed a
+mean bias of <5 mmHg for SBP and DBP compared with a reference
+device, three of which were commercially available (B-Pro,
+Somnotouch-NIBP and T2-Mart). D ifferences were not observed
+between the wearables and refere nce devices for SBP (pooled mean
+difference = 3.42 mmHg, 95% CI: −2.17, 9.01) and DBP (pooled mean
+difference = 1.16 mmHg, 95% CI: −1.26, 3.58), however, con ﬁdence
+intervals around the estimates was wide. Recent data have cast doubt
+about the accuracy of some these devices 99,100 and cuf ﬂess-based
+technology 101, and our own data have shown limited agreement
+between cuf ﬂess and cuff-based ambu latory BP monitoring 102.
+Sleep Duration and Stages
+S l e e pi sa ne s s e n t i a lb i o l o g i c a lf u n c t i o nw i t hm a j o rr o l e si nr e c o v e r y ,e n e r g y
+conservation and survival103. There is marked individual variation in the
+amount of sleep that an individual w ill need throughout the life span to
+ensure good health104. Objectively measured short and long sleep duration
+have been both associated withadverse health outcomes105– 107.
+The gold-standard assessment of sleep is laboratory-based poly-
+somnography in which several parameters including brain waves, HR,
+respiratory rate, eye movement and muscle activity are monitored to classify
+sleep and wake cycles108. Wearables use a combination of PPG sensors and
+accelerometers to detect changes in HR and movement to calculate total
+sleep duration and classify sleep stages.
+In 2023, a validation study was performed to assess the accuracy of 11
+commercially available devices including ﬁve wearables (Google Pixel
+Watch, Galaxy Watch 5, Fitbit Sense 2, Apple Watch 8 and Oura Ring 3)
+compared to laboratory polyso mnography in 75 participants 109.T h r e e
+wearables (Google Pixel Watch, Galaxy Watch 5 and Fitbit Sense 2)
+demonstrated moderate agreement with sleep stage classi ﬁcation
+(k = 0.4,0.6) and two wearables (Apple Watch 8 and Oura Ring 3) showed
+fair agreement (k = 0.2,0.4). The authors reported that wearables generally
+overestimate sleep by misclassifying periods of awake stillness as sleep. The
+Oura ring showed negligible proportional bias, potentially owing to its use of
+additional features beyond actigraphy such as body temperature and cir-
+cadian rhythm for sleep staging110.
+Fitbit devices were reported to be comparable to polysomnography in
+accuracy of detecting sleep phases, with 95% to 96% sensitivity and 58% to
+69% speciﬁcity in detecting sleep epochs in a 2019 review111. A recent sys-
+tematic review of eight studies investigated the accuracy of Fitbit, Garmin
+and Whoop in measuring sleep duration and sleep stages versus
+polysomnography108. Whoop was reported to have the least disagreement
+compared to polysomnography for total sleep time (−1.4 min), light sleep
+(−9.6 min) and deep sleep (−9.3 min) but the largest disagreement for rapid
+eye movement (REM) sleep (21.0 min). The Fitbit and Garmin devices both
+showed moderate accuracy in assessing sleep stages and total sleep time
+compared to polysomnography108.
+Psychological stress
+Stress can be de ﬁned as a state of worry or mental tension caused by a
+challenging situation in life or the environment. Stress activates the
+sympathetic nervous system resulting in an increase in HR and a
+decrease in HRV 112. Conversely, during periods of relaxation and sleep,
+a decrease in HR and increase in HRV can be observed 113.C h r o n i c
+stress, the repeated occurrence of t he stress response over a period of
+time, is associated with increased r isk of cardiovascular disease and
+type 2 diabetes mellitus 114,115. The integration of stress management
+features in wearables is based on HR and HRV analysis and in some,
+EDA sensors. HRV analysis in weara bles may be accompanied by real-
+time prompts to perform breathing activities or relaxation techniques
+in periods of detected stress.
+Smartwatches were found to more accurately detect periods of psy-
+chological stress when utilising HRV and other physiological parameters
+such as EDA, respiratory rate and temperature instead of HR alone 116.
+However, concerns surrounding the reliability of EDA measurement due to
+motion artifact have been raised117. Similarly, the accuracy of stress detection
+has been noted to decline during periods of vigorous movement, also likely
+owing to motion artifact116.
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 11
+
+Women’s Health
+The monitoring of fertile windows a nd menstrual cycles have long been
+utilised for achieving planned pregnancy, preventing unplanned pregnancy,
+and the identi ﬁcation of irregular or abnormal cycles. Some wearables
+measure changes in HRV, body temperature and respiratory rate to detect
+and predict menstrual cycle stages including menstruation, the luteal phase
+and ovulation118,119.
+A recent review of 13 studies found that most devices had high accu-
+racy for detecting fertility and were able to differentiate between the luteal
+phase, fertile window and menstruation by changes in HR, HRV, tem-
+perature and respiratory rate (Table2)120. In 2019, a study of the Oura ring
+reported a sensitivity for ovulation detection of 83.3% (−3t o +2d a y s )a n d
+menstruation detection of 71.9% to 86.5% (SD 2– 4 days) using nocturnal
+ﬁnger skin temperature 119. Compared to menstruation, a rise in HR
+(p = 0.001) and temperature (p < 0.001) during the luteal phases and lower
+HR ( p = 0.02) and temperature ( p = 0.05) during ovulation has been
+reported using the Oura ring more recently118.
+Data acquisition and analysis pipelines
+When selecting a wearable device for clinical or research purposes, data
+accessibility is a crucial consideration. Prior to wearable device selection, we
+would recommend reviewing device speciﬁcations to ensure that the mea-
+surement parameters of interest (Table 1) are available (at the sampling
+frequency required), accessible and exportable in a usable format.
+Access to raw data varies by manufacturer and model. While some
+devices display several measurement parameters to users, export options
+may be limited. No manufacturer currently allows for the export of con-
+tinuously recorded raw signals (i.e., PPG, 3D accelerometer, temperature
+etc.), except for the ECG, which can often be exported as a series of 30-
+second long recordings. Most of the data that can be exported for off-line
+analysis consist in aggregate time-series summarising the trend of a phy-
+siological parameter with a temporal resolution that typically goes from one
+second (e.g., HR) to 15 min (e.g., numb er of steps or respiratory rate for
+some brands) to 1 day (e.g., sleep duration). Of note, no smartwatch or smart
+ring currently allows for the export of beat-to-beat HR time-series. Instead,
+instantaneous HR is usually averaged using undeterminedﬁlters, resulting
+in relatively smooth trends. Physiological parameters from physical activ-
+ities recorded by the user (e.g. running, walking, cardio etc.) may include ad-
+hoc information (e.g., distance, speed,altitude etc.) with sometimes a better
+temporal resolution (e.g., HR provided every second instead of every
+minute), or they may be only exportable as summary statistics (e.g., total
+number of steps and average HR). As an example, Supplementary Table 1
+provides a comprehensive list of parameters that can be exported from a
+Garmin smartwatch (VivoActive 4), along with their temporal resolution
+and whether they are passively recorded or may need user ’si n p u t .A d d i -
+tionally, some manufacturers have introduced premium or subscription-
+based models that may restrict data access.
+The format of exported raw data ﬁles is another important con-
+sideration. Many manufacturers, including Fitbit, Oura and Withings, use
+standard ﬁle formats such as CSV or TXT, which are relatively easy to
+process. However, others, including Garmin, use more complex formats
+such as .FITﬁles for some of their data export, which require more advanced
+data processing skills to access.
+To support data retrieval and management, open source platforms
+such as RADAR-base121, offer infrastructure to facilitate data storage and
+processing, and third-party services are becoming available122,123.
+Data security and privacy should beconsidered owing to the sensitive
+nature of the personalised health inf ormation that these devices collect,
+particularly when activating GPS tracking systems for location information.
+To mitigate data security and privacy risks, manufacturer privacy settings
+and security policies should be reviewed ahead of device selection.
+Clinical Perspective for Cardiovascular Health
+Cardiovascular diseases are the leading cause of death worldwide 124.T o
+reduce the enormous burden of cardi ovascular diseases and disability125,
+progress is required in prevention, diagnosis, treatment and monitoring,
+and wearable data may play a useful role in all of these situations. The ability
+to collect data over months or years allows approaches that are not currently
+possible, however, may also present challenges in terms of the volume of
+data collected.
+Evidence of the value of wearable data comes from the ability to detect
+abnormal heart rhythms, particularly AF, in people who would otherwise be
+unaware of this condition (and so at higher risk of stroke and other
+complications)49,126. Although questions remain about how to manage AF
+detected by such approaches, the ability to detect such a common and
+potentially devastating condition shows the potential for improved
+healthcare.
+The addition of the ability to record a short ECG with suf ﬁcient
+accuracy to be approved as a medical device is now replacing more con-
+ventional ways to attempt to detect intermittent abnormal heart rhythms
+(such as issuing patients with such devices or recording the ECG for 72 h
+hoping to capture an event). Unlike PPG, ECG can only be recorded for
+s h o r tp e r i o d sa n do f t e nt r i g g e r e db yt h eu s e ra n ds od on o tr e p l a c eo t h e r
+methods to continually monitor ECG (such as Holter or implanted ECG
+recorders).
+Arrhythmia can be diagnosed accurately using a single type of wearable
+data (ECG or HR characteristics from PPG). In contrast, other important
+cardiovascular diseases (such as heart failure, valvular heart disease, cor-
+onary artery disease, stroke) require specialist tests (such as cardiac ultra-
+sound, coronary angiogram) to make anaccurate diagnosis. However, the
+data wearables currently collect may still be useful. Heart failure and valvular
+heart disease are associated with increasing breathlessness on exertion and a
+reduced ability to be active 127. It is highly likely that patterns of activity,
+respiratory rate, oximetry, and HR detected by wearables will change as a
+person develops these diseases and recent studies are encouraging 16,128.
+Research is urgently required to test this potential, which may allow new
+approaches to community-based screening or diagnostic programmes.
+Most patients who are diagnosed with cardiovascular disease typically
+have very limited interaction with healthcare services except when a crisis
+occurs (such as cardiac arrest, heart attack or urgent admission with heart
+failure). Such crises are often preventable if the signs of potential dete-
+rioration can be detected early enough for a change in management.
+Wearables hold great potential for such monitoring. For example, patients
+discharged after a heart attack are directed to adhere to a structured pro-
+gramme of physical activity129, and wearables have the potential to allow the
+healthcare system to know if patientsare following such advice and target
+support to those who need this. People with heart failure suffer frequent
+worsening that can lead to life-threatening complications that are often
+preceded by weeks or months of increasing weight, reducing physical
+activity. These incipient signs of deterioration are likely also to be recog-
+nisable in changes in HR, respiratory rate, oximetry and BP. Wearables may
+therefore allow heart failure services to monitor patients and institute
+treatment (such as increasing diuretic therapy) to prevent admissions.
+There remain several barriers to achieving the potential of wearables in
+healthcare. There is a pressing need for high-quality clinical studies that
+demonstrate the clinical scenarios in which providing wearable data
+improves outcomes. Data for its own sake is not helpful unless it can lead to
+an action that improves the patient ’s health and clinicians already suffer
+“information overload”. Furthermore, in the health economic context,
+interventions need to meet a cost-beneﬁt criteria.
+Although consumer wearables are very attractive for introduction in
+healthcare due to their low cost and already high ownership levels, reg-
+u l a t o r ys a f e g u a r d sm a k et h i sc h a l l e n g i n g .I fd a t af r o mw e a r a b l e si su s e dt o
+make a clinical decision, then under c urrent regulatory frameworks the
+wearable requires approval as a medical device. Most devices do not have
+such approvals and so using them in direct healthcare may pose legal risk.
+Population Health Perspective
+The large-scale collection of health data using consumer-grade wearables
+has the potential to address pressing population health challenges, including
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 12
+
+the obesity epidemic, mental health epidemic, and the growing burden of
+chronic illnesses and multimorbidi ty. Wearables provide an objective
+continuous stream of data, offerin g a more comprehensive and possibly
+more reliable alternative to traditional population health approaches like
+self-reported questionnaires, which are limited by recall bias and infrequent
+administration. The widespread uptake of wearables and thus the avail-
+ability of vast amounts of remote datamay play a pivotal role in advancing
+population-based research, answering key health questions and developing
+risk stratiﬁcation tools to better target interventions.
+Many cardiovascular diseases are preventable by increasing physical
+activity, changing diet, maintaining a healthy weight and lowering BP 130.
+W e a r a b l e sa r ea l r e a d yu s e db ym i l l i o n so fp e o p l et om o n i t o rt h e i rl e v e l so f
+physical activity. Although total amount of daily activity is known to be
+protective, recent evidence shows that even very short bursts of vigorous
+activity can provide a substantial reduction in risk131. There is evidence that
+tracking physical activity using wea rable devices can provide a modest
+increase in total amount performed132. However, using such tools as a way to
+evaluate and reﬁne the effect of more general public health measures (such
+as education, improved public transport, or work-place interventions) may
+improve the evidence base of how to facilitate healthier behaviours in the
+population.
+During the COVID-19 pandemic, it was demonstrated via the ZOE
+COVID symptom app and Covid Collab Fitbit study that large-scale col-
+lection of digital health data was feasible and valuable133,134.
+Limitations and risks associated w ith population level monitoring
+using wearables should also be considered. For example, it’s conceivable that
+being monitored continuously might alter clinical relationships which are
+based on trust or compromise mental health. Personalised approaches
+should be implemented with caution, ensuring that the responsibility or
+burden of blame for certain health behaviours is not unfairly positioned
+from society to the individual. Furthermore, consideration must be made for
+the cost associated with the provision ofwearables and similarly, selection
+bias if study participants have been recruited based on prior device own-
+ership or high level of digital literacy as there is a risk of exacerbating health
+gradients along the digital divide, and excluding from interventions those
+strata that may receive the greatest beneﬁt.
+Data Availability
+No datasets were generated or analysed during the current study.
+Received: 5 February 2025; Accepted: 21 July 2025;
+References
+1. Dhingra, L. S. et al. Use of wearable devices in individuals with or at
+risk for cardiovascular disease in the US, 2019 to 2020.JAMA Netw.
+Open 6, e2316634–e2316634 (2023).
+2. Kumar, S. et al. Wearables in cardiovascular disease. J.
+Cardiovascular Transl. Res. 16, 557–568 (2023).
+3. Charlton, P. H. & Marozas, V. Wearable photoplethysmography
+devices,i n Photoplethysmography. 2022, Elsevier. p. 401 –439.
+4. Charlton, P. H. et al. Wearable photoplethysmography for
+cardiovascular monitoring. Proc. IEEE 110, 355–381 (2022).
+5. Charlton, P. H. et al. Breathing rate estimation from the
+electrocardiogram and photoplethysmogram: A review. IEEE Rev.
+Biomed. Eng. 11,2 –20 (2017).
+6. Nitzan, M., Nitzan, I. & Arieli, Y. The various oximetric techniques
+used for the evaluation of blood oxygenation. Sensors 20, 4844
+(2020).
+7. Elgendi, M. et al. The use of photoplethysmography for assessing
+hypertension. NPJ digital Med. 2, 60 (2019).
+8. Stergiou, G. S. et al. Cuf ﬂess blood pressure measuring devices:
+review and statement by the European Society of Hypertension
+Working Group on Blood Pressure Monitoring and Cardiovascular
+Variability. J. hypertension 40, 1449–1460 (2022).
+9. Doherty, A. et al. Large scale population assessment of physical
+activity using wrist worn accelerometers: the UK biobank study.
+PloS one 12, e0169649 (2017).
+10. Bouzid, Z., Al-Zaiti, S. S., Bond, R. & Sejdi ć, E. Remote and wearable
+ECG devices with diagnostic abilities in adults: A state-of-the-
+science scoping review. Heart Rhythm 19, 1192–1201 (2022).
+11. Amir, H. M. et al. Comparison of Simultaneous Recordings from
+Medical-Grade and Smartwatch ECGs. Computing Cardiology
+(CinC) (IEEE, 2024).
+12. Klimek, A., I. Mannheim, G. Schouten, E., Wouters, J. & Peeters,
+M.W. Wearables measuring electrodermal activity to assess
+perceived stress in care: a scoping review. Acta Neuropsychiatrica.
+24,1 –11 (2023).
+13. Posada-Quintero, H. F. & Chon, K. H. Innovations in electrodermal
+activity data collection and signal processing: A systematic review.
+Sensors 20, 479 (2020).
+14. Mehra, A., Starkoff, B. E. & Nickerson, B. S. The evolution of
+bioimpedance analysis: From traditional methods to wearable
+technology. Nutrition. 129, 112601 (2024).
+15. Samsung. How to measure your body composition or BMI with
+Galaxy Watch. 2025 [cited 2025 27/05/2025]; Available from:https://
+www.samsung.com/uk/support/mobile-devices/measure-your-
+body-composition-with-the-galaxy-watch-series/
+16. Stehlik, J. et al. Continuous wearable monitoring analytics predict
+heart failure hospitalization: the LINK-HF multicenter study.
+Circulation: Heart Fail. 13, e006513 (2020).
+17. Giménez-Miranda, L. et al. Wearable Devices Based on
+Bioimpedance Test in Heart Failure: Clinical Relevance: Systematic
+Review. Rev. Cardiovascular Med. 25, 315 (2024).
+18. Boehmer, J. P. et al. A multisensor algorithm predicts heart failure
+events in patients with implanted devices: results from the
+MultiSENSE study. JACC: Heart Fail. 5, 216–225 (2017).
+19. Sieci ński, S., Kostka, P. S. & Tkacz, E. J. Gyrocardiography: a review
+of the deﬁnition, history, waveform description, and applications.
+Sensors 20, 6675 (2020).
+20. Jaakkola, J. et al. Mobile phone detection of atrial ﬁbrillation with
+mechanocardiography: the MODE-AF Study (Mobile Phone
+Detection of Atrial Fibrillation). Circulation 137, 1524–1527 (2018).
+21. Doherty, C., M. Baldwin, A. Keogh, B. Caul ﬁeld, and R. Argent,
+Keeping Pace with Wearables: A Living Umbrella Review of
+Systematic Reviews Evaluating the Accuracy of Consumer Wearable
+Technologies in Health Measurement . Sports Medicine, 2024: p.
+1–20.
+22. Orini, M. et al. Long-term association of ultra-short heart rate
+variability with cardiovascular events. Sci. Rep. 13, 18966 (2023).
+23. Vazir, A. et al. Association of resting heart rate and temporal changes
+in heart rate with outcomes in participants of the atherosclerosis risk
+in communities study. JAMA Cardiol. 3, 200–206 (2018).
+24. Zhang, Y. et al. Validity of Wrist-Worn photoplethysmography
+devices to measure heart rate: a systematic review and meta-
+analysis. J. Sports Sci. 38, 2021–2034 (2020).
+25. Parak, J. & Korhonen, I. Evaluation of wearable consumer heart rate
+monitors based on photopletysmography. in 2014 36th annual
+international conference of the IEEE engineering in medicine and
+biology society. IEEE (2014).
+26. Nelson, B. W. & Allen, N. B. Accuracy of consumer wearable heart
+rate measurement during an ecologically valid 24-hour period:
+intraindividual validation study. JMIR mHealth uHealth 7, e10828
+(2019).
+27. Wallen, M. P., Gomersall, S. R., Keating, S. E., Wisløff, U. &
+Coombes, J. S. Accuracy of heart rate watches: implications for
+weight management. PloS one 11, e0154420 (2016).
+28. Gillinov, S. et al. Variable accuracy of wearable heart rate monitors
+during aerobic exercise. Med. Sci. Sports Exerc. 49, 1697–1703
+(2017).
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 13
+
+29. Shcherbina, A. et al. Accuracy in wrist-worn, sensor-based
+measurements of heart rate and energy expenditure in a diverse
+cohort. J. personalized Med. 7, 3 (2017).
+30. Thiebaud, R. S. et al. Validity of wrist-worn consumer products to
+measure heart rate and energy expenditure. Digital health 4,
+2055207618770322 (2018).
+31. Dooley, E. E., Golaszewski, N. M. & Bartholomew, J. B. Estimating
+accuracy at exercise intensities: a comparative study of self-
+monitoring heart rate and physical activity wearable devices. JMIR
+mHealth uHealth 5, e7043 (2017).
+32. Williams, K., A. Jamieson, N. Chaturvedi, A. Hughes, and M. Orini.
+Validation of Wearable Derived Heart Rate Variability and Oxygen
+Saturation from the Garmin’s Health Snapshot.i n 2023 Computing in
+Cardiology (CinC). 2023. IEEE.
+33. Fuller, D. et al. Reliability and Validity of Commercially Available
+Wearable Devices for Measuring Steps, Energy Expenditure, and Heart
+Rate: Systematic Review.JMIR Mhealth Uhealth8, e18694 (2020).
+34. Sartor, F., Papini, G., Cox, L. G. E. & Cleland, J. Methodological
+shortcomings of wrist-worn heart rate monitors validations. J. Med.
+Internet Res. 20, e10108 (2018).
+35. Lang, M. Beyond Fitbit: a critical appraisal of optical heart rate
+monitoring wearables and apps, their current limitations and legal
+implications. Alb. LJ Sci. Tech. 28, 39 (2017).
+36. Falter, M., Budts, W., Goetschalckx, K., Cornelissen, V. & Buys, R.
+Accuracy of Apple Watch Measurements for heart rate and energy
+expenditure in patients with cardiovascular disease: Cross-
+Sectional Study. JMIR mHealth uHealth 7, e11889 (2019).
+37. Jamieson, A., Jones, S., Chaturvedi, N., Hughes, A. D. & Orini, M.
+Accuracy of smartwatches for the remote assessment of exercise
+capacity. Sci. Rep. 14, 22994 (2024).
+38. Orini, M., G. Guvensen, A. Jamieson, N. Chaturvedi, and A. D.
+Hughes. Movement, Sweating, and Contact Pressure as Sources of
+Heart Rate Inaccuracy in Wearable Devices .i n 2022 Computing in
+Cardiology (CinC). 2022. IEEE.
+39. Malik, M. et al. Heart rate variability: Standards of measurement,
+physiological interpretation, and clinical use. Eur. heart J. 17,
+354–381 (1996).
+40. Dekker, J. M. et al. Low heart rate variability in a 2-minute rhythm
+strip predicts risk of coronary heart disease and mortality from
+several causes: the ARIC Study. Circulation 102, 1239–1244 (2000).
+41. Shaffer, F. & Ginsberg, J. P. An overview of heart rate variability
+metrics and norms. Front. Pub. Health. 5, 258 (2017).
+42. Electrophysiology, T.F.o.t.E.S.o.C.t.N.A.S.o.P. Heart rate variability:
+standards of measurement, physiological interpretation, and clinical
+use. Circulation 93, 1043–1065 (1996).
+43. Sassi, R. et al. Advances in heart rate variability signal analysis: joint
+position statement by the e-Cardiology ESC Working Group and the
+European Heart Rhythm Association co-endorsed by the Asia
+Paciﬁc Heart Rhythm Society. Ep. Europace 17, 1341–1353 (2015).
+44. Schäfer, A. & Vagedes, J. How accurate is pulse rate variability as an
+estimate of heart rate variability?: A review on studies comparing
+photoplethysmographic technology with an electrocardiogram. Int.
+J. Cardiol. 166,1 5–29 (2013).
+45. Gil, E. et al. Photoplethysmography pulse rate variability as a
+surrogate measurement of heart rate variability during non-
+stationary conditions. Physiological Meas. 31, 1271 (2010).
+46. Shaffer, F., Meehan, Z. M. & Zerr, C. L. A critical review of ultra-short-
+term heart rate variability norms research. Front. Neurosci. 14,
+594880 (2020).
+47. Georgiou, K. et al. Can wearable devices accurately measure heart
+rate variability? A systematic review. Folia Med. 60,7 –20 (2018).
+48. Linz, D. et al. Atrial ﬁbrillation: epidemiology, screening and digital
+health. Lancet Regional Health– Europe. 1, 37 (2024).
+49. Perez, M. V. et al. Large-scale assessment of a smartwatch to
+identify atrial ﬁbrillation. N. Engl. J. Med. 381, 1909–1917 (2019).
+50. Tison, G. H. et al. Passive detection of atrial ﬁbrillation using a
+commercially available smartwatch. JAMA Cardiol. 3, 409–416
+(2018).
+51. Bumgarner, J. M. et al. Smartwatch algorithm for automated
+detection of atrial ﬁbrillation. J. Am. Coll. Cardiol. 71, 2381–2388
+(2018).
+52. Orini, M. et al. Premature atrial and ventricular contractions detected
+on wearable-format electrocardiograms and prediction of
+cardiovascular events. Eur. Heart J.-Digital Health 4, 112–118
+(2023).
+53. Prasitlumkum, N. et al. Diagnostic accuracy of smart gadgets/
+wearable devices in detecting atrial ﬁbrillation: a systematic review
+and meta-analysis. Arch. Cardiovascular Dis. 114,4 –16 (2021).
+54. Mannhart, D. et al. Clinical validation of 5 direct-to-consumer
+wearable smart devices to detect atrial ﬁbrillation. BASEL wearable
+study Clin. Electrophysiol. 9, 232–242 (2023).
+55. Strik, M. et al. Validating QT-interval measurement using the Apple
+Watch ECG to enable remote monitoring during the COVID-19
+pandemic. Circulation 142, 416–418 (2020).
+56. Hoek, L. J., Brouwer, J. L. P., Voors, A. A. & Maass, A. H. Smart
+devices to measure and monitor QT intervals. Front. cardiovascular
+Med. 10, 1172666 (2023).
+57. Saghir, N. et al. A comparison of manual electrocardiographic
+interval and waveform analysis in lead 1 of 12-lead ECG and Apple
+Watch ECG: a validation study. Cardiovascular Digital Health J. 1,
+30–36 (2020).
+58. Pengel, L. K. et al. A comparison of ECG-based home monitoring
+devices in adults with CHD. Cardiol. Young-. 33, 1129–1135 (2023).
+59. Nicolò, A., Massaroni, C., Schena, E. & Sacchetti, M. The importance
+of respiratory rate monitoring: From healthcare to sport and exercise.
+Sensors 20, 6396 (2020).
+60. Baumert, M. et al. Mean nocturnal respiratory rate predicts
+cardiovascular and all-cause mortality in community-dwelling older
+men and women. Eur. Resp. J. 54, 1 (2019).
+61. Varon, C. et al. A Comparative Study of ECG-derived Respiration in
+Ambulatory Monitoring using the Single-lead ECG. Sci. Rep. 10,
+5704 (2020).
+62. Jung, H., Kim, D., Choi, J. & Joo, E. Y. Validating a consumer
+smartwatch for nocturnal respiratory rate measurements in sleep
+monitoring. Sensors 23, 7976 (2023).
+63. Shapiro, I., Stein, J., MacRae, C. & O ’Reilly, M. Pulse oximetry values
+from 33,080 participants in the Apple Heart & Movement Study.NPJ
+Digital Med. 6, 134 (2023). p.
+64. Windisch, P., Schröder, C., Förster, R., Cihoric, N. & Zwahlen, D. R.
+Accuracy of the apple watch oxygen saturation measurement in
+adults: a systematic review. Cureus. 15, e35355 (2023).
+65. Zhang, Z. & Khatami, R. Can we trust the oxygen saturation
+measured by consumer smartwatches?. Lancet Respiratory Med.
+10, e47–e48 (2022).
+66. Tryon, W. W., Activity measurement in psychology and medicine .
+2013: Springer Science & Business Media.
+67. Master, H. et al. Association of step counts over time with the risk of
+chronic disease in the All of Us Research Program. Nat. Med. 28,
+2301–2308 (2022).
+68. Bassett, D. R., Toth, L. P., LaMunion, S. R. & Crouter, S. E. Step
+counting: a review of measurement considerations and health-
+related applications. Sports Med. 47, 1303–1315 (2017).
+69. Buendia, R. et al. Wearable Sensors to Monitor Physical Activity in
+Heart Failure Clinical Trials: State-of-the-Art Review. J. Cardiac Fail.
+30, 703–716 (IEEE, 2024).
+70. Bohannon, R. W. & Crouch, R. Minimal clinically important difference
+for change in 6-minute walk test distance of adults with pathology: a
+systematic review. J. evaluation Clin. Pract. 23, 377–381 (2017).
+71. Evenson, K. R. & Spade, C. L. Review of validity and reliability of
+Garmin activity trackers. J. Meas. Phys. Behav. 3, 170–185 (2020).
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 14
+
+72. Straczkiewicz, M., James, P. & Onnela, J.-P. A systematic review of
+smartphone-based human activity recognition methods for health
+research. NPJ Digital Med. 4, 148 (2021).
+73. Dorn, D. et al. Automatic identi ﬁcation of physical activity type and
+duration by wearable activity trackers: a validation study. JMIR
+mHealth uHealth 7, e13547 (2019).
+74. Bassett, D. R. Jr. and E.T. Howley, Limiting factors for maximum
+oxygen uptake and determinants of endurance performance. Med
+Sci. Sports Exerc 32,7 0–84 (2000).
+75. Hartung, G. H., Blancq, R. J., Lally, D. A. & Krock, L. P. Estimation of
+aerobic capacity from submaximal cycle ergometry in women. Med.
+Sci. sports Exerc. 27, 452–457 (1995).
+76. Walker, H. K., Hall, W.D., Hurst, J. W. Clinical methods: the history,
+physical, and laboratory examinations. (1990).
+77. Blair, S. N. et al. In ﬂuences of cardiorespiratory ﬁtness and other
+precursors on cardiovascular disease and all-cause mortality in men
+and women. Jama 276, 205–210 (1996).
+78. Kodama, S. et al. Cardiorespiratory ﬁtness as a quantitative
+predictor of all-cause mortality and cardiovascular events in healthy
+men and women: a meta-analysis. Jama 301, 2024–2035 (2009).
+79. Zaccardi, F. et al. Cardiorespiratory ﬁtness and risk of type 2
+diabetes mellitus: A 23-year cohort study and a meta-analysis of
+prospective studies. Atherosclerosis 243, 131–137 (2015).
+80. Themanson, J. & Hillman, C. Cardiorespiratory ﬁtness and acute
+aerobic exercise effects on neuroelectric and behavioral measures
+of action monitoring. Neuroscience 141, 757–767 (2006).
+81. Ekblom-Bak, E. et al. Cardiorespiratory ﬁtness and lifestyle on
+severe COVID-19 risk in 279,455 adults: a case control study. Int. J.
+Behav. Nutr. Phys. Act. 18,1 –16 (2021).
+82. Nocon, M. et al. Association of physical activity with all-cause and
+cardiovascular mortality: a systematic review and meta-analysis.
+Eur. J. Preventive Cardiol. 15, 239–246 (2008).
+83. Ross, R. et al. Importance of assessing cardiorespiratory ﬁtness in
+clinical practice: a case for ﬁtness as a clinical vital sign: a scienti ﬁc
+statement from the American Heart Association. Circulation 134,
+e653–e699 (2016).
+84. Ltd., F. T. Automated Fitness Level (VO2max) Estimation with Heart
+Rate and Speed Data . (2014).
+85. Apple. Using Apple Watch to Estimate Cardio Fitness with VO2 max.
+2021 cited 2024; Available from: https://www.apple.com/
+healthcare/docs/site/Using_Apple_Watch_to_Estimate_Cardio_
+Fitness_with_VO2_max.pdf.
+86. Molina-Garcia, P. et al. Validity of estimating the maximal oxygen
+consumption by consumer wearables: a systematic review with
+meta-analysis and expert statement of the INTERLIVE network.
+Sports Med. 52, 1577–1597 (2022).
+87. Tran, T., Steiner, J. M., Venkateswaran, A. & Buber, J. Peak oxygen
+consumption by smartwatches compared with cardiopulmonary
+exercise test in complex congenital heart disease. Heart. 110,
+353–358 (2023).
+88. Jamieson, A. et al. Comparison between Smartwatch-Derived and
+CPET-Measured VO2Max. Computing in Cardiology (CinC) (IEEE,
+2024).
+89. Loucks, A. B., B. Kiens, and H. H. Wright, Energy availability in
+athletes. Food, Nutrition and Sports Performance III, 2013: p. 7-15.
+90. Seale, J. L., Conway, J. M. & Canary, J. J. Seven-day validation of
+doubly labeled water method using indirect room calorimetry. J.
+Appl. Physiol. 74, 402–409 (1993).
+91. Hills, A. P., Mokhtar, N. & Byrne, N. M. Assessment of physical
+activity and energy expenditure: an overview of objective measures.
+Front. Nutr. 1, 5 (2014).
+92. Bunn, J. A., Navalta, J. W., Fountaine, C. J. & Reece, J. D. Current
+state of commercial wearable technology in physical activity
+monitoring 2015–2017. Int. J. Exerc. Sci. 11, 503 (2018).
+93. Moher, D. et al. Preferred reporting items for systematic review and
+meta-analysis protocols (PRISMA-P) 2015 statement. Syst. Rev. 4,
+1–9 (2015).
+94. Feigin, V. L. et al. Global, regional, and national burden of stroke and
+its risk factors, 1990 –2019: a systematic analysis for the Global
+Burden of Disease Study 2019. Lancet Neurol. 20, 795–820 (2021).
+95. Schutte, A. E., Kollias, A. & Stergiou, G. S. Blood pressure and its
+variability: classic and novel measurement techniques. Nat. Rev.
+Cardiol. 19, 643–654 (2022).
+96. Welykholowa, K. et al. Multimodal photoplethysmography-based
+approaches for improved detection of hypertension. J. Clin. Med. 9,
+1203 (2020).
+97. Mukkamala, R. et al. Evaluation of the accuracy of cuf ﬂess blood
+pressure measurement devices: challenges and proposals.
+Hypertension 78, 1161–1167 (2021).
+98. Islam, S. M. S. et al. Wearable cuf ﬂess blood pressure monitoring
+devices: a systematic review and meta-analysis.Eur. Heart J.-Digital
+Health 3, 323–337 (2022).
+99. Tan, I. et al. Evaluation of the ability of a commercially available
+cufﬂess wearable device to track blood pressure changes. J.
+hypertension 41, 1003–1010 (2023).
+100. Mukkamala, R., Shroff, S. G., Kyriakoulis, K. G., Avolio, A. P. &
+Stergiou, G. S. Cufﬂess Blood Pressure Measurement: Where Do We
+Actually Stand?. Hypertension 82, 957–970 (2025).
+101. Mukkamala, R. et al. The Microsoft Research Aurora Project:
+important ﬁndings on cufﬂess blood pressure measurement.
+Hypertension 80, 534–540 (2023).
+102. Bhatt, B. J. et al. Validation of a popular consumer-grade cuf ﬂess
+blood pressure device for continuous 24-hour monitoring.Eur. Heart
+J.-Digit. Health. 6, 704–712 (2025).
+103. Rechtschaffen, A., Bergmann, B. M., Everson, C. A., Kushida, C. A. &
+Gilliland, M. A. Sleep deprivation in the rat: X. Integration and
+discussion of the ﬁndings. Sleep 12,6 8–87 (1989).
+104. Allebrandt, K. V. et al. Chronotype and sleep duration: the in ﬂuence
+of season of assessment. Chronobiol. Int. 31, 731–740 (2014).
+105. Cappuccio, F. P., D ’Elia, L., Strazzullo, P. & Miller, M. A. Sleep
+duration and all-cause mortality: a systematic review and meta-
+analysis of prospective studies. Sleep 33, 585–592 (2010).
+106. Jike, M., Itani, O., Watanabe, N., Buysse, D. J. & Kaneita, Y. Long
+sleep duration and health outcomes: a systematic review, meta-
+analysis and meta-regression. Sleep. Med. Rev. 39,2 5 –36
+(2018).
+107. Itani, O., Jike, M., Watanabe, N. & Kaneita, Y. Short sleep duration
+and health outcomes: a systematic review, meta-analysis, and
+meta-regression. Sleep. Med. 32, 246–256 (2017).
+108. Schyvens, A.-M. et al. Accuracy of Fitbit Charge 4, Garmin Vivosmart
+4, and WHOOP Versus Polysomnography: Systematic Review.
+JMIR mHealth uHealth 12, e52192 (2024).
+109. Lee, T. et al. Accuracy of 11 wearable, nearable, and airable
+consumer sleep trackers: Prospective multicenter validation study.
+JMIR mHealth uHealth 11, e50983 (2023).
+110. Altini, M. & Kinnunen, H. The promise of sleep: A multi-sensor
+approach for accurate sleep stage detection using the oura ring.
+Sensors 21, 4302 (2021).
+111. Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R. &
+Castriotta, R. J. Accuracy of wristband Fitbit models in assessing
+sleep: systematic review and meta-analysis. J. Med. Internet Res.
+21, e16273 (2019).
+112. Jerath, R., Syam, M. & Ahmed, S. The future of stress management:
+integration of smartwatches and HRV technology. Sensors 23, 7314
+(2023).
+113. Kim, H.-G., Cheon, E.-J., Bai, D.-S., Lee, Y. H. & Koo, B.-H. Stress
+and heart rate variability: a meta-analysis and review of the literature.
+Psychiatry Investig. 15, 235 (2018).
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 15
+
+114. Hackett, R. A. & Steptoe, A. Type 2 diabetes mellitus and
+psychological stress— a modiﬁable risk factor. Nat. Rev. Endocrinol.
+13, 547–560 (2017).
+115. Steptoe, A. & Kivimäki, M. Stress and cardiovascular disease. Nat.
+Rev. Cardiol. 9, 360–370 (2012).
+116. Hickey, B. A. et al. Smart devices and wearable technologies to
+detect and monitor mental health conditions and stress: A
+systematic review. Sensors 21, 3461 (2021).
+117. Chen, J., Abbod, M. & Shieh, J.-S. Pain and stress detection using
+wearable sensors and devices— A review. Sensors 21, 1030 (2021).
+118. Alzueta, E. et al. Tracking sleep, temperature, heart rate, and daily
+symptoms across the menstrual cycle with the Oura ring in healthy
+women. Int. J. Women’s Health 8, 491–503 (2022).
+119. Maijala, A., Kinnunen, H., Koskimäki, H., Jämsä, T. & Kangas, M.
+Nocturnal ﬁnger skin temperature in menstrual cycle tracking:
+ambulatory pilot study using a wearable Oura ring. BMC Women’s.
+Health 19,1 –10 (2019).
+120. Lyzwinski, L., Elgendi, M. & Menon, C. Innovative approaches to
+menstruation and fertility tracking using wearable reproductive health
+technology: systematic review.J. Med. Internet Res. 15,2 6( 2 0 2 4 ) .
+121. Ranjan, Y. et al. RADAR-base: open source mobile health platform for
+collecting, monitoring, and analyzing data using sensors, wearables,
+and mobile devices. JMIR mHealth uHealth 7, e11734 (2019).
+122. Gill, S. K. et al. Consumer wearable devices for evaluation of heart
+rate control using digoxin versus beta-blockers: the RATE-AF
+randomized trial. Nat. Med. 30, 2030–2036 (2024).
+123. Wetherell, M. A., Williams, G. & Doran, J. Assessing the
+psychobiological demands of high- ﬁdelity training in pre-hospital
+emergency medicine. Scand. J. Trauma, Resuscitation Emerg. Med.
+32, 101 (2024).
+124. Naghavi, M. et al. Global burden of 288 causes of death and life
+expectancy decomposition in 204 countries and territories and 811
+subnational locations, 1990–2021: a systematic analysis for the Global
+Burden of Disease Study 2021.Lancet403, 2100–2132 (2024).
+125. Roth, G. A. et al. Global burden of cardiovascular diseases and risk
+factors, 1990–2019: update from the GBD 2019 study. J. Am. Coll.
+Cardiol. 76, 2982–3021 (2020).
+126. Lubitz, S. A. et al. Detection of atrial ﬁbrillation in a large population
+using wearable devices: the Fitbit Heart Study. Circulation 146,
+1415–1424 (2022).
+127. Caraballo, C. et al. Clinical implications of the New York heart
+association classiﬁcation. J. Am. Heart Assoc. 8, e014240 (2019).
+128. Singhal, A. & Cowie, M. R. Digital health: implications for heart failure
+management. Cardiac Fail. Rev. 7, 8 (2021).
+129. Oldridge, N. B., Guyatt, G. H., Fischer, M. E. & Rimm, A. A. Cardiac
+rehabilitation after myocardial infarction: combined experience of
+randomized clinical trials. Jama 260, 945–950 (1988).
+130. Lee, I.-M. et al. Effect of physical inactivity on major non-
+communicable diseases worldwide: an analysis of burden of disease
+and life expectancy. lancet 380, 219–229 (2012).
+131. Stamatakis, E. et al. Association of wearable device-measured
+vigorous intermittent lifestyle physical activity with mortality. Nat.
+Med. 28, 2521–2529 (2022).
+132. Ringeval, M., Wagner, G., Denford, J., Paré, G. & Kitsiou, S. Fitbit-
+based interventions for healthy lifestyle outcomes: systematic
+review and meta-analysis. J. Med. Internet Res. 22, e23954 (2020).
+133. Menni, C. et al. Symptom prevalence, duration, and risk of hospital
+admission in individuals infected with SARS-CoV-2 during periods
+of omicron and delta variant dominance: a prospective
+observational study from the ZOE COVID Study. Lancet 399,
+1618–1624 (2022).
+134. Stewart, C. et al. Physiological presentation and risk factors of long
+COVID in the UK using smartphones and wearable devices: a
+longitudinal, citizen science, case –control study. Lancet Digital
+Health 6, e640–e650 (2024).
+135. Chan, P., Ryan, N., Chen, D., McNeil, J. & Hopper, I. Novel wearable
+and contactless heart rate, respiratory rate, and oxygen saturation
+monitoring devices: a systematic review and meta-analysis.
+Anaesthesia 77, 1268–1280 (2022).
+136. Chevance, G. et al. Accuracy and precision of energy expenditure,
+heart rate, and steps measured by combined-sensing Fitbits against
+reference measures: systematic review and meta-analysis. JMIR
+mHealth uHealth 10, e35626 (2022).
+137. Germini, F. et al. Accuracy and acceptability of wrist-wearable
+activity-tracking devices: systematic review of the literature. J. Med.
+Internet Res. 24, e30791 (2022).
+138. Irwin, C. & Gary, R. Systematic review of Fitbit charge 2 validation
+studies for exercise tracking. Transl. J. Am. Coll. Sports Med. 7,1 –7
+(2022).
+139. Koerber, D., Khan, S., Shamsheri, T., Kirubarajan, A. & Mehta, S.
+Accuracy of heart rate measurement with wrist-worn wearable
+devices in various skin tones: a systematic review. J. Racial Ethn.
+Health Disparities 10, 2676–2684 (2023).
+140. Board, L., Ispoglou, T. & Ingle, L. Validity of telemetric-derived
+measures of heart rate variability: a systematic review. J. Exerc.
+Physiol. online 19,6 4–84 (2016).
+141. Dobbs, W. C. et al. The accuracy of acquiring heart rate variability
+from portable devices: a systematic review and meta-analysis.
+Sports Med. 49, 417–435 (2019).
+142. Belani, S., Wahood, W., Hardigan, P., Placzek, A. N. & Ely, S.
+Accuracy of detecting atrialﬁbrillation: a systematic review and meta-
+analysis of wrist-worn wearable technology. Cureus. 13, 12 (2021).
+143. Giebel, G. D. & Gissel, C. Accuracy of mHealth devices for atrial
+ﬁbrillation screening: systematic review. JMIR mHealth uHealth 7,
+e13641 (2019).
+144. Hermans, A. N. et al. Mobile health solutions for atrial ﬁbrillation
+detection and management: a systematic review. Clin. Res. Cardiol.
+111, 479–491 (2022).
+145. Lopez Perales, C. R. et al. Mobile health applications for the
+detection of atrial ﬁbrillation: a systematic review. EP Europace 23,
+11–28 (2021).
+146. Nazarian, S., Lam, K., Darzi, A. & Ashra ﬁan, H. Diagnostic accuracy
+of smartwatches for the detection of cardiac arrhythmia: systematic
+review and meta-analysis. J. Med. Internet Res. 23, e28974 (2021).
+147. Evenson, K. R., Goto, M. M. & Furberg, R. D. Systematic review of the
+validity and reliability of consumer-wearable activity trackers. Int. J.
+Behav. Nutr. Phys. Act. 12,1 –22 (2015).
+148. Feehan, L. M. et al. Accuracy of Fitbit devices: systematic review and
+narrative syntheses of quantitative data. JMIR mHealth uHealth 6,
+e10527 (2018).
+149. Henriksen, A., Johansson, J., Hartvigsen, G., Grimsgaard, S. &
+Hopstock, L. Measuring physical activity using triaxial wrist worn
+polar activity trackers: a systematic review. Int. J. Exerc. Sci. 13, 438
+(2020).
+150. Leung, W., Case, L., Sung, M.-C. & Jung, J. A meta-analysis of Fitbit
+devices: same company, different models, different validity
+evidence. J. Med. Eng. Technol. 46, 102–115 (2022).
+151. O ’Driscoll, R. et al. How well do activity monitors estimate energy
+expenditure? A systematic review and meta-analysis of the validity
+of current technologies. Br. J. sports Med. 54, 332–340 (2020).
+152. Kenyon, A., McEvoy, M., Sprod, J. & Maher, C. Validity of
+pedometers in people with physical disabilities: A systematic review.
+Arch. Phys. Med. Rehab 94, 1161–1170 (2013).
+153. Birrer, V., Elgendi, M., Lambercy, O. & Menon, C. Evaluating reliability
+in wearable devices for sleep staging. npj Digital Med. 7, 74 (2024).
+154. Imtiaz, S. A. A systematic review of sensing technologies for
+wearable sleep staging. Sensors 21, 1562 (2021).
+155. Rentz, L. E., Ulman, H. K. & Galster, S. M. Deconstructing
+commercial wearable technology: contributions toward accurate
+and free-living monitoring of sleep. Sensors 21, 5071 (2021).
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 16
+
+156. Scott, H., Lack, L. & Lovato, N. A systematic review of the accuracy
+of sleep wearable devices for estimating sleep onset. Sleep. Med.
+Rev. 49, 101227 (2020).
+Acknowledgements
+M.O. was supported by British Heart Foundation Accelerator Award AA/18/
+6/34223. A.J. was supported by a British Heart Foundation 4-year PhD
+studentship (FS/19/63/34902) awarded to UCL. S.J. is supported by BHF
+grant SP/F/21/150020. A.D.H. receives support from the BHF, the Horizon
+2020 Framework Programme of the European Union, the National Institute
+for Health Research University College London Hospitals Biomedical
+Research Centre, the UK Medical Research Council and the Wellcome Trust.
+N.C. and A.D.H. work in a unit that receives support from the UK Medical
+Research Council (MC_UU_12019/1).
+Author contributions
+A.J., T.C., and M.O. drafted the manuscript. All authors (A.J., T.C., S.J., N.C.,
+A.D.H. & M.O.) reviewed and contributed to theﬁnal version of the manuscript.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary informationThe online version contains
+supplementary material available at
+https://doi.org/10.1038/s44325-025-00082-6.
+Correspondenceand requests for materials should be addressed to
+Alexandra Jamieson or Michele Orini.
+Reprints and permissions informationis available at
+http://www.nature.com/reprints
+Publisher’s noteSpringer Nature remains neutral with regard to jurisdictional
+claims in published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long
+as you give appropriate credit to the original author(s) and the source,
+provide a link to the Creative Commons licence, and indicate if changes
+were made. The images or other third party material in this article are
+included in the article ’s Creative Commons licence, unless indicated
+otherwise in a credit line to the material. If material is not included in the
+article’s Creative Commons licence and your intended use is not permitted
+by statutory regulation or exceeds the permitted use, you will need to
+obtain permission directly from the copyright holder. To view a copy of this
+licence, visit http://creativecommons.org/licenses/by/4.0/.
+© The Author(s) 2025
+https://doi.org/10.1038/s44325-025-00082-6 Review
+npj Cardiovascular Health |            (2025) 2:44 17
+
