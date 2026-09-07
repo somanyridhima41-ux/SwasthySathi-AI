@@ -1,0 +1,1176 @@
+Article https://doi.org/10.1038/s41467-023-43121-5
+A physiological approach for assessing
+human survivability and liveability to
+heat in a changing climate
+Jennifer Vanos 1 , Gisel Guzman-Echavarria2,J a n eW .B a l d w i n3,4,
+Coen Bongers 5,6,K r i s t i eL .E b i7 &O l l i eJ a y 6
+Most studies projecting human survivability limits to extreme heat with cli-
+mate change use a 35 °C wet-bulb temperature (Tw) threshold without inte-
+grating variations in human physiology. This study applies physiological and
+biophysical principles for young and older adults, in sun or shade, to improve
+current estimates of survivability and introduce liveability (maximum safe,
+sustained activity) under current and future climates. Our physiology-based
+survival limits show a vast underestimation of risks by the 35 °C Tw model in
+hot-dry conditions. Updated survivability limits correspond to Tw~25.8–34.1 °C
+(young) and ~21.9–33.7 °C (old)— 0.9–13.1 °C lower than Tw =3 5° C .F o ro l d e r
+female adults, estimates are ~7.2–1 3 . 1° Cl o w e rt h a n3 5° Ci nd r yc o n d i t i o n s .
+Liveability declines with sun exposure and humidity, yet most dramatically
+with age (2.5–3.0 METs lower for older adults). Reductions in safe activity for
+younger and older adults between the present and future indicate a stronger
+impact from aging than warming.
+Adverse health impacts of extreme heat exposure are expected to rise
+globally due to a warming climate, urban-induced warming, and a
+growing and aging population 1,2. The concerns for human health,
+productivity, and well-being are greater in humid climates and for
+vulnerable populations3–5, such as older adults, unhoused, and/or
+those with chronic diseases. Therefore, robust models to assess cur-
+rent heat-health impacts and project future risks must incorporate
+speciﬁc vulnerabilities and diverse environmental contexts6.
+Methods to project future heat stress risk can be broadly cate-
+gorized into epidemiology/econometric and physiology-based
+approaches, which have contrasting bene ﬁts and limitations. Epide-
+miology/econometric approaches are empirical in nature, analyzing
+time series of historical temperature paired with particular health
+consequences (e.g., morbidity or mortality) across populations to
+determine heat-health relationships. These studies often ﬁnd higher
+rates of cardiovascular and respiratory deaths associated with high
+ambient temperatures. Future health burdens from heat can be
+estimated by applying these relati onships to climate model outputs
+(i.e., daily temperature) under different warming scenarios7,8.E m p i r i -
+cal approaches are based on real-life outcomes and the range of rea-
+listic living conditions, and they can explore the cumulative effects of
+exposures over multiple days. However, two limitations for climate
+change projections include 1) assumptions needed to extrapolate
+results to warmer temperatures than observed in the historical sample9
+and 2) ambiguity regarding the role of humidity in heat-health
+outcomes10. While some epidemiological studies ﬁnd a relationship
+between mortality in the heat and humidity 11,m o s t ﬁnd minimal
+associations between humidity and heat-health outcomes12.G i v e nt h a t
+speciﬁc humidity is robustly expected to increase with global warming,
+this uncertainty is a key research gap for epidemiology-based projec-
+tions of future heat stress.
+Physiology-based studies of future heat stress risk employ rela-
+tionships between the thermal environment and health outcomes
+based on human energy balance considerations, with parameters
+Received: 14 March 2023
+Accepted: 1 November 2023
+Check for updates
+1School of Sustainability, Arizona State University, Tempe, AZ, USA.2School of Geographical Sciences and Urban Planning, Arizona State University, Tempe,
+AZ, USA. 3Department of Earth System Science, University of California Irvine, Irvine, CA, USA.4Lamont-Doherty Earth Observatory, Palisades, NY, USA.
+5Department of Medical Sciences, Radboud university medical center, Nijmegen, The Netherlands.6Heat and Health Research Incubator, University of
+Sydney, Sydney, NSW, Australia.7Center for Health and the Global Environment, University of Washington, Seattle, WA, USA. e-mail: jvanos@asu.edu
+Nature Communications|         (2023) 14:7653 1
+1234567890():,;
+1234567890():,;
+
+constrained by studies of physiologic processes. In contrast to epide-
+miology/econometric approaches, physiology-based studies of heat-
+health outcomes consistently ﬁnd a robust role of atmospheric
+humidity in heat stress via its modulation of evaporative cooling from
+sweat10. However, physiology studies are limited in not directly
+observing health outcomes, such as hospitalization or death, and
+employ idealized conditions from thermal chamber studies.
+A range of physiology-based metrics has been applied to project
+future heat stress. Sherwood & Huber 12 introduced a 35 °C wet bulb
+temperature (Tw) threshold that would result in death after 6 h of
+exposure and applied this threshold to project future adaptability
+limits under varying levels of warming. Since then, numerous studies
+have used this approach, wherein a psychometric Tw of 35 °C assumes
+death13–17.T h eT w of 35 °C represents a thermodynamic limit to heat
+exchange, whereby the human body becomes an adiabatic system,
+assuming the person is indoors or shaded, unclothed, completely
+sedentary, fully heat acclimatized, and of average size without ther-
+moregulatory impairments12. As an example of a different metric,
+Dunne et al. 18 estimated future reductions in labor capacity
+under different warming scenarios using established guidelines for
+physical labor under different wet bulb globe temperature levels.
+While these studies incorporate valuable information about humidity
+and physiology more realistically than epidemiological studies, their
+thermal physiology theory remains relatively unsophisticated. These
+approaches cannot capture complexities and personal characteristics
+affecting human thermoregulation (e.g., body size, activity
+levels, clothing, or physiological restrictions — such as sweating — to
+thermoregulation6,19), which may cause substantial errors.
+To be useful, heat-health projections should realistically account
+for factors that increase health risks, such as individual physical char-
+acteristics and physiological impairments, as well as interventions that
+modify or decrease impacts (e.g., lowering metabolic rate; behaviors
+to reduce exposures). Moreover, models should incorporate ranges in
+environmental parameters that, together with temperature, result in
+speciﬁc thermoregulatory effects (e.g., dry, humid, sun/shade,
+windspeed)19. Physiological and biophysical models offer new oppor-
+tunities to assess how humans might live and work in a warmer future
+rather than merely determining the prospects for life and death. Here,
+we demonstrate a unique approach using physiological principles that
+align with human thermal responses to heat (e.g., heat strain) to
+overcome simpliﬁed approaches that miss essential physiologic and
+behavioral factors in the heat.
+Heat strain, characterized by thermal, cardiovascular, and renal
+strain, can lead to adverse health outcomes such as heat exhaustion,
+heat stroke, or cardiovascular collapse. Risk is higher in people with pre-
+existing illnesses (e.g., cardiovascular disease 20,o ra r e
+immunocompromised21). Aging 1,21, certain medications 22,a n dd i f f e r -
+ences in body composition 23 may exacerbate heat strain due to
+impairments to sweating and/or bloodﬂow or the internal management
+of body heat storage. Conversely,ﬁtness24, heat acclimatization25,a n d
+behavioral adaptations26–28 protect against excessive heat strain. This
+study and others assessing survivability limits (e.g., refs.12,14,16)e s t i -
+mate deaths from critical high core temperatures causing heat
+stroke, where a complex cascade of events29 ultimately leads to multi-
+organ failure30,31 and often death29. Hence, we model heat stroke deaths
+(hyperthermia) and do not model the two other common types of heat-
+related deaths: cardiovascular collapse and renal failure, acknowledging
+that heat stroke deaths are a fractionof total excess heat-related deaths.
+A human would experience heat stroke death from hyperthermia
+on 99.9% of occasions when an individual ’s core temperature (T core)
+exceeds 43 °C29,32 (see Table1). Thus, we deﬁne the limit of survivability
+as reaching a Tcore of 43 °C in 3- or 6-hour exposure windows to allow
+for comparison with the T w of 35 °C assumption (heat stroke death
+after 6 hours). Liveability is the maximum internal heat production, or
+level of physical activity, that a person can generate without a
+sustained positive rate of heat storage in the prevailing environment,
+thus allowing safe, sustained work and play for an extended period.
+The realistic ﬁnal Tw value for the limits of survivability or liveability
+will differ by person (age, body size) and climate (dry versus humid;
+sun versus shade), and thus isﬂexible (i.e., the limits will differ). Hence,
+while we state a ﬁnal T core at which heat stroke death will almost
+inevitably occur, our approach does not assume a unique Tw threshold;
+rather, hundreds of T w thresholds are possible depending on differ-
+ences in people and conditions modeled, with wide-ranging opportu-
+nities of the model in future research.
+The overarching goal of this study is to improve heat survivability
+modeling frameworks and approaches used in climate change
+research and introduce an approach to assess liveability. As an initial
+step towards these advances, we apply a whole-body human heat
+exchange model to estimate heat stroke deaths and maximum/safe
+activity intensity. We focus on two subpopulation types (younger
+(~18–30 y) and older (>65 y) female adults), considering sweat rate
+impairments (due to older age) and heat exposures in the sun or shade
+across an array of air temperature (T air) and humidity levels. We esti-
+mate 1) a range of survivability conditions for humans, particularly
+where deviations from the 35 °C Tw model exist, and 2) the liveability of
+humans based on levels of physical activity that can be safely carried
+out without sustained positive heat storage. Finally, we apply the new
+liveability approach using global climate model (GCM) data to esti-
+mate liveability at a global scale, under current and projected climates.
+An overview of environmental conditions, populations modeled,
+and assessment types included herein is provided in Fig.1.W ed on o t
+demonstrate the sensitivity to illness or health status (including
+acclimatization) in the population, activity velocity, personal cooling
+strategies, or an ensemble of climate projections— investigations that
+are worthy future extensions of the methods described in this paper,
+but out of scope for the present work (see below).
+Results
+Survivability
+All survivability results are pres ented by age (younger versus older
+female adults) for discrete 3- and 6-hour heat exposure durations.
+These durations are consistent, and thus comparable, with past studies
+assessing future survivability12 and the highest time resolution data
+commonly saved from GCM simulations. Results are shown for mod-
+erate to extreme combinations of temperature and humidity that may
+occasionally be reached today, both indoors and outdoors, but more
+frequently in the future32. Further, we acknowledge that in most cir-
+cumstances, human agency allows people to seek shade to reduce
+their heat load 33; hence, we primarily focus on shaded survivability
+results, allowing a more direct comparison with the T w of 35 °C
+adaptability hypothesis.
+The updated physiologic survivability curves — or the environ-
+mental limits indicating heat stroke — by exposure duration and age
+group are shown in Fig. 2 (thick black lines). These environmental
+ranges, or zones, indicate that survivability are larger for young adults
+(Fig. 2a). As conditions become drier, the survivability area declines
+and the curves bend down due to sweating restrictions, a feature not
+captured by the traditional T w of 35 °C approach. These shifts are
+observed at the intersection between zones 3 (pink), 4 (purple), and 5
+(gray) in Fig. 2, each indicating a different reason for the increase in
+Tcore towards death— i.e., due to environmental restrictions ( Emaxenv
+)
+(pink), sweating restrictions ( Emaxsweat
+) (purple), or both ( Emaxenv
+and
+Emaxsweat
+) (gray) (see Methods and SM).
+The 6-hour survival limit for Tw differs depending on the magni-
+tudes of Tair and relative humidity (RH). For example, at an RH of 50%, a
+healthy young adult can withstand conditions up to 43.3 °C T air
+(representing a Tw of 33.6 °C). However, under drier conditions (RH of
+25%), the same young, healthy adult may withstand a Tair up to 49.9 °C
+(or a T w of only 31.3 °C). The survivability in these dry conditions is
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 2
+
+impacted by the body’s ability to produce sweat, as visualized by the
+growth of zone 4 (curve shifting down) in Fig.2 as conditions become
+drier. For older adults, this downward shift is prominent at a lower Tair
+and higher RH, where these older individuals can survive only a 6-hour
+exposure at a Tair of 45.4 °C at 25% RH (Tw of 27.8 °C), which is 3.5 °C Tw
+lower than for young adults, and 7.2 °C lower than the 35 °C Tw.
+When expressing the survivability limits of the physiological
+model in terms of the critical T w within very humid (RH > 90%) and
+shaded conditions, values are broadly in agreement with the tradi-
+tional Tw =3 5° Ca s s u m p t i o n(~0 . 7–1.3 °C lower Tw for a 6-hour dura-
+tion) (see Table 2, Fig. 3). However, in drier conditions, the
+physiological survival T w limits are much lower (distance between
+survivability line and Tw =3 5° C l i n e , F i g .3). As such, the most critical
+differences from the T w = 35 °C assumption occur as conditions
+become very hot and dry (Tair > 40 °C and RH < 25%). For young adults,
+the physiological T w survival limit ranges from 25.8 –31.3 °C (or
+3.8–9.2 °C lower than 35 °C). These dry-condition limits are reduced
+further for older adults to a T w of 21.9–27.8 °C (or 7.2 –13.1 °C lower
+than 35 °C). Further, shaded older adults would not survive a 6-hour
+exposure beyond Tw =2 1 . 9° C a t 1 0 % R H ( t h u s Tair =4 6 . 4° C ) ; y e t t h e
+Tw = 35 °C assumption presumes they could endure a 6-hour exposure
+at a Tair of 60 °C+ at the same RH.
+Liveability
+The limit to safe physical activities differs by T air,R H ,a g e ,a n ds u n
+exposure (Fig.4). Mmax, represented by metabolic equivalents (METs),
+is higher under cooler, drier conditions. In shade at Tair =2 5° C , y o u n g
+adults can safely reachMmax values around 5.0 METs (e.g., dancing) for
+humid conditions while maintaining thermal equilibrium, with even
+higher possible Mmax (8.4 METs, or running) in drier environments.
+When sun-exposed at the same Tair,t h eMmax limit decreases to ~3.9–7.4
+METs (e.g., housework, climbing stairs). As Tair rises in Fig. 4,t h eMmax
+declines sharply for RH above 75%. In such humid conditions, young
+adults reach a limit in their ability to perform any activity safely at a Tair
+of ~35.5 °C (or 34.0 °C T air for older adults). Accordingly, the hatched
+zone in Fig. 4 highlights the range of conditions in which no additional
+work >1.5 METs can be safely performed. The lower limit corresponds to
+the transition from compensable, or safe heat stress, to uncompensable
+heat stress when the internal body temperature starts to rise.
+Mmax decreases with age (Fig. 5), a factor that is considerably
+higher under dry conditions. For example, at high T air and low RH,
+young and healthy adults can do ~2.5 –3.0 METs more activity (e.g.,
+sitting/resting versus walking) than older adults, who are more limited
+by their sweat rate. The differences between the two groups decrease
+(down to ~0.6–0.8 METs less) as humidity rises and temperatures drop.
+Accordingly, there is a wider range of conditions where older people
+can only rest safely (i.e., survivable but not livable). Direct solar
+radiation exposure also decreases Mmax to a certain extent in both
+groups (Figs. 4c, d and 5b). This effect is increasingly worse in more
+humid environments for any Tair. As a reference, under the same T air
+and RH, sunlit exposures reduce activity levels by 1.0 MET in young
+adults and 0.86 METs in older adults compared to shaded.
+Table 1 | Different deﬁnitions and approaches to survivability and liveability (including terminologies) in recent climate change
+and physiology literature
+Term De ﬁnition/Use References
+Survivability Individual ’s core temperature exceeds 43 °C within a 3- or 6-h exposure window. Current paper
+Adaptabilitya Limit An extreme upper limit of T w = 35 °C to human heat adaptation due to climate warming, above which dissipation of heat
+becomes impossible when exposed for extended periods (6 h), resulting in death.
+Sherwood and Huber12
+Livabilitya The maximum safe internal heat production/physical activity that a person can generate without a sustained rate of
+positive heat storage in the prevailing environment, thus allowing people to safely sustain work or play for an extended
+period.
+Current paper
+Critical Tw Critical environmental limits (“adaptability threshold”) for compensability (the deﬁnition of liveability in current paper),
+valid for 1.8 METs (light, everyday activity).
+Vecellio et al.39
+aThe term habitability may be used as a way to refer to liveability or adaptability in some studies as well.
+Fig. 1 | Overview of environmental conditions, populations, assumptions, and
+assessment types examined in the present study. Full model presented in Sup-
+plementary Information. All variables in the model remain constant during the
+exposure (e.g., wind, clothing, sweat rate, skin wettedness). Tcore Core temperature,
+Tair Air temperature, RH Relative humidity.
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 3
+
+Global climate projections using liveability analysis
+Results are presented here for GFDL ESM4; all MPI ESM1.2 results can
+be found in the SM. Signiﬁcant declines in Mmax between present-day
+(2016–2025) and end-of-century (2091 –2100) are projected (Fig. 6),
+with exceptions in some locations above 50°N, the Himalayas, south
+New Zealand, and the Andean Cordillera. These global estimates
+suggest a likely average (median) decrease inMmax (from present-day
+to end-of-century) of –0.25 METs following SSP2-4.5 for young,
+healthy adults (Fig. 6a) during days when Tair >2 5° C( –0.64 METs for
+SSP5-8.5).
+The median Mmax for the current decade when Tair is >25 °C (Fig.
+S.9) is higher (up to 5.9 METs) across extratropical and mountainous
+regions (e.g., Ethiopia and the Andean Cordillera in northern South
+America). In contrast, the lowestMmax estimates, reaching an average
+minimum of 4 METs, are found across coastal areas and the most
+humid regions in the tropics (i.e., northern India and Bangladesh, the
+Amazon and Congo Rainforests, southeastern Asia, Eastern China, Gulf
+of Mexico). In such areas (and other regions covering the lower
+quartile with major Mmax changes), Mmax average declines of >0.3
+METs following SSP2-4.5 are expected by 2100 (see Fig. 6a, b) for
+Fig. 2 | New Tw survivability limits for younger and older adults under shaded/
+indoor or sun-exposed conditions.Physiological heat stroke Tw survivability
+limits (thick black line), modeled across 6 h of constant exposure for young adults
+(a, c) and older adults (b, d) in shaded/indoor (a, b) and sun-exposed/outdoor (c, d)
+conditions. Zones 1 and 2 (yellow shades) represent areas of survivability, whereas
+zones 3–5 are non-survivable areas due to evaporative restrictions from the
+environment (zone 3), sweating limits (zone 4), or both (zone 5) (see also
+Supplementary Fig. S1). Tw = 35 °C line is shown by the thin gray line. These phy-
+siological survivability limits illustrate the environmental conditions in which the
+body would reach a deadly Tcore (i.e., after reaching uncompensable heat stress and
+accumulating enough heat to increase base Tcore by 6 °C, from 37 °C (normother-
+mia) to 43 °C (heat stroke)). (See Supplementary Figs. S2 and 3 for vapor pressure
+and speciﬁc humidity on y-axis, respectively). Source data are provided as a Source
+Data ﬁle.
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 4
+
+young adults, which would more than double under SSP5-8.5
+(–0.73 METs).
+Following SSP2-4.5, large areas will experience >5% reduction in
+median Mmax towards the end-of-century (Supplementary Fig. S.11)
+during warm conditions, including warm coastal areas and savannahs
+in North, South, and Central America, the Caribbean, the Sahel, much
+of Eastern Africa, the Arabian Peninsula, Southeast Asia, northern
+Australia, the Amazon, southeastern U.S., and scattered areas in Cen-
+tral and Eastern Europe, and Central and Eastern Asia. Many of these
+areas already experience frequent Tair >2 5° C( > 6 0 % o f t h e t i m e ) a n d
+already-low Mmax (Fig. 6c, Supplementary Fig. S.12); the further
+reduction in Mmax will add major liveability challenges as climate
+change progresses. Finally, by end-of-century, select areas (Arabian
+Peninsula, Northern India, Bangladesh) are projected to see a
+signiﬁcant increase in conditions that are survivable but not livable for
+young adults, reaching a frequency of 5 –7% (6 months/decade) for
+SSP5-8.5 (see hatched zones in Fig. 4, Supplementary Informa-
+tion (SI) S.13).
+The Mmax distribution for select locations in Fig. 7 shows a more
+pronounced decrease in safe activity in older versus younger adults
+compared to the decline expected from projected warming (i.e.,
+individual age and age of the overall population can be a stronger heat
+risk predictor than warming due to climate change). For regions
+around Riyadh, Cartagena, New Delhi, and Dhaka, there is already a
+high frequency of time where an older adult cannot presently perform
+more than 2.5 METs of activity (slow walking). Thus, moving forward,
+these locations will increasingly become unliveable despite being
+survivable (increases of frequencies at 1.5 METs or less for old adults,
+Table 2 | Physiological limit based on our physiological wet-bulb survival temperature (Tw), as modeled in the present study,
+and differences from the 35 °C Tw survivability assumption [i.e., (ΔTw =T w– 35)]
+Shaded/Indoors
+Relative humidity 10% 25% 50% 75% 90% 100%
+Exposure time Age
+3-hour Young 18 –40 yr T w limit to survive (°C) 26.7 31.9 34.3 34.7 34.8 34.9
+ΔTw (Tw–35) (°C) ( –8.3) ( –3.1) ( –0.7) ( –0.3) ( –0.2) ( –0.1)
+Corresponding Tair (°C) 54.7 50.7 44.0 38.7 36.3 34.9
+Older >65 yr T w limit to survive (°C) 23.14 29.19 33.2 34.27 34.62 34.8
+ΔTw (Tw–35) (°C) ( –11.9) ( –5.8) ( –1.8) ( –0.7) ( –0.4) ( –0.2)
+Corresponding Tair (°C) 48.6 47.2 42.8 38.3 36.1 34.8
+6-hour Young 18 –40 yr T w limit to survive (°C) 25.8 31.3 33.6 34.0 34.1 34.3
+ΔTw (Tw–35) (°C) ( –9.2) ( –3.8) ( –1.4) ( –1.0) ( –0.9) ( –0.7)
+Corresponding Tair (°C) 53.2 49.9 43.3 38 35.6 34.3
+Older >65 yr T w limit to survive (°C) 21.9 27.8 32.6 33.4 33.7 34.0
+ΔTw (Tw–35) (°C) ( –13.1) ( –7.2) ( –2.4) ( –1.6) ( –1.3) ( –1.0)
+Corresponding Tair (°C) 46.4 45.4 42.1 37.4 35.2 34.0
+Data are shown for varying relative humidity levels under shaded conditions, along with corresponding air temperature. Each humidity level is shownb yt h ed a r kb l u eh o r i z o n t a ll i n e so nF i g .3.
+Differences are stratiﬁed by exposure duration (3 or 6 h) and age group, depicting a vast underestimation of impacts using traditional Tw of 35 °C limit. Values for sun-exposed/outdoor conditions are
+in Supplementary Table S.1.
+Fig. 3 | Updated survival limits (thick blue line) in extreme heat versus the Tw of
+35 ºC assumption (black thick line).Comparison of the Tw =3 5° Ca s s u m p -
+tion (black) with our physiological survivability limits (blue), based on 3-hour
+(dashed lines) and 6-hour (solid lines) of constant exposure at given air tempera-
+ture and relative humidity combinations within shaded/indoors conditions. Graphs
+indicate limits to survivability for (a) young and (b) older adults, wherein the limit is
+based on reaching uncompensable heat stress and accumulating enough body heat
+for a ﬁxed time of constant exposure to increase Tcore by 6 °C (from 37 °C (nor-
+mothermia) to 43 °C (heat stroke)). Black lines show Tw values up to 37 °C to avoid
+unrealistic conditions (thick line shows Tw of 35 °C), and horizontal dark blue lines
+indicate the ΔTw values at RH levels of 10, 25, 50, 75, and 90, and 100% in Table 2.
+See Supplementary Figs. S4 and 5 for vapor pressure and speciﬁc humidity on y-
+axis, respectively. Source data are provided as a Source Data ﬁle.
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 5
+
+Fig. 4 | Estimates of liveability at varying combinations of air temperature and
+relative humidity.Liveability estimates based on maximum safe metabolic rate
+(Mmax ) that a person can generate without a sustained positive rate of heat storage
+even with a maximal thermoregulatory response. Results are presented across a
+range of air temperature and relative humidity for younger (a, c) and older adults
+(b, d) in shaded (top) or sun-exposed (bottom) steady-state environments. The
+new 3-hour survivability line is shown in purple; constant Tw values are shown by
+the solid black lines until 37 °C to avoid unrealistic conditions, with Tw =3 5° C
+shown by the thick black line. Activities by MET level range from no activity (sitting
+~1.5 METs), to housework (~3.0 METs), dancing (~5.0 METs), and heavy lifting
+(~7.0 METs). The hatched area indicates conditions that are survivable but not
+livable (i.e., people cannot increase their activity without continuously storing heat
+inside the body, which will lead to a continuous rise in core temperature, but heat
+stroke death after a 3-hour exposure would not occur). Icons indicate MET-
+equivalent activities according to Ainsworth et al.56. Circles indicate critical Tw limits
+reported by Wolf et al.62 for minimal (~1.8 METs–ﬁlled circles) and light physical
+activity (~3.2 METs–open circles). Note: 1 MET corresponds to complete rest. See
+Supplementary Figs. S6 and 7 for vapor pressure and speciﬁch u m i d i t yo ny - a x i s ,
+respectively. Icons provided by Icons8 (https://icons8.com). Source data are pro-
+vided as a Source Data ﬁle.
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 6
+
+especially following SSP5-8.5). See also Supplementary Figs. S9–S15 for
+further context.
+Discussion
+We report a new modeling approach for assessing the prospects of
+human survivability and liveability due to extreme heat exposure that
+can be applied in any climate regime and customized with population
+groups with potential co-morbidities or thermoregulatory impair-
+ments. This new approach integrates well-established and funda-
+mental principles from thermal physiology and human biophysics and
+accommodates 3- and 6-hour exposure windows aligning with outputs
+from climate models and past survivability studies. Results encompass
+current and future extreme heat (see Supplementary Figs. 14 and 15 for
+future liveability ranges) across very hot and dry and very hot and
+humid conditions, with risks increasing, or expected to increase, over
+most of the world32,34.
+For the past decade, the singular psychometric T w threshold of
+35 °C (e.g., refs. 12,16,35) has been the conventional method for
+assessing the survival limits of humans exposed to extreme heat with
+climate change. Under such conditions, dry and evaporative heat
+transfer avenues are abolished. Unable to dissipate any heat, the body
+would retain all internally generated metabolic heat, inevitably leading
+to heat stroke death within a 6-hour timeframe. While this approach
+incorporates biophysical principles, it omits human thermal physiol-
+ogy aspects (e.g., sweat response, hydration, acclimatization), and
+cannot capture complexities of thermoregulation (e.g., body size,
+activity, or physiological restrictions6,19), which the proposed physio-
+logical model begins to overcome.
+Omitting thermoregulatory responses to extreme heat can
+result in a vast overestimation of the limits of human heat tolerance
+(Fig. 2). Here, we show that under very humid conditions, the dif-
+ference between models— expressed as a difference in the critical T w
+at which humans are projected to survive — is modest (~1 °C). Indeed,
+Sherwood and Huber 12 and others 36 acknowledge the danger of
+moist heat. However, many users of the 35 °C T w limit (e.g.,
+refs. 15,35) have recognized that it de ﬁnes a threshold for human
+survivability or adaptability for the best-case scenario (i.e., highly ﬁt,
+nude, well-ventilated, and shaded conditions) 37. Thus, the T w
+threshold is likely lower for most people, which agrees with recent
+work by Vecellio et al. 38 At higher T air accompanied by lower
+humidity, drastic differences (e.g., ΔTw ~4 –13 °C) between the T w
+35 °C assumption and our survivability approach emerge (Fig. 2a),
+similar to climate chamber ﬁndings by Vecellio et al. 39 who applied
+their empirical ﬁndings with global climate models 38. Our model
+accounts for realistic sweat production (and therefore evaporative
+potential) to physiologically plausible limits 40–42, which is the
+underlying reason for the increasing dissociation from the T w 35 °C
+limit in hot, dry air. The T w 35 °C threshold assumes no possible
+sweat evaporation over the skin and thus theoretically obviates the
+effect of any potential differences in sweating capacity. However,
+impossibly high sweat rates are needed for survivability in very hot
+and dry conditions, resulting in T w survivability values considerably
+lower than 35 °C. Higher wind speed can also affect evaporative
+cooling when sweat rates are suf ﬁcient.
+Differences between the two approaches widen when estimating
+survival limits for older adults (Figs.2 and 3), especially in hot and dry
+conditions, due to age-related impairments in sweating that are rou-
+tinely observed above the ages of ~60 –65 years 43,44.G i v e nt h a tw e
+discount potential co-morbidities that may further hinder thermo-
+regulation, the actual upper sweating and evaporative heat loss limits
+may be even lower than estimated here.
+Additional solar load (Fig. 2c, d) also decreases survivability,
+which is not accounted for in the 35 °C T w model, chamber T w
+threshold studies39, and many other common bioclimate indices. In a
+survival scenario, most people would likely behaviorally adapt by
+seeking the coolest available place, which would inevitably be
+shaded45. There are plausible exceptions to this assumed capacity to
+avoid extended sun exposure: those without access to shelter or those
+unable to respond adequately due to health conditions impairing
+decision-making and/or a lack of mobility. Leading risk factors for
+heat-related mortality and morbidity in present-day heatwaves include
+being unhoused or experiencing homelessness 46,47, physical
+disability48, and mental health illnesses or behavioral disorders 49–51.
+Nevertheless, the outputs for shaded conditions are the most rea-
+sonable survivability comparison between our model and the 35 °C Tw
+model (Fig. 2a, b). The extended heat index (based on the original
+equations by Steadman’s apparent temperature approach52) also pre-
+sents an alternative method to the Tw of 35 °C approach for assessing
+heat stress53.
+The 35 °C Tw survivability limit assumes heat stroke death after a
+6-hour exposure 12. Depending on the resting metabolic rate and
+assuming a normothermic resting T core of ~37 ˚C, after 6 hours of
+Fig. 5 | Difference in liveability between older and younger adults for shaded or
+sun-exposed conditions.The difference in liveability— or maximum safe metabolic
+rate (Mmax )— between young and older adults in sun-exposed (a) and shaded/
+indoor (b) conditions. The dotted area indicates air temperature and relative
+humidity combinations that, with aging, shift the situation from liveable to only
+survivable (i.e., people cannot increase their activity without continuously storing
+heat inside the body, which will lead to a continuous in core temperature, but heat
+stroke death after a 3-hour exposure would not occur). For example, in the shade, a
+young adult can perform 1 METs more work that an older adult within the green-
+shaded area. Note: TheΔMET values can also be seen by directly comparing Fig.4a,
+b (for 5a) or Fig. 4c, d (for 5b). Source data are provided as a Source Data ﬁle.
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 7
+
+Fig. 6 | Global maps of liveability estimates. a, d Differences in median safeMmax
+(maximum safe metabolic rate) (ΔMET) between the present (2016–2026) and end-
+of-century (2091–2100) for SSP2-4.5 and SSP5-8.5, respectively (negative values
+indicate less activity possible), with dotted areas indicating locations where median
+difference is signiﬁcantly different (P <0 . 0 5 ) ,(b, e)M e d i a nMmax for current decade
+(2016–2026) for SSP2-4.5 and SSP5-8.5, respectively, where lower values (e.g., in
+Bangladesh) indicate the most oppressive conditions and least ability to perform
+activity, (c, f) the percentage of time for 2091–2100 decade with Tair >2 5° Cf o r
+SSP2-4.5 and SSP5-8.5, respectively. All analyses are based on warm conditions (Tair
+>25 °C) for young adults. 3-hourly CMIP6 data are from GFDL ESM4 (~1° × 1.25°
+atmosphere/land grid) following SSP2-4.5. Areas with no data indicate locations
+that do not reach Tair > 25 °C in the given decade. Note: 1 MET corresponds to
+complete rest. CMIP6 Coupled Model Intercomparison Project phase 6, GFDL
+ESM4 Geophysical Fluid Dynamics Laboratory Earth Systems Model 4. SSP Shared
+socioeconomic pathway. Made with Natural Earth - free vector and raster map data
+at naturalearthdata.com. Source data are provided as a Source Dataﬁle.
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 8
+
+exposure to a T w of 35 °C, T core would reach ~48 –50 °C54.Y e t ,
+heat stroke death is almost guaranteed after reaching a core tem-
+perature of 43 °C29, which aligns more closely with the approximate
+Tcore that would be reached after a 3-hour exposure if all remaining
+assumptions of the 35 °C T w model are maintained. Therefore, the
+translation from heat storage to T core between our physiology-based
+approach and the 35 °C T w limit is not the primary driver of their
+differences; if it were, the 3-hour shaded model (dotted blue line,
+Fig. 2a) would overlap the 35 °C T w (thick solid black) line. Instead,
+substantial differences persist, especially above Tair of ~45 °C. In fact,
+no singular Tw threshold matches the non-linearity of the physiological
+survival threshold because sweating restrictions cannot be captured
+using a ﬁxed Tw approach.
+Based on the T w 35 °C exceedance 34, recent studies identify
+vulnerable areas around the Arabian Gulf 35, the North China Plain 55,
+the Ganges and Indus River basins 16, and some coastal subtropical
+locations. Our model indicates that heat health impacts are vastly
+underestimated (particularly in dry regions and for older adults) if
+applying the 35 °C T w threshold in current and future conditions. In
+arid regions projected to reach Tair >5 3–55 °C, the survival of young,
+healthy adults in conditions otherwise conducive to minimal heat
+stress will be threatened. The prospect of survival for the elderly
+following 6 hours of exposure to T air > 46.4 °C, irrespective of
+humidity, is bleak. While reducing the exposure duration from 6 to
+3 hours pushes these maximum temperatures to ~54.7 °C and 48.6 °C
+for younger and older adults, respectively, survival limits will still be
+reached at much lower Tw values than 35 °C. As a result, it is likely that
+regions characterized by low future heat stress risk in survivability/
+adaptability studies 12,15 (e.g., dry regions, areas with high elderly
+populations) will experience unsurvivable heat extremes without
+appropriate heat adaptation. Future work can leverage the advanced
+modeling capabilities and projected global demographics changes to
+illustrate likely future impacts using this model (see Table 3, Python
+Module and SM).
+Assuming that people are inactive (minimal basal heat generation)
+is a common characteristic of any model assessing human survival in
+extreme heat. However, for a region to be truly liveable (or habitable),
+people must carry out essential activities, sometimes outdoors, even
+during the hottest times of the day. Hence, our liveability approach
+estimates human impacts beyond life or death, answering how people
+can live and be active in extreme heat environments without increases
+in Tcore. Daily tasks such as writing, desk work, and typing (1.8 METs),
+general housework (3.3 METs), and gardening (4.4 METs) generate
+more metabolic heat 56. The endogenous heat loads of occupational
+tasks such as digging (5.0 METs), building roads (6.0 METs), and
+bailing hay (7.8 METs) are even higher56, however, people can still do
+these strenuous activities if they self-pace to avoid heat storage. Based
+on our model, a sustained activity of ~4.5 –5.0 METs (e.g., dancing) is
+safe for temperatures above 25 °C, yet more strenuous activity is
+possible by lowering heat exposure, taking breaks, and/or self-
+pacing57,58.
+The application of our liveability model using climate projections
+demonstrates that under a low-to-moderate emissions scenario (SSP2-
+4.5), median reductions in Mmax will be modest (~0.25 METs), which
+more than doubles to–0.64METs under the higher emissions scenario
+SSP5-8.5. These changes could represent a slightly lowered
+Fig. 7 | Histograms of safe activity in six global cities comparing young and
+older adults as well as present and future climates.Maximum safe metabolic rate
+(Mmax ) histograms for six selected locations (a) Roma, Italy; (b) Riyadh, Saudi
+Arabia; (c) Cartagena, Colombia; (d) Kumasi, Ghana; (e) New Delhi, India; (f) Dakha,
+Bangladesh using data from the present (2016–2026) and end-of-century
+(2090–2100) for young adults (teal and red) and over 65 years old (gold and yel-
+low). 3-hourly CMIP6 data from GFDL ESM4 following SSP2-4.5 (left column) and
+SSP5-8.5 (right column) is used selecting the grid point closest to the city location.
+Note: the Mmax range truncates around a minimum value of 1.5 METs as the lower
+limit of activity intensity to survive but not live. Based on distinct moisture regimes,
+the six locations were chosen within areas that will experience the top 5% Mmax
+decline for young adults and overlap with the main cities in those regions. CMIP6:
+Coupled Model Intercomparison Project phase 6; GFDL ESM4: Geophysical Fluid
+Dynamics Laboratory Earth Systems Model 4. SSP: Shared socioeconomic pathway.
+Source data are provided as a Source Data ﬁle.
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 9
+
+productivity (e.g., fewer crops harvested, the need for extra workers)
+or decreased activity performed, with economic or health
+consequences57–59. While quantifying these consequences is beyond
+the scope of the present paper, this should be the focus of future
+research. Further, under SSP5-8.5, some places will transition from
+liveable to only survivable, increasing from a frequency of <0.5% of the
+time today to up to 7.8% by end-of-century (i.e., up to 6 months/dec-
+ade, Supplementary Fig. S13) (these increases do not occur under
+SSP2-4.5). The sensitivity of this result to emissions scenarios and other
+aspects of climate change uncertainty should be explored in future
+work. Given the most populated global regions60 (apart from Northern
+Australia) are expected to have the greatestMmax declines, population
+growth will continue to increase the number of people impacted
+globally unless adaptive capacity increases61.
+Most striking, however, is the clear and prominent (~1.3–2.9 METs)
+reduction in Mmax with aging (Fig. 7). Older people inevitably become
+less active as they age; however, Mmax values during warm conditions
+in some cities, even during this decade, could constrain them to merely
+essential low-intensity indoor tasks such as light housework, cleaning,
+and washing dishes requiring only 2.0–2.5 METs.
+Emerging empirical data from laboratory studies provide phy-
+siological support of our model results for young, healthy adults in
+shaded conditions. Wolf et al.62 deﬁne critical environmental limits as
+the point at which participants enter uncompensability (which is how
+we de ﬁne liveability) see also Table 1). The data reported by these
+studies39,62 are given for Tair from 36 °C to 50.5 °C for resting subjects
+(1.8 METs–ﬁlled circles Fig.4a) and are ~0.0–2.0 °C Tw higher than the
+liveability limits predicted by our model, likely due to lower METs here
+(1.5 METs). Relative to the critical T w limits for light physical activity
+(3.2 METs–open circles Fig. 4a) reported by Wolf et al. 62,t h ev a l u e s
+from our model underestimate Mmax by ~0.04 METs (for resting, our
+model overestimatesMmax by merely 0.2 METs).
+Our model results illustrate the importance of accounting for
+speciﬁc subpopulation groups ’ attributes when projecting impacts
+from extreme heat stress. The vulnerability of older adults to heat-
+related illnesses is well-known63,64. Our survivability model identi ﬁes
+conditions beyond which even the ﬁttest young adults, at best, will
+perish over 3 or 6 hours without access to cooling resources. This work
+further describes conditions that will inevitably have deadly heat
+stroke consequences for the elderly— a critical part of every commu-
+nity— while acknowledging that higher health impacts could result
+when considering cardiovascular heat-related effects 1,65.M o r e o v e r ,
+reductions in safe activity levels for young and older adults between
+the present and future indicate a stronger effect from aging than from
+warming over this century (Fig. 7).
+Many of the most at-risk regions are also the most populated.
+While infrastructure providing arti ﬁcially cooled environments may
+serve as a solution in some settings66, required resources preclude this
+option for many, especially in lower- and middle-income countries67.
+Extreme heat may also increase the likelihood of displacement or
+migration of people from non-survivable and non-liveable areas 33,
+increasing risk for resource competition and human conﬂict68.F u t u r e
+research is needed to identify regions where effective heat stress
+adaptation measures should be prioritized and as warmer conditions
+arise over the coming decades 69.T a b l e3 indicates future work and
+methodological possibilities to address further research gaps and
+shortcomings discussed in this study but not examined quantitively,
+requiring signiﬁcant collaboration among disciplines70.
+In summary, this paper establishes an advanced modeling
+approach based on human physiology for assessing survivability and
+Table 3 | Future collaborative work among various sub-topics and disciplines
+Sub-topic or discipline Future work/next steps based on model capabilities
+Thermal physiology Create a catalog of speci ﬁc estimates of skin wettedness, skin temperature, and maximum sweat rates across population types, ages,
+medications intake, and health disorders/chronic diseases.
+Model the impact of personal cooling strategies, such as dousing or misting skin, electric fans, and foot or hand immersion in water78,79.
+Conduct a sensitivity analysis of windﬂow impacts within the liveability and survivability models, and activity velocity impacts for liveability.
+Model changes to behavior based on thermal exposure (e.g., Vargas et al.80) and other physiological attributes that affect adaptive
+behavior.
+Characterize other measures of physiological heat strain, including cardiovascular and renal strain (not only heat stroke, as modeled here).
+Test and model different clothing factors within the liveability and survivability models.
+Empirically test maximum duration of intensity safe activities (Mmax) in different extreme environmental conditions and describe the
+changes in skin temperature and sweat rate over time and across the lifespan (e.g., refs. 39,62,81) to allow for appropriate ranges and
+scaling factors applied within both liveability and survivability models.
+Improve the steady-state version of the model, as applied here, to account for changes within the 3–6 hour exposure in the variables
+assumed as constant.
+Conduct experiments across a range of plausible biophysical parameters for uncertainty estimation and subsequent model application
+across different temperature/humidity combinations along the survivability and liveability threshold curves.
+Climate sciences Run the present model using multiple GCMs and emissions scenarios to provide an ensemble of futures, addressing various sources of
+uncertainty, including that from both the biophysical and climate models (e.g., Petkova et al.82).
+Obtain regional or city-speciﬁc analysis of future heat stress with downscaled, bias-corrected climate projections.
+Evaluate time-of-emergence for different survivability and livability thresholds using single (global climate) model initial-condition large
+ensembles (SMILEs).
+Assess the relative importance of human population trends (increase in the number of people, aging) versus climate change in future health
+burdens from extreme heat.
+Quantify the probability of exceptional heat wave and/or mass heat fatality events over different regions with different levels of climate
+change.
+Public health Determine the sources of differences between physiological models and epidemiological models to inform future model improvements.
+Quantify compounding and cascading risks connected to heat and health, including heatwaves compounded by wildﬁres.
+Evaluate the extent to which different urban designs would alter liveability or survivability.
+Leverage the new modeling capabilities along with projected global demographics to better determine impact across a diverse population
+for public health preparedness.
+Future work to be accomplished and tests to run connected to our new physiological modeling approach to allow for numerous analysis types and answers tol a r g e rq u e s t i o n s .
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 10
+
+liveability across subpopulations (younger and older female adults)
+and diverse climates, suitable for application with global climate
+model output. Among survivability assessments, we ﬁll speciﬁcg a p s
+around these factors across the full spectrum of temperature and
+humidity combinations, as compared to the common T w of 35 °C
+threshold, and introduce a new method to determine liveability.
+Results show a vast overestimation of human limits to survival
+when using the 35 °C Tw survivability assumption, especially for older
+adults and hot-dry regions. Compared to the 35 °C T w, differences in
+physiological survival limits range from 0.9 °C T w lower (young
+adults, humid conditions) to 13.1 °C T w lower (older adults, dry con-
+ditions). By end-of-century, liveability declines are expected, mainly
+in already-populated and heat-vulnerable regions. Reductions in safe,
+sustained activity levels between present time and end-of-century in
+young and old adults indicate a stronger impact from aging on heat-
+health risk than from warming, thus the spatial extent and intensity of
+intolerable heat stress in an aging population cannot be understated.
+This work addresses fundamental shortcomings of common models
+estimating future human habitability or survivability by taking a
+physiological approach while opening avenues for more robust
+analyses (Table 3). Results and the ﬂexible approach will advance
+methods in global survivability and liveability analyses under
+increasing heat stress. Findings underline the need for continued
+research efforts and investments in heat risk management, adaptive
+capacity, and technological innovation for personal heat protection
+in vulnerable global regions.
+Methods
+Overview
+Our approach leverages methods of partitional calorimetry to model
+human heat balance 71 describing heat transfer between the human
+body and surrounding environment for warm conditions. Models are
+run across all plausible combinations of air temperature and moist-
+ure levels (e.g., RH) for warm conditions. The baseline approach
+builds on the general core principles of assumptions within Sher-
+wood & Huber 12, with additional complex rational equations and
+population-speciﬁc inputs. The complete model, including all equa-
+tions and the fundamental physiology and biophysical details, are
+outlined in the SM and available code. Below, we brie ﬂy explain how
+the full model is applied to comprehensively predict heat stroke
+death (survivability) and maximum safe sustained levels of physical
+activity (liveability) (Fig. 1).
+We evaluate environments across all plausible moisture levels for
+warm Tair between 25–60 °C, holding windspeed constant at 1 m.s −1.
+Assessments are completed for indoors (or shade), where mean radi-
+ant temperature (T r)=T air, and outdoors (sun-exposed), where
+Tr =T a + 15 °C, assuming partly sunny conditions averaged over eight
+midday hours19. Finally, we assess healthy young (18 –40 years) and
+older female adults (>65 years). Speciﬁcs and assumptions are listed in
+Fig. 1 and the SM.
+Survivability estimates
+Survivability estimates are provided for 3 and 6-hour of constant
+thermal exposure to align with current climate model outputs and past
+studies. The model detects increases in T core from an initial value of
+37.0 °C to ≥43.0 °C. The ΔTcore = 6.0 °C represents the upper limits of
+heat stroke29 (however, we acknowledge that the severity of hyper-
+thermia is variable, ranging from 41 to 47 °C 72). Thus, this model
+assumes that a person cannot store more than 17.88 kJkg −1,t a k i n ga
+typical human’s heat capacity (Cp) as 2.98 kJKg−1°C−1 73.
+Therefore, the critical rate of heat storage (S) before inevitable
+heat stroke death during rest is 0.82 WKg −1 for a 6-hour constant
+exposure ( Ssurv6
+), and 1.65 Wkg −1 for a 3-hour constant exposure
+(Ssurv3
+). Assuming a resting metabolic rate of 1.5 METs (1.8 Wkg−1), the
+maximum permissible netHloss is 0.98 Wkg−1 for 6-hour and 0.15 Wkg−1
+f o r3 - h o u re x p o s u r e s :
+Hloss6 = ðHprod /C0 Ssurv6
+Þ =1 :8 /C0 0:82ðÞ =0 :98 ðWkg/C0 1Þ ð1Þ
+Hloss3 = Hprod /C0 Ssurv3
+/C16/C17
+=1 :8 /C0 1:65ðÞ =0 :15 ðWkg/C0 1Þð 2Þ
+whereHloss is the net heat loss from the skin surface to the surrounding
+environment and Hprod is internal metabolic heat production. Note
+that Hloss is a function of weight and thus would vary across popula-
+tions. Hprod is equivalent to metabolic rate (M) because W k =0 . A
+person is also assumed nude for the survivability assessment (thus, dry
+and evaporative heat transfer clothing resistances are 0 m 2°CW−1), in
+line with assumptions made by other survivability models12.
+Our approach models evaporative restrictions to heat loss, which
+can exist due to three factors (see Supplementary Fig. S1): (1) high
+environmental humidity (or biophysical evaporative heat loss limit
+(Emaxenv
+); (2) the physiological capacity to saturate the skin surface in
+high humidity environments due to a limited maximum skin wetted-
+ness (ωmax); and (3) by the maximum rate at which sweat can be pro-
+duced (Smax). These are factored into both survivability and liveability
+analyses.
+For survivability, we follow the framework in Supplementary
+Fig. S1 to determine whether a person can survive heat stroke based on
+three questions, with a potential for four outcomes given individual
+characteristics (e.g., differing age and size). Thus, the algorithm
+determines survivability (as a dichotomous variable: yes/no) and
+assigns outcomes based on combined environmental and physiologi-
+cal restrictions. Based on this framework, a person will (see zones
+in Fig. 2):
+1. Survive while remaining within sweating limits.
+2. Survive despite exceeding sweating limits.
+3. Not survive because the environment restricts heat loss too much
+( i nh i g hh u m i d i t y ) .
+4. Not survive because the required sweat rate is not possible (in low
+humidity).
+5. Not survive due to both critical environmental heat loss restric-
+tions (3rd argument) and a required sweat rate that is not possible
+(4th argument).
+Liveability estimates
+Liveability is the maximum metabolic rate ( Mmax)t h a tc a nb eg e n e r -
+ated before S ≥ 0, or sustained compensable heat stress, where
+M= Hprod .T h e Mmax value indicates the sustained activity levels
+(intensity but not duration) possible without unchecked rises in Tcore
+(i.e., uncompensable heat stress74)w i t h i nag i v e ns t e a d y - s t a t et h e r m a l
+environment. This deﬁnition assumes that people will self-pace their
+maximum level of physical activity over a prolonged period to attain
+S = 0, as well as constant sweating and skin temperature. Mmax is a
+continuous variable (in Watts), which we convert to energy expendi-
+ture in METs for a simpler interpretation. A clothing insulation value of
+0.36 clo is used (light shorts and cotton T-shirt) for liveability. Full
+details are in the SM.
+Application of liveability model using climate models
+To illustrate advanced model capabilities, we explore the distribution
+of liveability in present and projected future conditions in regions
+globally (as outlined above and in SM). The Coupled Model Inter-
+comparison Project phase 6 (CMIP6) provides state-of-the-art GCMs
+projections under various warming scenarios75. We utilize CMIP6 data
+from GFDL ESM4 and MPI ESM1.2 (~1° × 1.25° atmosphere/land grid)
+following SSP2-4.5 and SSP5-8.5 (Shared Socioeconomic Pathway).
+SSP2-4.5 represents a middle-of-the-road emissions scenario, which
+may be likely considering existing net-zero commitments76,a n dS S P 5 -
+8.5 represents a high emissions scenario. As inputs, we use 3-hourly
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 11
+
+near-surface air temperature, speci ﬁc humidity, and surface atmo-
+spheric pressure for two 10-year global snapshots — present
+(2016–2025) and future (2091 –2100)— to construct global maps of
+projected changes over land and detailMmax in select cities. A grid cell
+was considered land if it contained >45% land cover; otherwise, ana-
+lyses were not performed.
+We used two-sided Mann-Whitney U tests to detect signi ﬁcant
+projected changes in Mmax between present (2016–2025) and future
+(2091–2100) decades. Here, we test differences in median Mmax (50th
+percentile of distribution) using a signiﬁcance level ofp <0 . 0 5( F i g .6).
+Six cities within the global top 5% of expected declines of Mmax were
+selected to display deceased Mmax in statistical distributions (Fig. 7):
+Roma, Italy (a); Riyadh, Saudi Arabia (b); Cartagena, Colombia (c);
+Kumasi, Ghana (d); New Delhi, India (e); and Dakha, Bangladesh (f). The
+Mann-Whitney U tests were used because Mmax is a continuous vari-
+able, not always normally distributed. We evaluated liveability changes
+solely for shaded warm/hot weather conditions (Tair >25 °C).
+Our analyses focus on exploring uncertainties associated with the
+physiological model; future work will complete a more comprehensive
+climate change impact analysis using many GCM simulations to con-
+sider uncertainties due to model structure, internal variability of the
+climate system, and emissions scenario. GFDL ESM4 and MPI ESM1.2,
+like any climate models, possess biases in their simulation of mean
+climate and the diurnal cycle, and do not capture details of urban
+landscapes77. Future impact assessments might consider bias correct-
+ing and downscaling the GCM output prior to inputting in the phy-
+siological model.
+Reporting summary
+Further information on research design is available in the Nature
+Portfolio Reporting Summary linked to this article.
+Data availability
+The model output data generated in this study are provided as source
+data ﬁles. Input data included all plausible combinations of air tem-
+perature and moisture levels for warm conditions, which we used for
+generating survivability wet-bulb curves and liveability analyses;
+therefore, the only external data comes from CMIP6 data. The input
+data for the model for the personal pro ﬁles custom-built for this
+application are provided in the methods, supplementary information,
+and Zenodo repository. The CMIP6 data were downloaded from
+https://esgf-node.llnl.gov/search/cmip6/. All the source data for ﬁg-
+ures are provided in the Zenodo repository as well and with this paper
+as a Source Dataﬁle, including the wet bulb temperature matrices from
+the combinations of air temperature and humidity tested. Source data
+are provided with this paper.
+Code availability
+The model code was developed using Python 3.10.9 and authors thank
+the teams behind this open-source project, as well as NumPy (v1.23.5),
+Matplotlib (v3.7), Xarray (v2022.11.0), Pandas (V 1.5.3), Cartopy (V
+0.21.1), and MetPy (1.4.1) developers. Custom codes with the model
+developed for this study and tutorials to reproduce survivability and
+liveability temperature-humidity matrices are available via Zenodo
+data repository (https://doi.org/10.5281/zenodo.10020136).
+References
+1. Kenney, W. L., Craighead, D. H. & Alexander, L. M. Heat waves,
+aging, and human cardiovascular health.Med. Sci. Sports Exerc.46,
+1891 (2014).
+2. Ebi, K. L. et al. Hot weather and heat extremes: health risks. Lancet
+398, 698–708 (2021).
+3. Ravanelli, N. M., Hodder, S. G., Havenith, G. & Jay, O. Heart rate and
+body temperature responses toextreme heat and humidity with
+and without electric fans. JAMA 313,7 2 4–725 (2015).
+4 . A v e l l i n i ,B .A . ,K a m o n ,E .&K r a j e w s k i ,J .T .P h y s i o l o g i c a lr e s p o n s e so f
+physicallyﬁt men and women to acclimation to humid heat.J. Appl.
+Physiol. 49, 254261 (1980).
+5 . P u t n a m ,H .e ta l .I t’s not the heat, it’s the vulnerability: attribution of
+the 2016 spike in heat-associated deaths in Maricopa County, Ari-
+zona. Environ. Res. Lett. 13, 94022 (2018).
+6 . V a n o s ,J . ,B a l d w i n ,J .W . ,J a y ,O .&E b i ,K .L .S i m p l i c i t yl a c k s
+robustness when projecting heat-health outcomes in a changing
+climate. Nat Commun 11, 6079 (2020).
+7. Guo, Y. et al. Quantifying excess deaths related to heatwaves under
+climate change scenarios: A multicountry time series modelling
+study. PLoS Med. 15, e1002629 (2018).
+8. Lüthi, S. et al. Rapid increase in the risk of heat-related mortality.
+Nat. Commun. 14,4 8 9 4( 2 0 2 3 ) .
+9. Rocklöv, J. & Ebi, K. L. High dose extrapolation in climate change
+projections of heat-related mortality.J. Agric Biol. Environ. Stat. 17,
+461–475 (2012).
+10. Baldwin, J. et al. Humidity ’s role in heat-related health outcomes: a
+heated debate. Environ. Health Perspect.131, 055001 (2023).
+11. Lin, S. et al. Extreme high temperatures and hospital admissions for
+respiratory and cardiovascular diseases.Epidemiology20,
+738–746 (2009).
+12. Sherwood, S. C. & Huber, M. An adaptability limit to climate change
+due to heat stress. P r o c .N a t lA c a d .S c i .107, 9552–9555 (2010).
+13. Moratiel, R., Soriano, B., Centeno, A., Spano, D. & Snyder, R. L. Wet-
+bulb, dew point, and air temperature trends in Spain.Theor. Appl
+Climatol. 130,4 1 9–434 (2017).
+14. Raymond, C., Singh, D. & Horton, R. M. Spatiotemporal Patterns and
+Synoptics of Extreme Wet-Bulb Temperature in the Contiguous
+United States. J. Geophys. Res. Atmos. 122,1 3 , 1 0 8–113,124 (2017).
+1 5 . C o f f e l ,E .D . ,H o r t o n ,R .M .&d eS h e r b i n i n ,A .T e m p e r a t u r ea n d
+humidity based projections of a rapid rise in global heat stress
+exposure during the 21st century.Environ. Res. Lett.13, 14001 (2017).
+16. Im, E.-S., Pal, J. S. & Eltahir, E. A. B. Deadly heat waves projected in
+the densely populated agricultural regions of South Asia.Sci. Adv.
+3, e1603322 (2017).
+17. Sa ﬁe d d i n e ,S . ,C l e r b a u x ,C . ,C l a r i s s e ,L . ,W h i t b u r n ,S .&E l t a h i r ,E .A .
+B. Present and future land surface and wet bulb temperatures in the
+Arabian Peninsula.Environ. Res. Lett. 17, 044029 (2022).
+18. Dunne, J. P., Stouffer, R. J. & John, J. G. Reductions in labour
+capacity from heat stress under climate warming.Nat. Clim. Chang
+3,5 6 3( 2 0 1 3 ) .
+19. Guzman-Echavarria, G., Middel, A. & Vanos, J. K. Beyond heat
+exposure-new methods to quantify and link personal heat expo-
+sure, stress, and strain in diverse populations and climates: The
+journal Temperature Toolbox.Temperature10,3 5 8–378 (2023).
+20. Semenza, J. C., McCullough, J. E., Flanders, W. D., McGeehin, M. A.
+& Lumpkin, J. R. Excess hospital admissions during the July 1995
+heat wave in Chicago. Am. J. Prev. Med 16,2 6 9–277 (1999).
+21. Leon, L. R. & Bouchama, A. Heat stroke. Compr. Physiol. 5,
+611–647 (2015).
+2 2 . C h e s h i r e ,W .P .&F e a l e y ,R .D .D r u g - i n d u c e dh y p e r h i d r o s i sa n d
+hypohidrosis.Drug Saf. 31,1 0 9–126 (2008).
+23. Dervis, S. et al. A comparison of thermoregulatory responses to
+exercise between mass-matched groups with large differences in
+body fat. J. Appl Physiol. 120,6 1 5–623 (2016).
+24. Ravanelli, N., Coombs, G. B., Imbeault, P. & Jay, O. Maximum skin
+wettedness after aerobic training with and without heat acclima-
+tion. Med Sci. Sports Exerc. 50, 299 (2018).
+2 5 . D a a n e n ,H .A .M . ,R a c i n a i s ,S .&P é r i a r d ,J .D .H e a ta c c l i m a t i o nd e c a y
+and re-induction: a systematic review and meta-analysis.Sports
+Med. 48,1 –22 (2017).
+2 6 . F l o u r i s ,A .D .&S c h l a d e r ,Z .J .H u m a nb e h a v i o r a lt h e r m o r e g u l a t i o n
+during exercise in the heat. Scand. J. Med Sci. Sports 25,
+52–64 (2015).
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 12
+
+2 7 . V a n o s ,J .K . ,W a r l a n d ,J .S . ,G i l l e s p i e ,T .J .&K e n n y ,N .A .I m p r o v e d
+predictive ability of climate-human-behaviour interactions with
+modiﬁcations to the COMFA outdoor energy budget model.Int. J.
+Biometeorol.56,1 0 6 5–1074 (2012).
+28. Vargas, N. T. et al. Increased skin wetness independently augments
+cool-seeking behaviour during passive heat stress.J. Physiol. 598,
+2775–2790 (2020).
+29. Bouchama, A. et al. Classic and exertional heatstroke.Nat. Rev. Dis.
+Prim. 8,1 –23 (2022).
+30. Moseley, P. L., Gapen, C., Wallen, E. S., Walter, M. E. & Peterson, M.
+W. Thermal stress induces epithelial permeability.Am. J. Physiol.
+Cell Physiol. 267,C 4 2 5–C434 (1994).
+31. Lambert, G. P. Intestinal barrier dysfunction, endotoxemia, and
+gastrointestinal symptoms: the‘canary in the coal mine’during
+exercise-heat stress?Thermoregul. Hum. Perform.53,6 1–73 (2008).
+32. Christidis, N., Mitchell, D. & Stott, P. A. Rapidly increasing likelihood
+of exceeding 50 °C in parts of the Mediterranean and the Middle
+East due to human inﬂuence. NPJ Clim. Atmos. Sci. 6, 45 (2023).
+33. Horton, R. M., de Sherbinin, A., Wrathall, D. & Oppenheimer, M.
+Assessing human habitability and migration.Science 372,
+1279–1283 (2021).
+34. Raymond, C., Matthews, T. & Horton, R. M. The emergence of heat
+and humidity too severe for human tolerance.Sci. Adv. 6,
+eaaw1838 (2023).
+35. Pal, J. S. & Eltahir, E. A. B. Future temperature in southwest Asia
+projected to exceed a threshold for human adaptability.Nat. Clim.
+Chang 6,1 9 7–200 (2016).
+36. Buzan, J. R. & Huber, M. Moist heat stress on a hotter earth. Annu
+Rev. Earth Planet Sci. 48,6 2 3–655 (2020).
+37. Huber, M. What happens if the world gets too hot for animals to
+survive?Bull. Atomic Sci.https://thebulletin.org/2022/07/extreme-
+heat-animals-livestock-wildlife/#:~:text=Hot%2C%20humid%
+20conditions%20can%20lead,potentially%20threatening%
+20economies%20and%20ecosystems(2022).
+38. Vecellio, D., Kong, Q., Kenney, L. & Huber, M. Greatly enhanced risk
+to humans as a consequence of empirically determined lower moist
+heat stress tolerance.P r o c .N a t lA c a d .S c i .120, e2305427120
+(2023).
+39. Vecellio, D. J., Wolf, S. T., Co ttle, R. M. & Kenney, W. L. Evaluating
+the 35 °C wet-bulb temperature adaptability threshold for young,
+healthy subjects (PSU HEAT Project).J. Appl Physiol. 132,
+340–345 (2021).
+40. Torii, M. Maximal sweating rate in humans. J. Hum. Ergol. 24,
+137–152 (1995).
+41. International Standard Organization. ISO 7933:2004 - Ergonomics
+of the thermal environment - analytical determination and inter-
+pretation of heat stress using calculation of the predicted heat strain.
+(ISO, 2004).
+42. Inoue, Y., Nakao, M., Araki, T. & Murakami, H. Regional differences in
+the sweating responses of older and younger men.J. Appl. Physiol.
+71,2 4 5 3–2459 (1991).
+43. Gagnon, D., Romero, S. A., Cramer, M. N., Jay, O. & Crandall, C. G.
+Cardiac and thermal strain of elderly adults exposed to extreme
+heat and humidity with and without electric fan use. JAMA 316,
+989–991 (2016).
+44. Smith, C. J., Alexander, L. M. & Kenney, W. L. Nonuniform, age-
+related decrements in regional sweating and skin bloodﬂow. Am. J.
+Physiol. Regul. Integr. Comp. Physiol.305, R877–R885 (2013).
+45. de Freitas, C. R. Weather and place-based human behavior:
+recreational preferences and sensitivity. Int J. Biometeorol. 59,
+55–63 (2015).
+46. Schwarz, L. et al. Heat waves and emergency department visits
+among the homeless, San Diego, 2012-2019.Am. J. Public Health
+112,9 8–106 (2022).
+47. Scott, R. et al. Without shelter, people die: disproportionate mor-
+tality among King County’s homeless population, 2009–2019. J.
+Soc. Distress Homelessness32, 223–233 (2022).
+48. Ma, R. et al. Estimation of work-related injury and economic burden
+attributable to heat stress in Guangzhou, China.Sci. Total Environ.
+666,1 4 7–154 (2019).
+49. Alana, H. et al. The effect of heat waves on mental health in a
+temperate Australian City.Environ. Health Perspect.116,
+1369–1375 (2008).
+50. Schmeltz, M. T. & Gamble, J. L. Risk characterization of hospitali-
+zations for mental illness and/or behavioral disorders with con-
+current heat-related illness.PLoS One 12,e 0 1 8 6 5 0 9( 2 0 1 7 ) .
+51. Bouchama, A. et al. Prognostic factors in heat wave–related deaths:
+a meta-analysis.Arch. Intern. Med. 167,2 1 7 0–2176 (2007).
+52. Steadman, R. G. The assessment of sultriness. Part I: a temperature-
+humidity index based on human physiology and clothing science.J.
+Appl. Meteorol. 18,8 6 1–873 (1979).
+53. Lu, Y.-C. & Romps, D. M. Extending the Heat Index.J. Appl. Meteorol.
+Climatol. 61,1 3 6 7–1383 (2022).
+54. Kenny, G. P. & Jay, O. Thermometry, calorimetry, and mean body
+temperature during heat stress.Compr. Physiol. 3,1 6 8 9–1719,
+https://doi.org/10.1002/cphy.c130011(2013).
+55. Kang, S. & Eltahir, E. A. B. North China Plain threatened by deadly
+heatwaves due to climate change and irrigation.Nat. Commun. 9,
+2894 (2018).
+5 6 . A i n s w o r t h ,B .E .e ta l .2 0 1 1C o m p e n d i u mo fP h y s i c a lA c t i v i t i e s :a
+second update of codes and MET values.Med Sci. Sports Exerc.43,
+1575–1581 (2011).
+57. Morris, N. B. et al. The HEAT-SHIELD project — perspectives from an
+inter-sectoral approach to occupational heat stress.J. Sci. Med.
+Sport 24,7 4 7–755 (2021).
+5 8 . V a n o s ,J . ,M o y c e ,S . ,L e m k e ,B .&K j e l l s t r o m ,T .E x t r e m eh e a t
+exposure and occupational health in a changing climate.Extreme
+Events Clim. Change 147–166, https://doi.org/10.1002/
+9781119413738.ch10(2021).
+59. Foster, J. et al. An advanced empirical model for quantifying the
+impact of heat and climate change on human physical work capa-
+city. Int J. Biometeorol. 65,1 2 1 5–1229 (2021).
+60. Center for International Earth Science Information Network - CIESIN
+- Columbia University.Population Estimation Service, Version 3
+(PES-v3) (NASA Socioeconomic Data and Applications Center
+(SEDAC), 2018).
+6 1 . Å s t r ö m ,C . ,O u d i nÅ s t r ö m ,D . ,A n d e r s s o n ,C . ,L .E b i ,K .&F o r s b e r g ,B .
+Vulnerability reduction needed to maintain current burdens of heat-
+related mortality in a changing climate—magnitude and determi-
+nants. Int J. Environ. Res Public Health 14, 741 (2017).
+62. Wolf, S. T., Cottle, R. M., Vecel lio, D. J., Kenney, W. L. & Wolf, S. T.
+Critical environmental limits for young, healthy adults (PSU HEAT).
+J. Appl. Physiol. 132,3 2 7–333 (2022).
+63. Barnett, A. G. Temperature and cardiovascular deaths in the US
+elderly: changes over time.Epidemiology18,3 6 9–372 (2007).
+64. Kenney, W. L. & Munce, T. A. Invited review: aging and human
+temperature regulation.J. Appl. Physiol. 95,2 5 9 8–2603 (2003).
+65. Liu, J. et al. Heat exposure and cardiovascular health outcomes: a
+systematic review and meta-analysis.Lancet Planet Health 6,
+e484–e495 (2022).
+66. Jay, O. et al. Reducing the health impacts of extreme heat: from
+personal cooling strategies to green cities.Lancet 398,
+709–724 (2021).
+67. Acevedo, S., Mrkaic, M., Pugacheva, E. & Topalova, P. The unequal
+burden of rising temperatures: how can low-income countries
+cope? IMF BLOG https://www.imf.org/en/Blogs/Articles/2017/09/
+27/the-unequal-burden-of-rising-temperatures-how-can-low-
+income-countries-cope(2017).
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 13
+
+68. Clarke, B., Otto, F., Stuart-Smith, R. & Harrington, L. Extreme
+weather impacts of climate change: an attribution perspective.
+Environ. Res. Clim. 1, 012001 (2022).
+6 9 . C i s s é ,G .e ta l .H e a l t h ,w e l l b e ing, and the changing structure of
+communities. In:Climate Change 2022: Impacts, Adaptation and
+Vulnerability. Contribution of Working Group II to the Fifth Assess-
+ment Report of the Intergovernmental Panel on Climate Change
+(eds. Pörtner, H.-O. et al.) (Cambridge University Press, 2022).
+70. Kenney, W. L., Havenith, G. & Jay, O. Thermal physiology, more
+relevant than ever before. J. Appl. Physiol. 133,6 7 6–678 (2022).
+71. Cramer, M. N. & Jay, O. Partitional calorimetry. J. Appl. Physiol.126,
+267–277 (2019).
+72. Leon, L. R. & Helwig, B. G. Heat stroke: role of the systemic
+inﬂammatory response.J. Appl. Physiol. 109,1 9 8 0–1988 (2010).
+7 3 . X u ,X . ,R i o u x ,T .P .&C a s t e l l a n i ,M .P .T h es p e c iﬁc heat of the human
+body is lower than previously believed: The Journal Temperature
+toolbox. Temperature10,2 3 5–239 (2023).
+74. Cramer, M. N. & Jay, O. Biophysical aspects of human thermo-
+regulation during heat stress. Autonomic Neurosci. 196,
+3–13 (2016).
+75. Eyring, V. et al. Overview of the Coupled Model Intercomparison
+Project Phase 6 (CMIP6) experimental design and organization.
+Geosci. Model Dev. 9,1 9 3 7–1958 (2016).
+76. Hausfather, Z. & Moore, F. C. Net-zero commitments could limit
+warming to below 2 °C. Nature News Views 604,2 4 7–248 (2022).
+77. Dunne, J. P. et al. The GFDL Earth System Model version 4.1 (GFDL ‐
+ESM 4.1): overall coupled model description and simulation char-
+acteristics.J. Adv. Model Earth Syst. 12, e2019MS002015 (2020).
+78. Morris, N. B. et al. A preliminary study of the effect of dousing and
+foot immersion on cardiovascular and thermal responses to
+extreme heat. JAMA 322,1 4 1 1–1413 (2019).
+79. Morris, N. B. et al. Sustainable solutions to mitigate occupational
+heat strain–an umbrella review of physiological effects and global
+health perspectives.Environ. Health 19,1 –24 (2020).
+80. Vargas, N. T., Schlader, Z. J., Jay, O. & Hunter, A. Prioritize research
+on human behaviour during extreme heat.Nat. Hum. Behav. 7,
+473–474 (2023).
+81. Stapleton, J. M. et al. Aging impairs heat loss, but when does it
+matter? J. Appl Physiol. 118,2 9 9–309 (2014).
+82. Petkova, E. P. et al. Heat-related mortality in a warming climate:
+projections for 12 US cities. Int J. Environ. Res Public Health 11,
+11371–11383 (2014).
+Acknowledgements
+GEG and JKV acknowledge funding from the National Science Founda-
+tion (NSF) Award #CMMI-2045663. O.J. acknowledges funding from the
+National Health and Medical Research Council (NHMRC) Investigator
+Grant (2021/GNT2009507). We acknowledge the World Climate
+Research Programme, which, through its Working Group on Coupled
+Modeling, coordinated and promoted CMIP6. We thank the climate
+modeling groups for producing and making available their model out-
+put, the Earth System Grid Federation (ESGF) for archiving the data and
+providing access, and the multiple funding agencies who support
+CMIP6 and ESGF. We are grateful to Jared Sexton for his help with
+obtaining the CMIP6 data and Haley Staudmyer for testing the code and
+Tw calculation troubleshooting. We thank Colin Raymond and Alex
+Goodman for sharing improved Python code to calculate Tw. We would
+also like the Noll Lab at Pennsylvania State University, particularly Larry
+Kenney and Daniel Vecellio, for helpful discussions around heat stress
+and evaporative heat loss. Finally, we are grateful to Ariane Middel at
+ASU for providing GIS mapping expertise and direction for the MRT
+modeling methods used in the current paper and Stevan Earl for helping
+with data management good practices to publish the code.
+Author contributions
+All authors conceptualized the study. J.V. acquired funding and super-
+vised the project. O.J., C.B., G.G.E., and J.V. performed model devel-
+opment and advancements. Climate data were obtained by J.B. G.G.E.
+developed the model code and performed data analyses with guidance
+from J.V. and O.J. J.B. and K.L.E. led interpretations of climate projec-
+tions. J.V. led manuscript development and writing; all authors helped
+with interpretation, writing, and feedback. All authors approved theﬁnal
+manuscript.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary informationThe online version contains
+supplementary material available at
+https://doi.org/10.1038/s41467-023-43121-5.
+Correspondenceand requests for materials should be addressed to
+Jennifer Vanos.
+Peer review informationNature Communicationsthanks the anon-
+ymous reviewer(s) for their contribution to the peer review of this work.
+A peer review ﬁle is available.
+Reprints and permissions information is available at
+http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to jur-
+isdictional claims in published maps and institutional af ﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as
+long as you give appropriate credit to the original author(s) and the
+source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons licence, unless
+indicated otherwise in a credit line to the material. If material is not
+included in the article’s Creative Commons licence and your intended
+use is not permitted by statutory regulation or exceeds the permitted
+use, you will need to obtain permission directly from the copyright
+holder. To view a copy of this licence, visithttp://creativecommons.org/
+licenses/by/4.0/.
+© The Author(s) 2023
+Article https://doi.org/10.1038/s41467-023-43121-5
+Nature Communications|         (2023) 14:7653 14
+

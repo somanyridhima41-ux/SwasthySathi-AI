@@ -1,0 +1,860 @@
+ReviewCMAJ
+CMA J• JULY 13, 2010 • 182(10)
+© 2010 Canadian Medical Association or its licensors
+1053
+S
+cientists have predicted that extremes in climate are
+likely to increase in frequency and severity.1 These
+changes may have a direct impact on population
+health, as heat waves can exceed the physiological adaptive
+capacity of vulnerable population groups. Individuals over
+the age of 60 years are consistently the most vulnerable,2−4
+with 82%–92% of excess mortality occurring in this group.5
+Risks for heat-related illness or injuries are compounded for
+people with obesity,6,7 cardiovascular disease,8− 10 respiratory
+disease8− 10 and diabetes mellitus.4,8,9 These conditions de -
+crease the body’s ability to adapt to changes in environmen-
+tal conditions.11 When people must perform physical work in
+the heat, the occurrence of heat-related morbidity and mor-
+tality is likely to be more frequent.12 Although these trends
+in heat-related morbidity and mortality are evident, there has
+been little research to explain the causes of increased sus-
+ceptibility within vulnerable populations.
+In this review, we describe the effects of heat on human
+physiology and the factors that increase the risk of heat stress.
+The methods used in preparing this review are summarized in
+Box 1 and are described in greater detail in Appendix 1
+(available at www .cmaj .ca /cgi /content /full  /cmaj  .081050
+/DC1).
+Thermoregulatory responses in healthy
+people
+In healthy people, the body regulates its core temperature to
+maintain a near-constant level (about 37ºC), irrespective of
+environmental conditions. To do this, the thermoregulatory
+system adjusts a variety of physiological mechanisms to
+attain a balance between the heat produced within the body
+and the heat lost to the environment, through a combination
+of dry heat exchange and evaporative heat loss. At room tem-
+perature, resting metabolic heat production is balanced pri-
+marily by dry heat loss through conduction, convection and
+radiation.13
+Heat balance is easily disturbed during exposure to a
+warmer environment and with changes in metabolic heat pro-
+duction (due to physical activity). As the ambient air temper -
+ature increases, the capacity for dry heat exchange is reduced
+because of a reduction in the temperature gradient between
+the skin surface and the ambient air.13 When the environment
+is warmer than the skin, the body gains heat through dry heat
+exchange, which increases the requirements for sweating and
+circulatory responses to achieve a given rate of heat dissipa-
+tion. During physical activity, the increase in metabolic rate
+above resting levels increases the rate at which heat must be
+dissipated to the environment to prevent the body core tem-
+perature from rising to a dangerous level. The extent to which
+body core temperature increases at steady state is largely
+independent of the ambient air temperature (within the mea-
+sured range of 5°C–36°C) and is proportional to the meta-
+bolic rate.14 With metabolic or environmental heat load or
+both, the increase in sweat rate and skin blood flow is propor-
+tional to the amount of evaporative heat loss required for heat
+balance.13 Under circumstances in which changes in sweating
+and skin blood flow cannot facilitate a sufficiently high rate
+of heat loss (e.g., intense physical activity in hot or humid
+conditions, impairment of normal thermoregulatory function),
+body core temperature rises continuously; left unchecked, this
+DOI:10.1503/cmaj.081050
+Heat stress in older individuals and patients with common
+chronic diseases
+Glen P . Kenny PhD, Jane Yardley MSc, Candice Brown BSc, Ronald J. Sigal MD MPH, Ollie Jay PhD
+From the Human and Environmental Physiology Research Unit (Kenny,
+Yardley, Brown, Jay), Faculty of Health Sciences, and the Institute of Popula-
+tion Health (Kenny, Yardley), University of Ottawa, Ottawa, Ont.; and the
+Departments of Medicine, Cardiac Sciences and Community Health Sciences,
+Faculties of Medicine and Kinesiology (Sigal), University of Calgary, Calgary,
+Alta.
+Key points
+• People with age over 60 years, obesity, cardiovascular
+disease, pulmonary disease or long-standing diabetes are
+at increased risk of heat-related illness during heat waves
+because of physiological impairments in the regulation of
+body core temperature in hot conditions.
+• A homebound lifestyle, lack of contact with other people
+and decreased mobility can also contribute to an increased
+risk of heat-related illness. 
+• Working home air conditioners, fans, access to
+transportation and access to cool environments during
+prolonged heat events have a protective effect against
+heat-related illness and deaths. 
+• Physicians should be aware of these risk factors and
+protective factors against heat illness, and should counsel
+at-risk patients accordingly.
+CMAJ 2009. DOI:10.1503/cmaj.081050
+Previously published at www.cmaj.ca
+
+Review
+rise in body core temperature may lead to heat illness and
+eventually death.
+Exposure to the combination of external heat stress and
+metabolically generated heat can lead to heat-related disor-
+ders. The prevalence of heat stress symptoms increases in
+direct proportion to the elevation of body core temperature.
+The major heat-related disorders — heat cramps, heat exhaus-
+tion and heatstroke — involve various degrees of thermoregu-
+latory failure, which occurs when a person is exposed to
+excessive heat or elevations in body core temperature over a
+prolonged period. 
+Risk factors for heat stress
+Age
+Observational studies have shown that people aged 60 years
+and older are among the worst affected by extreme heat,3−5
+with those living in institutions, confined to bed or living alone
+having the highest rates of illness, injury and death.5,8,15−17In
+their ecological time-series study, Fouillet and associates2
+showed that during the 2003 heat wave in Europe, mortality
+ratios (ratios of observed deaths to expected deaths) in France
+increased continuously with age, from 1.3 for people 35–74
+years of age to more than 1.7 for those over the age of 75 (Fig-
+ure 1). Although the greater prevalence of comorbidities and
+medication use in this population may be responsible for some
+of the heat-related deaths, laboratory-based physiological stud-
+ies have indicated that the ability to sense heat20 and to mani-
+fest appropriate behavioural (especially fluid intake)21−26 and
+physiological (e.g., blood distribution, sweating) responses27−33
+during exposure to heat may be compromised in otherwise
+healthy older individuals. 
+The ability to physiologically maintain body core temper -
+ature during heat stress becomes compromised with age.27
+This decrease in thermoregulatory ability can be attributed to
+a combination of factors, including changes in sweating,28−30,34
+blood flow to the skin30,31,34,35and cardiovascular function.32
+The problem can be exacerbated by the decreases in overall
+physical fitness and increases in body adiposity that may
+accompany aging.36 Experts have suggested that, in combin -
+ation, these age-related changes in thermoregulatory and car-
+diovascular function can decrease the body’s ability to main-
+tain body core temperature at safe levels, especially during
+extended exposure to heat or to physical activity in the heat.37
+The results of a recent physiological study20 suggested that
+older people are less sensitive to heat exposure and take
+longer to respond to temperature changes than their younger
+counterparts. The age-related decrease in sweat rate does not
+appear to be due to a decrease in the number of activated
+sweat glands,28,29 but rather to a reduction in the amount of
+sweat produced per gland, as shown by studies in which the
+sweat glands were stimulated pharmacologically.28,29,33 Older
+individuals also experience reductions in evaporative heat
+loss and overall sweat rate during physical activity.27
+Laboratory-based physiology studies have shown that the
+reduced sweat output is accompanied by a decrease in skin
+blood flow during exposure to heat.30,31,34 Although the
+researchers observed no age-related differences in the onset
+of skin vasodilation, reflex increases in skin blood flow in
+response to increasing core temperature were attenuated in
+aged skin during passive heat exposure, independent of the
+level of acclimation.30 Age-related decreases in skin blood
+flow during passive heat exposure were associated with
+reduced cardiac output (despite a similar heart rate re -
+sponse) and less redistribution of blood flow from renal and
+splanchnic circulations.32 Similar age-related reductions in
+skin blood flow have been observed during exercise in the
+heat.31
+Older adults may also have a decreased ability to sense
+and adapt to dehydration. In physiology studies in which
+dehydration was induced through heat exposure alone,24
+through physical activity in the heat25,26 or through hypertonic
+saline infusion,23 healthy older individuals exhibited lower
+subjective levels of thirst, decreased plasma volume and
+reduced water intake while dehydrated relative to younger
+counterparts. Recovery from dehydration is prolonged in
+older adults, which may exacerbate their risk of heat-related
+injuries during extended periods of heat exposure, such as
+heat waves.21
+In spite of the apparent thermoregulatory impairments,
+there is evidence showing that older adults are capable of
+adapting.30,33Both passive heat exposure and mild to moderate
+exercise in a very hot environment (i.e., above 40°C) over an
+8- to 10-day period resulted in adaptation in older people.30,33
+Physiological changes included lower skin and rectal temper-
+atures, increased output of sweat, decreased concentration of
+sodium in the sweat and a reduced temperature threshold for
+the onset of vasodilation and sweating.30,33Despite these adap-
+tations, the responses to heat were attenuated after repeated
+exposure to heat, relative to younger participants undergoing
+the same acclimation protocol.30,33 Whereas physical activity
+in the heat led to increased thirst, augmented fluid intake and
+CMA J• JULY 13, 2010 • 182(10)1054
+Box 1: Review methods
+We searched the following databases for the period January
+1924 to February 2009: Ovid Medline, AARP Ageline,
+AccessScience, Annual Reviews, Cochrane Library, Clinical
+Evidence, Proquest Dissertations & Theses Database, EMBASE,
+HealthSTAR, MEDLINE, Scopus, PASCAL and Scholars Portal.
+We also used the National Research Council of Canada’s
+National Science Library Catalogue and the Statistics Canada
+“Health in Canada” website to collect information. 
+We used the following key words for the search: diabetes,
+type 1 diabetes, type 2 diabetes, NIDDM, IDDM, heat illness,
+heat stroke, dehydration, thirst, heat exposure, mortality,
+morbidity, prevalence, thermoregulation, age, elderly,
+obesity, fatness, hypertension, cardiovascular disease, lung
+disease, COPD, high blood pressure, fitness, vulnerable, body
+heat storage, body temperature, core temperature, socio-
+economic status, income, heat wave, education. All searches
+were limited to humans. 
+We found no randomized trials evaluating interventions to
+reduce the risk of heat injury in vulnerable populations. We
+retained the following types of studies: laboratory-based
+physiology studies of thermoregulatory function, along with
+epidemiologic studies, case–control studies and ecological
+time-series studies showing the vulnerability of specific
+groups. We excluded case studies.
+
+Review
+greater plasma volume in young individuals, these adapta-
+tions may be attenuated in older individuals.21,22
+Obesity
+Fatal heatstroke occurs 3.5 times more frequently in adults with
+overweight and obesity than in individuals of average body
+weight.38 Whether this is due to impairments in thermoregula-
+tion remains essentially unknown, as very few studies have
+examined heat exposure in obese individuals. Nonetheless,
+some evidence indicates that both heat-sensing and heat- 
+dissipating abilities may be impaired in this population.
+Obese individuals may have lower thermal sensitivity to
+heat stimuli.39 The mechanism for this is thought to be related
+to underlying small-fibre neuropathies, which may in fact be
+CMA J• JULY 13, 2010 • 182(10) 1055
+Characteristic
+Hoffmann et al.18
+Schwarz et al.19
+Lorente et al.15
+Bretin et al.17
+Naughton et al.16
+Bretin et al.17
+Lorente et al.15
+Semenza et al.8
+Semenza et al.9
+Hoffmann et al.18
+Semenza et al.9
+Semenza et al.8
+Semenza et al.9
+Semenza et al.9
+Schwarz et al.19
+Lorente et al.15
+Lorente et al.15
+Semenza et al.9
+Lorente et al.15
+Fouillet et al.2
+Fouillet et al.2
+Fouillet et al.2
+Respiratory diseases
+Cardiovascular disease
+Type 2
+Type 1
+Diabetes
+Hypertension
+Obesity
+≥ 75
+35–74
+< 35
+RR 1.3 (1.3–1.4)
+RR 1.7 (1.6–1.8)
+OR 1.2 (0.7–2.2)†
+RR 1.24 (1.19–1.29)
+OR 1.2 (0.8–1.7)†
+OR 1.3 (0.8–2.3)†
+OR 1.17 (1.04–1.32)
+RR 1.22 (1.08–1.36)
+RR 1.33 (1.21–1.45)
+OR 2.3 (1.5–3.6)
+RR 1.23 (1.18–1.28)
+OR 7.17 (2.5–20.8)‡
+OR 3.19 (2.08–4.90)
+OR 1.1 (0.8–1.6)†
+RR 1.30*
+OR 2.2 (1.0–4.9)
+RR 1.13 (0.99–1.26)
+OR 1.48 (0.96–2.26)
+OR 1.6 (1.0–2.5)†
+OR 1.13 (1.00–1.26)
+RR 1.61*
+0.1 1 10 100
+RR 1.1 (1.0–1.2)
+Decreased risk Increased risk
+RR or OR (95% CI)
+Type not specified
+Age, yr
+OR or RR (95% CI)
+Figure 1:Relative risks (RRs) or odds ratios (ORs) for age and various health conditions. RRs compare hospital admission9 or mortality2,18
+during a heat wave with mortality (or hospital admission) observed during comparison dates without heat wave. ORs compare cases
+who died during a heat wave with controls in the same geographic area who did not die. Values greater than 1.0 indicate a greater risk
+of heat-related death or hospital admission. *95% confidence intervals (CIs) were not provided in this study. †Values were adjusted for
+sex and autonomy (ability to get out of bed, wash and use bathroom without help). ‡Values were adjusted for neighbourhood and age.
+
+Review
+common in people with obesity, even in the absence of clini-
+cal sensory impairment.39 It is unclear, however, if a reduction
+in thermal sensitivity is associated with a reduction in heat
+loss effector responses.
+A lower capacity for heat dissipation may be responsible
+for the greater frequency of heat-related injury and illness in
+this population.38 An obese person has a smaller ratio of body
+surface area to body mass for effective sweat evaporation than
+a leaner person of the same height, because the greater body
+mass is not proportional to any difference in the size of the
+interface for heat exchange with the environment. Further-
+more, excess body fat is a liability during exposure to hot envi-
+ronments. The specific heat capacity of adipose tissue is less
+than that of fat-free mass (2.97 kJ·g−1·°C−1 v. 3.64 kJ·g−1·°C−1),
+which means that a given amount of heat storage per unit body
+mass will cause a greater increase in average tissue tempera-
+ture in a person with higher body-fat mass. In addition, the
+thermal conductivity of fatty tissue is lower than that of other
+tissues in the body. The convective transfer of heat from the
+body core to the outer shell (the skin) via the circulation is the-
+oretically independent of body fat, since the peripheral blood
+vessels are located closer to the surface than the subcutaneous
+fat layers; however, levels of skin blood flow for given eleva-
+tions in core temperature have been shown to be lower in peo-
+ple with obesity than in those who are not obese.40 A greater
+gradient between core and skin temperature develops quickly
+in a person with obesity, which increases the drive for conduc-
+tive heat transfer from the body core. However, a thicker sub-
+cutaneous layer of adipose tissue restricts this conductive heat
+transfer and further escalates the risk of heat stress.
+The extra weight that obese individuals carry also increases
+the metabolic cost of weight-bearing activities, which elevates
+the rate of heat production. As shown by Bar-Or and col-
+leagues,6 people with obesity exhibit greater elevation in core
+temperature than lean individuals for the same absolute work-
+load. This response is independent of ambient temperature and
+occurs in parallel with elevated sweat rate and greater cardio-
+vascular strain.6 The reflex increase in skin blood flow in
+response to elevated core temperature may also be impaired in
+obese individuals.40
+Hypertension
+Hypertension is characterized by elevation of peripheral resis-
+tance and is accompanied by a variety of peripheral circulatory
+changes, including hypertrophy of the vascular smooth muscle41
+and vascular rarefaction.42 Each of these changes could lead to
+impairments in the control of blood flow in the skin43 and conse-
+quently weaken core temperature regulation. During exercise-
+induced heat stress, people with hypertension experience an ele-
+vated blood pressure response and possibly greater thermal
+strain than people with normotension.44 In earlier studies, 
+Kenney and collaborators44,45found that the increases in forearm
+blood flow during exercise-induced hyperthermia, which are
+primarily confined to the skin,46 were markedly reduced in peo-
+ple with hypertension relative to people with normotension.
+This effect could result in a reduction in heat transfer from the
+body core to the skin, which would increase the potential for
+heat illness. Whether exercise performed under hot ambient
+conditions exacerbates this effect remains unclear. It should be
+noted that the use of antihypertensive medications (diuretics,
+vasodilators, β-blockers) may significantly reduce heat tolerance
+when combined with exercise and warm ambient conditions.47,48
+The clinical impact of cardiovascular responses during
+heat exposure in people with hypertension is unknown. Some
+studies have suggested that thermoregulatory responses to
+passive heat exposure may in fact be unaltered in people with
+hypertension.49,50However, the heat exposure in those studies
+might not have been of sufficient intensity to capture the
+results of impaired heat loss responses.
+Diabetes mellitus
+Epidemiologic data indicate that individuals with diabetes
+have significantly higher rates of heat illness and death during
+heat waves than the general population, with excess in-patient
+admissions being 30% more numerous (95% confidence
+interval 4.6%–55.9%, p = 0.033; percentages calculated from
+raw data in published table) during recorded heat waves9 (Fig-
+ure 1). Diabetes is associated with several metabolic, cardio-
+vascular and neurologic dysfunctions, which may also play
+roles in impairing thermoregulatory mechanisms during heat
+exposure.
+In both type 1 diabetes51 and type 2 diabetes,51−53 the ability
+of the blood vessels in the skin to dilate may be impaired,
+which could decrease the amount of blood being brought to
+the skin’s surface to dissipate heat. When skin blood flow
+responses were compared in healthy people and people with
+type 1 and type 2 diabetes (age-matched, ranging from age 18
+to 71 years), vascular reactivity was decreased during 5 min-
+utes of heat exposure among those with diabetes.51 Another
+study showed that the internal temperature at which vasodila-
+tion took place during passive whole-body heat exposure was
+higher for people with type 2 diabetes than for healthy indi-
+viduals.53 The delayed onset of skin vasodilation was due to a
+delay in the active vasodilatory response, not to an increase in
+vasoconstrictor activity.
+Poor glucose control and the presence of neuropathy may
+affect sweating responses in individuals with type 2 dia-
+betes.54,55 Sweating response during passive heating was
+impaired in people with type 2 diabetes, especially in the dis-
+tal regions.54 In a separate study, the sweat rate was reduced,
+especially in the limbs, among people with type 2 diabetes,
+both at rest and during exercise in the heat.52 The lower sweat
+rate was thought to be associated with diabetes-related
+peripheral neuropathy and autonomic dysfunction. Sweating
+responses to pharmacologic stimuli are maintained in individ-
+uals with non-neuropathic diabetes but impaired in those with
+severe neuropathy.55 We found no studies that directly mea-
+sured the impact of these impairments on core temperature
+during physical exposure to heat or exercise.
+Vascular impairments in type 1 diabetes occur with
+increasing disease duration and greater degrees of hyper-
+glycemia.56,57 Using postocclusive hyperemia as a means of
+observing maximal blood flow, 2 groups of researchers found
+that participants with diabetes and poor glucose control (i.e.,
+average glycated hemoglobin > 7.5%) had poorer blood flow
+to the limbs than both nondiabetic controls and individuals
+CMA J• JULY 13, 2010 • 182(10)1056
+
+Review
+with diabetes who had good glucose control (i.e., average gly-
+cated hemoglobin < 7.5%).57,58 Similar results were obtained
+when local heat applied to the foot was used as a stimulus, the
+participants with diabetes (average glycated hemoglobin
+8.7%) having lower microvascular dilatation and lower result-
+ing skin blood flow than their nondiabetic counterparts.56
+Some of these responses may be altered in the presence of
+high insulin levels.59 Whether these decreases in local skin
+blood flow affect heat delivery to the skin surface and the
+resultant core temperature response is unknown.
+Sweat response can be altered in type 1 diabetes as a result
+of neuropathy. In a longitudinal study of patients with newly
+diagnosed type 1 diabetes, the sweat response to a pharmaco-
+logic stimulus (acetylcholine) was elevated in the early stages
+of the disease but decreased with increasing duration of the
+disease,55,60 which would potentially affect the body’s ability
+to maintain core temperature. Differing degrees of sweating
+impairment during whole-body heat exposure (44°C–50°C)
+have been found in people with type 1 diabetes, the loss of
+sweating response being related to the presence and severity
+of neuropathy.54 There is no direct evidence to indicate how
+these altered sweat responses affect changes in core tempera-
+ture during exposure to heat in this population.
+Apart from the major cardiovascular and thermoregulatory
+responses that take place during acute exercise and heat
+stress, a number of metabolic alterations associated with dia-
+betes may reduce heat tolerance and affect exercise perfor-
+mance in the heat. Early physiological studies suggested that
+insulin action in type 1 diabetes may be increased by expo-
+sure to high temperatures, increasing the risk of hypo-
+CMA J• JULY 13, 2010 • 182(10) 1057
+0.1 1 10 100 10 00
+RR or OR (95% CI)
+Social factor
+Semenza et al.8 OR 0.4 (0.2–0.6)
+Access to transportation
+Semenza et al.8
+Semenza et al.8
+Kaiser et al.76
+Naughton et al.16
+Bretin et al.17
+Naughton et al.16
+O’Neill et al.74
+O’Neill et al.74
+O’Neill et al.74
+O’Neill et al.74
+Naughton et al.16
+Naughton et al.16
+Semenza et al.8
+OR 0.71 (0.2–2.3)*
+OR 0.2 (0.2–0.4)
+OR 0.2 (0.1–0.7)*
+RR 1.04 (1.02–1.06)
+RR 1.09 (1.06–1.12)
+RR 1.01 (0.99–1.02)
+RR 1.05 (1.02–1.09)
+OR 3.1 (1.0–9.7)*
+OR 0.59 (0.39–0.88)
+OR 8.1 (1.4–48.1)*
+OR 7.6 (0.9–355)
+OR 2.3 (1.4–3.5)
+OR 0.7 (0.5–0.9)
+Working fan
+Air conditioning use
+Ethnic background
+Non-white
+Education
+≤ high school
+Low income
+Living alone
+Social contact (group activities)
+Schwartz et al.19 OR 1.22 (1.09–1.37)
+> high school
+White
+Decreased risk Increased risk
+OR or RR (95% CI)
+Figure 2:Relative risks (RRs) or odds ratios (ORs) for various social factors. RRs compare mortality during a heat wave with mortality
+during comparison dates without heat wave. ORs compare cases who died during a heat wave with controls in the same geographic
+area who did not die. Values greater than 1.0 indicate a greater risk of heat-related death. *Values were adjusted for neighbourhood
+and age. CI = confidence interval.
+
+Review
+glycemia.61,62 We found no studies on this topic examining
+patients treated with newer forms of insulin or newer insulin
+delivery systems (i.e., insulin pumps).
+Cardiovascular disease
+Cardiovascular disease encompasses heart and circulatory ail-
+ments, including coronary and valvular heart disease, chronic
+heart failure, cardiomyopathy, congenital heart defects, and
+cerebrovascular and peripheral vascular disease.63 Ecological
+time-series data from the 2003 European heat wave showed
+that mortality rates among people with cardiovascular disease
+were 30% greater during the heat wave than during compari-
+son periods18 (Figure 1). Individuals with pre-existing cardiac
+dysfunction have a reduced ability to increase their cardiac
+output sufficiently to maintain adequate skin blood flow when
+core temperature is elevated.64,65 If there is long-term exposure
+to an extreme heat event, stress on the heart and other organs
+can be exacerbated by dehydration as body core temperature
+increases.66 In healthy individuals, even relatively small
+decrements in hydration status (1% of body weight deficit)
+can impair the cardiovascular and thermoregulatory re -
+sponses.67 Although no studies have directly measured the
+effect of these impairments on core temperature regulation in
+individuals with cardiovascular disease, increases in blood
+viscosity (hemoconcentration) due to dehydration can impose
+a substantial burden on the cardiovascular system.64,66
+Heat-related inflammation and coagulation may have con-
+tributed to the near doubling of deaths due to cerebral and
+coronary thrombosis during a London heat wave.66 When
+healthy individuals were exposed to 6 hours of heat (ambient
+air temperature 41°C, relative humidity 15%–25%), blood
+viscosity increased by 24%, red blood cell count increased by
+9%, and platelet count rose by 18%. The authors speculated
+that in people with vascular disease, in whom vasodilation
+may be impaired and circulation reduced, such changes might
+explain the observed increase in thromboses. International
+experts agree that any factor compromising skin blood flow
+or normal cardiovascular function (such as a reduction in car-
+diac output) will augment the risk of heat-related injury and
+increase the need for careful monitoring.37
+Unfortunately, very few studies have examined the effects
+of heat exposure in this population. Those that have been per-
+formed have tended to include only participants with rela-
+tively mild cardiovascular disease and have therefore likely
+underestimated the magnitude of the effect in this vulnerable
+subgroup. Studies of passive heat exposure involving individ-
+uals with various cardiovascular impairments have found
+lower heart rates and lower systolic blood pressure than in
+healthy controls.68,69 Cutaneous vasodilation and overall skin
+blood flow were also impaired,70,71 but sweat rate was not
+affected.69,70 In none of these studies were participants
+required to discontinue use of medications for their conditions
+(e.g., acetylsalicylic acid, angiotensin-converting-enzyme
+inhibitors, lipid-lowering medication), which might have con-
+founded their responses to heat exposure.47,48
+Respiratory disease
+Epidemiologic data indicate that patients with respiratory dis-
+ease such as asthma, chronic obstructive pulmonary disease,
+lung cancer, influenza, pneumonia, bronchitis, tuberculosis
+and cystic fibrosis may be vulnerable to heat exposure8,9 (Fig-
+ure 1). A recent meta-analysis reported that individuals with
+pulmonary disorders are at a higher risk of death during heat
+waves (odds ratio 1.61, 95% confidence interval 1.2–2.1).72
+There is little evidence to elucidate whether this increase in
+mortality with heat exposure is due to the changes in air qual-
+ity that often accompany warmer conditions73 or to physiolog-
+ical failures in thermoregulation as a result of chronic condi-
+tions. In our literature search, we found no laboratory studies
+of thermoregulation in people with pulmonary disorders.
+Socio-economic considerations
+Ecological time-series and case–control studies of heat-
+related mortality have noted an unequal distribution of mor-
+bidity and mortality among various socio-economic
+groups.2,4,19,74,75A greater risk of mortality due to heat exposure
+has been associated with lower levels of education,74 lower
+income,16,75being of nonwhite origin4,19,74and social isolation8,16
+(Figure 2). Working home air conditioners,8,16 access to trans-
+portation8 and access to cool environments during prolonged
+heat events (e.g., shopping mall, library)8,16 have a substantial
+protective effect against heat-related deaths. Epidemiologic
+studies have suggested that air conditioning is associated with
+a relative risk reduction for heat-related illness of about 80%,
+and the presence of a working fan with a relative risk reduc-
+tion of about 30%.8,16
+Housing quality may be a factor affecting the uneven dis-
+tribution of morbidity and mortality during heat waves.75
+Those with lower income are more likely to live in crowded
+or poor-quality housing, where ventilation is inadequate and
+air conditioning nonexistent.75 Homeless people can be espe-
+cially prone to heat injury through lack of shelter from
+CMA J• JULY 13, 2010 • 182(10)1058
+Box 2: Suggestions for health care practitioners*
+• Watch for the following risk factors for heat-related
+illness: age > 60 yr, obesity, cardiovascular disease,
+pulmonary disease, long-standing diabetes mellitus,
+hypertension,† decreased mobility, homebound lifestyle,
+homelessness, severe mental illness, poverty.
+• Encourage the use of protective measures, including air
+conditioning, fans, cold showers, transportation to cooler
+environments and avoidance of strenuous activity in the
+heat.
+• Provide education for patients at risk and their caregivers
+regarding heat illnesses and their prevention.
+• Incorporate a presummer heat-related medical assessment
+into routine care plans for people with chronic diseases. 
+• During the session, provide advice about reducing heat
+exposure, ensuring adequate fluid intake, adjusting
+medication and other appropriate measures.37
+• Inform patients about heat response programs in the
+community. 
+*For more detailed guidelines, see the World Health Organization  publication
+Heat-health Action Plans,37 available online at  www.euro.who.int
+/globalchange /Topics/20080403_2 
+†The association with heat-related illness among patients with hypertension
+may be due to their antihypertensive medications.
+
+Review
+extreme heat or because of underlying chronic physical and
+psychiatric diseases.4,8,9,72
+Future research
+Studies of thermoregulatory function in vulnerable popula-
+tions have generally been limited to mild heat exposure or
+have involved low-risk patients. Very few studies have exam-
+ined physical exertion in the heat involving people with obe-
+sity or chronic diseases. There is no information on whether
+combinations of various factors (e.g., older age and a chronic
+disease) compound the risk of heat-related morbidity and
+mortality. It will be essential to discern whether impairment
+in thermoregulatory capacity exists in terms of the whole-
+body response and not simply in terms of local heat-loss
+responses (sweating or skin blood flow or both). New
+research should focus not only on filling these gaps in the sci-
+ence-based information but also on developing clinical guide-
+lines for health professionals, to facilitate the giving of advice
+to patients.
+Conclusion
+People with age over 60 years, obesity, hypertension, pul-
+monary or cardiovascular disease, or long-standing diabetes
+are at increased risk of heat-related illness — heat cramps,
+heat exhaustion and heatstroke — during prolonged heat
+events. Other contributing factors include homebound life -
+style, lack of contact with other people and decreased mobil-
+ity. This increased vulnerability is related to physiologic al
+impairments in the regulation of body core temperature in hot
+conditions. Physicians should be aware of these risk factors
+and of protective factors against heat illness, such as fans, air
+conditioners and access to cool environments, and should
+counsel at-risk patients accordingly (Box 2).
+This article has been peer reviewed.
+Competing interests:None declared.
+Contributors:Jane Yardley, Glen Kenny and Candice Brown were responsi-
+ble for selecting the search terms, performing the database searches and
+assessing study quality. All of the authors were involved in the drafting and
+revision of the article and approved the final version submitted for publication.
+Acknowledgements: This research was supported by Health Canada, 
+Climate Change and Health Office. Jane Yardley was supported by a Cana-
+dian Diabetes Association Doctoral Research Award and funds from the
+Ottawa Health Research Institute Research Chair in Lifestyle Research. Glen
+Kenny was supported by a University of Ottawa Research Chair Award.
+Ronald Sigal is supported by a Senior Health Scholar award from the Alberta
+Heritage Foundation for Medical Research
+REFERENCES
+1. United Nations Framework Convention on Climate Change.Report of the Con-
+ference of the Parties on its 11th session. Part One: Proceedings; 2005 Nov 28–
+Dec 10; Montréal (QC). Geneva: United Nations; 2006. 
+2. Fouillet A, Rey G, Laurent F, et al. Excess mortality related to the August 2003
+heat wave in France. Int Arch Occup Environ Health2006;80:16-24.
+3. Rey G, Jougla E, Fouillet A, et al. The impact of major heat waves on all-cause
+and cause-specific mortality in France from 1971 to 2003. Int Arch Occup Environ
+Health2007;80:615-26.
+4. Ellis FP. Mortality from heat illness and heat-aggravated illness in the United
+States. Environ Res1972;5:1-58.
+5. Belmin J, Auffray JC, Berbezier C, et al. Level of dependency: a simple marker asso-
+ciated with mortality during the 2003 heatwave among French dependent elderly
+people living in the community or in institutions. Age Ageing2007;36: 298-303.
+6. Bar-Or O, Lundegren HM, Buskirk ER. Heat tolerance of exercising obese and
+lean women. J Appl Physiol1969;26:403-9.
+7. Havenith G, Coenen JM, Kistemaker L, et al. Relevance of individual characteris-
+tics for human heat stress response is dependent on exercise intensity and climate
+type. Eur J Appl Physiol Occup Physiol1998;77:231-41.
+8. Semenza JC, Rubin CH, Falter KH, et al. Heat-related deaths during the July 1995
+heat wave in Chicago. N Engl J Med1996;335:84-90.
+9. Semenza JC, McCullough JE, Flanders WD, et al. Excess hospital admissions dur-
+ing the July 1995 heat wave in Chicago. Am J Prev Med1999;16:269-77.
+10. Ishigami A, Hajat S, Kovats RS, et al. An ecological time-series study of heat-
+related mortality in three European cities. Environ Health2008;7:5.
+11. Cooper JK. Preventing heat injury: military versus civilian perspective. Mil Med
+1997;162:55-8.
+12. Adelakun A, Schwartz E, Blais L. Occupational heat exposure. Appl Occup Envi-
+ron Hyg1999;14:153-4.
+13. Gagge A, Gonzalez R. Mechanisms of heat exchange: biophysics and physiology.
+In: Fregly M, Blatteis C, editors. Experimental physiology. Oxford (UK): Oxford
+University Press; 1996. p. 45-84. 
+14. Neilsen M. Die Regulation der Kopertemperatur bei Muskelerbeit. Skand Arch
+Physiol1938;79:193-230.
+15. Lorente C, Serazin C, Salines G et al. Étude des facteurs de risque de décès des per-
+sonnes âgées résidant en établissement durant la vague de chaleur d’août 2003.
+Paris and Saint-Maurice (France): Ministère de la Santé et des Sports, Direction de
+la researche des études de l’évaluation et des statistiques; Institut de veille sanitaire;
+2005. Available:  www.invs.sante.fr/publications/2005/canicule _etablissement
+/rapport.doc (accessed 2009 May 28). 
+16. Naughton MP, Henderson A, Mirabelli MC, et al. Heat-related mortality during a
+1999 heat wave in Chicago. Am J Prev Med2002;22:221-7.
+17. Bretin P, Vandentorren S, Zeghnoun A, et al. Étude des facteurs de risque de décès
+des personnes âgées résidant à domicile durant la vague de chaleur d’août 2003.
+Saint-Maurice (France): Institut de veille sanitaire; 2004. Available: www.invs
+.sante .fr /publications/2004/chaleur2003_170904/rapport_canicule.pdf (accessed
+2009 May 28).
+18. Hoffmann B, Hertel S, Boes T, et al. Increased cause-specific mortality associated
+with 2003 heat wave in Essen, Germany. J Toxicol Environ Health A2008;71: 759-65. 
+19. Schwartz J. Who is sensitive to extremes of temperature? A case-only analysis.
+Epidemiology2005;16:67-72.
+20. Dufour A, Candas V. Ageing and thermal responses during passive heat exposure:
+sweating and sensory aspects. Eur J Appl Physiol2007;100:19-26.
+21. Takamata A, Ito T, Yaegashi K, et al. Effect of an exercise-heat acclimation pro-
+gram on body fluid regulatory responses to dehydration in older men. Am J Physiol
+1999;277:R1041-50.
+22. Zappe DH, Bell GW, Swartzentruber H, et al. Age and regulation of fluid and elec-
+trolyte balance during repeated exercise sessions. Am J Physiol1996;270:R71-9.
+23. Phillips PA, Bretherton M, Johnston CI, et al. Reduced osmotic thirst in healthy
+elderly men. Am J Physiol1991;261:R166-71.
+24. Miescher E, Fortney SM. Responses to dehydration and rehydration during heat
+exposure in young and older men. Am J Physiol1989;257:R1050-6.
+25. Stachenfeld NS, DiPietro L, Nadel ER, et al. Mechanism of attenuated thirst in
+aging: role of central volume receptors. Am J Physiol1997;272:R148-57.
+26. Mack GW, Weseman CA, Langhans GW, et al. Body fluid balance in dehydrated
+healthy older men: thirst and renal osmoregulation. J Appl Physiol1994; 76: 1615-23.
+27. Inbar O, Morris N, Epstein Y, et al. Comparison of thermoregulatory responses to
+exercise in dry heat among prepubertal boys, young adults and older males. Exp
+Physiol2004;89:691-700.
+28. Kenney WL, Fowler SR. Methylcholine-activated eccrine sweat gland density and
+output as a function of age. J Appl Physiol1988;65:1082-6.
+29. Hellon RF, Lind AR. Observations on the activity of sweat glands with special ref-
+erence to the influence of ageing. J Physiol1956;133:132-44.
+30. Armstrong CG, Kenney WL. Effects of age and acclimation on responses to pas-
+sive heat exposure. J Appl Physiol1993;75:2162-7.
+31. Kenney WL, Morgan AL, Farquhar WB, et al. Decreased active vasodilator sensi-
+tivity in aged skin. Am J Physiol1997;272:H1609-14.
+32. Minson CT, Wladkowski SL, Cardell AF, et al. Age alters the cardiovascular
+response to direct passive heating. J Appl Physiol1998;84:1323-32.
+33. Inoue Y, Havenith G, Kenney WL, et al. Exercise- and methylcholine-induced
+sweating responses in older and younger men: effect of heat acclimation and aero-
+bic fitness. Int J Biometeorol1999;42:210-6.
+34. Inoue Y, Shibasaki M, Hirata K, et al. Relationship between skin blood flow and
+sweating rate, and age related regional differences. Eur J Appl Physiol Occup Phy-
+siol1998;79:17-23.
+35. Petrofsky JS, Lohman E 3rd, Suh HJ, et al. The effect of aging on conductive heat
+exchange in the skin at two environmental temperatures. Med Sci Monit2006; 12:
+CR400-8.
+36. Kenny GP, Yardley JE, Martineau L, et al. Physical work capacity in older adults:
+implications for the aging worker. Am J Ind Med2008;51:610-25.
+37. Matthies F, Bickler G, Cardeñosa Marín N, et al., editors.Heat-health action plans
+— guidance (2008). Copenhagen (Denmark): World Health Organization Regional
+Office for Europe; 2008. Available:  www.euro.who.int/globalchange /Topics
+/20080403_2 (accessed 2009 May 28).
+38. Henschel A. Obesity as an occupational hazard. Can J Public Health1967;58: 491-3.
+39. Herman RM, Brower JB, Stoddard DG, et al. Prevalence of somatic small fiber
+neuropathy in obesity. Int J Obes (Lond)2007;31:226-35. 
+CMA J• JULY 13, 2010 • 182(10) 1059
+
+Review
+40. Vroman NB, Buskirk ER, Hodgson JL. Cardiac output and skin blood flow in lean
+and obese individuals during exercise in the heat. J Appl Physiol1983;55:69-74.
+41. Folkow B. Physiological aspects of primary hypertension. Physiol Rev1982; 62:
+347-504.
+42. Greene AS, Tonellato PJ, Lui J, et al. Microvascular rarefaction and tissue vascular
+resistance in hypertension. Am J Physiol1989;256:H126-31.
+43. Carberry PA, Shepherd AM, Johnson JM. Resting and maximal forearm skin
+blood flows are reduced in hypertension. Hypertension1992;20:349-55.
+44. Kenney WL, Kamon E, Buskirk ER. Effect of mild essential hypertension on control
+of forearm blood flow during exercise in the heat. J Appl Physiol1984;56:930-5.
+45. Kenney WL, Kamon E. Comparative physiological responses of normotensive and
+essentially hypertensive men to exercise in the heat. Eur J Appl Physiol Occup
+Physiol1984;52:196-201.
+46. Johnson JM, Rowell LB. Forearm skin and muscle vascular responses to pro-
+longed leg exercise in man. J Appl Physiol1975;39:920-4.
+47. Lomax P, Schonbaum E. The effects of drugs on thermoregulation during exposure
+to hot environments. Prog Brain Res1998;115:193-204.
+48. Cheshire WP, Fealey RD. Drug-induced hyperhidrosis and hypohidrosis: inci-
+dence, prevention and management. Drug Saf2008;31:109-26.
+49. Drummond PD. Thermoregulatory response to passive body heating in borderline
+hypertension. Clin Auton Res1993;3:233-8.
+50. Kellogg DL Jr, Morris SR, Rodriguez SB, et al. Thermoregulatory reflexes and
+cutaneous active vasodilation during heat stress in hypertensive humans. J Appl
+Physiol1998;85:175-80.
+51. Stansberry KB, Hill MA, Shapiro SA, et al. Impairment of peripheral blood flow
+responses in diabetes resembles an enhanced aging effect. Diabetes Care1997;
+20:1711-6.
+52. Petrofsky JS, Lee S, Patterson C, et al. Sweat production during global heating and
+during isometric exercise in people with diabetes. Med Sci Monit2005;11:CR515-21.
+53. Wick DE, Roberts SK, Basu A, et al. Delayed threshold for active cutaneous vasodi-
+lation in patients with type 2 diabetes mellitus. J Appl Physiol2006; 100:637-41.
+54. Fealey RD, Low PA, Thomas JE. Thermoregulatory sweating abnormalities in dia-
+betes mellitus. Mayo Clin Proc1989;64:617-28.
+55. Kihara M, Opfer-Gehrking TL, Low PA. Comparison of directly stimulated with
+axon-reflex-mediated sudomotor responses in human subjects and in patients with
+diabetes. Muscle Nerve1993;16:655-60.
+56. Khan F, Elhadd TA, Greene SA, et al. Impaired skin microvascular function in
+children, adolescents, and young adults with type 1 diabetes. Diabetes Care2000;
+23:215-20.
+57. Meyer MF, Schatz H. Influence of metabolic control and duration of disease on
+microvascular dysfunction in diabetes assessed by laser Doppler anemometry. Exp
+Clin Endocrinol Diabetes1998;106:395-403.
+58. Golster H, Hyllienmark L, Ledin T, et al. Impaired microvascular function related
+to poor metabolic control in young patients with diabetes. Clin Physiol Funct
+Imaging2005;25:100-5.
+59. Bonadonna RC, Saccomani MP, Del Prato S, et al. Role of tissue-specific blood
+flow and tissue recruitment in insulin-mediated glucose uptake of human skeletal
+muscle. Circulation1998;98:234-41.
+60. Hoeldtke RD, Bryner KD, Horvath GG, et al. Redistribution of sudomotor
+responses is an early sign of sympathetic dysfunction in type 1 diabetes. Diabetes
+2001;50:436-43.
+61. Ronnemaa T, Koivisto VA. Combined effect of exercise and ambient temperature
+on insulin absorption and postprandial glycemia in type I patients. Diabetes Care
+1988;11:769-73.
+62. Koivisto VA, Fortney S, Hendler R, et al. A rise in ambient temperature augments
+insulin absorption in diabetic patients. Metabolism1981;30:402-5.
+63. Brooks GA, Fahey TD, Baldwin KM. Cardiovascular diseases and exercise. In:
+Exercise physiology: human bioenergetics and its applications. 4th ed. New York
+(NY): McGraw-Hill; 2005. p. 574-614.
+64. Bouchama A, Knochel JP. Heat stroke. N Engl J Med2002;346:1978-88.
+65. Knochel JP, Reed G. Disorders of heat regulation. In: Narins RG, editor. Maxwell
+& Kleeman’s clinical disorders of fluid and electrolyte metabolism. 5th ed. New
+York (NY): McGraw-Hill; 1994. p. 1549-990.
+66. Keatinge WR, Coleshaw SR, Easton JC, et al. Increased platelet and red cell
+counts, blood viscosity, and plasma cholesterol levels during heat stress, and mor-
+tality from coronary and cerebral thrombosis. Am J Med 1986;81:795-800.
+67. Sawka MN, Montain SJ. Fluid and electrolyte supplementation for exercise heat
+stress. Am J Clin Nutr2000;72(Suppl 2):564S-72S.
+68. Andersen I, Jensen PL, Junker P, et al. The effects of moderate heat stress on
+patients with ischemic heart disease. Scand J Work Environ Health1976;2:256-68.
+69. Walsh J, Prpic R, Goodman C, et al. Thermoregulatory responses in post-coronary
+artery bypass surgery and healthy males during moderate exercise in warm and
+cool environments. J Cardiopulm Rehabil2002;22:31-7.
+70. Cui J, Arbab-Zadeh A, Prasad A, et al. Effects of heat stress on thermoregulatory
+responses in congestive heart failure patients. Circulation2005;112:2286-92.
+71. Green DJ, Maiorana AJ, Siong JH, et al. Impaired skin blood flow response to
+environmental heating in chronic heart failure. Eur Heart J2006;27:338-43.
+72. Bouchama A, Dehbi M, Mohamed G, et al. Prognostic factors in heat wave related
+deaths: a meta-analysis. Arch Intern Med2007;167:2170-6.
+73. Bélanger D, Berry P, Bouchet V, et al. In: Séguin J, editor. Human health in a
+changing climate: a Canadian assessment of vulnerabilities and adaptive capacity.
+Ottawa (ON): Health Canada; 2008. Available:  www.sindark.com/NonBlog
+/Articles /hc-cc-report/CCandHealth.pdf (accessed 2009 May 28).
+74. O’Neill MS, Zanobetti A, Schwartz J. Modifiers of the temperature and mortality
+association in seven US cities. Am J Epidemiol2003;157:1074-82.
+75. Schuman SH. Patterns of urban heat-wave deaths and implications for pre-
+vention: data from New York and St. Louis during July, 1966. Environ Res
+1972; 5:59-75.
+76. Kaiser R, Rubin CH, Henderson AK, et al. Heat-related death and mental illness
+during the 1999 Cincinnati heat wave. Am J Forensic Med Pathol2001;22:303-7.
+Correspondence to:Dr. Glen P. Kenny, School of Human
+Kinetics, University of Ottawa, Montpetit Hall, 125 University
+Ave., Ottawa ON  K1N 6N5; fax 613 562-5497;
+gkenny@uottawa.ca
+CMA J• JULY 13, 2010 • 182(10)1060
+Illustrations ©Sophie Casson Illustrations are not necessarily anatomically correct
+celebrates
+
+in 2011!
+Visit www.cmaj.ca 
+We want to hear from you. Tell us how CMAJ affected
+your practice or your life, recollect coincidences,
+ controversies or quirky content...
+Send to 100years@cmaj.ca or Carole Corkery, 
+CMAJ, 1867 Alta Vista Dr., Ottawa ON K1G 5W8
+      
+

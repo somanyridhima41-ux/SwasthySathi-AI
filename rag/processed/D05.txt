@@ -1,0 +1,2160 @@
+Review article
+Mortality and morbidity risks associated with floods: A systematic review 
+and meta-analysis☆
+Zhengyu Yang , Wenzhong Huang , Joanne E. McKenzie , Pei Yu , Ke Ju , Yao Wu , Bo Wen ,  
+Yuming Guo , Shanshan Li *
+School of Public Health and Preventive Medicine, Monash University, Melbourne, 3004, VIC, Australia
+ARTICLE INFO
+Keywords:
+Flood
+Disaster
+Human health
+Risk assessment
+Systematic review
+ABSTRACT
+Background: Flood disasters are projected to increase in severity, duration, and frequency in the context of 
+climate change, and the risks of mortality and morbidity may increase after floods, which will overwhelm health 
+systems.
+Objective: This study aims to synthesize current epidemiological evidence about the impacts of floods on mor-
+tality and morbidity.
+Method: After performing a systematic literature search from 2000 to 2023, we included studies involving human 
+participants, with exposures of floods, and with outcomes of mortality or morbidity.
+Results: In total, 37 studies were included in evidence syntheses. Meta-analyses yielded an overall relative risk of 
+1.26 (95% confidence interval [CI]: 1.10, 1.46), 1.10 (1.08, 1.13), 1.11 (1.04, 1.20), and 1.38 (1.18, 1.62) for all- 
+cause mortality and morbidities of overall gastrointestinal diseases, diarrhea diseases, and dysentery, respec-
+tively. Although meta-analyses were not conducted, evidence from at least three studies consistently supported 
+that exposure to floods was associated with increased risks of malaria and respiratory diseases. The evidence for 
+other outcomes was reported but either limited or uncertain.
+Conclusion: This study suggests that exposure to floods is associated with increased risks of all-cause mortality 
+and morbidities of overall gastrointestinal diseases, diarrhea diseases, dysentery, malaria, and respiratory dis-
+eases, while further research is urgently called.
+1. Introduction
+As the most frequent natural disaster worldwide, floods have dra-
+matic and extensive adverse impacts on the environment, economy, and 
+human health (Hu et al., 2018a). The number of people affected by 
+floods has been increasing in the past four decades (Hu et al., 2018a). As 
+estimated, there are 1.81 billion people (23% of the world’s population) 
+directly exposed to 1-in-100-year flood disasters (Rentschler et al., 
+2022). In the context of climate change, flood disasters are projected to 
+increase in severity, duration, and frequency due to more frequent 
+extreme precipitation events and rising sea levels (Tellman et al., 2021).
+Commonly, official records of health burden arising from floods have 
+only considered deaths caused by the direct physical forces (e.g., 
+drowning) or hazards (e.g., electrocution and hypothermia) of floods 
+(Yan et al., 2020; Lindersson et al., 2023). However, these assessments 
+have not considered the substantial number of deaths and diseases 
+resulting from non-accidental causes. For example, non-accidental 
+deaths and diseases may result from contamination of food and drink-
+ing water, exposure to pathogens (i.e., fungi, bacteria, and viruses), 
+impaired access to health services, and displacement (Alderman et al., 
+2012; Dosa et al., 2020; Paterson et al., 2018). This suggests that the 
+health impacts of floods are under-studied. Comprehensively under-
+standing the impact of floods on mortality and morbidity is important 
+for improving policies, including disaster response strategies and health 
+system adaptation.
+Of the studies that have examined the relationship between flood 
+exposure with mortality and morbidity, the key gaps identified include 
+the following (Zhong et al., 2018). First, most of the original studies 
+focused on mental disorders, and the findings for other outcomes were 
+mixed (Zhong et al., 2018). To our knowledge, no systematic review nor 
+☆ All authors have no conflicts of interest to disclose.
+* Corresponding author.
+E-mail address: shanshan.li@monash.edu (S. Li). 
+Contents lists available at ScienceDirect
+Environmental Research
+journal homepage: www.elsevier.com/locate/envres
+https://doi.org/10.1016/j.envres.2024.120263
+Received 5 August 2024; Received in revised form 22 October 2024; Accepted 28 October 2024  
+Environmental Research 263 (2024) 120263 
+Available online 29 October 2024 
+0013-9351/© 2024 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ). 
+
+meta-analysis was conducted for the association of flood exposure with 
+mortality and morbidity other than mental disorders. There were two 
+mapping reviews on this association, which primarily described the 
+research pattern and landscape in the field through systematic literature 
+searches but without findings synthesis and study quality assessment 
+(Alderman et al., 2012; Zhong et al., 2018). In addition, one of them only 
+included studies published during 2004–2011 (Alderman et al., 2012), 
+while the other one did not consider short-term health impacts (i.e., <6 
+months), but included studies published over a more recent and broader 
+time period (i.e., before 2016) (Zhong et al., 2018). Therefore, we aimed 
+to undertake a systematic review with meta-analyses to address the 
+gaps. Specifically, to examine the impacts of floods on mortality and 
+morbidity.
+2. Methods
+This systematic review was reported in accordance with the PRISMA 
+statement and was registered on PROSPERO (CRD4202339981). (Page 
+et al., 2021).
+2.1. Eligibility criteria
+For this systematic review, studies were eligible if they were studies 
+including humans, with exposures included floods, and with outcomes 
+included mortality or morbidity. We excluded studies that only included 
+life quality, external cause of deaths (e.g., injury and suicide), symptoms 
+(e.g., cough, runny nose, rash, sore throat), or psychological health (e.g., 
+post-traumatic stress disorder) as outcomes; and studies focusing on 
+disasters that may lead to floods (e.g., hurricanes and earthquakes). We 
+excluded studies based on the type of report including reviews, meta- 
+analyses, descriptive studies, response letters, and conference ab-
+stracts. Studies in all languages were considered for inclusion. We only 
+included eligible studies published from 2000 January 1st to 2023 
+March 10th. When studies with the same outcomes, same flood events, 
+and similar time frames had overlapping populations, only the study 
+with the largest population was included.
+2.2. Search strategy
+OVID Medline, EMBASE, and Scopus were searched to identify 
+eligible studies. We did not filter the searches by language. The search 
+strategy consisted of search keyword searches and corresponding sub-
+ject headings (if available) for flood and mortality or morbidity. The 
+search strategies are available in Section 1 of Appendix. The references 
+cited in relevant reviews identified in the literature search and publi-
+cations linked to conference abstracts were also examined. Authors were 
+contacted for additional information.
+2.3. Screening and selection
+Two researchers (ZY and WH) independently screened the titles and 
+abstracts of records identified through the literature search using the 
+PICO Portal (https://www.picoportal.org/). Only records that were 
+excluded by both researchers were excluded at this stage. Full-text of 
+potentially eligible studies were retrieved, and screened independently 
+by two researchers (ZY and WH). Disagreements on eligibility were 
+resolved by consulting a senior researcher (PY).
+2.4. Data extraction
+Data extraction was initially piloted by three researchers (ZY, WH, 
+and PY) on a sample of four studies to ensure consistency of data 
+extraction and to modify the data extraction where required. Following 
+piloting, two researchers (ZY and WH) independently performed the 
+data extraction. From each study, we extracted author names, publica-
+tion year, outcomes, outcome ascertainment method, exposure 
+assessment method, control group, source of the study population, flood 
+events, study type, time frame of impacts (e.g., infectious morbidity was 
+assumed to change during 0–14 days post exposure to flood), statistical 
+analysis methods (e.g., adjustment for lag and covariates), effect esti-
+mates (and their confidence intervals). In studies where effects were 
+reported for multiple time frames (e.g., 0–7 days and 0–14 days post 
+flood exposure), the estimate of the longest time frame (i.e., 0–14 days) 
+was extracted. Discrepancies and uncertainty were resolved in regular 
+meetings of the three researchers (ZY, WH, and PY).
+2.5. Assessment of risk of bias
+Two researchers (ZY and WH) independently assessed the risk of bias 
+(RoB) of each study using the National Institutes of Environmental 
+Health Sciences National Toxicology Program Office of Health Assess-
+ment and Translation (OHAT) tool (Rooney et al., 2014). As recom-
+mended by developers of the OHAT tool, we tailored all criteria for our 
+topic (see Table S1). Using these criteria, key domains (i.e., exposure 
+assessment, outcome assessment, and confounding bias) and other do-
+mains (selection bias, attrition/exclusion bias, and other sources of bias) 
+were judged as being at a definitely low, probably low, probably high, or 
+definitely high RoB. Studies were judged to be at a “definitely high RoB” 
+when they had at least one key domain with definitely high RoB and at 
+least four domains with a “probably high” or “definitely high” RoB. 
+Studies judged to have a “definitely high” RoB were excluded from any 
+synthesis (qualitative or quantitative). Discrepancies and uncertainty 
+were resolved in regular meetings of the three researchers (ZY, WH, and 
+PY).
+2.6. Data syntheses
+To determine whether a conclusion can be reached regarding the 
+association of flood exposure with mortality and morbidity (Russo, 
+2007), inverse variance-weighted random-effects meta-analysis was 
+used to combine relative risk (RR) estimates when three or more RRs 
+with comparable time frames were available for a particular outcome 
+(Wilker et al., 2023). We combined RR estimates based on two time 
+frames, namely, <6 months and ≥6 months (Zhong et al., 2018). Esti-
+mates representing a single day (e.g. 11th day post exposure to the 
+flood) or not measured by RRs were not included in the meta-analysis, 
+but are reported. Odds ratios approximate RRs for rare outcomes (i.e. 
+with event rates <10%) and so were treated as RRs and included in the 
+meta-analyses in this circumstance (Sedgwick, 2014; Grimes and Schulz, 
+2008). We chose the random-effects model because we expected there 
+would be diversity in population, setting and study design across studies 
+(Borenstein et al., 2010). We used the restricted maximum likelihood 
+estimator for between study variability and the Knapp-Hartung method 
+for confidence intervals (Wilker et al., 2023; Borenstein et al., 2010). We 
+quantified inconsistency using the I2 statistic and formally tested for 
+heterogeneity using Cochran’s Q test. We used forest plots to visually 
+display the effect estimates from studies included in meta-analyses and 
+for those not included in a meta-analysis (i.e., when there fewer than 
+three estimates for a particular outcome and timeframe). We undertook 
+post-hoc sensitivity analyses to examine the impact on the meta-analysis 
+estimates of excluding studies with at least three domains with proba-
+bly/definitely high RoB and by using fixed-effect models.
+3. Results
+3.1. Studies characteristics
+Of the initially identified 5871 records, 1914 were duplicates, and 
+3859 were excluded at the title/abstract screening stage (Fig. 1). From 
+the 98 full-text articles retrieved, 50 studies met the inclusion criteria 
+(Table S2); however, 13 were judged to be at a definitely high RoB, and 
+were excluded from the qualitative and quantitative syntheses 
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+2 
+
+(Table S2). Consequently, a total of 37 studies were synthesized (Fig. 1). 
+These studies represented 17 countries/territories in eight sub-regions. 
+Most (26/37) studies were conducted in Asia. More than half (20/37) 
+of the studies only covered flood events within one year (Fig. 2B). 
+Almost all studies were restricted to the impacts within one state/ 
+province (Table 1), except for five estimating the impacts of flood events 
+across Ireland (Boudou et al., 2021), mainland China (Guo et al., 2020), 
+Thailand (Suwanpakdee et al., 2015), Vietnam (Phung et al., 2021), and 
+the United Kingdom (Milojevic et al., 2011), respectively. Time-series 
+study was the most widely used study design (Fig. 2C).
+3.1.1. Outcome ascertainments
+A variety of morbidities were assessed as well as all-cause, cardio-
+vascular (CVD), and respiratory mortality. Except for two studies 
+ascertaining outcomes with standardized tools (Rodriguez-Llanes et al., 
+2011, 2016), and three through self-report (Mulder et al., 2019; Milo-
+jevic et al., 2012; Pradhan et al., 2007), almost all (32/37) studies were 
+based on administrative datasets (Table 1). Among the studies 
+employing an administrative dataset, some (9/32) only covered a part of 
+the general population because the datasets were from a simple source 
+(e.g., datasets of hospital visits, emergency visits, or admissions); how-
+ever, most (23/32) were based on a comprehensive source (e.g., diseases 
+surveillance network, whole-population insurance database, or mortal-
+ity registration) and so comprehensively captured the incidences of 
+outcomes in the general population.
+3.1.2. Exposure assessments
+The exposure assessment method varied importantly across studies 
+(Table 1). Almost all studies defined the exposed population as those 
+residing in flooded areas during flooded periods. On the temporal scale, 
+exposure to floods was defined as days, weeks, months, seasons, years, 
+or pregnancy periods, with the flood events based on disaster records 
+(Table 1). Using disaster records or interviews, exposure to floods was 
+defined on a spatial scale as individuals residing in households 
+(Milojevic et al., 2012; Miyamori et al., 2023; Yoshida et al., 2021; 
+Vollaard et al., 2004), communities/village/district/town (Boudou 
+et al., 2021; Suwanpakdee et al., 2015; Milojevic et al., 2011; Rodri-
+guez-Llanes et al., 2011, 2016; Pradhan et al., 2007; Chen et al., 2021a; 
+Elsanousi et al., 2018; Vanasse et al., 2016; Deng et al., 2022), cities 
+(Yan et al., 2020; Hetherington et al., 2021; Liu et al., 2016, 2019, 2020; 
+Zhang et al., 2016a, 2016b, 2019; Hu et al., 2018b; Huang et al., 2016; 
+Wade et al., 2014; Ni et al., 2014; Lan et al., 2022), or provinces with 
+flood events (Guo et al., 2020; Phung et al., 2021; Ma et al., 2021; Liu 
+et al., 2017; Gao et al., 2016; Tong et al., 2011). The data used for these 
+assessments were from sources including official records, insurance 
+certifications, and surveys/interviews. Almost all studies in mainland 
+China determined flooded areas and periods by referring to the records 
+provided by Yearbooks of Meteorological Disasters, where flood periods 
+were defined as days with cumulative rainfall of >80 mm for three 
+consecutive days (Ma et al., 2021). Studies in Japan defined flooded 
+households as those destroyed or whose primary family caregiver was 
+seriously injured or lost jobs due to flood events, which were certified by 
+a government-run insurance system (Miyamori et al., 2023; Yoshida 
+et al., 2021). A study in Canada ascertained flooded areas using water 
+level data from governmental hydraulic records (Vanasse et al., 2016). 
+Flooded households were identified through interviews in three studies 
+(Mulder et al., 2019; Milojevic et al., 2012; Vollaard et al., 2004). Some 
+studies used a distinctive definition of flood exposure. A study in Uganda 
+defined flooded villages as those containing or were along flooding 
+rivers (Boyce et al., 2016); a study in the USA defined exposure group as 
+the population residing in postcode areas where at least one-third of the 
+area was flooded (Quist et al., 2022); a study in Cambodia quantified 
+exposure as square kilometers of floods in the district of residence 
+(Saulnier et al., 2018).
+3.1.3. Risk of bias
+We judged exposure assessment and confounding as the main risks of 
+bias (Table S2), with 13 and 18 included studies judged as at a probably 
+or definitely high RoB for these domains respectively. Potential bias in 
+the exposure assessments arose from the time frames used (weeks/ 
+months/seasons/years), which could have resulted in misclassifying the 
+periods before flood events as exposed periods. Potential bias from 
+confounding arose from inadequate control of confounders in the 
+analysis.
+3.2. Associations with mortality
+Three studies investigated the risk of all-cause mortality (i.e., deaths 
+from all causes) related to floods in the <6 month time interval (Fig. 3). 
+(Yan et al., 2020; Milojevic et al., 2012; Pradhan et al., 2007) The 
+meta-analysis of the three studies yielded an overall RR of 1.26 (1.10, 
+1.46), where the time frames of the estimates varied from four days to 24 
+weeks, with some inconsistency (I2 = 30%, p-value of test for hetero-
+geneity = 0.24). Only one study in the UK examined the effect of flood in 
+the ≥6 month time interval, finding that the risk of all-cause mortality 
+decreased in one year (RR 0.90 [0.82, 0.99]) (Milojevic et al., 2011). For 
+specific mortality outcomes (Fig. 4), the risk of CVD mortality was found 
+to increase during 0–4 days post floods (Yan et al., 2020). However, no 
+significant association was found for respiratory mortality (Yan et al., 
+2020).
+3.3. Associations with morbidity
+The non-external hospitalization risk was found increased (RR 1.07 
+[1.03, 1.10]) during the four weeks post floods in Vietnam (Phung et al., 
+2021). Another study focused on the impacts of a flood event in Japan 
+(2018) on population aged >45 years. The authors observed that the risk 
+of nursing home admission was three times higher among those affected 
+by floods compared with those not affected by floods (Fig. 4). (Miyamori 
+et al., 2023) This finding suggested that older people might be more 
+vulnerable to the health impacts of floods.
+3.3.1. Gastrointestinal diseases
+Sixteen studies estimated the impacts of floods on the risks of 
+gastrointestinal diseases. In addition to overall gastrointestinal diseases, 
+Fig. 1. PRISMA flow diagram of identifying eligible studies. Abbreviation: RoB 
+= risk of bias.
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+3 
+
+the studies examined dysentery, diarrhea, acute gastroenteritis, ver-
+otoxigenic E. coli (VTEC) enteritis, and cryptosporidiosis (Figs. 3–4).
+Three studies estimated the risk of overall gastrointestinal diseases in 
+the <6 month time interval (specifically within three weeks) following 
+two flood events in 2016 and 2018 in the USA (Quist et al., 2022), 129 
+events during 2002–2008 in the USA (Wade et al., 2014), and 240 events 
+during 1998–2008 in Taiwan (Huang et al., 2016), respectively. The 
+meta-analysis yielded an overall RR of 1.10 (1.08, 1.13), with consistent 
+RRs (I2 = 0%, p-value of test for heterogeneity = 0.55).
+Four studies estimated the impact on diarrhea diseases incidence in 
+the <6 month time interval (Milojevic et al., 2012; Liu et al., 2019; Lan 
+et al., 2022). The meta-analysis of the effect estimates yielded an overall 
+RR of 1.11 (1.04, 1.20), with no evidence of between-study heteroge-
+neity (I2 = 0%, p-value of test for heterogeneity = 0.47). Among the 
+studies not included in the meta-analysis, the study in Cambodia re-
+ported that the risk of diarrhea increased in the current month and third 
+month post flood periods (Saulnier et al., 2018), and the study in China 
+showed that the risk increased on 11th days post the flood event in 2007 
+(Gao et al., 2016). Only a study in China estimated the effect of flood in 
+the ≥6 month time interval and found that the risk of diarrhea increased 
+after a flood event in 2016 (Zhang et al., 2019).
+Seven studies estimated the effects on dysentery in the <6 month 
+time interval (Liu et al., 2016, 2017, 2019; Zhang et al., 2016b; Ni et al., 
+2014; Ma et al., 2021; Gao et al., 2016). Nine effect estimates were 
+extracted because two study provided effect estimates for two locations 
+and two flood events, respectively (Liu et al., 2016, 2017). The 
+meta-analysis yielded an overall RR of 1.38 (1.18, 1.62). Large 
+between-study heterogeneity was observed (I2 = 87%, p-value <0.01); 
+however, all the RRs indicated flood events were associated with an 
+increased risk of dysentery.
+Only one study investigated the impact on acute gastroenteritis risk 
+(Mulder et al., 2019). This study found an increased risk of acute 
+gastroenteritis (RR 4.20 [2.10, 8.40]) two weeks post a flood event in the 
+Netherlands. On the other hand, the risks of enteritis caused by VTEC 
+(RR 1.35 [1.25, 1.46]) and cryptosporidiosis (RR 1.57 [1.27, 1.48]) were 
+found to increase a year post a flood event in 2015 summer in Ireland 
+(Boudou et al., 2021).
+3.3.2. Infectious diseases
+Ten studies (Fig. 4) investigated the impacts on the risks of infectious 
+diseases. Studies found the hospitalization risk of infectious diseases 
+increased (RR 1.15 [1.03, 1.29]) during 0–4 weeks post floods in Viet-
+nam (Phung et al., 2021), and the hospitalization risk of 
+food/water-borne infectious diseases increased during 0–14 days post 
+floods (Deng et al., 2022).
+The impacts on the risks of typhoid and paratyphoid in <6 month 
+Fig. 2. Numbers of studies by country/territory and sub-region according to the United Nations geoscheme (A), by length of study period (B), and by study design 
+(C). Cross-sectional studies were not included in the summary of length of study period.
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+4 
+
+Table 1 
+Characteristics of included studies.
+Study Flood events 
+and locations
+Study design Study 
+population
+Case number and 
+sample size
+Exposure 
+Assessment
+Control 
+group
+Outcomes Outcome 
+assessment
+1 Miyamori et al. 
+(2023) (Miyamori 
+et al., 2023)
+Flood from 
+2018 to 06 to 
+2018–07 in 3 
+prefectures in 
+Japan
+Cohort Almost >65 
+years old 
+(98%)
+6423 cases from 
+187861 
+participants
+Care insurance 
+users whose 
+homes were 
+destroyed or 
+primary family 
+caregiver 
+seriously injured 
+or lost job
+Individuals in 
+non-impacted 
+household
+Nursing home 
+admissions
+Administrative 
+dataset: simple 
+source
+2 Quist et al. (2022)
+(Quist et al., 
+2022)
+Floods caused 
+by Hurricanes 
+Matthew and 
+Florence in 
+2016 and 2018 
+in North 
+Carolina
+Quasi- 
+experimental
+General 
+population
+868691 cases from 
+all local 
+population
+Exposed area: a 
+ZIP code with at 
+least one third 
+area flooded 
+based on flood 
+extent data from 
+the NC 
+Department of 
+Public Safety; 
+exposure period: 
+3 weeks from 
+the day of 
+hurricane 
+landfall
+ZIP code with 
+less than one 
+third area 
+flooded
+Acute 
+gastrointestinal
+Administrative 
+dataset: 
+comprehensive 
+source
+3 Lan et al. (2022) (
+Lan et al., 2022)
+Floods in 
+2017–2019 in 
+Sichuan, China
+Time-series General 
+population
+124602 cases from 
+all local 
+population
+The ten-day 
+periods with 
+flooding events 
+were defined as 
+exposed periods 
+according to the 
+Yearbooks of 
+Meteorological 
+Disasters in 
+China
+Days without 
+floods
+Diarrheal Administrative 
+dataset: 
+comprehensive 
+source
+4 Deng et al. (2022)
+(Deng et al., 
+2022)
+Floods in 
+2002–2018 in 
+New York State
+Time-series General 
+population
+NA cases from all 
+residents
+Days, locations, 
+and types of 
+floods were 
+obtained from 
+the Storm 
+Events Database 
+maintained by 
+the NOAA
+Days without 
+floods
+CVD, chronic 
+respiratory 
+diseases (asthma 
+and COPD), 
+respiratory 
+infection, food/ 
+water-borne 
+diseases 
+hospitalization
+Administrative 
+dataset: simple 
+source
+5 Yoshida et al. 
+(2021) (Yoshida 
+et al., 2021)
+Flood from 
+2018 to 06 to 
+2018–07 in 3 
+prefectures, 
+Japan
+Cohort Almost >65 
+years old 
+(98%)
+23654 cases from 
+264614 
+participants
+Care insurance 
+users whose 
+homes were 
+destroyed or 
+primary family 
+caregiver 
+seriously injured 
+or lost job
+Individuals in 
+non-impacted 
+household
+Cognitive decline 
+incidence
+Administrative 
+dataset: simple 
+source
+6 Phung et al. 
+(2021) (Phung 
+et al., 2021)
+Flood season in 
+2011 in seven 
+provinces in 
+Vietnam
+Time-series General 
+population
+753029 non- 
+external 
+hospitalizations
+Flooded days 
+were defined as 
+those within the 
+flood season. All 
+provinces were 
+regarded with 
+the same 
+exposure
+Days without 
+flood season
+Non-external, 
+infectious, and 
+respiratory 
+hospitalization
+Administrative 
+dataset: simple 
+source
+7 Ma et al. (2021) (
+Ma et al., 2021)
+All floods in 
+2005–2016 in 
+Chongqing, 
+China
+Time-series General 
+population
+45691 cases Days with 
+floods, 
+ascertained by 
+the Yearbooks of 
+Meteorological 
+Disasters in 
+China. 
+Precipitation 
+data were used 
+when the 
+administrative 
+regions of a 
+flood event was 
+not available.
+Days without 
+floods
+Bacillary 
+dysentery
+Administrative 
+dataset: 
+comprehensive 
+source
+(continued on next page)
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+5 
+
+Table 1 (continued)
+Study Flood events 
+and locations 
+Study design Study 
+population 
+Case number and 
+sample size 
+Exposure 
+Assessment 
+Control 
+group 
+Outcomes Outcome 
+assessment
+8 Hetherington 
+et al. (2021) (
+Hetherington 
+et al., 2021)
+Flood in 2013 
+Calgary, 
+Canada
+Quasi- 
+experimental
+Pregnant 
+women & 
+new births
+1455 preterm 
+birth, 2696 SGA, 
+854 preeclampsia, 
+and 1098 
+gestational 
+hypertension from 
+18291 births
+Flooded period 
+was the flooded 
+date, and 
+flooded areas 
+are all 
+communities of 
+three highly 
+impacted cities
+Regions 
+without 
+floods, 
+periods 
+without 
+floods
+Preterm birth, 
+SGA, gestational 
+hypertension, 
+and preeclampsia
+Administrative 
+dataset: 
+comprehensive 
+source
+9 Chen et al. (2021) 
+(Chen et al., 
+2021a)
+All floods in 
+2003–2015 
+across Taiwan
+Case- 
+crossover
+Children/ 
+adolescent
+55488 ER visits 
+from the whole 
+population in 
+Taiwan
+Flooded weeks 
+and townships 
+were 
+determined 
+using 
+information 
+acquired from 
+National Science 
+and Technology 
+Center for 
+Disaster 
+Reduction
+Weeks 
+without 
+floods
+Atopic dermatitis 
+emergency room 
+visit
+Administrative 
+dataset: 
+comprehensive 
+source
+10 Boudou et al. 
+(2021) (Boudou 
+et al., 2021)
+2015/16 winter 
+flood across 
+Ireland
+Other 
+ecological
+General 
+population
+83 VTEC cases, 
+238 
+cryptosporidiosis 
+cases from all local 
+population
+Cases were 
+exposed if the 
+centroids of 
+their residential 
+Small Area were 
+covered by flood 
+extent. Flood 
+period was 
+defined as July 
+1, 2015 to July 
+1, 2016
+Areas 
+without 
+floods
+VTEC enteritis 
+and 
+cryptosporidiosis
+Administrative 
+dataset: 
+comprehensive 
+source
+11 Yan et al. (2020) (
+Yan et al., 2020)
+Flood on 2012- 
+07-21 in 
+Beijing, China
+Other 
+ecological
+General 
+population
+NA cases from all 
+local population
+Exposure period 
+was 2012 July 
+21.
+Days without 
+floods
+Mortality, CVD, 
+and respiratory 
+mortality 
+inpatient and 
+outpatient 
+admission
+Administrative 
+dataset: 
+comprehensive 
+source
+12 Liu et al. (2020) (
+Liu et al., 2020)
+Floods in 
+2005–2012 in 
+Mengshan 
+Guangxi China
+Time-series General 
+population
+1070 cases from 
+all local 
+population
+The ten-day 
+periods with 
+flooding events 
+were defined as 
+exposed periods 
+according to the 
+Yearbooks of 
+Meteorological 
+Disasters in 
+China
+10-day 
+periods 
+without 
+floods
+Acute 
+haemorrhagic 
+conjunctivitis
+Administrative 
+dataset: 
+comprehensive 
+source
+13 Guo et al. (2020) (
+Guo et al., 2020)
+1998 Yangtze 
+River flood 
+across 31 
+provinces in 
+China
+Quasi- 
+experimental
+Children/ 
+adolescent
+1131 cases from 
+108175 births
+Four exposure 
+groups were 
+determined 
+based on birth 
+dates and the 
+flood period (i. 
+e., the worst 
+flooded 3 
+months): post- 
+partum exposed, 
+prenatal 
+exposed, 
+preconception 
+exposed, and 
+unexposed 
+cohorts. 
+Participants’ 
+residential 
+provinces were 
+classified as not 
+flooded, mild 
+flooding, 
+moderate 
+flooding, or 
+severe flooding
+Individuals in 
+provinces 
+without 
+floods and in 
+the 
+unexposed 
+cohort
+Cognitive 
+impairment
+Self-reported
+14 Zhang et al. 
+(2019) (Zhang 
+et al., 2019)
+Flood in 2016 
+in Anhui, China
+Quasi- 
+experimental
+General 
+population
+274621 cases in 
+flooded areas, 
+129356 cases in 
+Post- 
+intervention 
+period: 1 year 
+Pre- 
+intervention 
+period: 3 
+Infectious 
+diarrhea
+Administrative 
+dataset: 
+(continued on next page)
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+6 
+
+Table 1 (continued)
+Study Flood events 
+and locations 
+Study design Study 
+population 
+Case number and 
+sample size 
+Exposure 
+Assessment 
+Control 
+group 
+Outcomes Outcome 
+assessment
+non-flooded areas 
+from local 
+population
+after the flood 
+event; during- 
+flood period: 
+2016-06-18 to 
+2016-08-31
+years before 
+the flood 
+event
+comprehensive 
+source
+15 Mulder et al. 
+(2019) (Mulder 
+et al., 2019)
+2015 summer 
+flood in 60 
+locations in 
+Netherlands
+Cross- 
+sectional
+General 
+population
+87 AGE and 166 
+ARI from 1158 
+participants
+Self-reported 
+contact types
+Individuals in 
+non-flooded 
+households
+Acute 
+gastroenteritis 
+and acute 
+respiratory 
+infection
+Administrative 
+dataset: simple 
+source
+16 Liu et al. (2019) (
+Liu et al., 2019)
+Six floods in 
+2006–2010 in 
+Guangxi, China
+Time-series General 
+population
+45131 cases from 
+local population
+Flooded days of 
+each city were 
+determined by 
+the Yearbooks of 
+Meteorological 
+Disasters in 
+China
+Days without 
+floods
+Diarrhea, 
+dysentery, 
+typhoid, and 
+paratyphoid
+Administrative 
+dataset: 
+comprehensive 
+source
+17 Saulnier et al. 
+(2018) (Saulnier 
+et al., 2018)
+Floods in 
+2008–2013 in 
+11 districts in 
+Cambodia
+Time-series General 
+population
+NA cases from 
+204186 
+inpatients, 
+5544051 
+outpatients
+Square 
+kilometers of 
+flood water in 
+each district in 
+each month 
+were estimated 
+using data from 
+the MODIS 
+sensors
+NA Diarrhea, acute 
+respiratory 
+infections, and 
+skin infections
+Administrative 
+dataset: 
+comprehensive 
+source
+18 Hu et al. (2018) (
+Hu et al., 2018b)
+Five floods in 
+2009–2013 in 
+Qingdao, China
+Time-series Children/ 
+adolescent
+55920 cases from 
+local population
+Months with 
+floods were 
+determined 
+using the 
+Yearbooks of 
+Meteorological 
+Disasters in 
+China
+Months 
+without 
+floods
+Hand-foot-mouth 
+disease
+Administrative 
+dataset: 
+comprehensive 
+source
+19 Elsanousi et al. 
+(2018) (Elsanousi 
+et al., 2018)
+Flood in August 
+2013 in Gezira, 
+Sudan
+Other 
+ecological
+General 
+population
+5069, 5549, and 
+7262 cases from 
+990247, 1019953, 
+and 1049659 in 
+2011, 2012, and 
+2013
+The 3 months 
+since the flood 
+event were 
+exposure period
+The same 
+months in the 
+two 
+preceding 
+years
+Malaria Administrative 
+dataset: 
+comprehensive 
+source
+20 Liu et al. (2017) (
+Liu et al., 2017)
+Floods in 
+2004–2010 in 
+Guangxi, China
+Time-series General 
+population
+78794 cases from 
+local population
+Months with 
+floods were 
+determined 
+using the 
+Yearbooks of 
+Meteorological 
+Disasters in 
+China
+Months 
+without 
+floods
+Bacillary 
+dysentery
+Administrative 
+dataset: 
+comprehensive 
+source
+21 Zhang et al. 
+(2016a) (Zhang 
+et al., 2016a)
+Floods in 
+2007–2012 in 
+Nanchong, 
+Sichuan, China
+Case- 
+crossover
+General 
+population
+370 cases from 
+local population
+Days with floods 
+were 
+determined 
+using the 
+Yearbooks of 
+Meteorological 
+Disasters in 
+China
+Days without 
+floods
+Japanese 
+encephalitis
+Standardized 
+tool
+22 Zhang et al. 
+(2016b) (Zhang 
+et al., 2016b)
+Flood in 2007 
+in Zibo 
+Shandong, 
+China
+Case- 
+crossover
+General 
+population
+902 cases from 
+local population
+Days with floods 
+were 
+determined 
+using the 
+Yearbooks of 
+Meteorological 
+Disasters in 
+China
+Days without 
+floods
+Bacillary 
+dysentery
+Administrative 
+dataset: 
+comprehensive 
+source
+23 Vanasse et al. 
+(2016) (Vanasse 
+et al., 2016)
+Flood in spring 
+2011 in Saint- 
+Jean-sur- 
+Richelieu, 
+Canada
+Case-control Adults 1170 cases from 
+78582 
+participants
+One flooded 
+area was defined 
+using water 
+level data from 
+the hydraulic 
+records of the 
+Government of 
+Canada. The 
+period of the 
+flood event is 
+Two areas 
+with similar 
+population 
+sizes, 
+comparable 
+SESs, and 
+presence of a 
+river not 
+affected by 
+the flood. The 
+same period 
+Acute 
+cardiovascular 
+diseases
+Administrative 
+dataset: 
+comprehensive 
+source
+(continued on next page)
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+7 
+
+Table 1 (continued)
+Study Flood events 
+and locations 
+Study design Study 
+population 
+Case number and 
+sample size 
+Exposure 
+Assessment 
+Control 
+group 
+Outcomes Outcome 
+assessment
+the exposure 
+period
+in year before 
+and after 
+were control 
+period
+24 Rodriguez-Llanes 
+et al. (2016) (
+Rodriguez-Llanes 
+et al., 2016)
+Floods in 2006 
+and 2008 in 
+four blocks of 
+Odisha, India
+Cross- 
+sectional
+Children 
+<5 years- 
+old
+871 participants 
+from 34 villages
+Exposure to 
+floods was 
+defined as living 
+in a village 
+flooded by both 
+flood events 
+based on records 
+from the Odisha 
+State Disaster 
+Mitigation 
+Authority
+Individuals in 
+villages not 
+impacted by 
+both flood 
+events
+Wasting, 
+stunting, 
+underweight
+Administrative 
+dataset: 
+comprehensive 
+source
+25 Liu et al. (2016) (
+Liu et al., 2016)
+Flood in 2012 
+in Jishou and 
+Huaihua in 
+Hunan, China
+Case- 
+crossover
+General 
+population
+184 cases from 
+local population
+Days with flood 
+were defined 
+using 
+cumulative 
+rainfall data: 
+cumulative 
+rainfall of more 
+than 80 mm for 
+three 
+consecutive 
+days or 250 mm 
+for ten 
+consecutive 
+days
+Days without 
+floods
+Bacillary 
+dysentery
+Administrative 
+dataset: 
+comprehensive 
+source
+26 Huang et al. 
+(2016) (Huang 
+et al., 2016)
+Floods in 
+1998–2008 in 
+Taiwan
+Time-series General 
+population
+NA cases from 
+whole population 
+in Taiwan
+Days with floods 
+for each county/ 
+city were 
+determined 
+using flood 
+records 
+obtained from 
+the Central 
+Weather Bureau
+Days without 
+floods
+Diseases of eyes, 
+skins, and 
+gastrointestinal 
+diseases
+Administrative 
+dataset: 
+comprehensive 
+source
+27 Gao et al. (2016) (
+Gao et al., 2016)
+Flood in 2007 
+at Huai River in 
+Anhui, China
+Time-series General 
+population
+5904 malaria 
+cases, 2681 
+diarrhea cases, 
+1148 dysentery 
+cases, 111 
+Japanese 
+encephalitis cases, 
+104 HAV cases, 55 
+HEV cases, 16 
+typhoid and 
+paratyphoid cases, 
+and 4 HFRS cases 
+from local 
+population.
+Days with floods 
+were 
+determined 
+using the 
+Yearbooks of 
+Meteorological 
+Disasters in 
+China
+Days and 
+areas without 
+floods
+Malaria, 
+diarrhea, 
+dysentery, 
+japanese 
+encephalitis, 
+HAV, HEV, 
+typhoid and 
+paratyphoid, and 
+HFRS
+Administrative 
+dataset: 
+comprehensive 
+source
+28 Boyce et al. 
+(2016) (Boyce 
+et al., 2016)
+Flood in May 
+2013 in Bugoye 
+subcounty in 
+the Western 
+Ugandan 
+Highland
+Quasi- 
+experimental
+General 
+population
+2315 cases from 
+7596 participants
+Post-flood 
+period: 12- 
+month after the 
+month of flood 
+event. Flooded 
+villages: the 
+place where a 
+flood-affected 
+river within or 
+along the 
+boundaries
+Pre-flood 
+period: 12- 
+month before 
+the month of 
+flood event; 
+unflooded 
+village
+Malaria Administrative 
+dataset: simple 
+source
+29 Suwanpakdet al. 
+(2015) (
+Suwanpakdee 
+et al., 2015)
+Floods during 
+2010–2012 
+across Thailand
+Time-series General 
+population
+4940 cases from 
+local population
+Months with 
+floods were 
+determined for 
+each districts 
+using the spatial 
+information that 
+were provided 
+by the Geo- 
+Informatics and 
+Space 
+Technology 
+Months 
+without 
+floods
+Leptospirosis Administrative 
+dataset: 
+comprehensive 
+source
+(continued on next page)
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+8 
+
+Table 1 (continued)
+Study Flood events 
+and locations 
+Study design Study 
+population 
+Case number and 
+sample size 
+Exposure 
+Assessment 
+Control 
+group 
+Outcomes Outcome 
+assessment
+Development 
+Agency
+30 Wade et al. 
+(2014) (Wade 
+et al., 2014)
+Floods in 
+2002–2008 in 
+Massachusetts, 
+USA
+Case- 
+crossover
+General 
+population
+270457 
+admissions from 
+local population
+Days with floods 
+were 
+determined 
+using the 
+information 
+from the Storm 
+Events Database 
+for each county/ 
+town
+Days without 
+floods
+Gastrointestinal 
+diseases 
+emergency room 
+visit
+Administrative 
+dataset: 
+comprehensive 
+source
+31 Ni et al. (2014) (
+Ni et al., 2014)
+Floods in 
+2004–2009 in 
+Henan, China
+Time-series General 
+population
+24536 cases from 
+local population
+Flooded, non- 
+flooded, pre- 
+flooded, and 
+post-flooded 
+months were 
+determined 
+using the 
+Yearbooks of 
+Meteorological 
+Disasters in 
+China
+Non-flooded 
+months
+Dysentery Administrative 
+dataset: 
+comprehensive 
+source
+32 Milojevic et al. 
+(2012) (Milojevic 
+et al., 2012)
+Flood in 2004 
+in Matlab, 
+Bangladesh
+Quasi- 
+experimental
+General 
+population 
+(mortality 
+and 
+diarrhea), 
+children 
+(acute 
+respiratory 
+infection)
+5280 deaths, 4250 
+diarrhea cases, 
+and 23163 acute 
+respiratory 
+infection cases 
+from 211139 
+participants
+Exposed 
+individuals: the 
+subjects were 
+exposed if the 
+floor of any 
+household in the 
+bari had been 
+under water 
+during the flood 
+period. Flooded 
+period: pre- 
+flood, during- 
+flood, and post- 
+flood periods 
+were defined
+Unexposed 
+individuals 
+and pre-flood 
+period
+All-cause 
+mortality, 
+diarrhea, and 
+acute respiratory 
+infection
+Administrative 
+dataset: simple 
+source
+33 Tong et al. (2011)
+(Tong et al., 
+2011)
+Red River flood 
+in 1997 in 
+North Dakota, 
+USA
+Case-control Pregnant 
+women & 
+new births
+2477 low birth 
+weight, 4753 
+preterm birth, and 
+3573 SGA from 
+55344 births
+The flooded 
+period was 
+defined by 
+refering the 
+disaster 
+declaration: pre- 
+disaster is non- 
+exposed, post- 
+disaster is 
+exposed
+Pre-disaster 
+period
+Low birth weight, 
+preterm birth, 
+and small for 
+gestational age
+Administrative 
+dataset: 
+comprehensive 
+source
+34 Rodriguez-Llanes 
+et al. (2011) (
+Rodriguez-Llanes 
+et al., 2011)
+Floods in 2006 
+and 2008 in 
+Orissa district, 
+India
+Cross- 
+sectional
+Children 
+<5 years- 
+old
+111 stunting, 61 
+underweight, and 
+42 wasting from 
+352 participants
+Exposed 
+villages: flooded 
+by both flood 
+events in 2006 
+and 2008
+Villages not 
+flooded by 
+both events
+Malnutrition Administrative 
+dataset: 
+comprehensive 
+source
+35 Milojevic et al. 
+(2011) (Milojevic 
+et al., 2011)
+Floods in 
+1994–2005 in 
+England and 
+Wales
+Other 
+ecological
+General 
+population
+1464 deaths from 
+local population
+Flooded 
+postcode areas 
+were 
+determined 
+using the 
+historic flood 
+event outlines 
+from the UK 
+Environment 
+Agency’s 
+National Flood 
+and Coastal 
+Defence 
+Database. Years 
+with flood were 
+defined for each 
+postcode area. If 
+a flood event 
+happened in the 
+same postcode 
+within 2 years 
+since last flood 
+event, this flood 
+Flooded 
+region, pre- 
+flood year.
+All-cause 
+mortality
+Administrative 
+dataset: simple 
+source
+(continued on next page)
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+9 
+
+Table 1 (continued)
+Study Flood events 
+and locations 
+Study design Study 
+population 
+Case number and 
+sample size 
+Exposure 
+Assessment 
+Control 
+group 
+Outcomes Outcome 
+assessment
+event would be 
+removed
+36 Pradhan et al. 
+(2007) (Pradhan 
+et al., 2007)
+Flood around 
+July 19, 1993 in 
+Nepal
+Other 
+ecological
+General 
+population
+302 deaths from 
+41501 
+participants
+Rest of the year 
+since flood 
+events were 
+defined as the 
+exposed period
+The 
+preceding 
+year
+All-cause 
+mortality
+Administrative 
+dataset: 
+comprehensive 
+source
+37 Vollaard et al. 
+(2004) (Vollaard 
+et al., 2004)
+Floods in 
+2001–06 to 
+2003–02 in 
+Jakarta, 
+Indonesia
+Case-control General 
+population
+93 cases, 289 fever 
+control, and 378 
+community 
+control
+Self-reported: 
+individuals were 
+exposed if their 
+home was 
+inundated in the 
+12 months 
+preceding the 
+interview
+Individuals in 
+non- 
+inundated 
+households
+Typhoid fever 
+and paratyphoid 
+fever
+Administrative 
+dataset: 
+comprehensive 
+source
+Notes: administrative datasets included those collected from simple source (e.g., datasets of hospital visits, emergency visits, or admissions) or from comprehensive 
+source (e.g., diseases surveillance network, whole-population insurance database, or mortality registration).*Studies were regarded as with definitely high RoB 
+through RoB assessment. Abbreviations: NA = not available; USA = the United States of America; UK = the United Kingdom; CVD = cardiovascular diseases; VTEC =
+verotoxin-producing E. coli; ER = emergency room; SGA = small for gestational age; ARI = acute respiratory infection; HAV = hepatitis A; HEV = hepatitis E; HFR =
+hemorrhagic fever with renal syndrome; NA = not available.
+Fig. 3. Forest plots for meta-analyses of relative risks of all-cause mortality, diarrhea, dysentery, and gastrointestinal diseases associated with flood exposure. 
+Weights represent the contribution of each study to the overall meta-estimate. Abbreviation: UK = the United Kingdom; USA = the United States of America; CI =
+confidence interval. The estimate is 1relative risk or 2odds ratio. *Estimates from Milojevic et al. (2011) and Zhang et al. (2019) were not combined with other 
+estimates because of their incomparable time-frames (i.e., time frame >6 months); estimates from Gao et al. (2016), Zhang et al. (2016b), and Saulnier et al. (2018) 
+were not combined with other estimates because of its incomparable effect measurement; two effect estimates for different flood events from Liu et al. (2017) and two 
+effect estimates for different locations from Liu et al. (2016) were included.
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+10 
+
+time interval were investigated by two studies, which were both con-
+ducted in mainland China (Liu et al., 2019; Gao et al., 2016). With all of 
+the confidence intervals included the null value, no significant associ-
+ation was found. The association between floods and the risk of typhoid 
+in one year in a city in Indonesia was not statistically significant (RR 
+1.65 [0.88, 3.08]); however, there was an increased risk of paratyphoid 
+(RR 4.52 [1.90, 10.73]) (Vollaard et al., 2004).
+Hand-foot-mouth disease was investigated in one study in mainland 
+China (Hu et al., 2018b), which found an increased risk during 0–1 
+month post exposure to floods (RR 1.18 [1.03, 1.35]). While the risk of 
+HAV increased (RR 1.40 [1.11, 1.15]) on the 15th day post a flood event 
+in Anhui, mainland China, no significant association was found between 
+this flood event and HEV (RR 0.94 [0.67, 1.31]) (Gao et al., 2016).
+The risk of malaria incidence was increased after flood events in 
+Sudan, mainland China, and Uganda, although the time frames varied. 
+In Sudan, the incidence risk of malaria during 0–11 week post a flood 
+event was higher than the risk during the same period in the 2 years 
+preceding the event (Elsanousi et al., 2018); in mainland China, the risk 
+reached a peak on the 27th day post a flood event (RR 3.44 [3.28, 
+3.62])48; and the risk was higher (RR 1,30 [1.16, 1.46]) in flooded vil-
+lages, compared to non-flooded villages in the year following a flood 
+event in Uganda (Boyce et al., 2016).
+The impact on Japanese encephalitis was investigated in two studies 
+in mainland China. The authors reported that the smallest and largest 
+risks of Japanese encephalitis occurred on 11th and 24th days post 
+floods in Anhui (RR 0.58 [0.47, 0.71]) (Gao et al., 2016) and Sichuan 
+(2.00 [1.14, 3.52]) (Zhang et al., 2016a), respectively.
+Only one study estimated the association of floods with human 
+leptospirosis incidence, covering flood events during 2010–2012 in 
+Thailand (Suwanpakdee et al., 2015). The associations across flooding 
+events were found to be inconsistent across the years: 2010 (RR 4.03 
+[3.04, 5.35]), 2011 (RR 1.65 [1.31, 2.07]), and 2012 (RR 0.66 [0.50, 
+Fig. 4. Forest plots and estimates of the associations of flood exposure with mortalities and morbidities for each study and outcome. Abbreviations: UK = the United 
+Kingdom; USA = the United States of America; CVD = cardiovascular diseases; VTEC = verotoxigenic E. coli; HAV = hepatitis A; HEV = hepatitis E; HC = hem-
+orrhagic conjunctivitis; CI = confidence interval. The estimate is 1relative risk, 2odds ratio, or 3hazard ratio. *The effect estimates from Elsanousi et al. (2018) and 
+Saulnier et al. (2018) were not measured by relative risks. Suwanpakdee et al. (2015) reported three effect estimates for the same outcome (leptospirosis) but for 
+different flood events.
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+11 
+
+0.88]).
+3.3.3. Respiratory diseases
+Five studies provided evidence for respiratory diseases from Viet-
+nam, Netherland, Cambodia, Bangladesh, and the USA, consistently 
+suggesting the risk of respiratory diseases would increase after floods, 
+although the outcomes varied among all respiratory diseases, acute and 
+chronic respiratory diseases, and respiratory infection (Fig. 4). (Phung 
+et al., 2021; Mulder et al., 2019; Milojevic et al., 2012; Deng et al., 2022; 
+Saulnier et al., 2018)
+3.3.4. Cardiovascular diseases
+One study in the USA indicated that the hospitalization risk of CVD 
+increased (RR 1.01 [1.00, 1.03]) during 0–14 days post floods (Deng 
+et al., 2022). However, no significant association was found between 
+flood and the risk of acute CVD (1.25 [0.81, 1.92]) (Vanasse et al., 
+2016).
+3.3.5. Skin and eye diseases
+Three studies explored the associations between flood and skin dis-
+eases (Fig. 4). (Chen et al., 2021a; Huang et al., 2016; Saulnier et al., 
+2018) One study estimated the risk of overall skin diseases (Huang et al., 
+2016), while the other studies estimated the risks of skin infection and 
+atopic dermatitis. All studies found an increased risk of skin diseases 
+post flood events. The time frames varied from a week to three months 
+post floods.
+The associations for eye diseases were estimated in two studies. One 
+study in Taiwan found an increased risk of overall eye diseases during 
+0–10 days post flood exposure (Huang et al., 2016). Another study in 
+mainland China found a twofold increased risk of acute hemorrhagic 
+conjunctivitis in 0–10 days post floods (Liu et al., 2020).
+3.3.6. Adverse birth and pregnancy outcomes
+The associations of floods with adverse birth outcomes were esti-
+mated in two studies (Fig. 4). One study in Canada estimated the asso-
+ciations in the year of a flood event (Hetherington et al., 2021), and the 
+study in the USA estimated the association during 0–4 years post a flood 
+event (Tong et al., 2011). The associations for preterm birth and small 
+for gestational age were estimated by both studies. In the two studies, 
+the risk of preterm birth was found to increase (RR 1.09 [1.03, 1.16]) 
+during 0–4 years post the flood event in the USA, while the other as-
+sociations were statistically insignificant. Additionally, the risk of low 
+birth weight was also found to increase (RR 1.11 [1.03, 1.21]) during 
+0–4 years post the flood event in the USA.
+3.3.7. Malnutrition
+The risk of malnutrition among children aged 6–59 months was 
+estimated by Rodriguez-Llanes et al. in two studies in a district in Orissa, 
+India (Fig. 4). (Rodriguez-Llanes et al., 2011, 2016) These studies were 
+based on the same population and flood events, but with different time 
+frames and sample sizes. They found that the risks of stunting and being 
+underweight were higher in exposed group in the second month post 
+exposure; however the association for wasting was statistically insig-
+nificant (Rodriguez-Llanes et al., 2011). At one year after the flood 
+event, they found that there was an increased risk of being underweight 
+and wasting (Rodriguez-Llanes et al., 2016).
+3.3.8. Cognitive dysfunction
+Two studies investigated the impacts of floods on cognitive 
+dysfunction (Fig. 4). One estimated the impact on the risk of cognitive 
+decline among elderly population (i.e., >65 year-old) during 0–6 
+months post a flood event in Japan (Yoshida et al., 2021), and found an 
+increased risk among the exposed group (RR 1.12 [1.00, 1.26]). The 
+other study assessed the impact of the 1998 Yangtze River Flood on the 
+risk of cognitive impairment among 108175 four to eight year-old 
+children across 31 provinces in mainland China (Guo et al., 2020). 
+This study found an increase risk among children that were exposed to 
+the flood event during perinatal period.
+4. Discussion
+This is the first systematic review for the associations of flood with 
+mortality and morbidity. We synthesized findings from previous studies 
+after study quality assessment. We found that flood exposure was 
+associated with increased risks of all-cause mortality and morbidities of 
+overall gastrointestinal diseases, diarrhea diseases, dysentery, malaria, 
+and respiratory disease after flood exposure. Evidence for other health 
+outcomes was limited or uncertain.
+4.1. Health impact pathways
+Floods can result in diseases and deaths in several potential path-
+ways. First, floods can contaminate water supply systems (Barbetta 
+et al., 2022), through which the risks of gastrointestinal diseases can 
+increase, and the transmission of some infectious diseases (e.g., typhoid 
+and paratyphoid) can be facilitated (Lee et al., 2020). Second, floods can 
+create breeding grounds for fungi, bacteria, viruses, and vectors (e.g., 
+mice, cockroaches, and mosquitoes) (Suhr and Steinert, 2022). When 
+this occurs, outbreaks of infectious diseases, including plague, malaria, 
+Japanese encephalitis, and leptospirosis may be triggered (Suhr and 
+Steinert, 2022). Third, flood events can force people to evacuate, leading 
+to displacement. Even though temporary accommodation may be pro-
+vided, hygiene issues still commonly occur from poor access to sanita-
+tion facilities (Paterson et al., 2018). Hence, the risks of water-borne 
+diseases, infectious diseases, and infections can rise. Displacements 
+also mean limited access to medical and health facilities, which may lead 
+to delayed diagnoses and treatments, more complications, exacerbated 
+prognosis, and consequently elevated mortality; lacking protection from 
+environmental hazards (e.g., non-optimal temperatures), which impact 
+a broad range of health conditions (Zhao et al., 2021; Chen et al., 2021b; 
+Wu et al., 2022); and high densities of fungi, bacteria, virus, and vectors 
+in limited rooms (Lee et al., 2020). Forth, mortality and morbidity can 
+be exacerbated by disaster-related psychological disorders via many 
+mechanisms including weakening immune systems, sleep problems, 
+substance abuses, and poor self-care (Trief et al., 2006; Sharpe and 
+Davison, 2021).
+4.2. Research gaps and future perspectives
+4.2.1. Potential effect modifications
+Considering the health impact pathways of floods, the health effects 
+of flood may be modified by location- (e.g., socioeconomic status, di-
+etary habit, sewage system, disaster response strategies, medicine 
+sources), climate- (e.g., climate zone, temperature, and humidity), 
+biology- (e.g., density of mosquitos, vegetation types), and flood-related 
+(e.g., severity, duration, and flood types) factors, as well as vulnerabil-
+ities of populations (e.g., children, elderly population, and people with 
+pre-existing chronic diseases). Understanding these effect modifications 
+helps identify the most vulnerable populations, which is essential for 
+targeting protections and preventions. Furthermore, the understanding 
+can facilitate predicting the health effects in places where health data 
+are not available, mostly low-income countries, which could be used to 
+estimate flood-attributable health burden to optimize resource 
+allocations.
+4.2.2. Temporal and spatial coverages
+We found that the temporal (i.e., flood events) and spatial coverages 
+(i.e., locations) of almost studies were limited. This means that the 
+generalizations of these effect estimates were compromised. To obtain 
+more reliable estimates, studies with a broad temporal and spatial 
+coverages are warranted.
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+12 
+
+4.2.3. Time frame and lag effects
+Most studies only arbitrarily/empirically assumed a time frame for 
+the lag effect, without examining the time frames statistically. Lag ef-
+fects for gastrointestinal diseases and infectious diseases have been 
+statistically examined by some studies, considering the breeding, incu-
+bation, and latent periods of pathogens (Liu et al., 2019; Zhang et al., 
+2016a; Wang et al., 2021). The findings consistently suggested that the 
+risk of gastrointestinal diseases reached the peak on several days post 
+flood exposure (Liu et al., 2016, 2017, 2019; Zhang et al., 2016b; Ni 
+et al., 2014; Ma et al., 2021). The impacts on mortality and morbidity 
+may be delayed because the pathways between flood and human health 
+are not immediate. However, the lag effects were understudied for most 
+health impacts. Identifying the lag-response associations related to flood 
+exposure is a key to coping with elevated mortality and morbidity risks 
+after flood events.
+4.3. Clinical and policy implications
+Both health service providers and policymakers should be aware of 
+the increased health risks post floods, when health/medicine service 
+demands will sharply rise. Considering that the capability and accessi-
+bility of health systems are generally disrupted during floods, the 
+unfulfillment for the increasing health/medicine service demands will 
+be exacerbated, especially in communities poor in health/medicine re-
+sources or with infrastructures vulnerable to floods (Romanello et al., 
+2023). To optimize prognosis, reduce avoidable deaths from natural 
+causes, and ease flood-attributable health burden, health service pro-
+viders should strengthen capacities in medical supplies, human resource 
+management, and triage strategy; and policymakers should periodize 
+enhancing health system resilience to natural disasters, as well as 
+improving disaster preparedness, early warning and detection systems, 
+and efficient disaster response protocols to reduce the hazardous expo-
+sure during and post floods.
+4.4. Conclusions
+Previous studies had examined an extensive range of mortality and 
+morbidity risks related to floods, although studies were scarce in almost 
+all countries/territories. We undertook a systematic review examining 
+the associations between floods and health outcomes and found asso-
+ciations of flood exposure with elevated risks of all-cause mortality and 
+morbidities of overall gastrointestinal diseases, diarrhea diseases, dys-
+entery, malaria, and respiratory diseases. These findings suggest that 
+medical practitioners and policymakers should raise awareness and 
+preparation for the elevated burden on health systems after flood events. 
+The evidence for the morbidities of other infectious diseases, cardio-
+vascular diseases, skin and eye diseases, adverse birth and pregnancy 
+outcomes, malnutrition, and cognitive dysfunction was either limited or 
+uncertain. Future studies examining more flood events and locations, 
+effect modifiers, and the lag effects of flood exposure with mortality and 
+morbidity are needed.
+CRediT authorship contribution statement
+Zhengyu Yang: Writing – review & editing, Writing – original draft, 
+Visualization, Validation, Software, Methodology, Investigation, Formal 
+analysis, Data curation. Wenzhong Huang: Writing – review & editing, 
+Methodology, Investigation, Formal analysis, Data curation. Joanne E. 
+McKenzie: Writing – review & editing, Supervision, Methodology, 
+Investigation. Pei Yu: Writing – review & editing, Methodology, 
+Investigation, Formal analysis, Data curation. Ke Ju: Writing – review & 
+editing, Investigation. Yao Wu: Writing – review & editing, Investiga-
+tion. Bo Wen: Writing – review & editing, Data curation. Yuming Guo: 
+Writing – review & editing, Supervision, Resources, Project adminis-
+tration, Methodology, Investigation, Funding acquisition, Conceptuali-
+zation. Shanshan Li: Writing – review & editing, Supervision, 
+Resources, Project administration, Methodology, Investigation, Funding 
+acquisition, Conceptualization.
+Ethical approval
+Ethical approval was not needed because this study does not involve 
+human participants.
+Declaration of generative AI and AI-assisted technologies in the 
+writing process
+During the preparation of this work, the authors did not use any 
+generative AI or AI-assisted technology.
+Consent to publish
+Consent was not needed because this study does not involve human 
+participants.
+Funding
+This study was supported by the Australian Research Council 
+(DP210102076) and the Australian National Health and Medical 
+Research Council (GNT2000581, GNT2008813, and GNT2009866), 
+which were received by YG. The funders had no role in the study design 
+or in the collection, analysis, and interpretation of the data, writing of 
+the report, or decision to submit the article for publication.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgement
+ZY was supported by a Monash Graduate Scholarship and a Monash 
+International Tuition Scholarship. WH, KJ, WY, and BW were supported 
+by the China Scholarship Council (numbers: 202006380055, 
+202006240087, 202006010044, and 202006010043). PY is supported 
+by Monash Faculty of Medicine Nursing and Health Science Early Career 
+Postdoctoral Fellowships 2023. YG was supported by a Career Devel-
+opment Fellowship (number GNT1163693) and a Leader Fellowship 
+(number GNT2008813) of the Australian National Health and Medical 
+Research Council. SL was supported by an Emerging Leader Fellowship 
+(number GNT2009866) of the Australian National Health and Medical 
+Research Council. JEM was supported by an Investigator Grant (number 
+GNT2009612) of the Australian National Health and Medical Research 
+Council.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.envres.2024.120263.
+Data availability
+Template data collection forms, data extracted from included 
+studies, data used for all analyses, analytic code, and any other materials 
+used in the review were available upon request. 
+References
+Alderman, K., Turner, L.R., Tong, S., 2012. Floods and human health: a systematic 
+review. Environ. Int. 47, 37–47. https://doi.org/10.1016/j.envint.2012.06.003.
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+13 
+
+Barbetta, S., Bonaccorsi, B., Tsitsifli, S., et al., 2022. Assessment of flooding impact on 
+water supply systems: a comprehensive approach based on DSS. Water Resour. 
+Manag. 36 (14), 5443–5459. https://doi.org/10.1007/s11269-022-03306-x.
+Borenstein, M., Hedges, L.V., Higgins, J.P.T., Rothstein, H.R., 2010. A basic introduction 
+to fixed-effect and random-effects models for meta-analysis. Res. Synth. Methods 1 
+(2), 97–111. https://doi.org/10.1002/jrsm.12.
+Boudou, M., ´OhAiseadha, C., Garvey, P., O’Dwyer, J., Hynds, P., 2021. Flood 
+hydrometeorology and gastroenteric infection: the Winter 2015–2016 flood event in 
+the Republic of Ireland. J Hydrol 599. https://doi.org/10.1016/j. 
+jhydrol.2021.126376.
+Boyce, R., Reyes, R., Matte, M., et al., 2016. Severe flooding and malaria transmission in 
+the western Ugandan highlands: implications for disease control in an era of global 
+climate change. J. Infect. Dis. 214 (9), 1403–1410. https://doi.org/10.1093/infdis/ 
+jiw363.
+Chen, N.T., Chen, M.J., Wu, C.D., Guo, Y.L., 2021a. Emergency room visits for childhood 
+atopic dermatitis are associated with floods? Sci. Total Environ. 773, 145435. 
+https://doi.org/10.1016/j.scitotenv.2021.145435.
+Chen, G., Guo, Y., Yue, X., et al., 2021b. Mortality risk attributable to wildfire-related 
+PM2⋅5 pollution: a global time series study in 749 locations. Lancet Planet. Health 5 
+(9), e579–e587. https://doi.org/10.1016/S2542-5196(21)00200-X.
+Deng, X., Friedman, S., Ryan, I., et al., 2022. The independent and synergistic impacts of 
+power outages and floods on hospital admissions for multiple diseases. Sci. Total 
+Environ. 828, 154305. https://doi.org/10.1016/j.scitotenv.2022.154305.
+Dosa, D.M., Skarha, J., Peterson, L.J., et al., 2020. Association between exposure to 
+hurricane irma and mortality and hospitalization in Florida nursing home residents. 
+JAMA Netw. Open 3 (10), e2019460. https://doi.org/10.1001/ 
+jamanetworkopen.2020.19460.
+Elsanousi, Y.E.A., Elmahi, A.S., Pereira, I., Debacker, M., 2018. Impact of the 2013 floods 
+on the incidence of malaria in almanagil locality, gezira state, Sudan. PLoS Curr 10. 
+https://doi.org/10.1371/currents.dis.8267b8917b47bc12ff3a712fe4589fe1.
+Gao, L., Zhang, Y., Ding, G., Liu, Q., Jiang, B., 2016. Identifying flood-related infectious 
+diseases in Anhui Province, China: a spatial and temporal analysis. Am. J. Trop. Med. 
+Hyg. 94 (4), 741–749. https://doi.org/10.4269/ajtmh.15-0338.
+Grimes, D.A., Schulz, K.F., 2008. Making sense of odds and odds ratios. Obstet. Gynecol. 
+111 (2), 423–426. https://doi.org/10.1097/01.AOG.0000297304.32187.5d.
+Guo, C., Chen, G., He, P., Zhang, L., Zheng, X., 2020. Risk of cognitive impairment in 
+children after maternal exposure to the 1998 Yangtze River flood during pregnancy: 
+analysis of data from China’s second National Sample Survey on Disability. Lancet 
+Planet. Health 4 (1). https://doi.org/10.1016/S2542-5196(20)30198-4.
+Hetherington, E., Adhikari, K., Tomfohr-Madsen, L., Patten, S., Metcalfe, A., 2021. Birth 
+outcomes, pregnancy complications, and postpartum mental health after the 2013 
+Calgary flood: a difference in difference analysis. PLoS One 16 (2). https://doi.org/ 
+10.1371/journal.pone.0246670.
+Hu, P., Zhang, Q., Shi, P., Chen, B., Fang, J., 2018a. Flood-induced mortality across the 
+globe: spatiotemporal pattern and influencing factors. Sci. Total Environ. 643, 
+171–182. https://doi.org/10.1016/j.scitotenv.2018.06.197.
+Hu, X., Jiang, F., Ni, W., 2018b. Floods increase the risks of hand-foot-mouth disease in 
+qingdao, China, 2009-2013: a quantitative analysis. Disaster Med. Public Health 
+Prep. 12 (6), 723–729. https://doi.org/10.1017/dmp.2017.154.
+Huang, L.Y., Wang, Y.C., Wu, C.C., Chen, Y.C., Huang, Y.L., 2016. Risk of flood-related 
+diseases of eyes, skin and gastrointestinal tract in Taiwan: a retrospective cohort 
+study. PLoS One 11 (5). https://doi.org/10.1371/journal.pone.0155166.
+Lan, T., Hu, Y., Cheng, L., et al., 2022. Floods and diarrheal morbidity: evidence on the 
+relationship, effect modifiers, and attributable risk from Sichuan Province, China. 
+J Glob Health 12, 11007. https://doi.org/10.7189/jogh.12.11007.
+Lee, J., Perera, D., Glickman, T., Taing, L., 2020. Water-related disasters and their health 
+impacts: a global review. Prog Disaster Sci. 8, 100123. https://doi.org/10.1016/j. 
+pdisas.2020.100123.
+Lindersson, S., Raffetti, E., Rusca, M., Brandimarte, L., Mård, J., Di Baldassarre, G., 2023. 
+The wider the gap between rich and poor the higher the flood mortality. Nat. 
+Sustain. 6 (8), 995–1005. https://doi.org/10.1038/s41893-023-01107-7.
+Liu, X., Liu, Z., Zhang, Y., Jiang, B., 2016. Quantitative analysis of burden of bacillary 
+dysentery associated with floods in Hunan, China. Sci. Total Environ. 547, 190–196. 
+https://doi.org/10.1016/j.scitotenv.2015.12.160.
+Liu, X., Liu, Z., Ding, G., Jiang, B., 2017. Projected burden of disease for bacillary 
+dysentery due to flood events in Guangxi, China. Sci. Total Environ. 601, 
+1298–1305. https://doi.org/10.1016/j.scitotenv.2017.05.020.
+Liu, Z., Ding, G., Zhang, Y., et al., 2019. Identifying different types of flood–sensitive 
+diarrheal diseases from 2006 to 2010 in Guangxi, China. Environ. Res. 170, 
+359–365. https://doi.org/10.1016/j.envres.2018.12.067.
+Liu, X., Qiu, S., Liu, Z., Chen, D., Liu, H., Ding, G., 2020. Effects of floods on the incidence 
+of acute hemorrhagic conjunctivitis in Mengshan, China, from 2005 to 2012. Am. J. 
+Trop. Med. Hyg. 102 (6), 1263–1268. https://doi.org/10.4269/ajtmh.19-0164.
+Ma, Y., Wen, T., Xing, D., Zhang, Y., 2021. Associations between floods and bacillary 
+dysentery cases in main urban areas of Chongqing, China, 2005-2016: a 
+retrospective study. Environ. Health Prev. Med. 26 (1), 49. https://doi.org/10.1186/ 
+s12199-021-00971-z.
+Milojevic, A., Armstrong, B., Kovats, S., et al., 2011. Long-term effects of flooding on 
+mortality in England and Wales, 1994-2005: controlled interrupted time-series 
+analysis. Environ. Health 10 (1), 11. https://doi.org/10.1186/1476-069X-10-11.
+Milojevic, A., Armstrong, B., Hashizume, M., et al., 2012. Health effects of flooding in 
+rural Bangladesh. Epidemiology 23 (1), 107–115. https://doi.org/10.1097/ 
+EDE.0b013e31823ac606.
+Miyamori, D., Yoshida, S., Kashima, S., et al., 2023. How the 2018 Japan floods impacted 
+nursing home admissions for older persons: a longitudinal study using the long-term 
+care insurance comprehensive database. J. Am. Med. Dir. Assoc. 24 (3), 368–375.e1. 
+https://doi.org/10.1016/j.jamda.2022.11.021.
+Mulder, A.C., Pijnacker, R., De Man, H., et al., 2019. “sickenin’ in the rain” - increased 
+risk of gastrointestinal and respiratory infections after urban pluvial flooding in a 
+population-based cross-sectional study in The Netherlands. BMC Infect. Dis. 19 (1), 
+377. https://doi.org/10.1186/s12879-019-3984-5.
+Ni, W., Ding, G., Li, Y., Li, H., Liu, Q., Jiang, B., 2014. Effects of the floods on dysentery 
+in north central region of Henan Province, China from 2004 to 2009. J. Infect. 69 
+(5), 430–439. https://doi.org/10.1016/j.jinf.2014.05.016.
+Page, M.J., Moher, D., Bossuyt, P.M., et al., 2021. PRISMA 2020 explanation and 
+elaboration: updated guidance and exemplars for reporting systematic reviews. BMJ 
+372, n160. https://doi.org/10.1136/bmj.n160.
+Paterson, D.L., Wright, H., Harris, P.N.A., 2018. Health risks of flood disasters. Clin. 
+Infect. Dis. 67 (9), 1450–1454. https://doi.org/10.1093/cid/ciy227.
+Phung, D.T., Warren, J.L., Chu, C.M.Y., Dubrow, R., 2021. Relationship between flood 
+severity and risk of hospitalisation in the mekong river delta of Vietnam. Occup. 
+Environ. Med. 78 (9), 676–678. https://doi.org/10.1136/oemed-2021-107768.
+Pradhan, E.K., West, K.P., Katz, J., Leclerq, S.C., Khatry, S.K., Shrestha, S.R., 2007. Risk 
+of flood-related mortality in Nepal. Disasters 31 (1), 57–70. https://doi.org/ 
+10.1111/j.1467-7717.2007.00340.x.
+Quist, A.J.L., Fliss, M.D., Wade, T.J., Delamater, P.L., Richardson, D.B., Engel, L.S., 2022. 
+Hurricane flooding and acute gastrointestinal illness in North Carolina. Sci. Total 
+Environ. 809, 151108. https://doi.org/10.1016/j.scitotenv.2021.151108.
+Rentschler, J., Salhab, M., Jafino, B.A., 2022. Flood exposure and poverty in 188 
+countries. Nat. Commun. 13 (1), 3527. https://doi.org/10.1038/s41467-022-30727- 
+4.
+Rodriguez-Llanes, J.M., Ranjan-Dash, S., Degomme, O., Mukhopadhyay, A., Guha- 
+Sapir, D., 2011. Child malnutrition and recurrent flooding in rural eastern India: a 
+community-based survey. BMJ Open 1 (2). https://doi.org/10.1136/bmjopen-2011- 
+000109.
+Rodriguez-Llanes, J.M., Ranjan-Dash, S., Mukhopadhyay, A., Guha-Sapir, D., 2016. 
+Flood-exposure is associated with higher prevalence of child undernutrition in rural 
+eastern India. Int. J. Environ. Res. Publ. Health 13 (2), 210. https://doi.org/ 
+10.3390/ijerph13020210.
+Romanello, M., Napoli, C.D., Green, C., et al., 2023. The 2023 report of the Lancet 
+Countdown on health and climate change: the imperative for a health-centred 
+response in a world facing irreversible harms. Lancet, S0140673623018597. https:// 
+doi.org/10.1016/S0140-6736(23)01859-7. Published online. 
+Rooney, A.A., Boyles, A.L., Wolfe, M.S., Bucher, J.R., Thayer, K.A., 2014. Systematic 
+review and evidence integration for literature-based environmental health science 
+assessments. Environ. Health Perspect. 122 (7), 711–718. https://doi.org/10.1289/ 
+ehp.1307972.
+Russo, M.W., 2007. How to review a meta-analysis. Gastroenterol. Hepatol. 3 (8), 637.
+Saulnier, D.D., Hanson, C., Ir, P., Alvesson, H.M., von Schreeb, J., 2018. The effect of 
+seasonal floods on health: analysis of six years of national health data and flood 
+maps. Int. J. Environ. Res. Publ. Health 15 (4), 665. https://doi.org/10.3390/ 
+ijerph15040665.
+Sedgwick, P., 2014. Relative risks versus odds ratios. BMJ 348, g1407. https://doi.org/ 
+10.1136/bmj.g1407.
+Sharpe, I., Davison, C.M., 2021. Climate change, climate-related disasters and mental 
+disorder in low- and middle-income countries: a scoping review. BMJ Open 11 (10), 
+e051908. https://doi.org/10.1136/bmjopen-2021-051908.
+Suhr, F., Steinert, J.I., 2022. Epidemiology of floods in sub-Saharan Africa: a systematic 
+review of health outcomes. BMC Publ. Health 22 (1), 268. https://doi.org/10.1186/ 
+s12889-022-12584-4.
+Suwanpakdee, S., Kaewkungwal, J., White, L.J., et al., 2015. Spatio-temporal patterns of 
+leptospirosis in Thailand: is flooding a risk factor? Epidemiol. Infect. 143 (10), 
+2106–2115. https://doi.org/10.1017/S0950268815000205.
+Tellman, B., Sullivan, J.A., Kuhn, C., et al., 2021. Satellite imaging reveals increased 
+proportion of population exposed to floods. Nature 596 (7870), 80–86. https://doi. 
+org/10.1038/s41586-021-03695-w.
+Tong, V.T., Zotti, M.E., Hsia, J., 2011. Impact of the red river catastrophic flood on 
+women giving birth in north Dakota, 1994–2000. Matern. Child Health J. 15 (3), 
+281–288. https://doi.org/10.1007/s10995-010-0576-9.
+Trief, P.M., Ouimette, P., Wade, M., Shanahan, P., Weinstock, R.S., 2006. Post-traumatic 
+stress disorder and diabetes: Co-morbidity and outcomes in a male veterans sample. 
+J. Behav. Med. 29 (5), 411–418. https://doi.org/10.1007/s10865-006-9067-2.
+Vanasse, A., Cohen, A., Courteau, J., et al., 2016. Association between floods and acute 
+cardiovascular diseases: a population-based cohort study using a geographic 
+information system approach. Int. J. Environ. Res. Publ. Health 13 (2), 168. https:// 
+doi.org/10.3390/ijerph13020168.
+Vollaard, A.M., Ali, S., Van Asten, H.A.G.H., et al., 2004. Risk factors for typhoid and 
+paratyphoid fever in Jakarta, Indonesia. J. Am. Med. Assoc. 291 (2), 2607–2615. 
+https://doi.org/10.1001/jama.291.21.2607.
+Wade, T.J., Lin, C.J., Jagai, J.S., Hilborn, E.D., 2014. Flooding and emergency room 
+visits for gastrointestinal illness in Massachusetts: a case-crossover study. PLoS One 9 
+(1). https://doi.org/10.1371/journal.pone.0110474.
+Wang, P., Zhang, X., Hashizume, M., Goggins, W.B., Luo, C., 2021. A systematic review 
+on lagged associations in climate–health studies. Int. J. Epidemiol. 50 (4), 
+1199–1212. https://doi.org/10.1093/ije/dyaa286.
+Wilker, E.H., Osman, M., Weisskopf, M.G., 2023. Ambient air pollution and clinical 
+dementia: systematic review and meta-analysis. BMJ, e071620. https://doi.org/ 
+10.1136/bmj-2022-071620. Published online April 5. 
+Wu, Y., Li, S., Zhao, Q., et al., 2022. Global, regional, and national burden of mortality 
+associated with short-term temperature variability from 2000–19: a three-stage 
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+14 
+
+modelling study. Lancet Planet. Health 6 (5), e410–e421. https://doi.org/10.1016/ 
+S2542-5196(22)00073-0.
+Yan, M., Wilson, A., Peel, J.L., et al., 2020. Community-wide mortality rates in Beijing, 
+China, during the july 2012 flood compared with unexposed periods. Epidemiol 
+Camb Mass 31 (3), 319–326. https://doi.org/10.1097/EDE.0000000000001182.
+Yoshida, S., Kashima, S., Matsumoto, M., 2021. The effect of the 2018 Japan Floods on 
+cognitive decline among long-term care insurance users in Japan: a retrospective 
+cohort study. Environ. Health Prev. Med. 26 (1), 113. https://doi.org/10.1186/ 
+s12199-021-01038-9.
+Zhang, F., Liu, Z., Zhang, C., Jiang, B., 2016a. Short-term effects of floods on Japanese 
+encephalitis in Nanchong, China, 2007–2012: a time-stratified case-crossover study. 
+Sci. Total Environ. 563, 1105–1110. https://doi.org/10.1016/j. 
+scitotenv.2016.05.162.
+Zhang, F., Ding, G., Liu, Z., Zhang, C., Jiang, B., 2016b. Association between flood and 
+the morbidity of bacillary dysentery in Zibo City, China: a symmetric bidirectional 
+case-crossover study. Int. J. Biometeorol. 60 (1), 1919–1924. https://doi.org/ 
+10.1007/s00484-016-1178-z.
+Zhang, N., Song, D., Zhang, J., et al., 2019. The impact of the 2016 flood event in Anhui 
+Province, China on infectious diarrhea disease: an interrupted time-series study. 
+Environ. Int. 127, 801–809. https://doi.org/10.1016/j.envint.2019.03.063.
+Zhao, Q., Guo, Y., Ye, T., et al., 2021. Global, regional, and national burden of mortality 
+associated with non-optimal ambient temperatures from 2000 to 2019: a three-stage 
+modelling study. Lancet Planet. Health 5 (7), e415–e425. https://doi.org/10.1016/ 
+S2542-5196(21)00081-4.
+Zhong, S., Yang, L., Toloo, S., et al., 2018. The long-term physical and psychological 
+health impacts of flooding: a systematic mapping. Sci. Total Environ. 626, 165–194. 
+https://doi.org/10.1016/j.scitotenv.2018.01.041 uj0, 0330500. 
+Z. Yang et al.                                                                                                                                                                                                                                    Environmental Research 263 (2024) 120263 
+15 
+

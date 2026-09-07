@@ -1,0 +1,1919 @@
+Citation: Arsad, F.S.; Hod, R.;
+Ahmad, N.; Ismail, R.; Mohamed, N.;
+Baharom, M.; Osman, Y.; Radi,
+M.F.M.; Tangang, F. The Impact of
+Heatwaves on Mortality and
+Morbidity and the Associated
+Vulnerability Factors: A Systematic
+Review. Int. J. Environ. Res. Public
+Health 2022, 19, 16356. https://
+doi.org/10.3390/ijerph192316356
+Academic Editor: Paul B. T chounwou
+Received: 20 October 2022
+Accepted: 30 November 2022
+Published: 6 December 2022
+Publisher’s Note:MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+International  Journal  of 
+Environmental Research
+and Public Health
+Systematic Review
+The Impact of Heatwaves on Mortality and Morbidity and the
+Associated Vulnerability Factors: A Systematic Review
+Fadly Syah Arsad 1
+ , Rozita Hod 1,*
+ , Norfazilah Ahmad 1
+ , Rohaida Ismail 2
+ , Norlen Mohamed 3,
+Mazni Baharom 1
+ , Yelmizaitun Osman 4, Mohd Firdaus Mohd Radi 5 and Fredolin Tangang 6
+1 Department of Community Health, Faculty of Medicine, Universiti Kebangsaan Malaysia, Bandar Tun Razak,
+Kuala Lumpur 56000, Malaysia
+2 Environmental Health Research Centre, Institute for Medical Research, Ministry of Health Malaysia,
+Shah Alam 40170, Malaysia
+3 Environmental Health Unit, Disease Control Division, Ministry of Health Malaysia, Putrajaya 62590, Malaysia
+4 Occupational and Environmental Health Unit, Kelantan State Health Department, Ministry of Health
+Malaysia, Kota Bharu 15590, Malaysia
+5 Surveillance Unit, Kedah State Health Department, Ministry of Health Malaysia, Alor Setar 05400, Malaysia
+6 Department of Earth Sciences and Environment, Faculty of Science and Technology, Universiti Kebangsaan
+Malaysia, Bangi 43600, Malaysia
+* Correspondence: rozita.hod@ppukm.ukm.edu.my
+Abstract: Background: This study aims to investigate the current impacts of extreme temperature
+and heatwaves on human health in terms of both mortality and morbidity. This systematic review
+analyzed the impact of heatwaves on mortality, morbidity, and the associated vulnerability factors,
+focusing on the sensitivity component. Methods: This systematic review was conducted according
+to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 ﬂow checklist.
+Four databases (Scopus, Web of Science, EBSCOhost, PubMed) were searched for articles published
+from 2012 to 2022. Those eligible were evaluated using the Navigation Guide Systematic Review
+framework. Results: A total of 32 articles were included in the systematic review. Heatwave events
+increased mortality and morbidity incidence. Sociodemographic (elderly, children, male, female,
+low socioeconomic, low education), medical conditions (cardiopulmonary diseases, renal disease,
+diabetes, mental disease), and rural areas were crucial vulnerability factors. Conclusions: While
+mortality and morbidity are critical aspects for measuring the impact of heatwaves on human health,
+the sensitivity in the context of sociodemographic, medical conditions, and locality posed a higher
+vulnerability to certain groups. Therefore, further research on climate change and health impacts on
+vulnerability may help stakeholders strategize effective plans to reduce the effect of heatwaves.
+Keywords: heatwave; mortality; morbidity; vulnerability; sensitivity; systematic review
+1. Introduction
+The anthropogenic greenhouse has impacted the earth, resulting in climate change and
+increasing the global temperature. This is referred to as global warming and has caused ex-
+treme climate and weather events such as heatwaves, heavy rainfall, and drought[1–3]. The
+latest Intergovernmental Panel on Climate Change (IPCC) report showed that heatwaves
+have become more common and intense over the past 50 years [4].
+The impacts of heatwaves on human health are evident, with health outcomes from
+mortality and morbidity reported. A heatwave event can be signiﬁcant and often disastrous,
+as shown by excess deaths during the European heatwave of 2003 and the Central European
+and Russian heat wave of 2010 [5–7].
+Given the devastating impact of extreme heat and heatwave events, many researchers
+have attempted to understand the vulnerability factors in the population [8–11]. Human
+vulnerability to climate change or variability is a complicated concept and has no univer-
+sally accepted deﬁnition [12]. The study of the vulnerability of humans to climate change
+Int. J. Environ. Res. Public Health 2022, 19, 16356. https://doi.org/10.3390/ijerph192316356 https://www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 2 of 22
+is one of the key concepts to understanding their ability to adapt to changes in climate
+hazards [13]. Approaches for assessing vulnerability have progressed since previous IPCC
+assessments. For example, the Fourth Assessment Report (AR4) of the IPCC expressed that
+vulnerability is a function of three factors, which are exposure, sensitivity, and adaptive
+capacity [14]. The AR5 of the IPCC proposed the concept of risk. Risk is the function
+of four factors, which are hazard (new term in AR5), exposure, sensitivity, and adaptive
+capacity. Since then, studies have been conducted to examine the link between the new
+concept of risk in AR5 and the existing concept of vulnerability in AR4 [15–17]. The IPCC
+has published its AR6 and deﬁned vulnerability as “the propensity or predisposition to
+be adversely affected and encompasses a variety of concepts and elements, including
+sensitivity or susceptibility to harm and lack of capacity to cope and adapt” [ 4]. These
+frameworks were formulated for all climate change hazards.
+Despite the progress in the science of vulnerability, there is no systematic and con-
+sistent conceptual framework speciﬁcally for heat hazard [ 18]. There is a growing body
+of literature on heat vulnerability frameworks focusing on various components such as
+exposure, sensitivity, and adaptive capacity [ 18–21]. Heat vulnerability is how likely a
+person is to be injured or harmed during hot weather. Extreme heat, such as heatwaves,
+can impair thermoregulation and affect multiple organs, including the heart, lungs, renal
+system, central nervous system, and digestive tract [22]. Impaired thermoregulation, for
+example, can cause dehydration, increased blood viscosity, and burden the heart func-
+tion, ultimately leading to cardiac failure [23]. Additionally, heatwave occurrences impact
+mental illness [24].
+Some studies conceptualized heat vulnerability as comprising two elements: human
+exposure to heat and human sensitivity [25]. Wilhelmi and Hayden (2010) proposed a heat
+vulnerability framework and described that the sensitivity component to heat involves
+an individual’s characteristics (health status, socio-demographics, etc.) as well as certain
+aspects of the community where one lives (environment, community demographics) [26].
+These factors can play an essential role in one’s ability to adapt to heat.
+Several studies have determined that heatwave events will severely affect vulnerable
+groups such as the elderly, infants, and people with pre-existing chronic conditions [27–29].
+However, some inconsistent results were shown in other studies [11,30,31], inﬂuenced by
+the variability in the mortality and morbidity indicators, statistical analysis methods used,
+and differences in the population’s sensitivity, adaptive capacity, and coping mechanisms.
+Another factor causing these inconsistencies was the variability in heatwave deﬁnitions
+and locality factors. To date, there is no standardized deﬁnition of a heatwave. As an
+example, some studies used a daily temperature exceeding 90th to 98th percentile for at
+least two consecutive days [31–33]. Meanwhile, a study conducted in Thailand used 30 dif-
+ferent heatwave deﬁnitions [34]. These heterogeneous deﬁnitions made it challenging to
+estimate the pooling of effect estimation of heatwave impact on human health. In addition,
+locality factors (continents and geographical conditions) may signiﬁcantly inﬂuence the
+temperature of each locality [4].
+Furthermore, most of the literature involving health impact studies was conﬁned
+to mortality or morbidity rather than actual health outcomes [ 35–38]. Thus, this review
+aims to present heatwaves’ impact on mortality and morbidity and identify vulnerability,
+focusing on the sensitivity components for both outcomes.
+2. Materials and Methods
+This study, guided by the PRISMA (Preferred Reporting Items for Systematic Reviews
+and Meta-Analyses) review protocol, was explicitly designed for systematic reviews and
+meta-analyses [39], following the systematic review protocol [40] registered on PROSPERO
+(CRD42021232847).
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 3 of 22
+2.1. Inclusion Criteria
+It was formulated based on PECO [41], a tool based on three main concepts: partici-
+pants (human), exposure (heatwave), comparator (mortality and morbidity), and outcomes
+(vulnerability factors). Included were research-based articles, peer-reviewed, English
+publications from 2012 to 2022 focused on heatwaves, study ﬁndings comprising both
+heatwave-related mortality/morbidity impact and vulnerability factors (focusing on the
+sensitivity component), and involved human participants.
+2.2. Study Selection and Data Search
+Related articles were identiﬁed by searching the Scopus, Web of Science, EBSCO host,
+and PubMed databases. The search string was created and generated using Boolean opera-
+tors and keyword search (Supplementary Table S1). Following the removal of duplicates,
+two reviewers independently examined the titles and abstracts of all identiﬁed studies to
+select the articles based on the predetermined selection criteria.
+2.3. Quality Assessment
+The article’s quality was determined by using the Navigation Guide Systematic Review
+framework [41] (Supplementary Table S2 and Figure S1). The third reviewer resolved any
+disagreement.
+2.4. Data Extraction and Synthesis
+Following the initial search, we created a standardized form to extract the following
+data: author and study year, study design, study location, type of climate, meteorological
+data, heatwave deﬁnitions, health data, statistical analysis, heatwave impact on mortality
+and morbidity, as well as the sensitivity component of vulnerability assessment.
+Selected articles were divided into two groups based on mortality and morbidity
+outcomes. Sensitivity factors and statistical results from the quantitative analysis were
+thoroughly described using a narrative synthesis. Finally, the ﬁndings of the selected
+articles were merged using a narrative approach for the overall results.
+3. Results
+A total of 32 articles were selected and analyzed to identify the impact of heatwaves
+on mortality, morbidity, and the associated vulnerability factors (focusing on the sensitivity
+component) (Figure 1). Most articles involved time series studies (n = 27), and the rest were
+case-crossover studies (n = 5). The included articles represented most of the continents in
+the world: Asia, 14; Oceania, 8; Europe, 5; North America, 4; and South America, 1. In
+addition, the articles spanned lower, upper, middle, and high-income countries. Most of
+the studies were conducted in warm and temperate regions (n = 19) and cold and temperate
+(n = 7). The rest of the studies were conducted in the tropical region ( n = 3), low and
+subarctic region (n = 2), and temperate region (n = 1). Fifteen articles described mortality’s
+impacts and vulnerability factors (focusing on the sensitivity component), while another
+eighteen addressed morbidity. Table 1 summarises the characteristics and main ﬁndings of
+the studies included in this systematic review.
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 4 of 22
+Int. J. Environ. Res. Public Health 2022, 19, x 4 of 21 
+ 
+ 
+ 
+Figure 1. The PRISMA flow diagram. 
+  
+Figure 1. The PRISMA ﬂow diagram.
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 5 of 22
+Table 1. Characteristics and main ﬁndings of the selected studies ( n = 30).
+Author
+Year Study Design
+Study
+Region
+(Country)
+Type of Climate Meteorological Data Heatwave
+Deﬁnitions Health Data Statistical Analysis Impact
+Sensitivity
+Component of
+Vulnerability
+Assessment
+Lin et al., 2012
+[42]
+Time
+series
+New York
+(USA) Warm and temperate
+Hourly temperature,
+barometric pressure,
+dew point, ozone
+90th percentile of
+apparent
+temperature (AT)
+based on the
+summer AT
+distribution from
+1991–2004
+Respiratory
+admissions GAM
+Excess respiratory
+admissions due to
+extreme
+heat/heatwave
+would be 2 to 6 times
+higher in 2080–2099
+than in 1991–2004
+Female (1.35%
+higher risk)
+Age > 75 (1.17%
+higher risk)
+Low income (1.26%
+higher risk)
+Ahmadnezhad
+et al., 2013
+[27]
+Time
+series
+Tehran
+(Iran) Warm and temperate
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum
+temperature, air
+pollutants (ozone,
+PM2.5, PM10)
+Maximum
+temperature above
+90th percentile for
+three consecutive
+days
+Mortality data
+- Non-external
+cause
+- Cause-
+speciﬁc
+(cardiovascu-
+lar,
+cerebrovascu-
+lar,
+respiratory)
+GLLM
+Non-external cause
+of death increases
+signiﬁcantly during
+heatwaves
+RR 1.03, 95% CI: 1.01,
+1.05 (adjusted ozone)
+RR 1.09, 95% CI: 1.07,
+1.09 (adjusted PM10)
+Age > 65 years old
+(18.2% of total excess
+death)
+Female (1.05 times
+higher than male)
+Cardiovascular
+disease (52% of total
+cause of death,
+p = 0.001)
+Respiratory disease
+(33.4% of total death,
+p = 0.02)
+Toloo et al., 2014
+[11]
+Time
+series
+Brisbane
+(Australia) Warm and temperate
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum
+temperature, air
+pollutants (ozone,
+PM10)
+Daily mean
+temperature above
+the 95th percentile
+for two or more
+consecutive days
+Emergency
+department (ED)
+presentations
+GAM
+Respiratory
+presentations
+increased 2% during
+heatwaves
+Cardiovascular
+disease
+presentations
+increased 1% during
+heatwaves
+Male
+(RR 1.10, 95% CI:
+1.02, 1.09)
+Age > 75 years old
+(RR 1.28, 95% CI:
+1.09, 1.50)
+Low socioeconomic
+(ED presentation
+increased 12%
+compared to
+non-heatwave days)
+Wang et al., 2015
+[43]
+Time
+series
+Brisbane,
+Melbourne, and
+Sydney (Australia)
+Warm and temperate
+Daily maximum
+temperature, daily
+minimum
+temperature, relative
+humidity
+Mean temperature
+above a certain
+percentile (90th, 95th,
+98th, 99th) for two or
+more consecutive
+days
+Mortality data
+- Non-
+accidental
+- Cause-
+speciﬁc
+(circulatory)
+GAM
+Signiﬁcant
+heatwave-related
+non-accidental
+mortality—highest
+during summer
+season.RR 1.40 (95%
+CI: 1.26, 1.55)
+Female
+(RR 1.56, 95% CI:
+1.36, 1.79)
+Age > 75 years old
+(RR 1.46, 95% CI:
+1.28, 1.66)
+Tong et al., 2015
+[29]
+Time
+series
+Brisbane,
+Melbourne, and
+Sydney (Australia)
+Warm and temperate
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum
+temperature, relative
+humidity
+Daily mean
+temperature above
+75th· · · 99th
+percentiles for 2 or
+more consecutive
+days
+Mortality data
+- Non-
+accidental
+Poisson-GAM
+Signiﬁcant increase
+in mortality during
+heatwave
+Highest RR 1.34
+(95% CI: 1.22, 1.46)
+Female
+(RR 1.52, 95% CI:
+1.35, 1.71)
+Elderly
+(RR 1.54, 95% CI:
+1.34, 1.77)
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 6 of 22
+Table 1. Cont.
+Author
+Year Study Design
+Study
+Region
+(Country)
+Type of Climate Meteorological Data Heatwave
+Deﬁnitions Health Data Statistical Analysis Impact
+Sensitivity
+Component of
+Vulnerability
+Assessment
+Green et al., 2016
+[44]
+Time
+series (United Kingdom) Warm and temperate
+Mean Central
+England
+Temperature (CET)
+Mean CET > 20 ◦C at
+least three
+consecutive days
+Mortality data
+- All-cause
+Linear regression
+model
+No signiﬁcant
+heatwave-related
+excess mortality
+Elderly
+(102 deaths per
+heatwave day, 95%
+CI: 88–115)
+Soneja et al., 2016
+[9]
+Time-stratiﬁed
+case-crossover
+Maryland
+(USA) Cold and temperate
+Daily maximum
+temperature, total
+precipitation
+Daily maximum
+temperature above
+95th percentile
+Asthma
+hospitalizations
+Conditional logistic
+regression
+Heatwave-asthma
+hospitalization
+OR 1.23, CI:1.15, 1.33
+Male
+(OR 1.12 95% CI:
+1.04, 1.22)
+Age < 4 years old
+(OR 1.20 95% CI:
+1.05, 1.37)
+Kang et al., 2016
+[45]
+Time
+series (South Korea) Cold and temperate
+Daily mean
+temperature, relative
+humidity, air
+pressure, air
+pollutants (CO,
+ozone, NO2, SO3,
+PM10)
+Daily mean
+temperature above
+the 98th percentile
+for at least two
+consecutive days
+Cardiovascular
+related
+hospitalization
+GAM
+Conditional logistic
+regression
+Heatwave
+signiﬁcantly
+associated with
+cardiovascular-
+related hospital
+admission
+(14% increased
+admissions)
+Male and elderly
+aged ≥ 65 years
+p = 0.039
+Phung et al., 2017
+[46]
+Time
+series (Vietnam) Tropical
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum
+temperature, relative
+humidity,
+cumulative rainfall
+A measure of
+apparent
+temperature ≥ 90th
+percentile for the
+3 preceding days or
+more for the summer
+in northern cities
+and for the whole
+year in southern
+cities
+Hospitalizations
+- All-cause
+-
+Cardiovascular
+disease
+- Respiratory
+disease
+- Infectious
+disease
+GAM
+DLM
+GLM
+Heatwave event was
+associated with
+increased hospital
+admissions:
+- All causes
+(7.1–12.7%)
+-
+Cardiovascular
+diseases
+(6.8–31.3%)
+- Infectious
+diseases
+(9.8–27.3%)
+- Respiratory
+diseases
+(2.8–23.2%)
+Female
+(RR 8.1%, 95% CI:
+2.6–13.9) *
+Xu et al., 2017
+[32]
+Time series
+analysis
+Brisbane
+(Australia) Warm and temperate
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum
+temperature, relative
+humidity
+Daily mean
+temperature at 90th,
+95th, and 97th
+percentile of the
+temperature
+distribution for 2, 3,
+or 4 days
+Hospitalization
+- All-cause
+Poisson-GAM
+DLNM
+Signiﬁcant
+heatwave-related
+hospitalization
+RR > 1
+Children
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 7 of 22
+Table 1. Cont.
+Author
+Year Study Design
+Study
+Region
+(Country)
+Type of Climate Meteorological Data Heatwave
+Deﬁnitions Health Data Statistical Analysis Impact
+Sensitivity
+Component of
+Vulnerability
+Assessment
+Li et al., 2017
+[47] Time series Chongqing
+(China) Warm and temperate
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum,
+daily mean relative
+humidity
+≥3 consecutive
+days with daily
+average temperature
+equal to or over
+the threshold
+temperature
+Heatstroke-related
+hospitalizations
+Zero-inﬂated
+Poisson regression
+model (ZIP) with a
+logistic distribution
+90.2% of heatstroke
+cases occurred
+during heatwaves
+Elderly (>65 years
+old) (Highest excess
+risk (ER) 32.3% on
+lag2)
+Borg et al., 2018
+[48] Time series Adelaide
+(Australia) Warm and temperate
+Daily maximum
+bulb temperature,
+daily minimum bulb
+temperature
+Daily calculation of
+the Excess Heat
+Factor (EHF) index
+Admissions for
+urinary diseases
+Negative binomial
+(NB) regression
+models
+Signiﬁcant
+heatwave-related
+urinary diseases
+admissions
+(88.3% increase in
+ED admissions
+compared to
+non-heatwave days)
+IRRs 1.883, 95% CI
+1.531–2.315
+Male has higher ED
+presentations for
+total urinary
+diseases (IRRs > 1)
+Age > 65 years old
+has higher ED
+presentation for total
+urinary diseases
+(IRRs > 1)
+Cheng et al., 2018
+[49]
+Time series
+analysis (Australia) Warm and temperate
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum
+temperature
+Daily mean
+temperature above
+certain percentile
+(95th to 99th) of the
+temperature
+distribution that
+lasts for several days
+in the warm season
+(November to March
+of next year).
+Mortality data
+among elderly
+- All-cause
+Quasi-Poisson
+regression
+Random effect
+meta-analysis
+Signiﬁcant
+heatwave-mortality
+average death
+increased 28% (95%
+CI: 15–42%)
+Elderly (28%
+increased mortality
+risk)
+Yin et al., 2018
+[50] Time series (China) Tropical and
+subarctic
+Daily mean
+temperature, daily
+mean relative
+humidity, air
+pollutants (ozone,
+PM10)
+Daily mean
+temperature above
+certain percentile
+(90th, 92.5th, 95th to
+97.5th) of the
+temperature
+distribution that
+lasts for 2, 3, and
+4 days
+Mortality data
+- Non-
+accidental
+cause
+- Cause-
+speciﬁc
+(cardiovascu-
+lar, coronary
+heart disease,
+strokes,
+respiratory
+disease,
+chronic
+obstructive
+pulmonary
+disease)
+GAM
+Heatwave-related
+total cause mortality
+RR 1.07, 95% CI: 1.03,
+1.10
+Elderly (RR > 1)
+Female (RR > 1)
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 8 of 22
+Table 1. Cont.
+Author
+Year Study Design
+Study
+Region
+(Country)
+Type of Climate Meteorological Data Heatwave
+Deﬁnitions Health Data Statistical Analysis Impact
+Sensitivity
+Component of
+Vulnerability
+Assessment
+Huang et al.,
+2018
+[34]
+Time series (Thailand) Tropical
+Daily mean
+temperature, relative
+humidity
+30 heatwave
+deﬁnitions used
+10 intensities (90th,
+91st, 92nd, . . . , or
+99th percentile of the
+mean temperature
+across the study
+period) and three
+durations (i.e., ≥2, 3,
+or 4 consecutive
+days) †
+Mortality data
+- Cause-
+speciﬁc
+(infectious
+diseases,
+neoplasms,
+endocrine,
+metabolic
+diseases,
+diabetes
+mellitus,
+circulatory
+system,
+ischemic
+heart disease,
+respiratory
+system,
+pneumonia,
+digestive
+system,
+genitourinary,
+renal)
+Quasi-Poisson GAM
+Random effects
+meta-analysis
+DLNM
+Meta-regression
+analysis
+Heatwave associated
+with increased on:
+- Non-external
+cause mortality
+RR 1.126, 95% CI:
+1.103, 1.150
+- Ischemic heart
+disease
+RR 1.219, 95% CI:
+1.134, 1.311
+- Pneumonia
+RR 1.184, 95% CI:
+1.104, 1.269
+Elderly #
+Lower education #
+Zhang et al., 2018
+[33] Time series (China) Tropical and
+subarctic
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum,
+relative humidity
+Daily average
+temperature > 98th
+percentile for
+>2 consecutive days
+or
+Daily maximum
+temperature > 35 ◦C
+for >2 consecutive
+days
+or
+Daily maximum
+temperature > 95th
+percentile for
+>2 consecutive days
+Mortality data
+- Non-
+accidental
+DLNM, Monte Carlo
+analysis
+Heatwave-predicted
+AAL during
+2051–2095 will
+increase 8–90 times
+compared the ALL
+during 1971–2015
+Age > 65 years old
+(AAL, 61.3, 95% CI:
+30.6, 91.9)
+Campbell et al.,
+2019
+[51]
+Case cross-over Tasmania
+(Australia) Warm and temperate
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum, air
+pollutants
+Daily mean
+temperature (DMT)
+averaged over the
+three-day period
+(TDP) is higher than
+the climatological
+95th percentile for
+DMT
+Emergency
+department
+admissions
+Conditional
+multivariate logistic
+regression
+Heatwave-related
+ED presentation
+increased by 5%
+- (OR 1.05, 95%
+CI 1.01, 1.09)
+Children ≤ 14 years
+old
+(OR 1.13, 95% CI
+1.03,1.24)
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 9 of 22
+Table 1. Cont.
+Author
+Year Study Design
+Study
+Region
+(Country)
+Type of Climate Meteorological Data Heatwave
+Deﬁnitions Health Data Statistical Analysis Impact
+Sensitivity
+Component of
+Vulnerability
+Assessment
+Li et al., 2019
+[52] Time series Shelby County
+(USA) Warm and temperate
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum
+Maximum daily
+temperature > 95th
+percentile for more
+than two
+consecutive days
+Mortality data
+- All-cause
+- Cause-
+speciﬁc
+(respirator,
+hyperther-
+mia,
+circulatory)
+Poisson regression
+models
+DLNM
+Signiﬁcant
+heatwave-related
+cardiovascular
+mortality
+RR: 1.25, 95% CI:
+1.01, 1.55
+No signiﬁcant effect
+by socioeconomic,
+race, or urbanicity
+Xu et al., 2019
+[53] Case cross-over Brisbane
+(Australia) Warm and temperate
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum
+temperature, relative
+humidity, air
+pollutants (NO2,
+PM10)
+Daily mean
+temperature above
+90th, 95th, and 97th
+percentiles for 2
+consecutive days
+Hospitalizations for
+Alzheimer’s disease
+Conditional logistic
+regression
+Intense heatwaves
+increased the risk of
+hospitalizations for
+Alzheimer’s disease
+(n = 907)
+Odds ratio (OR) > 1
+Female (51.9%
+higher risk)
+Elderly (>65 years
+old) contributed
+93.3% of
+hospitalizations
+Patel et al., 2019
+[54] Time series Perth
+(Australia) Warm and temperate
+Daily temperature,
+air pollutants (CO,
+SO2, NO2, ozone,
+PM10/2.5)
+Excess Heat Factor
+(EHF) value > 0 Ambulance callout
+Single and multiple
+risk factor analyses
+Poisson regression
+modeling
+Signiﬁcant
+heatwave-related
+ambulance callout
+RR 1.10, 95% CI: 1.08,
+1.12
+Male
+(RR 1.03, 95% CI:
+1.02, 1.03)
+Elderly (>60 years
+old) (RR 1.01, 95%
+CI: 1.00, 1.01)
+Low to middle
+socioeconomic index
+area
+(RR 1.02, 95% CI:
+1.02, 1.03)
+Zhao et al., 2019
+[31] Time series (Brazil) Tropical
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum,
+relative humidity
+12 heatwave
+deﬁnitions
+(Combining
+thresholds at the
+90th, 92.5th, 95th, or
+97.5th percentiles of
+city-speciﬁc year
+round
+daily mean
+temperatures and
+durations of 2, 3, or 4
+consecutive days)
+hospitalizations
+- All-cause
+Quasi-Poisson
+regression
+DLM
+Random-effect
+meta-analysis
+Heatwave increased
+risk of
+hospitalization,
+26%, (95% CI: 1.9%,
+3.2%)
+Children (0–9 years
+old)-
+11% higher risk of
+hospitalizations
+Elderly (age >
+70 years old)-
+18% higher risk of
+hospitalizations
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 10 of 22
+Table 1. Cont.
+Author
+Year Study Design
+Study
+Region
+(Country)
+Type of Climate Meteorological Data Heatwave
+Deﬁnitions Health Data Statistical Analysis Impact
+Sensitivity
+Component of
+Vulnerability
+Assessment
+Xu et al., 2019
+[55] Case cross-over Brisbane
+(Australia) Warm and temperate
+Maximum
+temperature,
+minimum
+temperature, relative
+humidity, air
+pollutants
+Daily mean
+temperature > 90th
+percentile for two or
+more days
+Diabetes-related
+hospitalizations and
+mortality data with
+diabetes as the
+primary cause of
+death
+Conditional logistic
+regression, case-only
+design with
+bi-nary/multinomial
+logistic regression
+Signiﬁcant effect on
+hospitalization for
+diabetes during
+heatwaves
+- OR 1.19, 95%
+CI: 1.02, 1.39
+(95th
+percentile)
+- OR 1.37, 95%
+CI: 1.11, 1.69
+(97th
+percentile)
+Signiﬁcant effect on
+post-discharge death
+due to diabetes
+during heatwaves
+- OR 1.46, 95%
+CI 1.03, 2.07
+(90th
+percentile)
+- OR 2.37, 95%
+CI 1.39, 4.03
+(97th
+percentile)
+Hospitalizations
+among children
+(0–14 years old)
+- OR 1.51, 95%
+CI 1.08, 2.60
+(97th
+per-centile)
+- OR 1.49, 95%
+CI 1.01, 2.20
+(95th
+per-centile)
+- OR 1.36, 95%
+CI 1.04, 1.78
+(90th
+per-centile)
+Liss et al., 2019
+[56] Time series (USA) Temperate
+Daily maximum
+temperature, daily
+minimum
+Any day when the
+nighttime
+temperature is above
+90th percentile for
+the current and
+previous nights
+Hyperthermia-
+related
+hospitalizations
+among elderly
+Harmonic negative
+binomial
+generalized linear
+model (HNBGLM)
+with the log-link
+function
+Highest RR
+hyperthermia-
+related
+hospitalization
+during heatwaves
+RR 11.4, 95% CI: 9.55,
+13.25
+Elderly
+(RR 11.4, 95% CI:
+9.55, 13.25)
+Patel et al., 2019
+[57] Time series Perth
+(Australia) Warm and temperate
+Daily mean
+temperature, air
+pollution
+Excess Heat Factor
+(EHF) > 0
+Daily emergency
+department
+admissions (EDA)
+Poisson regression
+modeling
+Emergency
+department
+admission (EDA)
+rate was higher on
+heatwave days
+compared with
+non-heatwave days
+Rate Ratio (RR):
+1.053, 95% CI 1.048,
+1.058
+- Elderly
+(>60 years
+old), RR 1.04,
+95% CI 1.039,
+1.049
+- Low socioeco-
+nomic status,
+RR 1.083, 95%
+CI 1.079,
+1.087
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 11 of 22
+Table 1. Cont.
+Author
+Year Study Design
+Study
+Region
+(Country)
+Type of Climate Meteorological Data Heatwave
+Deﬁnitions Health Data Statistical Analysis Impact
+Sensitivity
+Component of
+Vulnerability
+Assessment
+Kim et al., 2020
+[58] Time series (South Korea) Cold and temperate Daily mean
+temperature
+Daily mean
+temperature
+above the 95th
+percentile of the
+temperature
+distribution for two
+or more consecutive
+days
+Mortality data
+(elderly population)
+- All-cause
+Pearson’s correlation
+GLM with
+quasi-Poisson
+distribution
+DLM
+Heatwave-mortality
+risk
+Percent Increase (PI)
+11.6%, 95% CI:
+7.8–15.5%
+Elderly female: (PI:
+14.7%, 95% CI:
+9.2–20.4%)
+Elderly male:
+(PI: 6.9%, CI:
+1.7–12.4%)
+Covariate: social
+isolation
+Kang et al., 2020
+[59]
+Two-stage time
+series (South Korea) Cold and temperate Daily mean
+temperature
+Daily mean
+temperatures above
+certain percentiles
+(85th to 99th
+percentile) of the
+summer
+temperature
+distribution for
+>2 days
+Mortality data
+- All-cause
+- Cause-
+speciﬁc
+(cardiorespi-
+ratory,
+non-
+cardiorespiratory)
+GLM with
+quasi-Poisson
+distribution with a
+DLM
+Signiﬁcant
+heatwave-mortality
+(all-cause) risk
+RR 1.11, 95% CI: 1.01,
+1.22
+Rural
+(RR: 1.23, 95% CI:
+0.99, 1.53)
+Elderly > 65 years
+old
+(RR 1.13, 95% CI:
+1.05, 1.21)
+Sohail et al., 2020
+[60] Time series Helsinki
+(Finland) Cold and temperate
+Daily mean
+temperature, air
+pollutants
+(a) Daily mean
+temperature
+above 90th
+percentile for
+four or more
+consecutive
+days
+(b) Daily mean
+temperature
+above 95th
+percentile for
+three or more
+consecutive
+days
+Non-elective
+hospital admissions
+(cardiovascular
+disease, all
+respiratory disease,
+cerebrovascular
+disease, arrhythmia,
+asthma, chronic
+obstructive
+pulmonary disease
+(COPD),
+pneumonia)
+Poisson
+regression-GLM
+Heatwave-related
+pneumonia
+admissions
+associated with 25%
+increased risk (95%
+CI: 6.9%, 35.9%)
+Majority (46.3%) of
+all cardiorespiratory
+hospital admissions
+occurred among
+persons aged
+>75 years
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 12 of 22
+Table 1. Cont.
+Author
+Year Study Design
+Study
+Region
+(Country)
+Type of Climate Meteorological Data Heatwave
+Deﬁnitions Health Data Statistical Analysis Impact
+Sensitivity
+Component of
+Vulnerability
+Assessment
+Campbell et al.,
+2021
+[61]
+Case cross-over Tasmania
+(Australia) Warm and temperate
+Daily mean
+temperature, air
+pollutants
+Daily calculation of
+the Excess Heat
+Factor (EHF) index
+Ambulance
+dispatches
+Conditional
+multivariate logistic
+regression
+Signiﬁcant
+heatwave-related
+ambulance
+dispatches
+Extreme heatwave:
+OR 1.34 (95% CI:
+1.18, 1.52)
+Severe heatwave:
+OR 1.10 (95% CI:
+1.05, 1.15)
+Low heatwave: OR
+1.04 (95% CI: 1.02,
+1.06)
+Similar risk between
+male and female
+(OR > 1)
+Children <5 years
+old
+(OR 1.36), (95% CI:
+1.10, 1.68)
+Elderly > 65 years
+old:
+(OR 1.47, 95% CI:
+1.21, 1.78)
+Low socioeconomic:
+(OR 1.40, 95% CI:
+1.18, 1.65)
+Kollanus et al.,
+2021
+[62]
+Time series (Finland) Cold and temperate Daily mean
+temperature
+Daily mean
+temperature
+exceeded the 90th
+percentile for 4 or
+more days
+Mortality data
+- Non-
+accidental
+GEE
+During heatwaves,
+non-accidental
+mortality risk
+increased by 9.9%,
+95% CI: 7.7%, 12.1%
+Age > 65 years old
+(12.8%, 95% CI:
+9.8–15.9%)
+Women
+(12.5%, 95% CI
+9.1–16.0%)
+Men
+(7.2%, 95% CI
+4.4–10.0%)
+Cardiovascular
+disease
+(97.6%, 95% CI:
+3.3–12.0%)
+Respiratory disease
+(25.3%, 95% CI:
+16.0–35.3%)
+Renal disease
+(38.4%, 95% CI:
+12.5–70.3%)
+Mental disorder
+(29.7%, 95% CI:
+21.3–38.6%)
+Wondmagegn
+et al., 2021
+[63]
+Time series Adelaide
+(Australia) Warm and temperate Daily mean
+temperature
+Excess Heat Factor
+(EHF)
+Emergency
+department visits DLNM
+ED presentations
+(all-cause) were
+generally higher
+during heatwave
+days relative to
+non-heatwave days,
+1162, 95% CI: 342,
+1944
+Age > 65 years old
+554, 95% CI: 228, 834
+Age 0–14 years
+449, 95% CI: 173, 702
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 13 of 22
+Table 1. Cont.
+Author
+Year Study Design
+Study
+Region
+(Country)
+Type of Climate Meteorological Data Heatwave
+Deﬁnitions Health Data Statistical Analysis Impact
+Sensitivity
+Component of
+Vulnerability
+Assessment
+Thompson et al.,
+2022
+[64]
+Time series (England) Warm and temperate
+Daily maximum
+temperature, daily
+mean temperature,
+daily minimum
+temperature
+Mean CET > 20 ◦C at
+least three
+consecutive days
+Mortality data
+- All-cause
+Episode analysis
+Poisson distribution
+Total estimate of the
+all-cause excess
+mortality during
+heatwave events:
+1807 (95% CI 1575 to
+2037)
+Elderly (>65 years
+old) constitute 85%
+of total number of
+mortalities
+Graczyk et al.,
+2022
+[65]
+Time series (Poland) Cold and temperate
+Daily maximum
+temperature, daily
+minimum
+At least 3
+consecutive days
+with a
+daily maximum
+temperature above
+30 ◦C
+Mortality data
+- Non-external
+Student t-test
+DLNM
+Heatwave-related
+natural cause
+mortality risk
+increased by
+20–146%
+Number of natural
+cause mortality was
+87% higher than
+expected among
+elderly population
+Abbreviations: AT = apparent temperature; ALL = average annual loss; CET = Central England Temperature; CI = conﬁdence interval; CO = carbon monoxide; DLNM = distributed lag
+non-linear model; DLM = distributed lag model; ED = emergency department; EHF = excess heat factor; ER = excess risk; GAM = generalized additive model; GEE = generalized
+estimating equation; GLLM = generalized linear lag model; GLM = generalized linear model; HNBGLM = harmonic negative-binomial generalized linear model; IRRs = incidence rate
+ratio/s; NO2 = nitric oxide; OR = odds ratio; PI = percent increase; PM = particulate matter; RR = relative risk; SO 3 = sulfur trioxide; USA = United States of America. * All-cause
+hospitalizations; # Based on Cochrane test and I2 statistic; † Example.
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 14 of 22
+3.1. Mortality
+3.1.1. Heatwave Impact on Mortality
+The included studies had various mortality indicators. The main mortality indica-
+tors were overall (all-cause) mortality, non-external cause of mortality, and cause-speciﬁc
+mortality. Most articles (n = 14) reported a signiﬁcant association between heatwaves and
+mortality.
+For the overall (all-cause) mortality rate, several articles showed a statistically sig-
+niﬁcant increment during heatwave exposure. A study by Cheng et al. (2018) showed
+an increased overall mortality rate of 28% (95% CI: 15–42%) [ 49]. Meanwhile, in Korea,
+overall mortality risk increased during heatwaves by 11.6% (95%): 7.8–15.5%) [ 59]. A
+study in Iran showed that deaths from non-external causes increased signiﬁcantly during
+heatwaves (RR = 1.03, 95% CI: 1.01, 1.05; adjusted ozone: RR = 1.09, 95% CI: 1.07, 1.09); PM
+10 (particulate matter ≤ 10 µm wide) adjusted: RR = 1.09, 95% CI: 1.07, 1.09) [27].
+Meanwhile, some studies reported signiﬁcant effects of heatwaves on cause-speciﬁc
+mortality. As an example, a study in Finland reported signiﬁcant related cardiovascular
+mortality (PI 9.9%, 95% CI 7.7–12.1%) [ 62]. Another study in China reported increased
+cardiopulmonary-related mortality during heatwaves (RR 1.07, 95% CI: 1.03, 1.10) [50].
+3.1.2. Sensitivity Component of Vulnerability Assessment for Mortality
+The highest-ranked sensitivity of the vulnerability assessment was elderly age, with
+eleven articles. Here, we studied two categories of the elderly, ages > 65 years and >75 years.
+A study in China showed that people aged >65 years comprised a high percentage of the
+total non-accidental mortality data (average annual loss (AAL) = 61.3%, 95% CI: 30.6,
+91.9) [33], while another by Wang et al. (2015) reported that the >75-year age group had
+the highest mortality (RR 1.46, 95% CI: 1.28, 1.66) [43]. The female and male gender had
+the second and third highest reported sensitivity of the vulnerability assessment with ﬁve
+and four articles, respectively. A study conducted in China reported that the female gender
+had a higher risk of heatwave-related cardiovascular mortality compared to males [ 50].
+Another study in Finland reported that the female gender had a higher heatwave-related
+non-accidental mortality risk with 12.5% (95% CI: 9.1–16.0%) [62]. Meanwhile, a study in
+Australia reported that the male gender had a 1.22 times higher risk for heatwave-related
+non-accidental cause mortality (RR 1.22, 95% CI: 1.05, 1.42) [43]. A study in a cold temperate
+region also showed that the heatwave-related non-accidental mortality risk increased by
+7.2% (95% CI: 3.3–12.0%) among the male gender [62]. Three articles reported that people
+with cardiovascular diseases had a signiﬁcant mortality risk due to heatwave exposure.
+The study in Tehran showed that cardiovascular disease contributed about 52% of the total
+cause of death [27]. Two articles reported that people with respiratory diseases showed
+signiﬁcant mortality risk due to heatwave exposure. People with respiratory disease
+accounted for 52% total cause of heatwave-related mortality [27].
+The other essential sensitivities of the vulnerability assessment were low education
+level, renal disease, mental disease, diabetes, and rural area, with one article each. Tables 2
+and 3 show additional information.
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 15 of 22
+Table 2. Summary of sensitivity component of vulnerability assessment for heat-related mortality.
+Sensitivity Component of Vulnerability Assessment Article/s with Signiﬁcant Association ( n)
+Sociodemographic
+Gender Female n = 5
+[27,43,50,58,62]
+Male n = 4
+[28,29,43,58,62]
+Age Elderly n = 11
+[27,33,34,43,44,49,50,59,62,64,65]
+Low education n = 1
+[34]
+Medical conditions
+Cardiovascular disease n = 3
+[27,28,62]
+Respiratory disease n = 2
+[27,62]
+Renal disease n = 1
+[62]
+Mental disease n = 1
+[62]
+Diabetes n = 1
+[55]
+Locality Rural n = 1
+[59]
+Table 3. Summary of sensitivity component of vulnerability assessment for heat-related morbidity.
+Sensitivity Component of Vulnerability Assessment Article/s with Signiﬁcant Association ( n)
+Sociodemographic
+Gender Female n = 4
+[42,46,53,61]
+Male n = 6
+[9,11,45,48,54,61]
+Age Elderly n = 13
+[11,31,42,45,47,48,53,54,56,57,60,61,63]
+Children n = 7
+[9,31,32,51,55,61,63]
+Low socioeconomic n = 5
+[11,42,54,57,61]
+Medical conditions
+Respiratory disease n = 4
+[9,11,42,46]
+Cardiovascular disease n = 3
+[11,45,46]
+Diabetes n = 1
+[55]
+3.2. Morbidity
+3.2.1. Heatwave Impact on Morbidity
+Eighteen articles showed a signiﬁcant association between heatwave exposure for the
+morbidity impact. In this systematic review, morbidity was classiﬁed into heat-related
+illness (heatstroke), hospital admission (non-speciﬁc), cardiovascular-related hospital ad-
+mission (non-speciﬁc, arrhythmia), respiratory-related hospital admission (non-speciﬁc,
+asthma, chronic obstructive pulmonary disease), infectious-related admission, urinary-
+related admission, Alzheimer’s disease-related admission, diabetes-related hospitalizations,
+emergency department (ED) visit, and ambulance callout. A USA study reported that ex-
+cess respiratory admissions due to heatwaves would be 2 to 6 times higher from 2080 to
+2099 than in 1991–2004 [42]. Meanwhile, a study in South Korea showed that heatwaves
+increased cardiovascular-related hospital admission by 14% [ 45]. Signiﬁcant increment
+of heatwave-related urinary disease admissions by 88.3% compared to non-heatwave
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 16 of 22
+days [48]. Another in Australia reported an effect on hospitalization for diabetes during
+heatwaves (OR 1.37, 95% CI: 1.11, 1.69) [55].
+3.2.2. Sensitivity Component of the Vulnerability Assessment for Morbidity
+The highest-ranked sensitivity of the vulnerability assessment was being elderly, with
+13 articles reporting similar ﬁndings. A study in Australia that measured the impact of
+heatwaves on hospital ED visits showed that patients aged >75 years had signiﬁcant risk
+factors (RR = 1.28, 95% CI: 1.09, 1.50) [11]. A study in the USA showed that the elderly had
+a signiﬁcant association with hyperthermia-related hospitalization (RR 11.4, 95% CI: 9.55,
+13.25) [56].
+Seven articles reported that children had a signiﬁcant association with heatwave-
+related morbidity. Heatwaves increased the risk of all-cause hospitalizations among chil-
+dren by 11% [31]. For heatwave-related ambulance callouts, children < 5 years old have
+a signiﬁcant sensitivity in the vulnerability assessment (OR 1.36, 95% CI: 1.10, 1.68) [ 61].
+The male gender followed this with six articles. A study in the USA showed male gender
+had a signiﬁcant risk for heatwave-related asthma hospitalization (Odds ratio (OR) 1.12,
+95% CI: 1.04, 1.22) [9] and a signiﬁcant vulnerability assessment for cardiovascular-related
+admission by Kang et al. (2016) [ 45]. A study on heatwave-related ambulance callouts
+showed male gender as a signiﬁcant sensitivity of the vulnerability assessment (RR 1.03,
+95% CI: 1.02, 1.03) [54].
+Heatwaves significantly impacted patients with cardiorespiratory diseases such as asthma,
+chronic obstructive pulmonary diseases, and pneumonia, found in this study[9,11,42,46]. In
+addition, a study in Australia found that respiratory and cardiovascular diseases increased
+emergency department visits by 2% and 1%, respectively , during heatwave days [11]. A
+population-based retrospective cohort study showed a significant increase in hospitalization for
+diabetic patients during heatwaves [55]. Five articles reported low socioeconomic status was
+significantly associated with heatwave-related morbidity . A study by T oloo et al. (2014) showed
+that low socioeconomic status was associated with increased emergency department visits by
+12% compared to non-heatwave days [11]. Meanwhile, four articles reported female gender
+is a significant risk factor for heatwave-related morbidity . Another study in Vietnam showed
+that the female gender was associated with increased all-cause hospitalizations by 8.1% (95% CI:
+2.6–13.9%) [46]. Tables 2 and 3 show additional information.
+4. Discussion
+4.1. Heatwave Impact on Mortality and Morbidity
+Included articles in this systematic review showed that exposure to heatwaves neg-
+atively impacts mortality and morbidity. However, the impact varied across studies and
+regions. For example, the literature included in the present study had multifactorial causes
+of mortality and morbidity indicators. Most of the causes of death were related to the
+cardiovascular and respiratory systems, which might be due to these diseases being the
+most common worldwide. The impact on morbidity also had varying underlying causes.
+However, the most common cause of heatwave-related hospitalizations was similar to that
+of mortality; cardiopulmonary-related diseases.
+4.2. Sensitivity Component of Vulnerability Assessment
+This current review adopted the sensitivity component of the vulnerability assessment
+proposed by a previous study [26]. It is ideal for studying all the components of vulnerabil-
+ity assessment for a more comprehensive ﬁnding. However, the diversity of vulnerability
+conceptualizations is seen in different contexts, referring to different systems being exposed
+to different hazards [13,66,67]. In this review, three major sensitivities of the vulnerability
+assessment factors were identiﬁed: sociodemographic, medical conditions, and locality
+characteristics.
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 17 of 22
+4.2.1. Sociodemographic
+Age was one of the critical factors for the population’s vulnerability to heatwave
+exposure. The review shows that the impact of heatwaves on mortality and morbidity
+involves all age groups, the elderly group being the most vulnerable, explained by the
+decreased efﬁciency in body temperature regulation because of aging [ 68]. In addition,
+it is common for this group to live with co-morbid chronic medical illnesses such as
+heart disease and chronic obstructive pulmonary disease (COPD) [ 69]. Thus, combined
+risk factors of age and co-morbidity increase the susceptibility to heat-related illnesses.
+Additionally, children are at risk due to their underdeveloped body regulatory systems [70].
+They are also vulnerable as they tend to spend more time playing outdoors [70]. People
+in the working-age group are also at risk from the impact of heatwaves due to their work
+activities [71].
+In this review, the risk for heatwave impacts varies across gender, which can be
+inﬂuenced by factors such as pre-existing medical conditions, social support, and the type
+of work exposure of a particular person. For example, males may be at risk in some locations
+where outdoor work roles are predominantly male-dominated [28]. However, females may
+be at greater risk as women had a higher risk due to a high surface-to-mass ratio and greater
+subcutaneous fat thickness than men [72]. Low socioeconomic status has been identiﬁed as
+a common risk factor for any disease or health issues, including vulnerability to the impact
+of heatwaves [73,74]. There are reasons that make those living in low socioeconomic classes
+more vulnerable to the effects of heatwaves. Lower socioeconomic status is commonly
+associated with other medical conditions, such as malnutrition and infectious disease,
+which can aggravate the impact of heatwaves on health. In addition, because of their
+ﬁnancial status, this group has less access to household amenities, such as fans, proper
+housing ventilation, and AC, which are essential for reducing the impact of heatwaves by
+cooling the body temperature. The nature of jobs commonly associated with outdoor work,
+such as construction and menial jobs, exposes people to high temperatures. Using fans and
+air conditioners reduces the risk of heat-related death [75]. These amenities are essential for
+faster body cooling and avoiding the harmful effects of heatwaves. This will be a problem,
+particularly for people in low and middle-income countries.
+A lack of knowledge of heatwaves may expose a person to the negative impact of
+heatwaves on health. Most media sources provide vital information on heatwaves, such as
+their effects and preventive measures. However, better understanding requires knowledge
+and education levels. Thus, a person with a lower education level is subject to a more
+signiﬁcant impact than a more educated person.
+4.2.2. Medical Conditions
+People with speciﬁc medical conditions are vulnerable to heatwaves. In the present
+systematic review, several medical conditions showed signiﬁcant evidence of heatwave
+adverse effects on mortality and morbidity.
+People with cardiovascular disease are affected by heatwave exposure. The underly-
+ing pathophysiologic mechanism for the relation between heat stress and cardiovascular
+disease, such as increased red and white cell counts in the circulation, leads to increased
+blood viscosity, platelet release into the bloodstream, and reduced plasma volume [76].
+A similar impact is seen in people with respiratory disease. Human thermal regulation
+attempts to maintain a safe body temperature during heatwave exposure, resulting in
+increased cardiac output and hyperventilation. Consequently, the respiratory rate and
+tidal volume will increase, worsening respiratory diseases such as asthma and COPD and
+requiring hospitalization [77]. People with renal disease can be compromised during a
+heatwave. The underlying mechanism is that exposure to heatwaves increases dehydration
+risk and leads to electrolyte imbalance [78], which imposes extra stress on renal function
+and exacerbates pre-existing renal diseases. Autonomic neuropathy in diabetic patients
+makes them more vulnerable to heatwave effects [79].
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 18 of 22
+In addition, heatwaves increase the risk of mental health-related outcomes. One
+possible explanation is exposing people to psychological trauma associated with higher
+frequency, intensity, and duration of climate-related disasters, including extreme heat
+exposure or heatwave events [80]. Identifying the population suffering from these medical
+conditions could help local health authorities and service providers incorporate mental
+health impacts into their heatwave warning systems, as well as develop public health
+policies and guidelines to address preventable heat-related mental health mortality and
+morbidity.
+However, the ﬁndings of these medical conditions on mortality and morbidity var-
+ied between studies. This scenario can be explained by the variability of other factors
+inﬂuencing the outcome. Thus, further studies are warranted to address this uncertainty.
+4.2.3. Locality
+In rural areas, the population is at risk of the impact of heatwaves, possibly due to
+socioeconomic factors, medical infrastructure, and the aging population. For example,
+economic activities in rural areas are conducted outdoors, and a heatwave’s impact during
+extreme heat can be ampliﬁed. Thus, evaluating this population’s knowledge, perception,
+and adaptive behavior is crucial for an early preventive plan.
+Meanwhile, urban areas are commonly associated with the urban heat island (UHI)
+phenomenon. The UHI effect is mainly due to human activities and construction that lead to
+heat accumulation [81]. The effects of UHI can be mitigated by improved energy efﬁciency,
+urban landscape optimization, green roof construction, high reﬂectivity material utilization,
+and green land cultivation. Different climatic zones also play a role in determining the
+population’s heat sensitivity. Different climatic zones had different effects in this review.
+Acclimatization of the people, behavioral adaptations, medical infrastructure, availability
+of heat warning systems, and other factors could play a role.
+Most of the literature included in this review was from developed countries. One
+possible explanation is that these countries have sufﬁcient resources for studying this
+topic and publishing their ﬁndings. Developing and warmer countries, such as Southeast
+Asia, experience more frequent, long-lasting, and intense heatwaves [82]. However, there
+are limited publications from these countries, which may underestimate the burden of
+heatwaves on these particular countries.
+5. Conclusions
+Mortality and morbidity indicators, including all-cause and cause-speciﬁc, are crit-
+ical for measuring heatwave impacts on human health. The sensitivity in the context of
+sociodemographic, medical conditions, and locality posed a higher heat vulnerability to
+certain groups. The impact of heatwaves on mortality and morbidity involves all age
+groups, especially the elderly and children. People with speciﬁc medical conditions, partic-
+ularly cardiovascular and respiratory diseases, are most vulnerable to heatwave impacts of
+mortality and morbidity. The impact of heatwaves on mortality and morbidity and their
+associated vulnerability factors varies depending on the locality. These ﬁndings can help
+stakeholders strategize effective plans to reduce the effects of heatwaves according to their
+target populations and respective areas. Nevertheless, further study on the other compo-
+nent of vulnerability assessment, such as adaptive capacity, will provide more information
+on identifying vulnerable populations.
+Supplementary Materials: The following supporting information can be downloaded at: https://
+www.mdpi.com/article/10.3390/ijerph192316356/s1, Table S1: Keyword search used in the screening
+process; Table S2: Navigation Guide Systematic Review ratings of each study; Figure S1: Weighted
+bar plots.
+Author Contributions: Conceptualization, F.S.A. and R.H.; Methodology, F.S.A., R.H., N.A. and M.B.;
+Data collection, F.S.A. and M.B.; Data processing, F.S.A.; Writing—original draft preparation, F.S.A.;
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 19 of 22
+Writing—review and editing, R.H., N.A., R.I., N.M., Y.O. and M.F.M.R.; Supervision, R.H., N.A. and
+F.T. All authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Data are contained within the article or Supplementary Materials.
+Acknowledgments: This review is a part of research by the Ministry of Higher Education Malaysia un-
+der Long-term Research Grant Scheme project 3, grant number LRGS/1/2020/UKM–UKM/01/6/3,
+which is under the program of LRGS/1/2020/UKM–UKM/01/6. We would like to thank the Ministry
+of Health Malaysia for the permission to publish this article.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. Abbass, K.; Qasim, M.Z.; Song, H.; Murshed, M.; Mahmood, H.; Younis, I. A review of the global climate change impacts,
+adaptation, and sustainable mitigation measures. Environ. Sci. Pollut. Res. 2022, 29, 42539–42559. [CrossRef]
+2. Rajak, J. A Preliminary Review on Impact of Climate change and our Environment with Reference to Global Warming. Int. J.
+Environ. Sci. 2021, 10, 11–14.
+3. Verma, K. Impact of Global Warming on Earth. J. Glob. Values 2017, 8, 122–130.
+4. Intergovernmental Panel on Climate Change. Climate Change 2022: Impacts, Adaptation and Vulnerability ; WMO & UNEP: Geneva,
+Switzerland, 2022; pp. 1–63, (Sixth Assessment Report); Report No. WGII. 2022.
+5. Grumm, R.H. The Central European and Russian Heat Event of July–August 2010. Bull. Am. Meteorol. Soc. 2011, 92, 1285–1296.
+[CrossRef]
+6. McGregor, G.R.; Bessmoulin, P .; Ebi, K.; Menne, B. Heatwaves and Health: Guidance on Warning-System Development ; WMOP:
+Geneva, Switzerland, 2015.
+7. Robine, J.-M.; Cheung, S.L.K.; Le Roy, S.; Van Oyen, H.; Grifﬁths, C.; Michel, J.-P .; Herrmann, F.R. Death toll exceeded 70,000 in
+Europe during the summer of 2003. Comptes Rendus Biol. 2008, 331, 171–178. [CrossRef] [PubMed]
+8. Coates, L.; Haynes, K.; O’Brien, J.; McAneney, J.; de Oliveira, F.D. Exploring 167 years of vulnerability: An examination of extreme
+heat events in Australia 1844–2010. Environ. Sci. Policy 2014, 42, 33–44. [CrossRef]
+9. Soneja, S.; Jiang, C.; Fisher, J.; Upperman, C.R.; Mitchell, C.; Sapkota, A. Exposure to extreme heat and precipitation events
+associated with increased risk of hospitalization for asthma in Maryland, U.S.A. Environ. Health 2016, 15, 57. [CrossRef] [PubMed]
+10. Toloo, G.S.; FitzGerald, G.; Aitken, P .; Verrall, K.; Tong, S. Are heat warning systems effective? Environ. Health 2013, 12, 27.
+[CrossRef]
+11. Toloo, G.; Guo, Y.; Turner, L.; Qi, X.; Aitken, P .; Tong, S. Socio-demographic vulnerability to heatwave impacts in Brisbane,
+Australia: A time series analysis. Aust. N. Z. J. Public Health 2014, 38, 430–435. [CrossRef]
+12. Sharma, J.; Ravindranath, N.H. Applying IPCC 2014 framework for hazard-speciﬁc vulnerability assessment under climate
+change. Environ. Res. Commun. 2019, 1, 051004. [CrossRef]
+13. Füssel, H.F.; Klein, R.J.T.Climate Change Vulnerability Assessements: An Evolution of Conceptual Thinking; Springer: Berlin/Heidelberg,
+Germany, 2006.
+14. Solomon, S.; Qin, D.; Manning, M.; Chen, Z.; Marquis, M.; Averyt, K. IPCC fourth assessment report (AR4).Clim. Chang. 2007, 374.
+Available online: https://www.ipcc.ch/site/assets/uploads/2018/05/ar4_wg1_full_report-1.pdf (accessed on 10 May 2022).
+15. Estoque, R.C.; Ooba, M.; Seposo, X.T.; Togawa, T.; Hijioka, Y.; Takahashi, K.; Nakamura, S. Heat health risk assessment in
+Philippine cities using remotely sensed data and social-ecological indicators. Nat. Commun. 2020, 11, 1581. [CrossRef] [PubMed]
+16. Maragno, D.; Fontana, M.D.; Musco, F. Mapping Heat Stress Vulnerability and Risk Assessment at the Neighborhood Scale to
+Drive Urban Adaptation Planning. Sustainability 2020, 12, 1056. [CrossRef]
+17. Dong, J.; Peng, J.; He, X.; Corcoran, J.; Qiu, S.; Wang, X. Heatwave-induced human health risk assessment in megacities based on
+heat stress-social vulnerability-human exposure framework. Landsc. Urban Plan. 2020, 203, 103907. [CrossRef]
+18. Karanja, J.; Kiage, L. Perspectives on spatial representation of urban heat vulnerability. Sci. T otal Environ. 2021, 774, 145634.
+[CrossRef]
+19. Karimi, M.; Nazari, R.; Dutova, D.; Khanbilvardi, R.; Ghandehari, M. A conceptual framework for environmental risk and social
+vulnerability assessment in complex urban settings. Urban Clim. 2018, 26, 161–173. [CrossRef]
+20. Sheridan, S.C.; Dixon, P .G. Spatiotemporal trends in human vulnerability and adaptation to heat across the United States.
+Anthropocene 2017, 20, 61–73. [CrossRef]
+21. Zhu, Q.; Liu, T.; Lin, H.; Xiao, J.; Luo, Y.; Zeng, W.; Zeng, S.; Wei, Y.; Chu, C.; Baum, S.; et al. The spatial distribution of health
+vulnerability to heat waves in Guangdong Province, China. Glob. Health Action 2014, 7, 25051. [CrossRef]
+22. Beker, B.M.; Cervellera, C.; De Vito, A.; Musso, C.G. Human physiology in extreme heat and cold. Int. Arch. Clin. Physiol. 2018, 1.
+[CrossRef]
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 20 of 22
+23. Crandall, C.G.; Wilson, T.E. Human Cardiovascular Responses to Passive Heat Stress. Compr. Physiol. 2014, 5, 17–43. [CrossRef]
+24. Bouchama, A.; Dehbi, M.; Mohamed, G.; Matthies, F.; Shoukri, M.; Menne, B. Prognostic Factors in Heat Wave–Related DeathsA
+Meta-analysis. Arch. Intern. Med. 2007, 167, 2170–2176. [CrossRef] [PubMed]
+25. Wolf, T.; McGregor, G. The development of a heat wave vulnerability index for London, United Kingdom.Weather. Clim. Extremes
+2013, 1, 59–68. [CrossRef]
+26. Wilhelmi, O.V .; Hayden, M.H. Connecting people and place: A new framework for reducing urban vulnerability to extreme heat.
+Environ. Res. Lett. 2010, 5, 59–70. [CrossRef]
+27. Ahmadnezhad, E.; Naieni, K.H.; Ardalan, A.; Mahmoudi, M.; Yunesian, M.; Naddaﬁ, K.; Mesdaghinia, A. Excess mortality during
+heat waves, Tehran Iran: An ecological time-series study. J. Res. Health Sci. 2013, 13, 24–31.
+28. Alahmad, B.; Shakarchi, A.F.; Khraishah, H.; Alseaidan, M.; Gasana, J.; Al-Hemoud, A. Extreme temperatures and mortality in
+Kuwait: Who is vulnerable? Sci. T otal Environ. 2020, 732, 139289. [CrossRef] [PubMed]
+29. Tong, S.; Fitzgerald, G.; Wang, X.-Y.; Aitken, P .; Tippett, V .; Chen, D.; Wang, X.; Guo, Y. Exploration of the health risk-based
+deﬁnition for heatwave: A multi-city study. Environ. Res. 2015, 142, 696–702. [CrossRef] [PubMed]
+30. Dalip, J.; Phillips, G.; Jelinek, G.A.; Weiland, T.J. Can the Elderly Handle the Heat? A Retrospective Case-Control Study of the
+Impact of Heat Waves on Older Patients Attending an Inner City Australian Emergency Department. Asia Pac. J. Public Health
+2012, 27, NP1837–NP1846. [CrossRef]
+31. Zhao, Q.; Li, S.; Coelho, M.S.Z.S.; Saldiva, P .H.N.; Hu, K.; Huxley, R.R.; Abramson, M.J.; Guo, Y. The association between
+heatwaves and risk of hospitalization in Brazil: A nationwide time series study between 2000 and 2015. PLoS Med. 2019, 16,
+e1002753. [CrossRef]
+32. Xu, Z.; Crooks, J.L.; Black, D.; Hu, W.; Tong, S. Heatwave and infants’ hospital admissions under different heatwave deﬁnitions.
+Environ. Pollut. 2017, 229, 525–530. [CrossRef]
+33. Zhang, L.; Zhang, Z.; Ye, T.; Zhou, M.; Wang, C.; Yin, P .; Hou, B. Mortality effects of heat waves vary by age and area: A multi-area
+study in China. Environ. Health 2018, 17, 54. [CrossRef]
+34. Huang, C.; Cheng, J.; Phung, D.; Tawatsupa, B.; Hu, W.; Xu, Z. Mortality burden attributable to heatwaves in Thailand: A
+systematic assessment incorporating evidence-based lag structure. Environ. Int. 2018, 121, 41–50. [CrossRef] [PubMed]
+35. Cheng, J.; Xu, Z.; Bambrick, H.; Prescott, V .; Wang, N.; Zhang, Y.; Su, H.; Tong, S.; Hu, W. Cardiorespiratory effects of heatwaves:
+A systematic review and meta-analysis of global epidemiological evidence. Environ. Res. 2019, 177, 108610. [CrossRef] [PubMed]
+36. Xu, Z.; FitzGerald, G.; Guo, Y.; Jalaludin, B.; Tong, S. Impact of heatwave on mortality under different heatwave deﬁnitions: A
+systematic review and meta-analysis. Environ. Int. 2016, 89–90, 193–203. [CrossRef]
+37. Benmarhnia, T.; Deguen, S.; Kaufman, J.S.; Smargiassi, A. Vulnerability to heat-related mortality.Epidemiology 2015, 26, 781–793.
+[CrossRef]
+38. Son, J.-Y.; Liu, J.C.; Bell, M.L. Temperature-related mortality: A systematic review and investigation of effect modiﬁers. Environ.
+Res. Lett. 2019, 14, 073004. [CrossRef]
+39. Page, M.J.; McKenzie, J.E.; Bossuyt, P .M.; Boutron, I.; Hoffmann, T.C.; Mulrow, C.D.; Shamseer, L.; Tetzlaff, J.M.; Moher, D.
+Updating guidance for reporting systematic reviews: Development of the PRISMA 2020 statement. J. Clin. Epidemiol. 2021, 134,
+103–112. [CrossRef]
+40. Arsad, F.S.; Hod, R.; Ahmad, N.; Baharom, M. Heatwave Impact on Mortality and Morbidity and Associated Vulnerable Factors:
+A Systematic Review Protocol. Int. J. Public Health Res. 2022, 12, 1579–1583. [CrossRef]
+41. Woodruff, T.J.; Sutton, P . The Navigation Guide Systematic Review Methodology: A Rigorous and Transparent Method for
+Translating Environmental Health Science into Better Health Outcomes. Environ. Health Perspect. 2014, 122, 1007–1014. [CrossRef]
+42. Lin, S.; Hsu, W.-H.; Van Zutphen, A.R.; Saha, S.; Luber, G.; Hwang, S.-A. Excessive Heat and Respiratory Hospitalizations in New
+York State: Estimating Current and Future Public Health Burden Related to Climate Change. Environ. Health Perspect. 2012, 120,
+1571–1577. [CrossRef]
+43. Wang, X.Y.; Guo, Y.; Fitzgerald, G.; Aitken, P .; Tippett, V .; Chen, D.; Wang, X.; Tong, S. The Impacts of Heatwaves on Mortality
+Differ with Different Study Periods: A Multi-City Time Series Investigation. PLoS ONE 2015, 10, e0134233. [CrossRef]
+44. Green, H.K.; Andrews, N.; Armstrong, B.; Bickler, G.; Pebody, R. Mortality during the 2013 heatwave in England—How did it
+compare to previous heatwaves? A retrospective observational study. Environ. Res. 2016, 147, 343–349. [CrossRef] [PubMed]
+45. Kang, S.-H.; Oh, I.-Y.; Heo, J.; Lee, H.; Kim, J.; Lim, W.-H. Heat, heat waves, and out-of-hospital cardiac arrest. Int. J. Cardiol. 2016,
+221, 232–237. [CrossRef] [PubMed]
+46. Phung, D.; Chu, C.; Rutherford, S.; Nguyen, H.L.T.; Do, C.M.; Huang, C. Heatwave and risk of hospitalization: A multi-province
+study in Vietnam. Environ. Pollut. 2016, 220, 597–607. [CrossRef] [PubMed]
+47. Li, Y.; Li, C.; Luo, S.; He, J.; Cheng, Y.; Jin, Y. Impacts of extremely high temperature and heatwave on heatstroke in Chongqing,
+China. Environ. Sci. Pollut. Res. 2017, 24, 8534–8540. [CrossRef] [PubMed]
+48. Borg, M.; Nitschke, M.; Williams, S.; McDonald, S.; Nairn, J.; Bi, P . Using the excess heat factor to indicate heatwave-related
+urinary disease: A case study in Adelaide, South Australia. Int. J. Biometeorol. 2019, 63, 435–447. [CrossRef] [PubMed]
+49. Cheng, J.; Xu, Z.; Bambrick, H.; Su, H.; Tong, S.; Hu, W. Heatwave and elderly mortality: An evaluation of death burden and
+health costs considering short-term mortality displacement. Environ. Int. 2018, 115, 334–342. [CrossRef]
+50. Yin, P .; Chen, R.; Wang, L.; Liu, C.; Niu, Y.; Wang, W.; Jiang, Y.; Liu, Y.; Liu, J.; Qi, J.; et al. The added effects of heatwaves on
+cause-speciﬁc mortality: A nationwide analysis in 272 Chinese cities. Environ. Int. 2018, 121, 898–905. [CrossRef]
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 21 of 22
+51. Campbell, S.L.; Remenyi, T.A.; Williamson, G.J.; White, C.J.; Johnston, F.H. The Value of Local Heatwave Impact Assessment: A
+Case-Crossover Analysis of Hospital Emergency Department Presentations in Tasmania, Australia. Int. J. Environ. Res. Public
+Health 2019, 16, 3715. [CrossRef]
+52. Li, Y.; Akkus, C.; Yu, X.; Joyner, A.; Kmet, J.; Sweat, D.; Jia, C. Heatwave Events and Mortality Outcomes in Memphis, Tennessee:
+Testing Effect Modiﬁcation by Socioeconomic Status and Urbanicity. Int. J. Environ. Res. Public Health 2019, 16, 4568. [CrossRef]
+53. Xu, Z.; Tong, S.; Cheng, J.; Zhang, Y.; Wang, N.; Zhang, Y.; Hayixibayi, A.; Hu, W. Heatwaves, hospitalizations for Alzheimer’s
+disease, and postdischarge deaths: A population-based cohort study. Environ. Res. 2019, 178, 108714. [CrossRef]
+54. Patel, D.; Jian, L.; Xiao, J.; Jansz, J.; Yun, G.; Lin, T.; Robertson, A. Joint effects of heatwaves and air quality on ambulance services
+for vulnerable populations in Perth, western Australia. Environ. Pollut. 2019, 252, 532–542. [CrossRef] [PubMed]
+55. Xu, Z.; Tong, S.; Cheng, J.; Crooks, J.L.; Xiang, H.; Li, X.; Huang, C.; Hu, W. Heatwaves and diabetes in Brisbane, Australia: A
+population-based retrospective cohort study. Int. J. Epidemiol. 2019, 48, 1091–1100. [CrossRef] [PubMed]
+56. Liss, A.; Naumova, E.N. Heatwaves and hospitalizations due to hyperthermia in deﬁned climate regions in the conterminous
+USA. Environ. Monit. Assess. 2019, 191, 394. [CrossRef]
+57. Patel, D.; Jian, L.; Xiao, J.; Jansz, J.; Yun, G.; Robertson, A. Joint effect of heatwaves and air quality on emergency department
+attendances for vulnerable population in Perth, Western Australia, 2006 to 2015. Environ. Res. 2019, 174, 80–87. [CrossRef]
+58. Kim, Y.-o.; Lee, W.; Kim, H.; Cho, Y. Social isolation and vulnerability to heatwave-related mortality in the urban elderly
+population: A time-series multi-community study in Korea. Environ. Int. 2020, 142, 105868. [CrossRef]
+59. Kang, C.; Park, C.; Lee, W.; Pehlivan, N.; Choi, M.; Jang, J.; Kim, H. Heatwave-Related Mortality Risk and the Risk-Based
+Deﬁnition of Heat Wave in South Korea: A Nationwide Time-Series Study for 2011–2017. Int. J. Environ. Res. Public Health 2020,
+17, 5720. [CrossRef] [PubMed]
+60. Sohail, H.; Kollanus, V .; Tiittanen, P .; Schneider, A.; Lanki, T. Heat, heatwaves and cardiorespiratory hospital admissions in
+Helsinki, Finland. Int. J. Environ. Res. Public Health 2020, 17, 7892. [CrossRef]
+61. Campbell, S.L.; Remenyi, T.; Williamson, G.J.; Rollins, D.; White, C.J.; Johnston, F.H. Ambulance dispatches and heatwaves in
+Tasmania, Australia: A case-crossover analysis. Environ. Res. 2021, 202, 111655. [CrossRef]
+62. Kollanus, V .; Tiittanen, P .; Lanki, T. Mortality risk related to heatwaves in Finland—Factors affecting vulnerability.Environ. Res.
+2021, 201, 111503. [CrossRef]
+63. Wondmagegn, B.Y.; Xiang, J.; Deare, K.; Williams, S.; Hansen, A.; Pisaniello, D.; Nitschke, M.; Nairn, J.; Scalley, B.; Varghese, B.M.;
+et al. Impact of heatwave intensity using excess heat factor on emergency department presentations and related healthcare costs
+in Adelaide, South Australia. Sci. T otal. Environ. 2021, 781, 146815. [CrossRef]
+64. Thompson, R.; Landeg, O.; Kar-Purkayastha, I.; Hajat, S.; Kovats, S.; O’Connell, E. Heatwave Mortality in Summer 2020 in
+England: An Observational Study. Int. J. Environ. Res. Public Health 2022, 19, 6123. [CrossRef] [PubMed]
+65. Graczyk, D.; Pi ´ nskwar, I.; Chory ´ nski, A. Heat-Related Mortality in Two Regions of Poland: Focus on Urban and Rural Areas
+during the Most Severe and Long-Lasting Heatwaves. Atmosphere 2022, 13, 390. [CrossRef]
+66. Pörtner, H.-O.; Roberts, D.C.; Adams, H.; Adler, C.; Aldunce, P .; Ali, E.Climate Change 2022: Impacts, Adaptation and Vulnerability ;
+IPCC Sixth Assessment Report; IPCC: Geneva, Switzerland, 2022.
+67. Birkmann, J.; Jamshed, A.; McMillan, J.M.; Feldmeyer, D.; Totin, E.; Solecki, W.; Ibrahim, Z.Z.; Roberts, D.; Kerr, R.B.; Poertner,
+H.-O.; et al. Understanding human vulnerability to climate change: A global perspective on index validation for adaptation
+planning. Sci. T otal. Environ. 2021, 803, 150065. [CrossRef] [PubMed]
+68. VanSomeren, E.J.W. More than a marker: Interaction between the circadian regulation of temperature and sleep, age-related
+changes, and treatment possibilities. Chrono Int. 2000, 17, 313–354. [CrossRef] [PubMed]
+69. Sherina, M.; Rampal, L.; Mustaqim, A. Factors Associated with Chronic Illness among the Elderly in a Rural Community in
+Malaysia. Asia Pac. J. Public Health 2004, 16, 109–114. [CrossRef]
+70. Smith, C.J. Pediatric Thermoregulation: Considerations in the Face of Global Climate Change. Nutrients 2019, 11, 2010. [CrossRef]
+71. Hanna, E.G.; Kjellstrom, T.; Bennett, C.; Dear, K. Climate Change and Rising Heat: Population Health Implications for Working
+People in Australia. Asia Pac. J. Public Health 2011, 23, 14S–26S. [CrossRef]
+72. Seidell, J.; Oosterlee, A.; Deurenberg, P .; Hautvast, J.G.; Ruijs, J.H. Abdominal fat depots measured with computed tomography:
+Effects of degree of obesity, sex, and age. Eur. J. Clin. Nutr. 1988, 42, 805–815.
+73. Zografos, C.; Anguelovski, I.; Grigorova, M. When exposure to climate change is not enough: Exploring heatwave adaptive
+capacity of a multi-ethnic, low-income urban community in Australia. Urban Clim. 2016, 17, 248–265. [CrossRef]
+74. Zhang, Y.; Nitschke, M.; Bi, P . Risk factors for direct heat-related hospitalization during the 2009 Adelaide heatwave: A case
+crossover study. Sci. T otal Environ. 2013, 442, 1–5. [CrossRef]
+75. Sera, F.; Hashizume, M.; Honda, Y.; Lavigne, E.; Schwartz, J.; Zanobetti, A. Air conditioning and heat-related mortality: A
+multi-country longitudinal study. Epidemiology 2020, 31, 779–787. [CrossRef] [PubMed]
+76. Keatinge, W.R.; Coleshaw, S.R.; Easton, J.C.; Cotter, F.; Mattock, M.B.; Chelliah, R. Increased platelet and red cell counts, blood
+viscosity, and plasma cholesterol levels during heat stress, and mortality from coronary and cerebral thrombosis. Am. J. Med.
+1986, 81, 795–800. [CrossRef] [PubMed]
+77. White, M.D. Components and mechanisms of thermal hyperpnea. J. Appl. Physiol. 2006, 101, 655–663. [CrossRef] [PubMed]
+78. Hansen, A.L.; Bi, P .; Ryan, P .; Nitschke, M.; Pisaniello, D.; Tucker, G. The effect of heat waves on hospital admissions for renal
+disease in a temperate city of Australia. Int. J. Epidemiol. 2008, 37, 1359–1365. [CrossRef] [PubMed]
+
+Int. J. Environ. Res. Public Health 2022, 19, 16356 22 of 22
+79. Sun, P .C.; Lin, H.D.; Jao, S.H.; Chan, R.C.; Kao, M.J.; Cheng, C.K. Thermoregulatory sudomotor dysfunction and diabetic
+neuropathy develop in parallel in at-risk feet. Diabet. Med. 2008, 25, 413–418. [CrossRef]
+80. Nodarse, M. Climate Change Exposures, Chronic Diseases and Mental Health in Urban Populations: A Threat to Health Security,
+Particularly for the Poor and Disadvantaged ; World Health Organization: Geneva, Switzerland, 2011.
+81. Yang, L.; Qian, F.; Song, D.-X.; Zheng, K.-J. Research on Urban Heat-Island Effect. Procedia Eng. 2016, 169, 11–18. [CrossRef]
+82. Li, X.-X. Heat wave trends in Southeast Asia during 1979–2018: The impact of humidity. Sci. T otal Environ. 2020, 721, 137664.
+[CrossRef]
+

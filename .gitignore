@@ -5,3 +5,8 @@ out
 .DS_Store
 *.log
 *.tsbuildinfo
+.env
+
+# RAG generated files
+rag/__pycache__/
+rag/vector_db/
