@@ -10,6 +10,8 @@
     "test": "npx tsx --test tests/riskEngine.test.ts"
   },
   "dependencies": {
+    "@supabase/ssr": "^0.12.6",
+    "@supabase/supabase-js": "^2.115.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.446.0",
     "next": "14.2.15",
@@ -27,4 +29,3 @@
     "typescript": "^5.6.2"
   }
 }
-
