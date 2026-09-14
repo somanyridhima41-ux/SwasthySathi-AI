@@ -42,7 +42,11 @@ export default function SignupPage() {
     setError("Passwords do not match.");
     return;
   }
-
+  
+  if (!supabase) {
+  alert("Authentication is not configured.");
+  return;
+}
   // Create user in Supabase Authentication
   const { data, error: authError } = await supabase.auth.signUp({
     email,
