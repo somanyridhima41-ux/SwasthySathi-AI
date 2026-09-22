@@ -18,6 +18,7 @@ export const Navbar = () => {
   const navLinks = [
     { href: "/", label: "Overview" },
     { href: "/dashboard", label: "Live Dashboard" },
+    { href: "/shelters", label: "Cooling Shelters" },
     { href: "/profile", label: "Profile & Sensitivities" },
     { href: "/privacy", label: "Privacy Model" },
   ];
