@@ -1,0 +1,3622 @@
+Environment International 146 (2021) 106170
+Available online 14 December 2020
+0160-4120/© 2020 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Review article 
+Association between ambient temperature and heat waves with mortality in 
+South Asia: Systematic review and meta-analysis 
+Asya Dimitrova a,b,c,*, Vijendra Ingole a,c, Xavier Basaga˜na a,b,c, Otavio Ranzani a,c, 
+Carles Mil`a a,c, Joan Ballester a,c, Cathryn Tonne a,b,c,* 
+a Barcelona Institute for Global Health (ISGlobal), Barcelona Biomedical Research Park (PRBB), Doctor Aiguader, 88, 08003 Barcelona, Spain 
+b Universitat Pompeu Fabra (UPF), Plaça de la Merc`e, 10, 08002 Barcelona, Spain 
+c CIBER Epidemiología y Salud Pública, Avda. Monforte de Lemos 3-5, Madrid, Spain   
+ARTICLE INFO  
+Handling Editor: Paul Whaley  
+Keywords: 
+Temperature 
+Heat 
+Cold 
+Heat waves 
+Mortality 
+South Asia 
+Systematic review 
+Meta-analysis 
+ABSTRACT  
+Background: South Asia is highly vulnerable to climate change and is projected to experience some of the highest 
+increases in average annual temperatures throughout the century. Although the adverse impacts of ambient 
+temperature on human health have been extensively documented in the literature, only a limited number of 
+studies have focused on populations in this region. 
+Objectives: Our aim was to systematically review the current state and quality of available evidence on the direct 
+relationship between ambient temperature and heat waves and all-cause mortality in South Asia. 
+Methods: The databases Pubmed, Web of Science, Scopus and Embase were searched from 1990 to 2020 for 
+relevant observational quantitative studies. We applied the Navigation Guide methodology to assess the strength 
+of the evidence and performed a meta-analysis based on a novel approach that allows for combining nonlinear 
+exposure–response associations without access to data from individual studies. 
+Results: From the 6,759 screened papers, 27 were included in the qualitative synthesis and five in a meta-analysis. 
+Studies reported an association of all-cause mortality with heat wave episodes and both high and low daily 
+temperatures. The meta-analysis showed a U-shaped pattern, with increasing mortality for both high and low 
+temperatures, but a statistically significant association was found only at higher temperatures — above 31◦ C for 
+lag 0–1 days and above 34◦ C for lag 0–13 days. Effects were found to vary with cause of death, age, sex, location 
+(urban vs. rural), level of education and socio-economic status, but the profile of vulnerabilities was somewhat 
+inconsistent and based on a limited number of studies. Overall, the strength of the evidence for ambient tem-
+perature as a risk factor for all-cause mortality was judged as limited and for heat wave episodes as inadequate. 
+Conclusions: The evidence base on temperature impacts on mortality in South Asia is limited due to the small 
+number of studies, their skewed geographical distribution and methodological weaknesses. Understanding the 
+main determinants of the temperature-mortality association as well as how these may evolve in the future in a 
+dynamic region such as South Asia will be an important area for future research. Studies on viable adaptation 
+options to high temperatures for a region that is a hotspot for climate vulnerability, urbanisation and population 
+growth are also needed.   
+1. Introduction 
+Expected increases in temperature and the intensity and frequency of 
+heat waves due to climate change have become a matter of growing 
+public health concern (IPCC, 2014; Watts et al., 2017; Ebi et al., 2018; 
+Maycock et al., 2018; Watts, 2019). Along with other climatic changes 
+such as precipitation and atmospheric circulation patterns, temperature 
+increases can affect human health and wellbeing through various 
+pathways, including heat stress, increases in wildfires, spread of vector- 
+borne and water-borne diseases, crop failure and its potential impact on 
+food prices, nutrition, incomes, population displacement and conflict 
+(Watts et al., 2017; Ebi, Campbell-Lendrum and Wyns, 2018). One of the 
+most direct, and therefore, well-studied mechanisms through which 
+changes in average weather impact human health is ambient 
+temperature. 
+An extensive body of epidemiological literature has documented the 
+* Corresponding authors at: ISGlobal, Barcelona Biomedical Research Park (PRBB), Doctor Aiguader, 88, 08003 Barcelona, Spain. 
+E-mail address: cathryn.tonne@isglobal.org (C. Tonne).  
+Contents lists available at ScienceDirect 
+Environment International 
+journal homepage: www.elsevier.com/locate/envint 
+https://doi.org/10.1016/j.envint.2020.106170 
+Received 3 June 2020; Received in revised form 16 September 2020; Accepted 26 September 2020   
+
+Environment International 146 (2021) 106170
+2
+adverse impacts of ambient high and low temperatures and isolated 
+events such as heat waves and cold spells (normally defined as a pro-
+longed period of abnormally high/low temperatures, with the exact 
+number of days and temperature thresholds varying by study design) on 
+human health in terms of increases in cardiovascular (Moghadamnia 
+et al., 2017), respiratory, and all-cause mortality (Oudin Åstr¨om, Bertil 
+and Joacim, 2011; Yu et al., 2012; Ryti, Guo and Jaakkola, 2016), as well 
+as increases in emergency department visits and hospital admissions 
+(Mastrangelo et al., 2007; Phung et al., 2016). Most of these studies have 
+been conducted in countries with temperate climates in the Global North 
+(mostly North America and Europe) and more recently China (Chen, 
+2018; Han et al., 2017; Zhang et al., 2014). Evidence on the relationship 
+between temperature and health risks in low- and middle- income 
+countries (LMICs) and hot climates, albeit growing, is still limited, even 
+though the highest temperature increases and the global hotspots of 
+population growth and urbanisation will occur there (IPCC, 2014; 
+UNDESA, 2018; European Commission, Joint Research Centre, 2018). 
+Although two recent reviews have summarised the body of literature 
+on temperature and mortality for LMICs and tropical countries (Burkart 
+et al., 2014a; Green et al., 2019), a comprehensive review on one of the 
+most vulnerable geographical regions in the world — South Asia — is 
+still lacking (Mora et al., 2017; Byers et al., 2018; Muthukumara et al., 
+2018). South Asia is recognised as being at high risk of climate impacts 
+due to the combination of its climate and geography (occupying areas 
+with high year-round temperatures and humidity), large and growing 
+population, rapid urbanisation, relatively low adaptive capacity in terms 
+of high levels of poverty and inequality, poor health infrastructure, 
+scarcity of resources and livelihood dependence on agriculture, which 
+implies large occupational exposure to outdoor temperature. With a 
+population of about 1.8 billion (World Bank, 2019b), South Asia, which 
+comprises Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, 
+Pakistan, and Sri Lanka (World Bank definition), is the most densely 
+populated and the second most populous region in the world (after East 
+Asia&Pacific). The region accommodates the second highest number 
+and proportion of people in extreme poverty (defined as living below $1 
+per day) (Islam, Newhouse, Yanez-Pagans, 2018) and 43% of its labour 
+force works in agriculture (World Bank, 2019a). 
+South Asia has a diverse geography and climate, covering the 
+glaciated and sparsely populated regions of the Himalayas, Karakoram, 
+and Hindu Kush mountain, with annual average temperatures around 
+0 ◦C, as well as vast tropical and sub-tropical regions, with annual 
+temperatures averaging between 25 ◦C and 30 ◦C (Mani et al., 2018). 
+Given these characteristics, both high and low temperatures are likely 
+to affect population health. Similar to other regions, South Asia has 
+experienced a clear and considerable upward trend in annual average 
+temperatures, albeit unevenly distributed geographically. Most pro-
+nounced increases over the period 1950–2010 have been observed in 
+Western Afghanistan and southwestern Pakistan, ranging from 1.0 ◦C 
+to 3.0 ◦C. Within the same decades, average annual temperatures have 
+shifted upward by 1.0 ◦C to 1.5 ◦C in Southeastern India, western Sri 
+Lanka, northern Pakistan, and eastern Nepal (Mani et al., 2018). These 
+trends are projected to continue in the future. The Intergovernmental 
+Panel on Climate Change (IPCC) indicates that, compared to the 
+average in the 20th century, average annual temperatures in the region 
+could rise by >2 ◦C over land by the mid-21st century, and exceed 3 ◦C 
+over high latitudes, by the late 21st century under a high-emissions 
+scenario (Carabine, 2014). Importantly, rising humidity, especially in 
+regions with routinely warm and humid weather, can further amplify 
+the health impacts of higher temperatures by compromising humańs’ 
+ability to dissipate heat through sweating (Gosling et al., 2009; Im, Pal 
+and Eltahir, 2017). 
+The threat of aggravating heat is also reflected in the increasing 
+death toll reported from extreme temperatures in the region according 
+to the Emergency Events Database (EM-DAT) (See Fig. 1). Some of the 
+most notable historical episodes, which claimed thousands of human 
+and livestock lives, include: the severe heat waves reported around 
+Odisha (eastern India) in 1998, in Andhra Pradesh (2003), Ahmadabad 
+(2010) and other parts of Gujarat (western India), the 2008 Afghanistan 
+blizzard, and the more recent 2015 heat wave, which hit large parts of 
+India and Pakistan, resulting in about 3500 deaths (Im, Pal and Eltahir, 
+2017). These figures are likely to be conservative and underestimate the 
+total health burden of extreme heat, given the lack of official surveil-
+lance and misreporting. Furthermore, they do not capture the impact of 
+moderate non-extreme temperatures, which are much more frequent, 
+and therefore, contribute considerably to total heat and cold-related 
+deaths (Gasparrini et al., 2015). 
+Although geographic location, climate, and latitude are of crucial 
+importance, the literature has shown the pattern and magnitude of 
+temperature-mortality effects are also highly dependent on local contexts 
+and strongly influenced by the interaction of non-atmospheric factors 
+such as demographic, socio-economic, and lifestyle characteristics, un-
+derlying disease burdens of the population, features of the built envi-
+ronment, and others (Uejio et al., 2011; Xu et al., 2013; Zanobetti et al., 
+2013). For instance, it has been demonstrated that exposure–response 
+functions can differ even for populations within the same geographic or 
+climatic area (Michelozzi, 2006; Anderson & Bell, 2009; Hajat & Kosatky, 
+2010). 
+It is also well known that populations are usually well adapted to the 
+most frequent and/or moderate temperatures in their local climates, 
+which explains higher thresholds for heat-related mortality in warmer 
+climates and lower thresholds for cold-related mortality in colder climates 
+(Gosling et al., 2009). Studies have also reported that exposure–response 
+functions can change over time, highlighting the scope for adaptation and 
+acclimatization (Hondula et al., 2015; Kinney, 2018a; Petkova et al., 
+2014). However, the speed at which adaptation is likely to take place and 
+whether it can outpace future temperature changes are poorly under-
+stood. Furthermore, the scope of further acclimatization and adaptation 
+for populations living in hot, and especially hot and humid climates, 
+where heat adaptations and lifestyle modifications already exist, is likely 
+to be more limited (Hanna and Tait, 2015). According to a climate 
+simulation study, under the current business-as-usual trajectory of carbon 
+emissions, by the end of the century some of the population in South Asia 
+may experience hot and humid temperatures that exceed the “upper limit 
+on human survivability “(Im, Pal and Eltahir, 2017). In this context, it has 
+been argued that the population in the region might need to rely mainly 
+on technological and behavioural adaptations in the future (Hanna and 
+Tait, 2015). 
+In the context of climate change and the vulnerabilities in South Asia 
+it is crucial to provide a comprehensive analysis on the region-specific 
+Fig. 1. Deaths from extreme temperature events in South Asia. Source: Own 
+figure, EM-DAT database* (Centre for Research on the Epidemiology of Di-
+sasters CRED, 2019) *The data in the database are compiled from various 
+sources, including UN agencies, non-governmental organizations, insurance 
+companies, research institutes and press agencies. An extreme event is 
+considered in the database only if >10 fatalities were reported. Annotations of 
+major heat and cold events in the figure are added by the authors. 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+3
+temperature-mortality effects in order to guide adaptation planning, 
+inform targeted health interventions, and support sound and evidence- 
+based health impact projections. To address this need and to establish 
+the state of the available evidence, identify knowledge gaps, and high-
+light future research directions, we systematically reviewed the existing 
+literature on temperature-related mortality in South Asia. Through a 
+systematic review and a meta-analysis we investigated the following 
+hypothesis: “Are ambient temperature (high and low), and heat wave 
+events associated with increased all-cause mortality in the general 
+population in South Asia?”. We developed a “Population”, “Exposure”, 
+“Comparator”, and “Outcomes” and “study design” (PECOs) statement 
+as follows:  
+▪ Population: the general population in South Asia (as defined 
+by the World Bank in August 2018: Afghanistan, Bangladesh, 
+Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka)  
+▪ Exposure: high and low ambient temperatures (defined as 
+daily/weekly/monthly/annual mean/max/min temperatures 
+or a composite index of temperature and other weather vari-
+able) and heat wave events.  
+▪ Comparators: A comparable population not exposed to the 
+same temperature or heat wave event or the same population at 
+a time when it was not exposed to the same ambient tempera-
+ture or heat wave event.  
+▪ Outcome: all-cause or cause-specific mortality, Years of Life 
+Lost (YLL), changes in life expectancy  
+▪ Study design: quantitative observational studies 
+We also perform more narrative review on the following exploratory 
+research questions: i) “Are ambient temperatures (high and low), and 
+heat wave events associated with increased cause-specific mortality in 
+the general population in South Asia?”, ii) Are certain population groups 
+at higher risk of mortality from exposure to ambient temperature?”, iii) 
+At what time lags do temperature effects on mortality occur for the 
+population in South Asia?” 
+We add to previous systematic reviews conducted for tropical regions 
+(Burkart et al., 2014a), LMICs (Green et al., 2019) and India (Salve et al., 
+2018) by covering both effects from heat wave episodes and ambient 
+temperature, assessing the strength and quality of the body of evidence, 
+and including a meta-analysis of exposure–response functions based on a 
+novel approach that allows combining nonlinear exposure–response 
+associations without access to data from individual studies. We also 
+identify key areas for future research. 
+2. Methods 
+2.1. Search strategy 
+We performed a systematic search of four electronic databases - 
+Pubmed, Web of Science, Scopus, Embase – in order to identify epide-
+miological studies examining the direct relationship between ambient 
+temperature and all-cause and cause-specific mortality in South Asia. 
+We restricted the search to peer-reviewed articles published in English 
+between January 1990 and August 2020. The search was initially run on 
+16 August 2018, and later updated on 13 August 2020. The systematic 
+review followed the Preferred Reporting Items for Systematic Reviews 
+and Meta-Analysis (PRISMA) guidelines and was based on a registered 
+review protocol accessible online (PROSPERO CRD42018105730) 
+(Dimitrova and Tonne, 2018). To ensure that all relevant articles were 
+identified, we screened bibliographic reference lists of all included 
+studies manually. Example of an exact electronic search strategy is 
+provided in Supplementary Table S1. 
+2.2. Selection of studies 
+We considered peer-reviewed studies published since 1990 in 
+English, which examined any of the eight countries in the region as 
+defined by the World Bank in August 2018 (Afghanistan, Bangladesh, 
+Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka), South Asia as a 
+whole, or studies on a global level, which included at least one country 
+of the region. We included only quantitative observational studies, 
+which present results for the general population. Epidemiological 
+studies based on medical records were also included when these stem-
+med from a representative number of hospitals in a country or from the 
+leading hospitals in an urban area, that has a catchment area repre-
+sentative of the target population. In terms of outcome measures, we 
+included studies using mortality counts as well as alternative population 
+health metrics such as YLL or life expectancy. We excluded studies 
+investigating morbidity effects only or those investigating indirect ef-
+fects of temperature on mortality, for example through changes in crop 
+yields, forest fires, droughts and water shortages, and others. We did not 
+apply restrictions on the type or the timeframe of effects and exposure 
+measures (e.g., year-round hot or cold temperatures, heat waves or cold 
+spells). 
+We included studies based on daily, weekly, monthly or annual 
+temperatures, and those combining measures of temperature and hu-
+midity (apparent temperature, Humidex, Heat Index, Wet Bulb Globe 
+Temperature, etc.). Since there is no standard definition of heat waves 
+with respect to human health in the literature, we included all studies 
+referring to heat wave episodes. We excluded studies looking only at 
+seasonal effects on mortality without explicitly considering tempera-
+tures. Regarding types of study design, we considered time series 
+studies, case-crossover studies as well as single episode analyses. Since 
+the focus was on studies examining the quantitative association between 
+ambient temperature and mortality, we excluded discussion articles, 
+case studies, and articles featuring descriptive analysis only (See Table 
+S2). 
+After we combined the search results and removed duplicates, one of 
+the reviewers (AD) screened all the titles and abstracts and assessed their 
+relevance against the inclusion criteria (see Table S2). To validate these 
+results a second reviewer (CT) screened a sample of 20% of all retrieved 
+titles and abstracts. Independent judgment of the two reviewers differed 
+for 0.3% of the titles and abstracts, but perfect agreement on which 
+studies should be selected was reached through discussion. Two re-
+viewers (AD and VI) separately assessed full texts for eligibility, based on 
+the pre-defined inclusion and exclusion criteria. In the case of discrep-
+ancies, disagreements were resolved with the involvement of a third 
+senior investigator (CT). 
+2.3. Data extraction 
+Both investigators independently retrieved the main characteristics 
+and results of the included studies using a standardised data extraction 
+form. The following information was retrieved from each article: loca-
+tion and study period, study design, statistical methods and sensitivity 
+analysis, inclusion of lagged effects, control of confounding and modi-
+fying factors, exposure and outcome measure(s) and their data source(s), 
+observed temperature and humidity ranges, minimum mortality tem-
+perature (MMT), reported effect estimates, subgroup analysis, mortality 
+displacement, key findings, and modeled or suggested adaptation stra-
+tegies. We pilot tested the data extraction form to ensure accuracy and 
+consistency during the entire process. Data collected by both reviewers 
+were compared and any discrepancies were resolved through discussion 
+and consensus. In several instances, study authors were contacted to 
+obtain additional data necessary for the analysis or to clarify ambiguous 
+information. 
+2.4. Assessment of evidence 
+We assessed the quality and strength of the evidence separately for 
+the association between ambient temperature and all-cause mortality 
+and heat wave events and all-cause mortality following the Navigation 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+4
+Guide framework (Johnson et al., 2014; Woodruff and Sutton, 2014). 
+The Navigation Guide methodology has been specifically developed for 
+the assessment of the quality and strength of the evidence of research in 
+the environmental health field (Johnson et al., 2014). The assessment 
+proceeded in three stages: i) rating the Risk of Bias (RoB) for each in-
+dividual study, ii) rating the quality of the evidence across all studies, 
+and iii) rating the strength, or certainty, of the evidence across all 
+studies. 
+2.4.1. Assessment of the risk of bias in individual studies 
+We assessed the quality of individual studies using the Office of 
+Health Assessment and Translation (OHAT) Risk of Bias Rating Tool for 
+Human and Animal Studies. Since OHAT does not specifically consider 
+time series environmental health study designs, in collaboration with 
+subject-matter experts (CT, XB, OR, JB) we adapted some of its domains 
+to better tailor it to our research question (See Table S3). We evaluated 
+each study against the following six domains of Risk of Bias (RoB): se-
+lection, confounding, exposure assessment, outcome assessment, selec-
+tive reporting and other bias (appropriateness of statistical methods). 
+For each of these possible sources of bias we rated the RoB as definitely 
+low, probably low, probably high and definitely high. The rating scale is 
+based on a conservative approach, where insufficient information to 
+judge the risk of bias for specific domain results in a rating of probably 
+high risk of bias. The two reviewers (AD, VI) independently performed 
+the risk of bias assessment and discussed results with the other co- 
+authors in case consensus could not be reached. Following the Naviga-
+tion Guide Methodology, we considered an individual study to have a 
+definitely low or probably low RoB if all domains of assessment were rated 
+as definitely low or probably low. Due to the very limited number of 
+studies the results of the RoB assessment were not used to exclude 
+studies from the quantitative synthesis. 
+2.4.2. Assessment of the quality of the evidence across studies 
+We rated the overall quality of the evidence for studies on ambient 
+temperature and heat wave episodes separately. Rating categories 
+included high, moderate, or low. Following the approach in the Naviga-
+tion Guide, we initially rated the body of evidence as moderate and then 
+“downgraded” or “upgraded” this rating based on eight factors. The 
+downgrading factors included risk of bias across studies, indirectness, 
+inconsistency, imprecision, publication bias, and the upgrading factors 
+consisted of size of the effect, dose response pattern and possibility of 
+confounding minimizing effects. We assessed the RoB across studies 
+based on the RoB rating of individual studies, as outlined above. As 
+recommended in the Navigation Guide, the RoB across studies was 
+judged on the basis of each study, but with more weight placed on high 
+quality studies. 
+2.4.3. Assessment of the strength of the evidence across studies 
+We also rated the strength of the body of evidence, separately for 
+ambient temperature and heat wave episodes, based on the following 
+four considerations outlined in the Navigation Guide: i) quality of the 
+body of evidence (i.e., rating from previous assessment stage), ii) di-
+rection of effect, iii) confidence in the effect (likelihood that a new study 
+would change our conclusions) and iv) any other attributes of the data 
+that might affect certainty. 
+2.5. Meta-analysis 
+From the studies included in the review, we selected those that were 
+sufficiently compatible in terms of study design, outcome and exposure 
+measures, and lag structure, in order to conduct a meta-analysis of the 
+association between temperature and mortality. After screening all 
+studies, we identified that the most common choice of study design, 
+outcome and exposure variables, and lag structure was the following: 
+time series studies using daily all-cause mortality and daily mean tem-
+perature and reporting effects for lag 0–1 and lag 0–13 days. Hence, we 
+limited our choice to studies with these characteristics (Burkart et al., 
+2011; Fu et al., 2018; Hashizume et al., 2009; Ingole et al., 2017; 
+McMichael et al., 2008). For studies that included a plot of the 
+temperature-mortality association, we extracted numerical representa-
+tion of the exposure–response curves and their confidence intervals at 
+every 0.5 increment of the temperature values using the web-based tool 
+WebPlotDigitizer (Rohatgi, 2014). Authors of two studies that did not 
+include such visualizations were contacted to acquire the necessary 
+data. We also extracted the following data: i) average number of daily 
+deaths, ii) number of days analysed in the study and iii) range of the 
+distribution of exposure variables. The analysis was performed sepa-
+rately for the exposure response curves at lag 0–1 days and lag 0–13 
+days. Since the reference value used across studies differed (in most 
+cases this was the MMT), recalculation of the curves and standard errors 
+using a common reference value was necessary before combining the 
+curves. We set the reference values for re-centering the curves to be 
+equal to the average MMT across the included studies. This corre-
+sponded to 24.5 ◦C for the exposure response curves at lag 0–1 days and 
+26.5◦C at lag 0–13 days. Even though the selected studies include lo-
+cations within different climatic zones, they have comparable temper-
+ature distributions and all of them included the reference temperature 
+values for the meta-analysis. Although the estimates across a single 
+exposure–response curve are correlated because they share the same 
+reference category, without available data on these correlations, it is not 
+possible to compute the standard errors that would result from re- 
+centering the curve to another reference value. To overcome this chal-
+lenge and calculate the standard errors after re-centering the curves 
+without access to the individual-level data, we applied the recently 
+developed methodology by Basaga˜na (2019). Using the extracted data 
+described above, the method allows to simulate individual datasets in 
+order to change the reference category and approximate the confidence 
+intervals (Basaga˜na, 2019). In brief, the approach consists in the gen-
+eration of a dataset, which has an identical number of observations as 
+the original one and upon analysis produces a good approximation of the 
+exposure–response function and confidence interval reported by the 
+study. A more detailed description of the methodology, including a 
+reproducible example with R software code, is available in the publi-
+cation Basaga˜na (2019). After calculating the standard errors and the 
+exposure–response estimates at each temperature increment, we com-
+bined the non-linear exposure–response curves of the individual studies 
+using a meta-smoothing approach (Schwartz and Zanobetti, 2000). The 
+latter method consisted of conducting a random-effects point-wise meta- 
+analysis for each exposure level (Schwartz and Zanobetti, 2000). The 
+analysis was performed using the R (version 3.6.1) package ’metafor’ 
+(Viechtbauer, 2010). The datasets and the R software code for con-
+ducting the analysis are available in the Supplementary Material of this 
+publication. 
+3. Results 
+3.1. Literature search 
+We identified a total of 10, 713 references from the electronic da-
+tabases’ search and through other sources, after removal of duplicate 
+entries. After screening these for relevance based on title and abstract, 
+we selected 50 articles for in-depth review. A detailed evaluation of the 
+content against the inclusion criteria resulted in 27 studies being 
+included in the final analysis. The flow diagram in Fig. 2 illustrates in 
+detail the literature search and the selection process. 
+3.2. Characteristics of included studies 
+Among the included studies, about half (n = 15; 56%) examined the 
+effects of both heat and cold on mortality, five (19%) focused only on 
+heat effects and one on cold effects, while nine studies (33%) assessed 
+the association of heat waves with mortality and one addressed the 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+5
+association between cold spells and mortality (See Table 1 for a more 
+detailed description). The studies used diverse approaches for defining 
+hot and cold temperature effects — based on the MMT, a specific 
+percentile of the temperature distribution, an arbitrary temperature 
+threshold, the season (summer/winter months), deviation of tempera-
+tures from their annual average, or simply based on the pattern of the 
+temperature-mortality relationship. The definition of heat waves was 
+not uniform across studies. Five used the conventional approach of 
+considering both the duration and intensity of a heat wave (Mazdiyasni 
+et al., 2017; Nissan et al., 2017; Nori-Sarma et al., 2019a; Singh et al., 
+2019; Nori-Sarma et al., 2019b), while the rest considered only its in-
+tensity. Four studies used the heat wave definition by the India Meteo-
+rological Department (IMD) based only on maximum temperature 
+thresholds (Azhar et al., 2014; Murari et al., 2015; Nori-Sarma et al., 
+2019a; Nori-Sarma et al., 2019b) and one study did not provide a spe-
+cific definition, but analysed maximum temperatures and heat-induced 
+Records identiﬁed through 
+database searching  
+(n = 10, 713 ) 
+Pubmed: n = 3, 606 
+Web of Science: n = 3, 173 
+Scopus: n = 2, 824 
+Embase: n= 1, 110
+ScreeningIncluded Eligibility Identiﬁcation 
+Additional records identiﬁed 
+through lateral reference 
+search in the included studies  
+(n = 2) 
+Records after duplicates removed 
+(n = 6,759) 
+Records screened 
+(n = 6, 759) 
+Records excluded 
+(n = 6, 709) 
+Full-text articles 
+assessed for eligibility  
+(n = 50) 
+Full-text articles excluded, 
+with reasons (Table S4)  
+(n = 23) 
+Studies included in the 
+qualitative synthesis  
+(n = 27) 
+Studies included in the quantitative 
+synthesis (meta-analysis) 
+(n = 5, Hashizume et al., 2009; Burkart 
+et al., 2011; McMichael et al., 2008; 
+Ingole et al., 2017; Fu et al., 2018) 
+Fig. 2. Flow diagram of literature search and study selection process.  
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+6
+Table 1 
+Characteristics of reviewed studies and main findings.  
+Reference Methods      Exposure Outcome Main findings  
+Study population 
+and location 
+Category of 
+effect 
+Study period Study design and 
+statistical method 
+Lag structure Control variables 
+(confounders and 
+effect modifiers) 
+Measure and source Measure and source  
+Rural areas 
+Alam et al. 
+(2012) 
+General 
+population 
+Abhoynagar, 
+Bangladesh 
+Heat and cold 
+effects 
+(continuous 
+temperature) 
+1983–2009 Time series 
+analysis, Poisson 
+generalized 
+additive model 
+(GAM) 
+Lag 0–1 week, lag 
+0–2 week, lag 
+0–3 week 
+Time trend, seasonal 
+pattern 
+Average weekly mean 
+temperature 
+Bangladesh 
+Meteorological 
+Department 
+All-cause mortality (n =
+4,850) 
+ICDRR, B́s Sample Vital 
+Registration System 
+(SVRS) in Abhoynagar 
+subdistrict 
+Weekly mean temperatures 
+(lag 0) below the 25th 
+percentile and between the 
+25th (23 ◦C) and 75th 
+percentiles (29.6 ◦C) were 
+associated with increased 
+mortality risk, particularly in 
+females and adults aged 
+20–59 years by 2.3–2.4% 
+(CI: 4.4, 0.1) for every 1 ◦C 
+decrease. Temperature 
+above the 75th percentile 
+(29.6 ◦C) did not increase 
+the risk. 
+Hashizume 
+et al. 
+(2009) 
+General 
+population 
+Matlab, 
+Bangladesh 
+Heat and cold 
+effects 
+(continuous 
+temperature) 
+1994–2002 Time series 
+analysis, Poisson 
+generalized linear 
+model 
+Lag 0–1 days, lag 
+0–13 days 
+(cumulative) 
+Year, season, day of 
+the week, public 
+holiday 
+Daily mean temperature 
+Bangladesh 
+Meteorological 
+Department 
+All-cause mortality 
+excluding external causes 
+(n = 13, 270) and cause- 
+specific mortality 
+(cardiovascular, 
+respiratory, perinatal, 
+infectious and parasitic 
+mortality and others) 
+ICDRR, B́s Health and 
+Demographic 
+Surveillance System 
+(HDSS) in Matlab 
+Every 1 ◦C decrease in mean 
+temperature (lag 0–13) was 
+associated with a 3.2% (95% 
+CI 0.9, 5.5) increase in all- 
+cause mortality. There was 
+no clear heat effect on all- 
+cause mortality for any of 
+the lags examined. Heat 
+effect was observed only for 
+cardiovascular mortality (lag 
+0–1), mortality from 
+infectious diseases (lag 
+0–13) and mortality in 
+elderly people (lag 0–1). 
+Sewe et al. 
+(2018) 
+General 
+population 22 
+villages in Pune 
+district, India 
+Heat and cold 
+effects 
+(continuous 
+temperature) 
+2003–2012 Time series 
+analysis, Quasi- 
+Poisson 
+distributed-lag 
+non-linear models 
+(DLNM) 
+Lag 0–14 
+(separate) 
+Trend, season, day of 
+the week, indicator 
+for “heaping days” 
+Daily max temperature 
+National Oceanic and 
+Atmospheric 
+Administration (NOAA) 
+All-cause mortality (daily 
+mean number of deaths: 
+0.9, n = 2,958) 
+Vadu HDSS 
+Heat (lag 0–14) was 
+associated with YLL (26.03 
+YLL; 95% CI:   0.36, 52.42 at 
+the 95th percentile, 39 ◦C 
+compared to 30 ◦C), but 
+there was no evidence of an 
+association with cold. 
+Ingole et al. 
+(2017) 
+General 
+population aged 
+15 and older 22 
+villages in Pune 
+district, India 
+Heat and cold 
+effects (summer 
+and winter 
+months) 
+2004 – 2013 Case-crossover 
+study, Quasi- 
+Poisson regression 
+(1st stage 
+analysis) and 
+Conditional 
+logistic regression 
+model (2nd stage 
+analysis) 
+Lag 0–1 days and 
+lag 0–13 days 
+(cumulative) 
+Season, time trend, 
+education, 
+occupation and 
+ownership of 
+agricultural land; 
+potential temporal 
+confounders and 
+time-invariant 
+confounders 
+controlled for “by 
+design” 
+Daily mean temperature 
+National Oceanic and 
+Atmospheric 
+Administration NOAA and 
+India Meteorological 
+Department 
+All-cause mortality (n =
+3,079) Vadu HDSS 
+Temperature above a 
+threshold of 31 ◦C was 
+associated with total 
+mortality (OR 1.48, CI: 1.05, 
+2.09) per 1 ◦C increase in 
+daily mean temperature. 
+Odds ratios were higher 
+among females, those with 
+low education, those owing 
+larger agricultural land, and 
+farmers. In winter, per 1 ◦C 
+decrease in mean 
+temperature, OR for total 
+mortality was 1.06 (CI =
+1.00–1.12) in lag 0–13 days, 
+with higher risk observed 
+(continued on next page) 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+7
+Table 1 (continued) 
+Reference Methods      Exposure Outcome Main findings  
+Study population 
+and location 
+Category of 
+effect 
+Study period Study design and 
+statistical method 
+Lag structure Control variables 
+(confounders and 
+effect modifiers) 
+Measure and source Measure and source  
+among people occupied in 
+housework. 
+Ingole et al. 
+(2012) 
+General 
+population 22 
+villages in Pune 
+district, India 
+Heat and cold 
+effects 
+(continuous 
+temperature) 
+Jan 2003 - May 
+2010 
+Time series 
+analysis, Poission 
+regression model 
+lag 0–1 days, lag 
+2–6 days, lag 
+7–13 days 
+(cumulative) 
+Season, time trends Daily mean temperature 
+India Meteorological 
+Department 
+All-cause mortality 
+(n = 1 ,662) 
+Vadu HDSS 
+Both high and low 
+temperatures were 
+associated with all-cause 
+mortality over all age 
+groups, with children aged 5 
+years or below being 
+particularly affected. In the 
+age group 20–59, 1 ◦C 
+increase in temperature was 
+associated with 9.4% 
+increase in RR (95%CI: 3.6, 
+15.5) for lag 0–1 and 1 ◦C 
+decrease in temperature 
+with RR=  9.5 (95%CI: 
+  15.5,   3.2) for lag 2–6. 
+Ingole et al. 
+(2015) 
+General 
+population aged 
+12+
+22 villages in 
+Pune district, 
+India 
+Heat and cold 
+effects 
+(continuous 
+temperature) 
+Jan 2003 to Dec 
+2012 
+Time series 
+analysis, 
+Quasi-Poisson 
+model and 
+Logistic regression 
+model 
+Lag 0–1 days, lag 
+0–4 days 
+(cumulative) 
+Day of week, time 
+trend 
+Daily maximum 
+temperature 
+India Meteorological 
+Department 
+All-cause mortality (n =
+2,302) and cause-specific 
+mortality (infectious 
+diseases, non-infectious 
+diseases and mortality 
+from external causes) 
+Vadu HDSS 
+Heat was significantly 
+associated with total 
+mortality (RR = 1.33; 95% 
+CI: 1.07, 1.60) and mortality 
+from non-infectious diseases 
+(RR = 1.57; CI: 1.18, 2.10) 
+for lag 0–1. Men and people 
+in the age group 12–59 
+showed elevated risk for 
+total mortality. No 
+association between total 
+and cause-specific mortality 
+was found for cold 
+temperature. 
+Lindeboom 
+et al. 
+(2012) 
+General 
+population 
+Matlab, 
+Bangladesh 
+Heat and cold 
+effects 
+(continuous 
+temperature) 
+1983–2009 Time series 
+analysis, 
+Poisson 
+generalized 
+additive model 
+(GAM) 
+Lag 0–21 days, 
+(separate) 
+Time trend, season, 
+public holiday, 
+festivals, cyclones 
+Daily mean temperature, 
+daily max temperature 
+and daily min 
+temperature 
+Bangladesh 
+Meteorological 
+Department 
+All-cause mortality (n =
+48,238) 
+ICDRR, B́s (HDSS) in 
+Matlab 
+1.4% (95 %CI: 0.7, 2.0) 
+increase in mortality with 
+every 1 ◦C decrease in mean 
+temperature below 29.2 ◦C, 
+and 0.2% (95% CI:0.1,0.3) 
+increase in mortality with 
+every 1 ◦C increase in mean 
+temperature above 29.2 ◦C 
+for lag 0. Elderly, aged 60 
+years and above, were most 
+affected at lower 
+temperatures, with a 5.4% 
+(95% CI:   7.0,   3.5) 
+increase in mortality with 
+every 1 ◦C decrease in 
+temperature below 23 ◦C 
+(combined lag 0 and lag 
+1–5). 
+Babalola 
+et al. 
+(2018) 
+Infants and 
+children under 5 
+years 
+Heat and cold 
+effects 
+(continuous 
+temperature) 
+1982 – 2008 Time series 
+analysis, 
+OLS regression 
+Lag 0 months and 
+lag 0–1 months 
+Month, age and 
+gender 
+Monthly mean 
+temperature, monthly 
+max temperature 
+Bangladesh 
+All-cause mortality 
+(n = 49,426) 
+ICDRR, B́s HDSS in 
+Matlab 
+Each 1 ◦C increase in mean 
+monthly temperature 
+reduced monthly mortality 
+by 3.7 (SE 1.5, p < 0.05) 
+(continued on next page) 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+8
+Table 1 (continued) 
+Reference Methods      Exposure Outcome Main findings  
+Study population 
+and location 
+Category of 
+effect 
+Study period Study design and 
+statistical method 
+Lag structure Control variables 
+(confounders and 
+effect modifiers) 
+Measure and source Measure and source  
+Matlab, 
+Bangladesh 
+with ARIMA 
+errors 
+Meteorological 
+Department 
+points. Effect sizes of mean 
+monthly temperature were 
+larger for neonates at 1.1 (SE 
+0.5, p < 0.05) than for post 
+neonates at 0.9 (SE 0.3, p <
+0.05) reductions in mortality 
+per 1 ◦C. 
+Urban areas          
+Hajat et al. 
+(2005) 
+General 
+population Delhi, 
+India 
+Heat effects 
+(continuous 
+temperature) 
+1991–1994 Time series 
+analysis, 
+Poisson 
+generalized linear 
+model 
+Lag 0 days, lag 
+0–1 week, lag 
+0–4 weeks 
+(cumulative) 
+Season, time trend, 
+relative humidity, 
+rainfall, particulate 
+air pollution, day of 
+the week, public 
+holidays 
+Daily mean temperature 
+India Meteorological 
+Department 
+All-cause mortality, 
+excluding violent deaths 
+(mean daily number of 
+deaths: 25, n ~ 36,500) 
+and cause-specific 
+mortality 
+(cardiovascular, 
+respiratory and other 
+non-violent deaths) 
+data from the New Delhi 
+Municipal Committee 
+(NDMC) provided by the 
+World Bank 
+All-cause mortality 
+increased by 3.2% (95%CI: 
+1.8, 4.5) per 1 ◦C increase in 
+temperature above 20 ◦C 
+(lag 0–7 days). 
+Cardiovascular mortality 
+increased by 4.3% (95%CI: 
+1.1, 7.6) per 1 ◦C increase in 
+temperature above 20 ◦C 
+and respiratory by 4.5% 
+(95%CI: 0.0, 9.2) over the 
+same lag. Heat effects were 
+sustained up to 3–4 weeks 
+for non-respiratory deaths. 
+Children aged 0–14 years 
+and elderly faced the highest 
+risk, for children sustained 
+up to 4 weeks. 
+McMichael 
+(2008) 
+General 
+population Delhi, 
+India 
+Heat and cold 
+effects 
+(continuous 
+temperature) 
+1991–1994 Time series 
+analysis, 
+Poisson 
+generalized linear 
+model 
+Lag 0–1 days, lag 
+0–13 days 
+(cumulative) 
+Season, daily relative 
+humidity, day of the 
+week, public 
+holidays, daily, 
+particulate pollution 
+concentration 
+Daily mean temperature 
+India Meteorological 
+Department 
+All-cause mortality, 
+excluding external causes 
+(mean daily number of 
+deaths: 25, n ~ 36,500) 
+and cause-specific 
+mortality (cardio- 
+respiratory and non- 
+cardio-respiratory) 
+data from the NDMC 
+provided by the World 
+Bank 
+All non-external causes of 
+death increased by 3.9% 
+(95%CI: 2.8, 5.1) for each 1 
+◦C increase in temperature 
+above 29 ◦C (95%CI: 8, 30) 
+for lag 0–1 days and by 2.8% 
+(95%CI: 0.7, 4.9) for each 1 
+◦C decrease in temperature 
+below 19 ◦C (95%CI:.–39) 
+for lag 0–14 days. 
+Cardiorespiratory mortality 
+was found to increase by 
+203% (95%CI: 41.2, 553) for 
+each 1 ◦C below a cold 
+threshold of 12 ◦C (95%CI:. 
+–13) and by 3.94% (95%CI: 
+2.38–5.53) above a heat 
+threshold of 17 ◦C (95%CI: 
+12,19). Non-cardio- 
+respiratory mortality 
+increased by 2.7% (95%CI: 
+0.21, 5.16) for each 1 ◦C 
+below 19 ◦C (.–30) and by 
+4.3% (95%CI: 2.89, 5.72) for 
+each 1 ◦C above 30 ◦C (95% 
+CI: 27, 31). 
+(continued on next page) 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+9
+Table 1 (continued) 
+Reference Methods      Exposure Outcome Main findings  
+Study population 
+and location 
+Category of 
+effect 
+Study period Study design and 
+statistical method 
+Lag structure Control variables 
+(confounders and 
+effect modifiers) 
+Measure and source Measure and source  
+Desai et al. 
+(2015) 
+General 
+population Surat, 
+India 
+Heat effects 
+(summer 
+months) 
+2001–2012 Time series 
+analysis, Student ́s 
+t-test, correlation 
+analysis (lag 0, lag 
+1.) 
+Lag time 
+correlation for 
+one, two, three- 
+and four-days lag 
+NA Daily max T and heat 
+index (HI) 
+Tutiempo Network, S.L 
+website, based on data 
+exchanged under the 
+World Meteorological 
+Organization (WMO) 
+World Weather Watch 
+Program, local weather 
+station 
+All-cause mortality (n =
+36,167) 
+Birth and Death 
+Registration 
+Department of Surat 
+Municipal Corporation 
+(SMC) 
+Daily mean number of 
+deaths were 11% higher for 
+days with maximum 
+temperature above 40 ◦C 
+compared to days with 
+maximum temperature 
+below 35 ◦C. Mean number 
+of deaths were 9% higher 
+during danger-level heat-risk 
+days (HI = 41–54 ◦C) and 
+8% higher during high risk/ 
+extreme danger heat days 
+(HI = 41–54 ◦C), 
+respectively, compared to 
+mean number of deaths 
+during less risky or caution 
+days (HI = 27–31 ◦C). 
+Rathi et al. 
+(2017) 
+General 
+population Surat, 
+India 
+Heat effects 
+(summer 
+months) 
+2014 – 2015 
+(March to May) 
+Time series 
+analysis 
+Analysis of 
+variance, Student 
+t-test, Turkeýs 
+multiple 
+comparison post 
+hoc test, Pearson 
+correlation 
+analysis 
+Lag time 
+correlation for 
+one, two, three- 
+and four-days lag 
+NA Daily max temperature, 
+heat index (HI) 
+Tutiempo Network, S.L 
+website, based on data 
+exchanged under the 
+WMO World Weather 
+Watch Program, local 
+weather station 
+all-cause mortality 
+(n = 9,237) 
+Health Department of 
+SMC 
+The mean daily number of 
+deaths for days with 
+maximum temperature 
+below 35 ◦C was 48.0 ± 7.7, 
+which was 20% lower 
+compared to the mean daily 
+number of deaths for days 
+with maximum temperature 
+above or equal to 40 ◦C 
+(57.3 ± 7.2). 
+Azhar 
+(2014) 
+General 
+population 
+Ahmedabad 
+India 
+Heat wave event May 2010 Heat-episode 
+analysis 
+7-day moving 
+average; monthly 
+rate ratio analysis; 
+month-wise 
+correlation 
+NA NA Daily max and monthly 
+max temperature 
+Heat wave definition: An 
+excess of 5 ◦C over a 
+normal daily historical 
+maximum temperature 
+(30-year average) of<40 
+◦C; or an excess of 4 ◦C 
+over a normal historical 
+maximum temperature 
+of>40 ◦C. If the actual 
+maximum temperature is 
+above 45 ◦C,a heatwave is 
+declared irrespective of 
+the normal historical 
+maximum Temperature.  
+Indian Meteorology 
+Department’s 
+Meteorological 
+Aerodrome Report, 
+station at Ahmedabad 
+airport 
+all-cause mortality 
+(n = 4,462) 
+Death records of 
+Ahmedabad Municipal 
+Corporation (AMC) 
+Office of the Registrar of 
+Births and Deaths 
+Excess mortality in May 
+2010 was estimated to be 
+1,344 deaths, or 43.1% 
+above the reference period 
+(May 2009 and May 2011). 
+Mortality rate ratios for 
+heatwave days (May 19–25, 
+2010) in 2010 were 1.76 
+(95% CI: 1.67, 1.83) 
+compared to reference 
+period 1 (May 12–18, 2010) 
+and 2.12 (95% CI: 2.03, 
+2.21) compared to reference 
+period 2 (May 19–25 from 
+2009 and 2011). The gender 
+distribution highlights 
+significantly more female 
+deaths in the summer 
+months and in the heatwave 
+period. 
+Ghumman 
+and 
+Horney 
+(2016) 
+General 
+population 
+Karachi, Pakistan 
+Heat wave event June 2015 Heat-episode 
+analysis 
+Risk difference 
+NA NA Daily max temperature 
+AccuWeather, 
+State College, 
+Pennsylvania USA 
+Deaths attributable to 
+heat wave 
+(n = 1,220) 
+Official death certificates 
+Residents of Karachi were 
+approximately 17 times as 
+likely to die of a heat-related 
+cause of death during June 
+(continued on next page) 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+10
+Table 1 (continued) 
+Reference Methods      Exposure Outcome Main findings  
+Study population 
+and location 
+Category of 
+effect 
+Study period Study design and 
+statistical method 
+Lag structure Control variables 
+(confounders and 
+effect modifiers) 
+Measure and source Measure and source  
+and rate ratio 
+calculation 
+from public and private 
+hospitals 
+2015 (RR = 17.68; 95% CI: 
+13.8, 22.53) when compared 
+with the reference period of 
+June 2014. An excess risk of 
+mortality from heat-related 
+illness was found among the 
+poor and those with lower 
+levels of education during 
+the 2015 heatwave period 
+when compared with the 
+reference period. 
+Hess et al. 
+(2018) 
+General 
+population 
+Ahmedabad 
+(Gujarat), India 
+Heat wave 
+events 
+1 April to 30 June 
+for 2007–2010 
+and 2014–15 
+Heat-episode 
+analysis 
+Distributed Lag 
+Nonlinear Model 
+Up to 5 days lag NA Daily max temperature 
+Meteorological Aviation 
+Report (METAR) system 
+All-cause mortality 
+Registrar of Births and 
+Deaths office of AMC 
+Before the Heat Action Plan 
+(HAP), the RR of mortality 
+increased monotonically 
+over 40 ◦C with maximum 
+effect (RR of 2.34; 95% CI 
+1.98, 2.76) at 47 ◦C, lag 0. 
+After the HAP, the RR also 
+increased monotonically 
+over 40 ◦C, but with a 
+substantially lower 
+maximum effect (RR of 1.25; 
+1.02, 1.53) estimated at 47 
+◦C. 
+Nori-Sarma 
+et al. 
+(2019a) 
+General 
+population 
+(Mumbai ≥ 35 
+years old) 
+Five cities in 
+Northwest India: 
+Jaipur, Churu, 
+Idar, 
+Himmatnag-ar, 
+Mumbai 
+Heat wave 
+episodes and 
+continuous 
+temperature 
+2000–2012 Time series 
+analysis 
+Generalized linear 
+model for heat 
+wave analysis and 
+over-dispersed 
+Poisson regression 
+for continuous 
+temperature 
+analysis 
+NA Day of the week, 
+time trend, daily 
+max temperature for 
+a community at a 
+specific lag (same 
+day or previous day), 
+adjusted dewpoint 
+temperature, 
+population offset 
+Daily max temperature, 
+dewpoint temperature 
+Heat wave definitions: 
+1) ≥ 2 consecutive days 
+with daily maximum 
+temperature (Tmax) 
+higher than the 
+community’s 97th 
+percentile Tmax. 2) 
+Modified IMD definition: 
+hill stations - Tmax of 5–6 
+◦C or more above 
+“normal” baseline 
+temperature (over entire 
+temperature record); 
+plains stations - Tmax of 
+4–5 ◦C or more above 
+“normal” baseline 
+temperature (over entire 
+temperature record) 
+India Meteorological 
+Department, NOAA’s 
+Global Summary of the 
+Day (GSOD) 
+All-cause mortality 
+(n = 389,665) 
+Local municipal 
+governments 
+Overall, across the four 
+communities, mortality risk 
+is estimated at 18.11% 
+higher [95% interval  
+5.31%, 47.33%] on 97PoT 
+heatwave days compared to 
+non-heatwave days. Using 
+the IMD heatwave 
+definition, estimated risk of 
+mortality is 15.46% 
+[  0.929%, 34.556%] 
+comparing heatwave days to 
+non-heatwave days. Limited 
+evidence of effect 
+modification by heatwave 
+characteristics (intensity, 
+duration, and timing in 
+season) was found, but 
+central estimates suggest 
+more harmful heatwaves 
+later in the warm season. 
+Nori-Sarma 
+et al. 
+(2019b) 
+General 
+population 
+(Mumbai ≥ 35 
+years old) 
+Five cities in 
+Heat wave 
+episodes 
+Jaipur 
+(2005–2012); 
+Churu 
+(2003–2012); Idar 
+and Himmatnagar 
+Time series 
+analysis 
+Propensity Score 
+Matching, Quasi- 
+lag 0–14 time trend; seasonal 
+and cyclical 
+variation; days of the 
+week; adjusted dew 
+point temperature 
+Daily max temperature 
+Heat wave definitions: 
+1) IMD heat wave 
+definition; 2) > 2 days 
+exceeding the 90th T 
+All-cause mortality 
+(n = 389,665) 
+Local municipal 
+governments 
+There is a wide variation in 
+the RR associated with heat 
+waves depending on the 
+criteria used for defining 
+heat waves. RR of mortality 
+(continued on next page) 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+11
+Table 1 (continued) 
+Reference Methods      Exposure Outcome Main findings  
+Study population 
+and location 
+Category of 
+effect 
+Study period Study design and 
+statistical method 
+Lag structure Control variables 
+(confounders and 
+effect modifiers) 
+Measure and source Measure and source  
+Northwest India: 
+Jaipur, Churu, 
+Idar, 
+Himmatnag-ar, 
+Mumbai 
+(2006–2012); 
+Mumbai 
+(2000–2012) 
+Poisson regression 
+model 
+percentile; 3) > 3 days 
+exceeding the 90th T 
+percentile; 4) > 4 days 
+exceeding the 90th T 
+percentile; 5) > 2 days 
+exceeding the 92.5th T 
+percentile; 6) > 3 days 
+exceeding the 92.5th T 
+percentile; 7) > 4 days 
+exceeding the 92.5th T 
+percentile; 8) > 2 days 
+exceeding the 95th T 
+percentile; 9) > 3 days 
+exceeding the 95th T 
+percentile; 10) > 4 days 
+exceeding the 95th T 
+percentile; 11) > 2 days 
+exceeding the 97.5th T 
+percentile; 12) > 3 days 
+exceeding the 97.5th T 
+percentile; 13) > 4 days 
+exceeding the 97.5th T 
+percentile; 
+India Meteorological 
+Department, NOAA’s 
+GSOD 
+ranged from 1.28 [95% 
+CI:1.11, 1.46] in Churu 
+under the 95%_2d heat wave 
+definition to 1.03 [95% CI: 
+0.87, 1.23] in Idar and 
+Himmatnagar under the 
+95%_4d definition. Some 
+heat wave definitions were 
+associated with a high RR; 
+but lower attributable 
+mortality because few days 
+on record match those 
+criteria. Heat waves that 
+occur later in the season 
+have a higher impact on 
+health (higher RR) than 
+those that occur earlier in 
+the season. 
+Singh et al. 
+(2019) 
+General 
+population 
+Varanasi, India 
+Continuous 
+temperature 
+(summer, 
+winter, other 
+months), heat 
+wave episodes 
+and cold spells 
+2009–2016 Time series 
+analysis 
+Semipara-metric 
+quasi-Poisson 
+regression model 
+A restricted 
+distributed lag 
+model up to 7 
+days’ lag with 
+polynomial of 
+degree two and 
+single lag model 
+up to 7 days lag 
+Time trend, relative 
+humidity, ambient 
+air pollution and 
+days of the week. 
+Daily min, max and mean 
+temperature, diurnal 
+temperature variations 
+(DTV) 
+Heat wave definition: an 
+event during summer with 
+daily mean temperature 
+remaining equal to or 
+above the 95th percentile 
+of annual mean 
+temperature (≥34.5 ◦C) 
+for at least 3 consecutive 
+days 
+Cold spell definition: an 
+event during winter with 
+daily mean temperatures 
+equal to or below the 5th 
+percentile of annual mean 
+temperature (≤14.7 ◦C) 
+for at least 3 consecutive 
+days [moving average lag 
+(0–2)]. 
+India Meteorological 
+Department 
+All-cause mortality 
+(n = 64,712) 
+Municipal Corporation of 
+Varanasi 
+During summer, a unit 
+increase in daily 
+temperature was associated 
+with 5.6% increase in all- 
+cause mortality (95% CI: 
+4.69, 6.53%). During winter, 
+a unit decrease in daily 
+temperature was associated 
+with 1.5% increase in all- 
+cause mortality (95% CI: 
+0.88, 2.18%). Increase in all- 
+cause mortality was highest 
+for people ≥ 65 years of age 
+(  2.71% in winter to 6.83% 
+in summer) and gradually 
+reduced with the decrease in 
+age, except for 0–4 years age 
+group. Higher mortality 
+found for non-institutional 
+deaths (those dying outside 
+the hospital) compared to 
+institutional deaths (those 
+dying within the hospital). 
+RR of 1.13 (95% CI: 1.04, 
+1.22) for heat wave days vs. 
+non-heat wave days and RR 
+of 1.06 (95% CI: 0.98, 1.14) 
+(continued on next page) 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+12
+Table 1 (continued) 
+Reference Methods      Exposure Outcome Main findings  
+Study population 
+and location 
+Category of 
+effect 
+Study period Study design and 
+statistical method 
+Lag structure Control variables 
+(confounders and 
+effect modifiers) 
+Measure and source Measure and source  
+for cold spell days vs. non- 
+cold spell days. Higher RR 
+for heat waves for females 
+(RR 1.22, 95% CI: 
+1.09–1.37) compared to 
+males (RR 1.09, 95% CI: 
+0.99–1.20), no significant 
+difference for cold spells. 
+Highest RR for heat waves 
+for age group <4 years (RR 
+1.39, 95% CI: 1.16–1.69), 
+and for cold spells   45–64 
+years age group (RR 1.17, 
+95% CI: 1.03–1.33). 
+The DTV showed a negative 
+association with all-cause 
+mortality. 
+Dutta et al. 
+(2020) 
+General 
+population 
+Bhubaneswar 
+city (Odisha), 
+India 
+Continuous 
+temperature 
+(summer 
+months) 
+March to July 
+(2007 – 2014) 
+Time series 
+analysis 
+Generalized 
+Additive Model 
+with quasi-Poisson 
+distribution, 
+DLNM 
+Lag 0 and lag 0–1 
+days 
+lLLong-term trend, 
+seasonality, day of 
+the year, day of the 
+week, relative 
+humidity 
+Daily max and daily min 
+temperature 
+Bhubaneswar 
+Meteorological Centre of 
+the Indian Meteorological 
+Department 
+All-cause mortality 
+(n = 16,033) 
+Bhubaneswar Municipal 
+Corporation 
+Two ‘thresholds’ of max 
+temperatures were 
+identified, beyond which 
+mortality increases – lower 
+at 36.2 ◦C and upper at 40.5 
+◦C. Every degree rise of T- 
+max above 36.2 ◦C increased 
+the mortality risk by 2% (RR: 
+1.02; 95% CI 1.01, 1.03) and 
+each degree rise of T-max 
+above 40.5 ◦C increased it by 
+6% (RR: 1.0616, 95% CI: 
+1.03, 1.09). Daily T-max had 
+significantly more effect on 
+daily all-cause mortality 
+rates when the minimum T- 
+min was above its median 
+value (25.6 ◦C) as compared 
+to when it was below the 
+median. 
+Urban and 
+rural 
+areas          
+Burkart et al. 
+(2014b) 
+General 
+population 
+Bangladesh 
+Heat and cold 
+effects 
+(continuous 
+temperature) 
+2003–2007 Time series 
+analysis, 
+Semi-parametric 
+Poisson DLNM 
+Lag 0–1 days, lag 
+0–4 days for 
+children and 
+youths 
+(cumulative) 
+Time trend, season, 
+and day of the week 
+Daily mean values of the 
+universal thermal climate 
+index (UTCI) 
+Bangladesh 
+Meteorological 
+Department 
+All-cause mortality, 
+excluding accidental and 
+maternity-related deaths 
+and deaths of infants 
+younger than 1 year of 
+age (n = 22,840) and 
+cause-specific mortality 
+(cardiovascular and 
+infectious diseases) 
+ICDRR, B́s SVRS in 
+Bangladesh 
+All-cause mortality and 
+mortality from 
+cardiovascular and 
+infectious diseases were 
+positively associated with 
+UTCI below and above a 
+threshold, ranging between 
+34 and 35 ◦C UTCI. All-cause 
+mortality increased by 
+31.3% (95%CI: 24.5 – 44.3) 
+per 1 ◦C increase in UTCI 
+above breakpoint (lag 0–1). 
+Heat effects were strongly 
+(continued on next page) 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+13
+Table 1 (continued) 
+Reference Methods      Exposure Outcome Main findings  
+Study population 
+and location 
+Category of 
+effect 
+Study period Study design and 
+statistical method 
+Lag structure Control variables 
+(confounders and 
+effect modifiers) 
+Measure and source Measure and source  
+pronounced for the elderly, 
+for males, and for those 
+living in urban and high 
+socio-economic status areas. 
+Burkart et al. 
+(2011) 
+General 
+population 
+Bangladesh 
+Heat and cold 
+effects 
+(continuous 
+temperature) 
+2003–2007 Time series 
+analysis, 
+Poisson 
+generalized 
+additive model 
+Lag 0–1 days, lag 
+0–6 days and lag 
+0–13 days 
+(cumulative) 
+Time trend, season, 
+day of the month 
+Heat Index (HI), 
+physiological equivalent 
+temperature (PET), 
+universal thermal climate 
+index (UTCI) 
+Bangladesh 
+Meteorological 
+Department 
+All-cause mortality, 
+excluding accidental, 
+maternity related and 
+infant mortality 
+(n = 21, 655) and cause- 
+specific mortality 
+(cardiovascular 
+mortality) 
+ICDRR,B́s SVRS in 
+Bangladesh 
+Mortality increased by 4.4% 
+(95%CI: +/-5.4) per 1 ◦C 
+increase in temperature 
+above a specific threshold in 
+rural areas and 13.7% (95% 
+CI: +/-10.9) in urban areas 
+(lag 0–1). Mortality 
+increased by 2.6 (95%CI: 
++/-0.6) per 1 ◦C decrease in 
+temperature below 
+threshold in rural areas and 
+by 3.3% (95%CI: +/-1.8) in 
+urban areas (lag 0–13), 
+respectively. A heat effect on 
+cardiovascular mortality was 
+only observed in urban 
+areas. 
+Fu et al. 
+(2018) 
+General 
+population India 
+Heat and cold 
+effects 
+(continuous 
+temperature) 
+2001–2013 Case-crossover 
+study, DLNM 
+Lag 0–21 days 
+(cumulative) 
+Potential temporal 
+confounders and 
+time-invariant 
+confounders 
+controlled for “by 
+design” 
+Daily mean temperature 
+India Meteorological 
+Department 
+All-cause mortality at all 
+ages, excluding injury 
+and ill-defined medical 
+causes (n = 411,613) 
+and cause-specific 
+mortality (ischemic heart 
+disease, respiratory 
+diseases, malaria and 
+cancer among adults 
+aged 30–69) 
+India’s Million Death 
+Study, Sample 
+Registration System, 
+Registrar General of India 
+For all medical causes and 
+ages, moderately cold 
+temperature was associated 
+with a higher attributable 
+risk (OR) (6.3%, 95% CI: 1.1, 
+11.1) than extremely cold, 
+moderately hot, and 
+extremely hot temperatures, 
+each of which were<0.6%. 
+The risk related to 
+moderately cold 
+temperature was most 
+pronounced for the 
+population aged 30–69 years 
+and 70 + . For cause-specific 
+deaths at ages 30–69 years, 
+moderately cold 
+temperature was associated 
+with attributable risks of 
+27.2% (95% CI: 11.4, 40.2) 
+for stroke, 9.7% (95% CI: 3.7 
+to 15.3) for IHD, and 6.5% 
+(95% CI: 3.5, 9.2) for 
+respiratory diseases. 
+Burkart and 
+Kinney 
+(2017) 
+General 
+population 
+Bangladesh 
+Cold effects 
+(continuous 
+temperature and 
+seasonal 
+temperature) 
+2003–2007 Time series 
+analysis, 
+Poisson GAM and 
+Poisson DLNM 
+Lag 0–1 days, lag 
+0–2 days, lag 0–4 
+days, lag 0–7 
+days, lag 0–14 
+days and lag 
+0–21 days 
+(cumulative) 
+Time trend, season, 
+day of the month 
+Daily mean temperature, 
+daily max temperature, 
+daily min temperature, 
+diurnal temperature range 
+(DTR) 
+Bangladesh 
+Meteorological 
+Department 
+All-cause mortality, 
+excluding external causes 
+and maternity-related 
+deaths (n = 25, 226) 
+ICDRR, B́s SVRS in 
+Bangladesh 
+During the winter season, 
+mortality increased with 
+1.7% (95% CI =
+0.86–2.54%) per 1 ◦C 
+decrease in temperature (lag 
+0–1 days). Heat effects 
+observed during the summer 
+(continued on next page) 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+14
+Table 1 (continued) 
+Reference Methods      Exposure Outcome Main findings  
+Study population 
+and location 
+Category of 
+effect 
+Study period Study design and 
+statistical method 
+Lag structure Control variables 
+(confounders and 
+effect modifiers) 
+Measure and source Measure and source  
+season were stronger than 
+over the entire year. 
+Shrestha 
+et al. 
+(2017) 
+General 
+population Nepal 
+Heat and cold 
+effects 
+(continuous 
+variable) 
+2009–2014 Time series 
+analysis 
+Generalized linear 
+model (GLM) with 
+log link function 
+(Poisson model) 
+3-day prior 
+moving average 
+for all-cause 
+mortality; 7-day 
+geometrical 
+decay effect for 
+water- and 
+vector- borne 
+mortality 
+Seasonal dummy 
+variables, day of 
+week (Saturday) and 
+secular trend, 
+humidity, wind [for 
+all-cause mortality]; 
+wind, time trend [for 
+water- and vector- 
+borne mortality] 
+Daily average 
+temperature 
+weekly data of the number 
+of days of occurrence of 
+extreme events 
+Department of Hydrology 
+and Meteorology (DHM), 
+Kathmandu, 16 
+meteorological stations in 
+the country 
+All-cause mortality (n =
+10,000) 
+and cause-specific 
+mortality (vector-bore 
+and water-borne 
+diseases) 
+inpatient records from 22 
+hospitals in Nepal 
+All-cause mortality 
+increased by 1.4% per 1 ◦C 
+increase in the absolute 
+difference of average 
+temperature with its overall 
+average (20 ◦C) (3-day prior 
+moving average) (parameter 
+estimate: 0.014, 95% CI: 
+0.002, 0.026). All-cause 
+mortality also increased with 
+decreasing temperature 
+relative to overall average 
+condition (20 ◦C). Mortality 
+from water-borne and 
+vector-borne diseases 
+increased by 3.7% per 1 ◦C 
+rise in daily average 
+temperature (7-day 
+geometrical decay effect). 
+Association between 
+mortality from water-borne 
+and vector-borne diseases 
+and extremely cold days 
+(<4.6 ◦C) was also reported, 
+as well as between mortality 
+from water borne and renal 
+diseases and extremely hot 
+days (above 95 percentile of 
+maximum temperature). 
+Mazdiyasni 
+et al. 
+(2017) 
+General 
+population India 
+Heat wave 
+episodes 
+1960–2009 Annual time series 
+analysis 
+Correlation 
+analysis, 
+Kolmogorov- 
+Smirnov test; 
+Man-Kendall Test 
+and Conditional 
+probabilistic 
+model 
+NA NA Daily mean and max 
+temperature (summer 
+months) 
+Heat wave definition: 
+Three or more consecutive 
+days of temperatures 
+above the 85th percentile 
+of the hottest month for 
+each specific location. 
+Four different heatwave 
+properties are assessed: (i) 
+accumulated heatwave 
+intensity, (ii) annual 
+heatwave count, (iii) 
+mean heatwave duration, 
+and (iv) heatwave days. 
+India Meteorological 
+Department 
+heat-related mortality 
+(n = 10, 619) 
+India Meteorological 
+Department, annual 
+reports 
+The increase in summer 
+mean temperature in India 
+over 1960–2009 
+corresponds to a 146% 
+increase in the probability of 
+heat-related mortality events 
+of >100 people. 
+Murari et al. 
+(2014) 
+General 
+population Four 
+states in India: 
+Delhi, Rajasthan, 
+Heat wave 
+episodes 
+1997–2009 Annual Time 
+series analysis 
+OLS regression 
+NA NA Annual number of severe 
+heat wave days (HWD) 
+Heat wave definition: If 
+the maximum 
+Heat wave-induced 
+mortality (number of 
+deaths not reported) 
+Mortality records, 
+Positive significant 
+association (90% CI) 
+between annual mortality 
+rates and annual number of 
+(continued on next page) 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+15
+Table 1 (continued) 
+Reference Methods      Exposure Outcome Main findings  
+Study population 
+and location 
+Category of 
+effect 
+Study period Study design and 
+statistical method 
+Lag structure Control variables 
+(confounders and 
+effect modifiers) 
+Measure and source Measure and source  
+Maharashtra and 
+Orissa 
+temperature of a day 
+exceeds 45◦ C, 
+irrespective of the normal 
+maximum temperature of 
+a region, that day is 
+defined as a severe HWD. 
+In case a day’s maximum 
+temperature is<45◦ C, 
+that day is defined as a 
+severe HWD when (1) the 
+day’s maximum 
+temperature is at least 7◦
+C greater than the normal 
+temperature, and (2) the 
+maximum temperature of 
+that day is above 40◦ C. 
+Three different heat wave 
+properties are 
+characterised: (i) severe 
+heat wave intensity, (ii) 
+duration and (iii) 
+frequency 
+India Meteorological 
+Department 
+obtained from the 
+Ministry of Home Affairs 
+(Government of India) 
+severe HWDs is found for 
+Delhi (3.1, SE: +/-1.45), 
+Rajasthan (5.6, SE:+/-1.46), 
+and Maharashtra (2.3, 
+SE:+/-1.46). 
+Nissan et al. 
+(2017) 
+General 
+population 
+Bangladesh 
+Heat wave 
+episodes 
+1989–2011 Time series 
+analysis 
+Generalized 
+additive 
+regression models 
+NA NA Daily max temperature, 
+max and min day-and- 
+night temperature, daily 
+max heat index, daily max 
+and min heat index, daily 
+average temperature, 
+average heat index 
+Heat wave definition: 
+Definitions of six heat 
+wave indices are proposed 
+and assessed, 
+incorporating a range of 
+conditions known to be 
+important for heat stress: 
+day- and nighttimes 
+temperatures, humidity, 
+and duration. According 
+to all indices, a heat-wave 
+day is declared on the 
+third consecutive day on 
+which one (or two) 
+variables exceed the 95th 
+percentile of daily values. 
+[Calculated according to 
+the formulation used by 
+the U.S. National Weather 
+Service] 
+Bangladesh 
+Meteorological 
+Department 
+All-cause mortality, 
+excluding maternal and 
+accidental deaths 
+(n = 25,223) 
+ICDRR, B́s Sample Vital 
+Registration System 
+(SVRS) in Bangladesh 
+All proposed indices are a 
+statistically significant 
+predictor of mortality in 
+Bangladesh, with effect 
+estimates ranging between 
+10.4% and 24.0% increase in 
+mortality during heat wave 
+vs. non-heat wave days. The 
+study findings recommend 
+using the day-and-night 
+index, which defines a heat 
+wave as elevated day- and 
+night-time temperatures 
+above the 95th percentile for 
+3 consecutive days (22.3% 
+increase in mortality, CI: 8.2, 
+38.2). The proposed 
+definition is deemed 
+appropriate for preparedness 
+measures in a heat early 
+warning system (HEWS) 
+because it is both related to 
+human health outcomes and 
+forecastable.  
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+16
+mortality (Ghumman and Horney, 2016). 
+In terms of geographical coverage, 63% (n = 17) of the selected 
+studies focused on India, eight on Bangladesh and one on Pakistan and 
+Nepal, respectively. It is important to note that no epidemiological 
+studies on the association between ambient temperature and mortality 
+were identified for half of the countries in the region, namely 
+Afghanistan, Bhutan, Maldives, and Sri Lanka. Eight of the studies 
+included in this review (30%) focused solely on rural populations and 
+eleven (40.7%) on urban, while eight studies (30%) evaluated the as-
+sociation between ambient temperature or heat waves and mortality for 
+the general population in a country (including urban and rural areas). 
+All the included studies on ambient temperature and heat waves are 
+summarised in Table 1. 
+In total, the included studies analysed >1.5 million deaths. However, 
+eleven (41%) of the selected articles were based on identical pop-
+ulations, analysed over the same or an overlapping period. The most 
+extensive datasets were provided by the Matlab́s Health and De-
+mographic Surveillance System (HDSS) (around 49 thousand deaths), 
+which is the oldest field site in the region dating back to 1966 and 
+maintained by the International Centre for Diarrheal Disease Research, 
+Bangladesh (ICDRR,B), and India’s Million Death Study (around 412 
+thousand deaths), which is based on one of the largest Sample Vital 
+Registration Systems (SVRS) in the world. Other data sources included 
+several smaller HDSSs, ICDRR,Bs SVRS in Bangladesh, inpatient hospital 
+records, death records from municipal registrars and heat-related mor-
+tality statistics compiled by the IMD. Apart from all-cause mortality, 
+eight studies reported effects of temperature on cause-specific mortality, 
+with the most commonly examined causes being cardiovascular, respi-
+ratory, and infectious disease mortality. Outcomes related to perinatal 
+mortality, ischemic heart disease, cancer, malaria, parasitic, vector- 
+borne and water-borne diseases, and external causes were also 
+assessed. Some studies on heat waves analysed specifically heat- 
+attributable deaths (Murari et al., 2015; Ghumman and Horney, 2016; 
+Mazdiyasni et al., 2017) 
+Most selected articles (n = 24; 89%) examined the effects of short- 
+term variations of temperature on mortality, thus measuring heat and/ 
+or cold exposure as daily temperature. However, several studies applied 
+a different timeframe for assessing temperature-mortality effects: Alam 
+et al. (2012) analysed effects based on weekly mean temperature “to 
+minimise fluctuations due to small number” of observations, Babalola 
+et al. (2018) used monthly mean and maximum temperature as a unit of 
+analysis to investigate effects on infant and child mortality, while Murari 
+et al. (2015) and Mazdiyasni et al. (2017) analysed annual (summer) 
+mortality and occurrences of heat waves and heat wave days. The ma-
+jority of articles considering continuous temperature effects (n = 11; 
+55%) used mean temperature as it was demonstrated to be a better 
+predictor of the temperature-mortality relationship compared to 
+maximum and minimum temperatures, or because it permitted better 
+comparability with other studies. Several studies (n = 9; 45%) used 
+maximum and minimum daily temperature, in some cases as a sensi-
+tivity analysis. Five articles evaluated the combined effect of other 
+meteorological parameters such as humidity, wind speed, and mean 
+radiant temperature with temperature by using an index (Heat Index, 
+Universal Thermal Climate Index, Physiological Equivalent Tempera-
+ture). Two studies also investigated the impact of temperature vari-
+ability, i.e., the difference between daily maximum and minimum 
+temperatures, or diurnal range. Excluding studies on heat waves, three 
+of the selected articles limited their analysis to summer months and two 
+to summer and winter months to isolate heat and cold effects. Also, the 
+indices adopted by Nissan et al. (2017) incorporated relative humidity 
+and day-time as well as night-time conditions. 
+About 80% of the studies used data from local stations obtained from 
+a national meteorological department. Two studies relied on climatic 
+records from weather websites provided from the World Meteorological 
+Organization (WMO) under the World Weather Watch Program, one 
+from a weather website, whose exact source we could not trace, and four 
+on data from the National Oceanic and Atmospheric Administration 
+(NOAA), which are collected from local airports. The period analysed in 
+the time series studies ranged from several months to 49 years (Maz-
+diyasni et al. 2017). 
+Different approaches were used to determine a threshold for hot and 
+cold effects and to quantify the temperature-mortality association. In 
+general, threshold values were determined based on a specific percentile 
+of the temperature data, through visual inspection of the temperature- 
+mortality plots, or using statistical procedures such as maximum likeli-
+hood estimation. Four of the studies on heat waves selected thresholds 
+based on an existing national heat wave definition and four based on a 
+specific percentile of the data. MMTs in the included studies were highly 
+dependent on the temperature and mortality measures, the health 
+outcome of interest, the statistical analysis (non-linear, semi-linear or 
+linear models) and the considered lag structure. Therefore, it is difficult 
+to draw comparisons of the threshold values across studies directly. For 
+articles using mean daily temperature and all-cause daily death counts 
+the temperature threshold values below which mortality started to rise 
+ranged from 19 ◦C to 30 ◦C for lags 0–13 and lag 0–14 (cold effects). The 
+threshold above which deaths started to increase ranged from 20 ◦C to 
+31 ◦C for lag 0–1 days (heat effects). Outcomes were reported using a 
+variety of metrics such as relative risk (RR), odds ratio (OR), percentage 
+change in mortality, regression coefficients, and probability of a certain 
+number of deaths. 
+As expected, there were wide variations in observed temperature 
+ranges across studies and locations. For the articles reporting these, daily 
+maximum temperatures varied between 37.8 ◦C and 46.2 ◦C (n = 9), 
+daily minimum temperatures between 8.6 ◦C and 28.5 ◦C (n = 6) and 
+daily mean temperatures were in the range of 13.2 ◦C and 35.6 ◦C (n =
+10). These temperature ranges corresponded to the diverse climatic 
+conditions in the region. Study locations covered eight main climatic 
+zones based on the Koeppen-Geiger climate classification and were 
+dominated by four main climatic zones: tropical wet and dry, humid 
+subtropical, warm semi-arid and warm desert (see Fig. 3). Areas in the 
+tropical zone, found along the southern parts of India and in Bangladesh, 
+experience mostly hot summers and receive heavy rainfall during the 
+monsoon periods. The humid subtropical zone, which spans the Indo- 
+Gangetic plains, is also characterized by hot summers, but cooler win-
+ters. The warm semi-arid climate, found in some parts of India, tends to 
+have hot summers and warm to cool winters, with very little precipi-
+tation. Finally, the warm desert climatic zone, found in the northern 
+edge of India and most of Pakistan, is characterized by extreme tem-
+perature variations, with hot summers and cool or cold winters, and 
+minimal precipitation. 
+Concerning study design, articles evaluating the impact of heat and/ 
+or cold on mortality were based either on time series or case-crossover 
+design. As previously noted by Basu (2009) and demonstrated in 
+several studies on temperature and mortality, study results should be 
+similar irrespective of whether they are based on time series or case- 
+crossover design. Studies investigating heat wave effects were based 
+either on episode analysis, comparing deaths in a heat wave vs. matched 
+non-heat wave period/days, or on time series analysis, regressing daily 
+or annual mortality with heat wave/non-heat wave days or an annual 
+number of heat waves. 
+Most time series studies included season and time trend as con-
+founding variables in their models, using smoothing functions with 
+specified degrees of freedom, while several studies considered addi-
+tional confounders such as day of the week, public holidays, humidity, 
+rainfall, and particulate air pollution. Control for most of these con-
+founders was not necessary for case-control/case crossover studies since 
+they controlled for potential temporal confounders “by design”, i.e., by 
+matching control days by day of the week and month across years. Also, 
+in the case of case-crossover studies as well as time series controlling for 
+trend, biases due to individual characteristics such as genetics, behav-
+iours and physiological differences are also inherently accounted for by 
+study design. 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+17
+The majority of included time series studies also examined harvest-
+ing and delayed effects of non-optimum temperature exposure and re-
+ported cumulative impacts over periods prior to the mortality event, 
+with the considered lag structure ranging from a single day for high 
+temperatures to 28 days for low temperatures. Harvesting or mortality 
+displacement effects are characterised as excess mortality over the first 
+few days of relatively high temperature being offset by reduced mor-
+tality in the following days of lower temperatures. Analysing harvesting 
+is essential for determining the full magnitude of the public health issue, 
+since its presence indicates that frail individuals were the only major 
+population subgroup affected by the exposure and that their deaths were 
+brought forward by a certain number of days (Gasparrini, Armstrong 
+and Kenward, 2010; Hajat and Kosatky, 2010). 
+3.3. Assessment of the risk of bias in individual studies 
+We found substantial variation in the quality of the included articles 
+as shown in the summary table for all studies (Table 2) and in the 
+summary tables for individual assessments (Supplementary Table S5- 
+S31). We identified measurement of exposure, measurement of 
+outcome, and appropriateness of statistical method as the most common 
+weakness in the quality of the body of evidence. In particular, twelve 
+studies were judged to have definitely high or probably high risk of 
+exposure measurement bias. These low ratings were related to the use of 
+weekly or monthly temperature observations as opposed to daily time 
+series, which might attenuate the true temperature effect or capture 
+seasonal effects rather than true temperature effects, as well as large 
+spatial aggregation of exposure data, which might conceal local tem-
+perature effects on mortality, and lack of sufficient information on data 
+source and quality control of the data. Fourteen studies were rated as 
+having a definitely high or probably high risk of measurement bias due to 
+the use of data from unofficial sources with low reliability (e.g. news-
+papers, unofficial reports) or the use of municipal and vital registry data, 
+which is considered as incomplete and under-representative for the 
+countries in the region as large number of people die outside hospitals 
+and without being registered (Setel et al., 2007; Jha, 2014; Mikkelsen 
+et al., 2015). Seven of the studies were judged to have definitely high or 
+probably high risk of bias for using an inappropriate statistical method. In 
+most cases this was related to the use of statistical methods not appro-
+priate for count data (e.g. OLS regression, Pearson correlation coeffi-
+cient, ANOVA analysis, t-test, etc.) or inference of a causal association 
+based on inappropriate study design or method. 
+Four of the included studies were identified as being at probably high 
+risk of selection bias. Eight of the studies did not control for some of the 
+primary confounders (seasonality or time trend) or any confounders at 
+all and were, therefore, rated as being at definitely high or probably high 
+risk of confounding bias based on our assessment criteria. One study was 
+evaluated as being at definitely high risk of bias due to inconsistencies in 
+reporting. 
+Seven of the overall 20 studies that examined risk of mortality with 
+continuous exposure to ambient temperature, were judged to have 
+definitely low or probably low risk of bias across all the risk of bias do-
+mains. In contrast, all the nine studies focusing on the mortality risk of 
+heat wave episodes received probably high or definitely high risk of bias 
+rating for one or more of the domains. 
+3.4. Synthesis of findings on primary research question 
+3.4.1. Synthesis of findings on temperature and all-cause mortality 
+Included studies suggest that both hot and cold temperatures are 
+associated with mortality in the South Asian population. However, re-
+sults across studies were not homogenous in terms of the direction 
+(increasing mortality with decreasing or increasing temperatures 
+beyond cold and heat thresholds) and magnitude of effects. Further-
+more, estimates from the meta-analysis confirm evidence of impacts for 
+high temperatures only. 
+From the eight studies, which analysed the susceptibility of rural 
+populations to non-optimum temperature, six found an association be-
+tween cold temperature and mortality, while five found a heat effect. All 
+studies on urban areas apart from two focused solely on heat effects and 
+showed evidence for heat-related mortality, while two documented both 
+heat and cold-related mortality (McMichael et al., 2008; Singh et al., 
+2019). Burkart et al. (2011) specifically examined and contrasted the 
+temperature effects for urban and rural areas in Bangladesh. Although 
+they observed an increase in mortality at high and low temperatures for 
+both rural and urban areas, urban areas were found to exhibit generally 
+stronger and longer lasting heat effects. The other four studies (Burkart 
+et al., 2014b; Burkart and Kinney, 2017; Fu et al., 2018; Shrestha et al., 
+2017), which examined the relationship between temperature and 
+excess mortality at a national scale, also ascertained both heat and cold 
+effects. Overall, studies in India found that substantial health impacts 
+occur even at temperatures lower than those specified in the national 
+heat wave definition. 
+Results across studies also varied considerably in terms of the 
+magnitude of the observed heat and cold effects. The heterogeneity of 
+studies in terms of outcome and exposure metrics, temperature thresh-
+olds and lags examined did not permit direct comparison of effect esti-
+mates across studies. The mortality increases due to elevated daily mean 
+temperatures in the included studies using linear approximation ranged 
+from 0.2% to 3.2% per 1◦ C increase in temperature above a MMT 
+threshold (n = 5), while for cold effects excess mortality was in the range 
+of 1.4%   3.2% per 1◦ C decrease in temperature below a MMT 
+threshold (n = 4). While Burkart et al. (2011); Ingole et al. (2017); 
+McMichael et al. (2008) found heat effects to outweigh cold effects in 
+Vadu, Bangladesh, and Delhi, and Ingole et al. (2012) observed com-
+parable effects of heat and cold in Vadu, Lindeboom et al. (2012) and Fu 
+et al. (2018) found stronger effects for cold and moderately cold tem-
+peratures compared to hot temperatures in Matlab and India, respec-
+tively. Some inconsistencies in the reported results across studies may be 
+partly attributed to differences in methodology and model specification 
+(e.g., statistical method, adjustment for confounders, lag structure and 
+thresholds used), but also specific characteristics of the locations or the 
+populations that might determine vulnerability. Four of the twenty 
+studies on ambient temperature and all-cause mortality were judged to 
+have probably high or definitely high risk of bias by at least two of the 
+assessment criteria. 
+Only five of the studies on all-cause mortality and ambient tem-
+perature were judged as homogenous enough to be combined in one 
+meta-analysis. Only two of these were judged to have probably high or 
+definitely high risk of bias based on one of the assessment criteria. 
+Fig. 4 shows the pooled estimates of the association at every 0.5◦ C 
+increment of temperature with reference to a common threshold of 
+24.5◦ C (lag 0–1) and 26.5◦ C (lag 0–13). Since not all studies cover the 
+same temperature range, the colour shades and the legend underneath 
+indicate how many and which studies specifically contribute to the 
+pooled effect estimates at different temperature increments. The 
+pooled RR estimates at different temperatures represent the meta- 
+analysed RR estimates of individual curves at these points. The meta- 
+analysis shows a U-shaped temperature-mortality relationship, with a 
+temperature band of minimum mortality of 22◦ C – 25◦ C for lag 0–1 
+days and 25◦ C – 28◦ C for lag 0–13 days, respectively. However, a 
+statistically significant association was found only at temperatures 
+above the upper limits of these bands, i.e. indicating heat effects. In 
+particular, a significant positive association can be observed at tem-
+peratures above 31◦ C for lag 0–1 days and above 34◦ C for lag 0–13 
+days. For lag 0–1 days, 10◦ C increase in temperature above 25◦ C was 
+associated with a 22% (RR = 1.22, 95% CI: 1.10–1.36) increase in the 
+risk of mortality, with the RR increasing steeply at higher tempera-
+tures. For lag 0–13 days, 5.5◦ C increase in temperature above 26.5◦ C 
+was associated with a 23% (RR = 1.23, 95% CI: 1.11–1.37) increase in 
+the risk of mortality, with the effect increasing even more steeply at the 
+higher range of the exposure, but the precision of estimates decreasing 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+18
+due to the small number of studies reporting effects at these ranges. 
+3.4.2. Synthesis of findings on heat wave events and all-cause mortality 
+All nine studies, which examined the effect of heat waves on all- 
+cause mortality find a positive association. Six of these studies refer 
+directly to all-cause mortality, while three studies refer to all-cause 
+mortality indirectly, by considering heat wave-induced, heat-related 
+or heat-attributable mortality. Since none of the studies provides specific 
+information on which causes of death were classified as “heat-related”, 
+we consider them as a proxy of all-cause mortality, but note that the 
+selection criteria in these studies are likely to be arbitrary and to exclude 
+unreported deaths or indirect causes of death. The reported RR of all- 
+cause mortality during a heat wave vs. non-heat wave period/days in 
+studies ranges between 1.03 and 2.34 (Hess et al., 2018; Nori-Sarma 
+et al., 2019a; Singh et al., 2019). Nori-Sarma et al. (2019a) demon-
+strates that the estimated RR from heat waves depends considerably on 
+the exact definition of heat waves, which highlights the difficulty of 
+comparing results across studies with very heterogenous definitions. 
+Several studies report results using alternative effect estimates to risk 
+ratios. For example, Azhar et al. (2014) report a 43.1% increase in all- 
+cause deaths during the 2010 Ahmedabad heat wave compared to the 
+reference period. Mazdiyasni et al. (2017) find that the increase in 
+summer mean temperature in India over 1960–2009 corresponded to a 
+146% increase in the probability of heat-related mortality events of 
+>100 people. Ghumman and Horney (2016) find that residents of Kar-
+achi were approximately 17 times as likely to die of a heat-related cause 
+of death during the June 2015 heatwave when compared to a reference 
+period of June 2014. Although all studies find a positive association 
+between mortality and heat wave episodes, the different methodological 
+approaches, study designs, definitions of heat waves and heat wave- 
+related mortality do not allow for a direct comparison of effect esti-
+mates across studies. Five of the nine studies on heat waves were judged 
+to have probably high or definitely high risk of bias by at least two of the 
+assessment criteria, with three of them by five of the assessment criteria. 
+3.5. Additional analyses 
+3.5.1. Temperature and cause-specific mortality 
+Five studies reported a pronounced heat effect on cardiovascular 
+disease (CVD) mortality, with effects ranging from 1.9% increase in 
+mortality with every 1 ◦C increase in temperature above specific 
+threshold in Delhi (Hajat et al., 2005) to 62.9% in Bangladesh (Hashi-
+zume et al., 2009). Burkart et al. (2011, 2014b) found severe heat effects 
+on CVD mortality particularly in urban areas as opposed to rural areas. 
+The analysis of Burkart et al. (2014b) also revealed a higher risk of heat- 
+related CVD mortality among males than females. In comparison, only 
+two studies reported cold effects on CVD mortality, but these were much 
+weaker, 1% and 9.9%, respectively (Burkart et al., 2011; Hashizume, 
+2009). Fu et al. (2018) also documented both a cold and heat association 
+of temperature with Ischemic Heart Disease (IHD)-related mortality. 
+Temperature effects on respiratory mortality were also mixed. 
+Hashizume et al. (2009) reported strong cold effects (17.5% increase in 
+mortality for each 1 ◦C decrease in temperature below a threshold), but 
+no heat effects, while Hajat et al. (2005b) and Fu et al. (2018) demon-
+strated both heat and cold effects. 
+Regarding mortality from infectious diseases, both Burkart et al. 
+(2014) and Hashizume et al. (2009) showed marked heat effects, with 
+83.4% (lag 0–13 days) and 10.4% increase in mortality above a 
+Fig. 3. Map of the climatic zones and the number of studies conducted in each country by category of effect. Source: Own figure, climatic zones based on K¨oppen- 
+Geiger climate classification maps (Beck et al., 2018). 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+19
+Table 2 
+Summary of the results of the risk of bias assessment in individual studies.  
+(2014b)
+DL = Definitely Low RoB; PL = Probably Low RoB; PH = Probably High RoB; DH = Definitely High RoB; 
+*The study examined both effects of heat wave episodes and continues temperature, therefore they have been included twice in the table. 
+The underlined studies are those included in the meta-analysis. 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+20
+threshold per 1 ◦C in (equivalent) temperature, respectively. As opposed 
+to the higher risk of heat-related all-cause and cardiovascular mortality 
+observed in urban areas, Burkart et al. (2014) found a significant in-
+crease in infectious disease mortality only for rural areas. Ingole et al. 
+(2015) did not find any association of deaths from infectious causes with 
+heat or cold, considering delayed effects of up to 4 days. 
+With respect to the other examined causes of death, strong cold effects 
+were found for perinatal mortality (Hashizume et al., 2009). Modest in-
+creases in risk of malaria deaths were observed at 14 ◦C   20 ◦C (Fu et al., 
+2018). Statistically significant positive associations were shown for 
+temperature and water- and vector-borne disease mortality (Shrestha 
+et al., 2017) and no association was found for temperature with external 
+causes of death (Ingole et al., 2015) and cancer (Fu et al., 2018). 
+3.5.2. Lagged effects and mortality displacement 
+Most of the studies also investigated the lag structure and some also 
+the temporal displacement of heat and cold effects. In most studies hot 
+temperatures were shown to have a more immediate effect, lasting from 
+1 to 6 days, but several studies (n = 4) showed heat effects over a sus-
+tained period of time (up to 21 days). Studies reported sustained impacts 
+of cold temperatures over 4 to 14 days after exposure. The duration of 
+temperature effects seemed to differ considerably across causes of death, 
+age and sex. For instance, Burkart et al. (2014) reported more delayed 
+heat effects in children and younger adults, and Hajat et al. (2005b) 
+demonstrated more sustained risks for children and non-respiratory 
+diseases. Babalola et al. (2018), who considered monthly infant mor-
+tality, found evidence for cold effects for lag 0 months. None of the five 
+studies, which focused on mortality related to heat waves, formally 
+modeled delayed effects of exposure. Azhar et al. (2014) assessed 
+possible delayed effects graphically but did not find any evidence for 
+these. Considering this methodological shortcoming, one cannot exclude 
+that the reported excess mortality in the included heat wave studies 
+represents, at least to a certain extent, a harvesting effect rather than a 
+substantial increase in mortality. However, it has been shown that the 
+more extreme weather events are, the smaller the harvesting effect is 
+(Saha, Davis and Hondula, 2014). 
+3.5.3. Vulnerable populations 
+The identification of specific segments of the population most 
+vulnerable to non-optimum temperatures has been of specific interest in 
+most of the included studies as in climate-related research in general. 
+However, results across studies do not provide a homogenous picture 
+regarding vulnerabilities, and this is true even for studies based on the 
+same population, but using different study design and/or statistical 
+method. Most of the reviewed studies explored only vulnerabilities 
+based on age and sex and cause of death, possibly due to the lack of 
+sufficient data on socio-economic and other characteristics. Only Bur-
+kart et al. (2014) and Ingole et al. (2017) also analysed differences due 
+to other individual or intra-population characteristics such as socio- 
+economic status, education, occupation, housing, or level of urbanisa-
+tion. Cold effects have been shown to be most pronounced among infants 
+and children younger than 5 years (Ingole et al., 2012; Babalola et al., 
+2018) or <15 years (Hashizume, 2009), the elderly (Lindeboom et al., 
+2012; Ingole et al., 2017; Fu et al., 2018), adults aged 20–69 (Alam et al., 
+2012; Fu et al., 2018), and those employed in housework (Ingole et al., 
+2017). Alam et al. (2012) found cold to exert a stronger effect on fe-
+males, while Ingole et al. (2017, 2012) and Singh et al. (2019) did not 
+find any gender differences. Stronger heat effects were demonstrated for 
+children aged 0–14 (Hajat et al., 2005; Sewe et al., 2018; Singh et al., 
+2019), adults aged 20–59 (Ingole et al., 2012) and the elderly (Burkart 
+et al., 2014b; Singh et al., 2019). However, no such association was 
+found by Ingole et al. (2015) for the elderly (60 and older) in Vadu 
+HDSS. Burkart et al. (2014) and Ingole et al. (2015) showed that males in 
+Bangladesh, particularly the elderly, and males in Vadu HDSS appear to 
+face increased mortality risk on hot days. However, Ingole et al. (2017) 
+demonstrated the opposite for women in Vadu (results were not statis-
+tically significant), and Ingole et al. (2012) did not find any significant 
+association by gender. In terms of socio-economic factors, findings from 
+Burkart et al. (2014) suggest a more pronounced risk of heat-related all- 
+cause mortality for people living in urban and in high socio-economic 
+status areas, especially among the elderly, as compared to rural and 
+low socio-economic status areas. The higher heat-related risks for urban 
+areas in Bangladesh were also demonstrated in a previous study by 
+Burkart et al. (2011). Singh et al. (2019) report higher mortality for non- 
+institutional deaths (those dying outside a hospital) compared to insti-
+tutional deaths (those dying within a hospital), which the authors 
+broadly attribute to lower socio-economic status. In a study conducted at 
+the individual level in a rural setting in western India, stronger heat 
+effects were observed among farmers, those with low educational 
+attainment as well as those owing more agricultural land (Ingole et al., 
+2012). 
+Only a few studies on heat wave episodes investigated the role of 
+non-atmospheric factors on the temperature-mortality relationship. 
+Both Azhar et al. (2014) and Singh et al. (2019) report a higher RR of 
+Fig. 4. Pooled estimates of the temperature-all-cause mortality association at (A) lag 0–1 days and (B) lag 0–13 days. Studies included in the meta-analysis: Burkart 
+and Kinney (2017), Fu et al. (2018), Hashizume et al. (2009), Ingole et al. (2017), McMichael et al. (2008). 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+21
+mortality from heat waves for females compared to males. Analysis of 
+the deadly heat wave in Karachi, Pakistan during 2015, revealed excess 
+risk of heat-related mortality among the poor and those with lower 
+levels of education, but no effect of fasting during Ramadan was found as 
+initially hypothesised. 
+3.6. Quality of the evidence 
+Table 3 summarizes the overall quality of the evidence on the asso-
+ciation between ambient temperature and heat wave episodes and all- 
+cause mortality for the general population in the countries in South 
+Asia. We downgraded the overall quality of the evidence for studies on 
+ambient temperature by the criterion on imprecision as several studies 
+had large confidence intervals and two did not report any confidence 
+intervals. We downgraded the overall quality of the evidence for studies 
+on heat wave episodes for three of the criteria: risk of bias – due to the 
+substantial risk of bias across studies, indirectness – due to ambiguity of 
+outcome definition and imprecision – due to several studies having large 
+confidence intervals and one not reporting any confidence intervals. We 
+upgraded the quality of the evidence on ambient temperature since most 
+studies reported a broadly consistent dose–response pattern, with risk of 
+mortality increasing with increases and decreases of ambient tempera-
+tures beyond a certain threshold. The resulting overall quality of the 
+evidence was judged as moderate for studies on ambient temperature and 
+low for studies on heat wave episodes. 
+3.7. Strength of the evidence 
+Table 3 also summarizes the rating of the strength of the body of 
+evidence. Our judgements were based on the following considerations:  
+● Quality of the body of evidence: moderate for studies on ambient 
+temperature and low for studies on heat waves (as explained above). 
+● Direction of effect estimates was largely as expected – risk of mor-
+tality increasing with higher and lower ambient temperature beyond 
+a threshold and with more frequent or intense heat wave episodes.  
+● Confidence in effect estimate: unlikely that a new study on ambient 
+temperature and all-cause mortality would have an effect estimate 
+that would make the results null or statistically insignificant. For 
+heat wave exposure, due to the methodological deficiencies of the 
+studies it cannot be ruled out that new studies might show different 
+effects.  
+● Other compelling attributes of the data that may influence certainty: 
+for ambient temperature studies, differences in exposure measure-
+ment, statistical methods, and contextual factors (completeness in 
+mortality counts, population exposure level, vulnerability and 
+physical and physiological adaptation) make interpretation and 
+comparison difficult. Similarly, the included heat wave episode 
+studies are very heterogenous in terms of heat wave definitions, 
+consideration of lagged effects and mortality displacement, study 
+design and contextual factors (completeness in mortality counts, 
+population exposure level and vulnerability, physical and physio-
+logical adaptation), which makes interpretation less certain and 
+clear. For both ambient temperature and heat wave exposure, evi-
+dence is based only on a few countries in the regions, with the vast 
+majority of countries not being represented. 
+We compared these considerations to the strength of evidence defi-
+nitions specified in the Navigation Guide (Table S32) and concluded that 
+for high and low ambient temperatures there was sufficient human evi-
+dence that exposure affects all-cause mortality in South Asia and for heat 
+waves – limited evidence. 
+4. Discussion 
+4.1. Summary of evidence 
+Our systematic review and meta-analysis resulted in five main find-
+ings. First, we found only a limited number of studies (n = 27), which 
+have attempted to quantify the mortality effects of temperature and heat 
+waves in South Asia. Studies were limited geographically, with half of 
+the countries in the region not represented and two countries covered by 
+only one study. Seven populations were analyzed more than once (e.g. 
+four separate analyses based on the Vadu population, three based on the 
+Matlab population, three on the total population of Bangladesh and two 
+on Delhi, Surat, Ahmedabad and five Indian cities). Second, as sum-
+marised in Table 4 below, the strength of the evidence on ambient 
+temperature as a risk factor for all-cause mortality was sufficient and on 
+heat wave episodes — limited. The latter rating is not to suggest that heat 
+waves are not a risk a factor for all-cause mortality in South Asia, but 
+rather reflects the lack of a sufficient number of robust studies in a re-
+gion with very heterogenous contexts and a challenging environment for 
+health data collection. Third, individual studies reported an association 
+of all-cause mortality with both high and low temperatures and heat 
+waves for the population in South Asia. However, our meta-analysis, 
+indicated evidence of an association for high temperatures only, both at 
+shorter and longer lags, possibly due to the very small number (n = 5) 
+and skewed geographical representation of the included studies. In 
+particular, steep supra-linear increase in risk was observed at tempera-
+tures above 31◦ C for lag 0–1 days and above 34◦ C for lag 0–13 days, 
+with the risk being higher for longer lags. Fourth, in terms of cause- 
+specific mortality, studies found evidence for both heat and cold ef-
+fects on CVD, IHD and respiratory mortality. Heat effects were also 
+identified for mortality related to infectious diseases and water- and 
+vector-borne diseases, while cold effects were also found for perinatal 
+mortality. Lastly, the profile of vulnerabilities identified in the reviewed 
+studies is fragmented and sometimes conflicting, possibly due to dif-
+ferences in contexts, heterogeneity in study designs and limitations in 
+data collection. 
+4.2. Comparison with other systematic reviews 
+Results from the meta-analysis are in contrast to findings from other 
+systematic reviews on LMICs (Burkart et al., 2014a; Amegah, Rezza and 
+Jaakkola, 2016), and evidence from higher income low-latitude coun-
+tries in Europe and North America (The Eurowinter Group, 1997; Gas-
+parrini et al., 2015), which found mortality effects for both hot and cold 
+temperatures. The presence of cold effects in South Asia is plausible and, 
+similar to populations in moderate climates, might be related to poor 
+physiological and physical adaptation to cold weather, for instance, 
+concerning thermal efficiency of housing and clothing (The Eurowinter 
+Group, 1997; Healy, 2003; Burkart and Kinney, 2017) and relative per-
+ceptions of risk and vulnerability (Sperber and Weitzman, 1997). Other 
+mechanisms have also been suggested to explain the somewhat coun-
+terintuitive cold effects on mortality in tropical and sub-tropical climates: 
+the higher proportion of moderately cold than extremely cold or hot days 
+(Fu et al., 2018), the importance of relative rather than absolute drop in 
+temperatures (Burkart et al., 2014a; Guo et al., 2016), and insufficient 
+control for seasonal confounding (Kinney et al., 2015). For instance, 
+influenza outbreaks (Burkart et al., 2014a; Yang et al., 2009) and 
+household air pollution due to biomass use for cooking and heating, could 
+affect cold-related mortality due to their potential seasonal variations 
+(Egondi et al., 2012; Ingole et al., 2017), but these have been poorly 
+investigated in the included studies and in LMICs in general, possibly due 
+to lack of routine data. Possible explanations for why we did not observe 
+cold-related increase in mortality risk despite observations from indi-
+vidual studies in this review and evidence from the literature include the 
+small number and limited geographical coverage of studies included in 
+the meta-analysis as well as their large within-study standard errors at the 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+22
+lower temperature range. Further studies with large sample sizes and 
+using comparable and advanced methodologies are necessary in order to 
+understand better the direction and magnitude of temperature effects on 
+mortality in the region, particularly for the six countries with limited or 
+no epidemiological studies, namely Pakistan, Nepal, Afghanistan, 
+Bhutan, Maldives, and Sri Lanka. 
+Interestingly, two of the included studies found only cold but no heat 
+effects on mortality (Alam et al., 2012; Hashizume et al., 2009). Since 
+both of them were conducted in rural areas (humid sub-tropical areas of 
+Bangladesh), these results might be partly explained by the lower den-
+sity, higher vegetation cover, and associated lack of urban heat island 
+(UHI) in the study areas. However, other factors such as the population- 
+specific acclimatization and adaptation to hot and cold weather, the 
+demographic and health profile of the study populations as well as 
+insufficient control for confounding cannot be excluded as possible 
+explanations. 
+Our findings on cause-specific mortality are in line with systematic 
+reviews on other tropical and sub-tropical regions and LMICs (Burkart 
+et al., 2014a; Amegah, Rezza and Jaakkola, 2016; Green et al., 2019). 
+Impacts of temperature on cardiovascular and respiratory mortality are 
+some of the most well documented in the epidemiological literature. 
+Cardiovascular impacts have been related to a range of physiological 
+Table 3 
+Summary of the assessment of the quality and strength of the evidence on ambient temperature and heat wave events as a risk factor for all-cause mortality.  
+Reference Ambient temperature (n = 20) Heat wave events (n = 9) 
+Rating Basis Rating Basis 
+Quality of evidence assessment 
+i. Downgrade considerations 
+Risk of bias across 
+studies 
+0 Among all, one study with large sample size judged to have low 
+risk of bias. 
+  1 There is a substantial risk of bias across most studies. 
+Indirectness 0 All-cause mortality was appropriate outcome, studies 
+conducted in the population of interest, mostly direct measures 
+of exposure. 
+  1 Three of the studies used “heat-related mortality”/” heat- 
+induced mortality”/” heat-attributable mortality”, which was 
+not well defined and is not directly comparable to the outcome 
+of interest. 
+Inconsistency 0 The magnitude of effect estimates likely to differ because of 
+differences in study methods (study design, statistical methods, 
+lag structure considered, method for determining MMT) and 
+not be driven by unexpected heterogeneity. 
+0 Effect estimates likely to differ because of differences in study 
+methods (study design, statistical methods, study definition of 
+heat waves) and not be driven by unexpected heterogeneity. 
+Imprecision   1 Three studies had wide confidence intervals and two did not 
+provide any confidence interval estimates. 
+  1 Two studies had wide confidence intervals and one did not 
+provide any confidence interval estimates. 
+Publication bias 0 No evidence for publication bias for studies that would meet 
+our inclusion criteria. 
+0 No evidence for publication bias for studies that would meet our 
+inclusion criteria. 
+ii. Upgrade considerations 
+Size of the effect 0 Effect sizes are small in most studies. 0 Confounding alone cannot be ruled out as an explanation for 
+large effect estimates. 
+Dose response pattern 1 Most studies report broadly similar dose–response pattern, with 
+risk of mortality increasing with increases and decreases of 
+ambient temperatures beyond a certain threshold. 
+0 Dose response relationship is difficult to compare across studies 
+due to differences in contexts, study designs and methods used. 
+Confounding 
+minimises effect 
+0 No evidence found to suggest that possible residual confounders 
+would reduce effect estimates. 
+0 No evidence found to suggest that possible residual confounders 
+would reduce effect estimate. 
+iii. Summary of the quality assessment 
+Overall quality of 
+evidence starts: 
+Moderate 
+Moderate Moderate + (1) +(-1) = Moderate. Downgrading/upgrading 
+resulted in moderate rating for the quality of evidence. 
+Low Moderate + (-1) + (-1) + (-1) = Low. Downgrading changed the 
+quality from moderate to low. 
+Summary of findings n/a Overall moderate quality of the evidence of higher risk of all- 
+cause mortality for high and low ambient temperature 
+exposure. 
+n/a Overall low quality of the evidence of higher risk of all-cause 
+mortality during heat wave episodes. 
+Strength of evidence assessment 
+Quality of evidence Moderate  Low  
+Direction of effect 
+estimates 
+n/a Direction largely as expected: higher risk of mortality at high 
+and low ambient temperatures. 
+n/a Direction largely as expected: higher risk of mortality during 
+heat wave episodes. 
+Confidence in effect 
+estimate 
+n/a Studies on ambient temperature measure directly the outcome 
+of interest, direction of effect is largely consistent, majority 
+score low on risk of bias, in particular one study with a large 
+sample size, but several studies have large confidence intervals 
+or do not report confidence intervals at all. It is unlikely that a 
+new study on ambient temperature and all-cause mortality 
+would have an effect estimate that would make the results null 
+or statistically insignificant. 
+n/a Most studies have high RoB, do not measure directly the 
+outcome of interest and not all potential confounders are 
+controlled for. Due to these methodological deficiencies it 
+cannot be ruled out that new studies might show different effect 
+estimates. 
+Other aspects n/a Differences in exposure measurement, statistical methods, and 
+contextual factors, including completeness in mortality counts, 
+population exposure level and vulnerability, differences in 
+physical and physiological adaptation across study populations 
+make interpretation and comparison difficult. 
+n/a Differences in heat wave definitions, consideration of lagged 
+effects and mortality displacement, study design, contextual 
+factors, including completeness in mortality counts, population 
+exposure level and vulnerability, physical and physiological 
+adaptation across study populations make interpretation and 
+comparison difficult. 
+Overall strength of 
+evidence 
+Sufficient We found sufficient evidence that ambient low and high 
+temperatures are positively associated with all-cause mortality 
+for the population in South Asia, where chance, bias, and 
+confounding can be ruled out with reasonable confidence. The 
+available evidence includes results from one or more well- 
+designed, well conducted studies, and the conclusion is unlikely 
+to be strongly affected by the results of future studies. Due to 
+lack of comparability across studies quantitative estimates can 
+only be interpreted in broad terms. 
+Limited We found limited evidence that heat wave exposure is associated 
+with all-cause mortality for the population in South Asia. A 
+positive association is observed between exposure and outcome; 
+however, chance, bias, and confounding cannot be ruled out 
+with reasonable confidence. Confidence in the association is 
+constrained by the limited number and size of studies and the 
+low quality of individual studies. Further studies, particularly 
+with more rigorous control for confounding, high quality 
+outcome data and consideration of temporal aspects of the 
+association may allow an assessment of effects.  
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+23
+changes in the human body such as increased plasma viscosity, blood 
+pressure, and elevated cholesterol levels (Basu, 2009; Moghadamnia 
+et al., 2017; Zhang et al., 2014; Zhang et al., 2014). Cold has been 
+associated with an increased risk of respiratory infections through 
+bronchoconstriction and changes in immunological reactions (Gas-
+parrini et al., 2015), while physiological stress of heat on the respiratory 
+systems is less well understood (Seltenrich, 2015). Several causes of 
+death, which have been associated with temperature in other epidemi-
+ological studies, namely deaths from cerebrovascular diseases (Stafoggia 
+et al., 2006), diabetes (Seposo, Dang and Honda, 2017), pre-existing 
+psychiatric disorders (Stafoggia et al., 2006) and adverse birth out-
+comes (Son et al., 2019), were not investigated in any of the included 
+studies. 
+4.3. Vulnerabilities and modifying factors 
+The studies included in this review identified infants, children, the 
+elderly, adults and people occupied in housework as more vulnerable to 
+the impacts of low temperatures and children, adults, farmers, people 
+with low educational attainment, and those owning agricultural land or 
+living in urban areas as more susceptible to the impacts of high tem-
+peratures. Overall, women and people with lower socio-economic status 
+were reported as more susceptible to the impacts of heat waves. How-
+ever, evidence on certain vulnerabilities is often based on single studies 
+and findings for some sub-groups (especially gender and age groups) are 
+inconsistent, which warrants further investigation. Furthermore, some 
+of the underlying factors shaping vulnerabilities are poorly understood 
+and many questions are still to be elucidated — for instance, are people 
+in urban areas more affected by heat because of higher exposure (e.g., 
+UHI effect) or because of differences in age and disease patterns (Burkart 
+et al., 2014b)? Are adults at higher risk because they are more involved 
+in outdoor occupational activities? Are gender differences in vulnera-
+bility due to physiological predispositions, occupational differences or 
+differences in treatment seeking behaviour? Are less educated people at 
+higher risk because of occupation, their health status, access to resources 
+(water, housing, information, health care, etc.), or heat-health aware-
+ness? How does personal perception of risk shape vulnerabilities? 
+Answering these questions would require better understanding of 
+contextual factors that moderate vulnerabilities. 
+Besides population characteristics, the built environment, in partic-
+ular, building features, urban form, and density of green spaces, has also 
+been shown to be an important determinant of temperature-related 
+health risks (Scovronick & Armstrong, 2012; Dang et al., 2017; Lu 
+et al., 2018; Horrison & Amirtham, 2016), but its modifying effect in the 
+included studies and in LMICs in general has not been well investigated 
+(Pramanik and Punia, 2019). One of the studies in this review (Alam, 
+et al. 2012) hypothesised that differences in thermal efficiency of 
+housing might be a possible explanation of the more marked effects of 
+low temperatures on mortality in Matlab as opposed to Abhoyangar. 
+However, Ingole et al. (2017) did not find mortality outcomes in the 
+summer months in Vadu HDSS to be related to housing characteristics. 
+In terms of vulnerabilities, another important knowledge gap to be 
+addressed are the temperature effects for the population living in sub-
+standard housing conditions in the region. 30.4% of the urban popula-
+tion in South Asia lives in informal settlements, with this share being 
+particularly high in some countries such as Afghanistan (62.7%), 
+Bangladesh (55.1%), Nepal (54.3%) and Pakistan (45.5%) (World Bank, 
+2014). Populations living in informal housing might be particularly 
+vulnerable to non-optimum temperatures due to overcrowding, the poor 
+quality and limited insulation of the housing, but also as a result of other 
+interrelated factors such as poverty, lack of access to health care, sani-
+tation and information on heat wave risks, limited access to clean 
+drinking water and electricity, and restricted household ventilation. 
+Two studies investigating how heat varies within the cities of Nairobi, 
+Kenya and Ahmadabad, India, respectively, demonstrated higher local 
+temperature exposure in informal settlements compared to other city 
+areas, with average difference between 5 to almost 10 ◦F in the case of 
+Nairobi (Scott et al., 2017; Wang et al., 2019). We found only one study 
+globally, which has investigated the temperature effects on mortality in 
+informal settlements, but this was based in Nairobi (Egondi et al. 2012). 
+Clearly, the lack of routinely collected health data for populations in 
+informal settlements hinders scientific studies. To overcome this, 
+Scovronick et al. (2015) provide an overview of available data sources 
+and epidemiological designs with modest data requirements, which 
+could potentially be deployed for investigating the association between 
+weather and health in these understudied populations. 
+Comprehensive analysis of vulnerabilities and their determinants 
+could help identify more targeted and cost-effective adaptation strate-
+gies, which is particularly important for low income settings. Research 
+in this direction can benefit from different study designs (e.g. case 
+studies, mixed methods, personal temperature measures, etc.) as well as 
+insights from other disciplines than public health such as exposure sci-
+ence, sociology, behaviour studies, economics, architecture, urban 
+design, etc. (Maller and Strengers, 2011; Mil`a et al., 2020). 
+4.4. Adaptation and policy implications 
+The role of adaptation for minimising health impacts of non- 
+optimum temperatures is poorly investigated in the reviewed articles. 
+Nevertheless, the included studies propose a range of interventions 
+based on their findings. Most of these are related to increasing public 
+awareness of the problem through public messaging or health education 
+campaigns; encouraging preventative measures (e.g. wearing light, 
+bright-coloured and sun-protective clothing, avoiding physical activity 
+Table 4 
+Summary of findings.  
+Summary of finding Studies contributing to the findings Certainty in the 
+evidence 
+(Navigation Guide) 
+Brief rationale of the rating around the certainty of the 
+evidence 
+Ambient temperature: 
+Positive association of all-cause 
+mortality with temperatures 
+below and above a MMT 
+threshold. 
+Alam et al. (2012); Hashizume et al. (2009); Sewe 
+et al. (2018); McMichael (2008);Burkart et al. (2014b) 
+; Burkart et al. (2011); Ingole et al. (2017, 2012, 
+2015); Hajat et al. (2005); Fu et al. (2018); Lindeboom 
+et al. (2012); Desai et al. (2015); Burkart and Kinney 
+(2017); Babalola et al. (2018); Rathi et al. (2017); 
+Shrestha et al. (2017); Dutta et al. (2020); Nori-Sarma 
+et al. (2019a); Singh et al. (2019) 
+Sufficient Findings based on studies of large sample size and mostly of 
+good quality. Overall, direction of effect was consistent 
+across studies, but there was a lack of estimate 
+comparability due to methodological differences. Evidence 
+of an exposure–response pattern was found. Studies were 
+very skewed geographically. 
+Heat wave episodes: 
+Heat waves are associated with 
+increases n all-cause mortality 
+Azhar (2014); Ghumman and Horney (2016); 
+Mazdiyasni et al. (2017); Murari et al. (2014);Nissan 
+et al. (2017); Hess et al. (2018); Nori-Sarma et al. 
+(2019a); Singh et al. (2019); Nori-Sarma et al. (2019b) 
+Limited Findings are consistent, but based on a small number of 
+studies, many of which score high on risk of bias and have 
+methodological weaknesses, thus chance cannot be ruled 
+out. Studies were very skewed geographically and effect 
+estimates were not comparable due to differences in study 
+design and methods.  
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+24
+or outdoor work during the hottest hours, staying hydrated), especially 
+among the elderly, outdoor workers and those with existing cardiovas-
+cular, respiratory and other chronic diseases; enhancing response ca-
+pacity and coordination of public health centers; distribution of electric 
+fans; setting-up of cooling centers — air conditioned sites designated as 
+shelters during extreme heat (Widerynski et al., 2016), and introducing 
+early warning systems. 
+We note that some of the proposed technological cooling in-
+terventions are to be viewed with caution due to their limited scope and 
+undesirable consequences. Although studies have shown the protective 
+effect of the use of air conditioning units during heat waves (Barreca 
+et al., 2016) and air conditioning is growing rapidly in South Asia, this 
+solution still remains out of reach for the majority of the population due 
+to its high operational costs (Mastrucci et al., 2019). Increased use of air 
+conditioning units in urban areas is also shown to contribute to increase 
+in outdoor temperatures by one degree or more (Lundgren and Kjell-
+strom, 2013), it leads to increased risk of power outages as a result of 
+higher pressure on energy grids and, most importantly, it further con-
+tributes to climate change through upsurge in electricity consumption 
+(Gupta et al., 2012). Use of electric fans has often been proposed as a 
+more affordable alternative to air conditioning in low resource settings. 
+However, a 2012 Cochrane systematic review showed that the benefits 
+of using electric fans during heat waves are uncertain and may actually 
+increase mortality risk, especially if ambient temperature is above body 
+temperature (35◦ C), by contributing to an increased rate of dehydration 
+and increased convective heat gain (Gupta et al., 2012). 
+A few formal evaluations of heat-health warning systems have been 
+conducted so far, and they appear to show a notable reduction in excess 
+mortality following a heat wave (Ebi et al., 2004; Martínez-Solanas and 
+Basaga˜na, 2019). The first Heat Action Plan, including an early heat 
+warning system, in South Asia was implemented in the city of Ahme-
+dabad, in India’s western province of Gujarat, following the deadly heat 
+wave of May 2010. According to a pilot formal evaluation of the plan, it 
+has been effective in averting 1190 (95%CI 162–2218) average annu-
+alized deaths two years after its implementation (Hess et al., 2018). 
+Following the experience of Ahmedabad, the government is currently 
+working with over 100 cities and districts within 23 states towards 
+scaling up heat action plans and early warning systems across India 
+(Pradesh et al., 2019). In light of the findings in this review, which 
+demonstrated that temperature thresholds can differ substantially be-
+tween regions in the same country and that health effects may occur at a 
+temperature below those specified in national heat wave definitions, 
+there is a need for more local epidemiological studies to establish 
+appropriate temperature thresholds, which can inform such early 
+warning systems. 
+Beyond the more immediate and upfront interventions mentioned 
+above, long-term strategies for reducing temperature vulnerabilities are 
+rarely discussed in the included studies. Evidence from other studies 
+shows that improvement of public infrastructure, expansion of public 
+transport, and reduction of the UHI effects through increase in tree 
+canopy, deployment of heat-reflective surfaces on roofs and roads have 
+the potential to decrease heat stress, especially in densely built urban 
+and peri-urban areas (Rizwan, Dennis and Liu, 2008; Garg et al., 2016; 
+Deilami, Kamruzzaman and Liu, 2018). Previous research has suggested 
+that addressing broader development challenges such as economic 
+diversification and shifting of labour away from the agricultural sector 
+(Green et al., 2019), improvement in educational attainment (Lutz, 
+Muttarak and Striessnig, 2014), expansion of essential healthcare, set-up 
+of other social protection programmes and provision of access to elec-
+tricity (Mastrucci et al., 2019) could be important for decreasing the 
+human cost of climate-related threats. 
+4.5. Potential interactive effects of temperature and particulate or ozone 
+air pollution 
+Another important avenue for future research is to explore the 
+potential interactions between temperature or heat waves and particu-
+late or ozone air pollution on mortality. Ambient air pollution is a major 
+public health concern in the region: the 2015 iteration of the Global 
+Burden of Disease project estimated that almost 60% of deaths attrib-
+utable to PM2.5 globally happened in South Asia (Cohen et al., 2017). 
+McMichael et al. (2008) included particulate air pollution in their model 
+for Delhi but found a minimal impact on the temperature effect estimate, 
+while Singh et al. (2019) observed that the associations between mor-
+tality and extreme temperature in Varanasi, India are substantially 
+confounded by different air pollutants, in particular PM10. There is 
+emerging evidence that the adverse effects of hot temperature or heat 
+waves on human health can be amplified by high air pollution levels, 
+and vice versa – the harmful effects of air pollution are enhanced by high 
+temperature (Analitis et al., 2018; Burkart et al., 2014b; Kinney, 2018b). 
+Various mechanisms have been identified as a possible explanation of 
+these synergistic effects. Hot days might be associated with higher 
+emissions of certain pollutants since ozone and secondary particles are 
+generated faster in the atmosphere in the presence of sunlight and 
+higher temperatures (Ebi and McGregor, 2008; Kinney, 2018b). 
+Behavioural responses to hot temperatures, e.g., increased use of (air- 
+conditioned) cars, can also increase emissions of air pollutants. Physi-
+ological stress in the body due to extreme heat may also make in-
+dividuals more sensitive to air pollution exposure and allergens, or vice 
+versa (Gordon, 2003; Ren et al., 2011). However, not all studies have 
+identified synergistic effects of temperature and air pollution (Basu, 
+Feng and Ostro, 2008; Zanobetti and Schwartz, 2008) and further 
+research is warranted, particularly in South Asia. 
+4.6. Need for improved environmental and health monitoring 
+We identified the lack of reliable and regularly collected data on 
+mortality and temperature as a major obstacle for conducting analysis in 
+the region. Comprehensive analysis of temperature-related mortality 
+requires daily all-cause or cause-specific mortality data, which are not 
+readily available for most countries in South Asia. Similar to most 
+LMICs, majority of deaths in countries of the region occur at home and 
+remain undocumented or without a medically certified cause of death, 
+hence the reliance on HDSSs and SVRSs for studying premature mor-
+tality (Jha et al., 2006). All countries in the region have some form of a 
+vital registration system (UN DESA, 2010), but these have been rated as 
+poorly functioning with the exception of the Maldives and Sri Lanka 
+(Mikkelsen et al., 2015). Continued efforts to strengthen vital registra-
+tion systems are important not only for mapping vulnerabilities due to 
+temperatures but also to other climate-related health impacts. 
+4.7. Strengths and limitations 
+This review covered a region highly vulnerable to climate change but 
+relatively understudied. Our review synthesises evidence from studies on 
+ambient temperature, heat waves, and studies with different methodo-
+logical approaches: a more inclusive approach than previous reviews 
+(Green et al., 2019). We assessed the overall quality and strength of the 
+evidence following the Navigation Guide, specifically developed for 
+environmental health research. Finally, we used a new, flexible statistical 
+approach, which allowed us to pool estimates of non-linear exposure 
+response functions and calculate MMT across studies without having ac-
+cess to individual study data. In contrast, previous meta-analyses based on 
+summary results from the literature relied on more simplified methods 
+that did not account for non-linear and delayed effects. 
+Our study also has some limitations. The considerable heterogeneity 
+of the included studies in terms of study design, lagged effects, outcome 
+and exposure metrics, and the overlap of populations across publications 
+limited the number of studies that could be included in the meta-anal-
+ysis. Furthermore, although we tried to select studies with comparable 
+designs, differences across studies remained: one study in the meta- 
+analysis reported effects stratified by season as opposed to year-round 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+25
+effects (Ingole et al., 2017) and one reported cold effects for lag 0–14 
+instead of lag 0–13 days (Burkart and Kinney, 2017). A meta-regression 
+could have elucidated differences due to methods, exposure measures, 
+latitude, temperature thresholds, and others, but was not possible given 
+the small number of eligible studies. Half of the studies included in the 
+review and three in the meta-analysis were conducted in India. There-
+fore, generalizability of our findings might be somewhat limited since 
+the countries in the region differ in terms of their climate, geography and 
+topology, as well as culture, demography, economic development, and 
+other population characteristics. This review has focused on excess 
+mortality associated with temperature variability and extreme temper-
+atures, not accounting for other potential health effects related to non- 
+fatal conditions and psychological stress (Carleton, 2017; Pailler and 
+Tsaneva, 2018). 
+Finally, we may have missed some relevant publications since the 
+review did not cover research published in other languages than English. 
+Also, given the policy relevance of this topic and the scientific practices 
+in the region, it is likely that relevant publications in the grey literature 
+have been excluded (e.g. reports from government or non-profit or in-
+ternational organisations). However, it is highly unlikely that their in-
+clusion would appreciably change the conclusions in this review since 
+high quality quantitative epidemiological studies are mainly published 
+in peer-reviewed journals. 
+4.8. Conclusions 
+We found a limited number of studies, which have attempted to 
+quantify the mortality effects of temperature in South Asia. The existing 
+body of evidence, focused mainly on India and Bangladesh, points to 
+excess mortality associated with hot and cold temperatures as well as 
+heat waves, but our meta-analysis based on five of the included time 
+series studies confirmed evidence for high temperatures only. More 
+evidence is needed to reduce uncertainty in the shape and size of the 
+temperature-mortality association in a region that is a hotspot for 
+climate vulnerability and experiencing rapid population growth and 
+urbanisation. In particular, a better understanding of the modifying 
+factors of the temperature-mortality relationship is necessary to inform 
+targeted interventions in the region. In light of slow progress in 
+achieving greenhouse gas emission reduction targets, more evidence on 
+viable adaptation options for the population in South Asia is particularly 
+important. More robust exposure–response functions are also essential 
+for health impact assessments of temperature-related mortality and 
+morbidity burdens under different climate change mitigation or adap-
+tation scenarios to inform decision making. 
+Funding 
+VI gratefully acknowledges funding from the European Union’s 
+Horizon 2020 research and innovation programme under grant agree-
+ment No 730,004 (project PUCS). JB gratefully acknowledges funding 
+from the European Union’s Horizon 2020 research and innovation 
+programme under grant agreements No 865,564 (European Research 
+Council Consolidator Grant EARLY-ADAPT), 727,852 (project Blue- 
+Action) and 730,004 (project PUCS). CT was funded through a Ram´on 
+y Cajal fellowship (RYC-2015–17402) awarded by the Spanish Ministry 
+of Economy and Competitiveness. 
+Declaration of Competing Interest 
+The authors declared that there is no conflict of interest. 
+Appendix A. Supplementary material 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.envint.2020.106170. 
+References 
+Alam, N., Lindeboom, W., Begum, D., Kim Streatfield, P., 2012. The association of 
+weather and mortality in Bangladesh from 1983–2009. Global Health Action 5 (1), 
+19121. https://doi.org/10.3402/gha.v5i0.19121. 
+Amegah, A.K., Rezza, G., Jaakkola, J.J.K., 2016. Temperature-related morbidity and 
+mortality in Sub-Saharan Africa: a systematic review of the empirical evidence. 
+Environ. Int. 91, 133–149. 
+Analitis, A., de’ Donato, F., Scortichini, M., Lanki, T., Basagana, X., Ballester, F., 
+Astrom, C., Paldy, A., Pascal, M., Gasparrini, A., Michelozzi, P., Katsouyanni, K., 
+2018. Synergistic effects of ambient temperature and air pollution on health in 
+europe: results from the PHASE project. IJERPH 15 (9), 1856. https://doi.org/ 
+10.3390/ijerph15091856. 
+Anderson, B.G., Bell, M.L., 2009. Weather-related mortality: how heat, cold, and heat 
+waves affect mortality in the United States. Epidemiology 20 (2), 205–213. 
+Azhar, G.S., et al., 2014. Heat-related mortality in India: Excess all-cause mortality 
+associated with the 2010 Ahmedabad heat wave. PLoS ONE. https://doi.org/ 
+10.1371/journal.pone.0091831. 
+Babalola, O., Razzaque, A., Bishai, D., 2018. Temperature extremes and infant mortality 
+in Bangladesh: Hotter months, lower mortality. PLoS ONE 13 (1), 1–9. https://doi. 
+org/10.1371/journal.pone.0189252. 
+Barreca, A., Clay, K., Deschenes, O., Greenstone, M., Shapiro, J.S., 2016. Adapting to 
+climate change: the remarkable decline in the US temperature-mortality relationship 
+over the twentieth century. J. Political Economy 124 (1), 105–159. 
+Basaga˜na, X., 2019. Re-centering exposure–response curves without access to individual- 
+level data. Epidemiology 1. https://doi.org/10.1097/ede.0000000000001111. 
+Basu, R., 2009. High ambient temperature and mortality: a review of epidemiologic 
+studies from 2001 to 2008. Environ. Health: A Global Access Science Source 8 (1), 
+40. https://doi.org/10.1186/1476-069X-8-40. 
+Basu, R., Feng, W.-Y., Ostro, B.D., 2008. Characterizing temperature and mortality in 
+Nine California Counties. Epidemiology 19 (1), 138–145. 
+Beck, H.E., Zimmermann, N.E., McVicar, T.R., Vergopolan, N., Berg, A., Wood, E.F., 
+2018. Present and future K¨oppen-Geiger climate classification maps at 1-km 
+resolution. Sci. Data. 5–180214. https://doi.org/10.1038/sdata.2018.214. 
+Burkart, K., Schneider, A., Breitner, S., Khan, M.H., Kr¨amer, A., Endlicher, W., 2011. The 
+effect of atmospheric thermal conditions and urban thermal pollution on all-cause 
+and cardiovascular mortality in Bangladesh. Environ. Pollut. 159 (8-9), 2035–2043. 
+Burkart, K., Breitner, S., Schneider, A., Khan, M.M.H., Kr¨amer, A., Endlicher, W., 2014b. 
+An analysis of heat effects in different subpopulations of Bangladesh. Int. J. 
+Biometeorol. 58 (2), 227–237. https://doi.org/10.1007/s00484-013-0668-5. 
+Burkart, K., Khan, M.M.H., Schneider, A., Breitner, S., Langner, M., Kr¨amer, A., 
+Endlicher, W., 2014a. The effects of season and meteorology on human mortality in 
+tropical climates: A systematic review. Trans. R. Soc. Trop. Med. Hyg. 108, 393–401. 
+https://doi.org/10.1093/trstmh/tru055. 
+Burkart, K., Kinney, P.L., 2017. What drives cold-related excess mortality in a south 
+Asian tropical monsoon climate–season vs. temperatures and diurnal temperature 
+changes. Int. J. Biometeorol. 61 (6), 1073–1080. https://doi.org/10.1007/s00484- 
+016-1287-8. 
+Byers, E., Gidden, M., Lecl`ere, D., Balkovic, J., Burek, P., Ebi, K., Greve, P., Grey, D., 
+Havlik, P., Hillers, A., Johnson, N., Kahil, T., Krey, V., Langan, S., Nakicenovic, N., 
+Novak, R., Obersteiner, M., Pachauri, S., Palazzo, A., Parkinson, S., Rao, N.D., 
+Rogelj, J., Satoh, Y., Wada, Y., Willaarts, B., Riahi, K., 2018. Global exposure and 
+vulnerability to multi-sector development and climate change hotspots. Environ. 
+Res. Lett. 13 (5), 055012. https://doi.org/10.1088/1748-9326/aabf45. 
+Carleton, T.A., 2017. Crop-damaging temperatures increase suicide rates in India. PNAS 
+114 (33), 8746–8751. 
+Carabine, E. et al. 2014. The IPCC’s Fifth Assessment Report: What’s in it for South Asia. 
+Available at: https://cdkn.org/resource/highlights-south-asia-ar5/?loclang=en_gb. 
+Centre for Research on the Epidemiology of Disasters (CRED). 2019. Emergency Events 
+Database (EM-DAT) database. 
+Chen, R., et al., 2018. Association between ambient temperature and mortality risk and 
+burden: Time series study in 272 main Chinese cities. BMJ (Online), 363. https:// 
+doi.org/10.1136/bmj.k4306. 
+Cohen, A.J., Brauer, M., Burnett, R., Anderson, H.R., Frostad, J., Estep, K., 
+Balakrishnan, K., Brunekreef, B., Dandona, L., Dandona, R., Feigin, V., Freedman, G., 
+Hubbell, B., Jobling, A., Kan, H., Knibbs, L., Liu, Y., Martin, R., Morawska, L., 
+Pope III, C.A., Shin, H., Straif, K., Shaddick, G., Thomas, M., van Dingenen, R., van 
+Donkelaar, A., Vos, T., Murray, C.J.L., Forouzanfar, M.H., 2017. Estimates and 25- 
+year trends of the global burden of disease attributable to ambient air pollution: an 
+analysis of data from the global burden of diseases study 2015. The Lancet 389 
+(10082), 1907–1918. 
+Dang, T.N., Van, D.Q., Kusaka, H., Seposo, X.T., Honda, Y., 2017. Green space and deaths 
+attributable to the urban heat island effect in Ho Chi Minh City. Am. J. Public Health 
+108 (S2), S137–S143. 
+Deilami, K., Kamruzzaman, M.d., Liu, Y., 2018. Urban heat island effect: a systematic 
+review of spatio-temporal factors, data, methods, and mitigation measures. Int. J. 
+App. Earth Observation Geoinformation 67, 30–42. 
+Desai, V.K., Wagle, S., Rathi, S.K., Patel, U., Desai, H.S., Khatri, K., 2015. Effect of 
+ambient heaton all-cause mortality in the coastal city of Surat, India. Curr. Sci. 109, 
+1680–1686. https://doi.org/10.18520/v109/i9/1680-1686. 
+Dimitrova, A. and Tonne, C. 2018. Systematic review and meta-analysis of the 
+association between temperature and mortality in South Asia, PROSPERO 2018 
+CRD42018105730 Available from: https://www.crd.york.ac.uk/prospero/disp 
+lay_record.php?ID=CRD42018105730. 
+Dutta, A., Bhattacharya, S., AK, K., Pati, S., Swain, S., Nanda, L., 2020. At which 
+temperature do the deleterious effects of ambient heat “kick-in” to affect all-cause 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+26
+mortality? An exploration of this threshold from an eastern Indian city. Int. J. 
+Environmental Health Research 30 (2), 187–197. 
+Ebi, K., Campbell-Lendrum, D. and Wyns, A. 2018. The 1.5 Health Report: Synthesis on 
+health and climate science in the IPCC SR1.5. Available at: http://climatetracker. 
+org/wp-content/uploads/2018/10/The-1.5-Health-Report.pdf. 
+Ebi, K.L., Teisberg, T.J., Kalkstein, L.S., Robinson, L., Weiher, R.F., 2004. Heat watch/ 
+warning systems save lives: estimated costs and benefits for Philadelphia 1995–98. 
+Bull. Amer. Meteor. Soc. 85 (8), 1067–1074. 
+Ebi, K.L., McGregor, G., 2008. Climate change, tropospheric ozone and particulate 
+matter, and health impacts. Environ. Health Perspect. 116 (11), 1449–1455. 
+Egondi, T., Kyobutungi, C., Kovats, S., Muindi, K., Ettarh, R., Rockl¨ov, J., 2012. Time- 
+series analysis of weather and mortality patterns in Nairobi’s informal settlements. 
+Global Health Action 5 (1), 19065. https://doi.org/10.3402/gha.v5i0.19065. 
+European Commission, Joint Research Centre, 2018. Chapter 8 Future demographic 
+trends in Asia. Demographic and Human Capital Scenarios for the 21st Century: 
+2018 assessment for 201 countries. Publications Office of the European Union, 
+Luxembourg. In press.  
+Fu, S.H., et al., 2018. Mortality attributable to hot and cold ambient temperatures in 
+India : a nationally representative case-crossover study. PLoS Med. 15 (7), 1–17. 
+Garg, V., Kotharkar, R., Sathaye, J., Rallapalli, H., Kulkarni, N., Reddy, N., Rao, P., 
+Sarkar, A., 2016. Assessment of the impact of cool roofs in rural buildings in India. 
+Energy Build. 114, 156–163. 
+Gasparrini, A., Guo, Y., Hashizume, M., Lavigne, E., Zanobetti, A., Schwartz, J., 
+Tobias, A., Tong, S., Rockl¨ov, J., Forsberg, B., Leone, M., De Sario, M., Bell, M.L., 
+Guo, Y.-L., Wu, C.-f., Kan, H., Yi, S.-M., de Sousa Zanotti Stagliorio Coelho, M., 
+Saldiva, P.H.N., Honda, Y., Kim, H.o., Armstrong, B., 2015. Mortality risk 
+attributable to high and low ambient temperature: a multicountry observational 
+study. The Lancet 386 (9991), 369–375. 
+Gasparrini, A., Armstrong, B., Kenward, M.G., 2010. Distributed lag non-linear models. 
+Statist. Med. 29 (21), 2224–2234. 
+Ghumman, U., Horney, J., 2016. Characterizing the impact of extreme heat on mortality, 
+Karachi, Pakistan, June 2015. Prehosp. Disaster med. 31 (3), 263–266. 
+Gordon, C.J., 2003. Role of environmental stress in the physiological response to 
+chemical toxicants. Environ. Res. 92 (1), 1–7. 
+Gosling, S.N., Lowe, J.A., McGregor, G.R., Pelling, M., Malamud, B.D., 2009. 
+Associations between elevated atmospheric temperature and human mortality: a 
+critical review of the literature. Clim. Change 92 (3-4), 299–341. https://doi.org/ 
+10.1007/s10584-008-9441-x. 
+Green, H., Bailey, J., Schwarz, L., Vanos, J., Ebi, K., Benmarhnia, T., 2019. Impact of heat 
+on mortality and morbidity in low and middle income countries: a review of the 
+epidemiological evidence and considerations for future research. Environ. Res. 171, 
+80–91. 
+Guo, Y., et al., 2016. Temperature variability and mortality: a multi-country study. 
+Environ. Health Perspect. 124 (10), 1554–1559. 
+Gupta, S., et al., 2012. Electric fans for reducing adverse health impacts in heatwaves. 
+Cochrane Database of Systematic Reviews 2017 (7). https://doi.org/10.1002/ 
+14651858.CD009888.pub2. 
+Hajat, S., Armstrong, B.G., Gouveia, N., Wilkinson, P., 2005. Mortality displacement of 
+heat-related deaths: a comparison of Delhi, S˜ao Paulo, and London. Epidemiology 16 
+(5), 613–620. 
+Hajat, S., Kosatky, T., 2010. Heat-related mortality: a review and exploration of 
+heterogeneity. J. Epidemiol. Community Health 64 (9), 753–760. 
+Han, J., Liu, S., Zhang, J., Zhou, L., Fang, Q., Zhang, J.i., Zhang, Y., 2017. The impact of 
+temperature extremes on mortality: a time-series study in Jinan, China. BMJ Open 7 
+(4), e014741. https://doi.org/10.1136/bmjopen-2016-014741. 
+Hanna, E.G., Tait, P.W., 2015. Limitations to thermoregulation and acclimatization 
+challenge human adaptation to global warming. Int. J. Environ. Res. Public Health 
+12 (7), 8034–8074. https://doi.org/10.3390/ijerph120708034. 
+Hashizume, M., et al., 2009. The effect of temperature on mortality in rural Bangladesh-a 
+population-based time-series study. International Journal of Epidemiology 38 (6), 
+1689–1697. https://doi.org/10.1093/ije/dyn376. 
+Healy, J.D., 2003. Excess winter mortality in Europe: a cross country analysis identifying 
+key risk factors. J. Epidemiol. Community Health 57 (10), 784–789. 
+Hess, J.J., LM, S., Knowlton, K., Saha, S., Dutta, P., Ganguly, P., Tiwari, A., Jaiswal, A., 
+Sheffield, P., Sarkar, J., Bhan, S.C., Begda, A., Shah, T., Solanki, B., Mavalankar, D., 
+2018. Building resilience to climate change: pilot evaluation of the impact of india’s 
+first heat action plan on all-cause mortality. J. Environ. Public Health 1–8. 
+Hondula, D.M., Balling Jr., R.C., Vanos, J.K., Georgescu, M., 2015. Rising temperatures, 
+human health, and the role of adaptation. Curr. Clim. Change Rep. 1 (3), 144–154. 
+https://doi.org/10.1007/s40641-015-0016-4. 
+Horrison, E., Amirtham, L.R., 2016. Role of built environment on factors affecting 
+outdoor thermal comfort – A case of T. Nagar, Chennai, India. Indian J. Sci. Technol. 
+9 (5), 3–6. https://doi.org/10.17485/ijst/2016/v9i5/87253. 
+Im, E.S., Pal, J.S., Eltahir, E.A.B., 2017. Deadly heat waves projected in the densely 
+populated agricultural regions of South Asia. Sci. Adv. 3 (8), 1–8. https://doi.org/ 
+10.1126/sciadv.1603322. 
+Ingole, V., Juvekar, S., Muralidharan, V., Sambhudas, S., Rockl¨ov, J., 2012. The short- 
+term association of temperature and rainfall with mortality in Vadu Health and 
+Demographic Surveillance System: a population level time series analysis. Global 
+Health Action 5 (1), 19118. https://doi.org/10.3402/gha.v5i0.19118. 
+Ingole, V., Rockl¨ov, J., Juvekar, S., Schumann, B., 2015. Impact of heat and cold on total 
+and cause-specific mortality in vadu HDSS—A rural setting in western India. IJERPH 
+12 (12), 15298–15308. https://doi.org/10.3390/ijerph121214980. 
+Ingole, V., Kovats, S., Schumann, B., Hajat, S., Rockl¨ov, J., Juvekar, S., Armstrong, B., 
+2017. Socioenvironmental factors associated with heat and cold-related mortality in 
+Vadu HDSS, western India: a population-based case-crossover study. Int. J. 
+Biometeorol. 61 (10), 1797–1804. https://doi.org/10.1007/s00484-017-1363-8. 
+IPCC, 2014. Climate Change 2014 – Impacts, Adaptation and Vulnerability: Part A: 
+Global and Sectoral Aspects: Working Group II Contribution to the IPCC Fifth 
+Assessment Report. Cambridge University Press, in. Cambridge. https://doi.org/ 
+10.1017/CBO9781107415379.  
+https://openknowledge.worldbank.org/handle/10986/31085, 2018. 
+IPCC. 2018. Global Warming of 1.5◦C. An IPCC Special Report on the impacts of global 
+warming of 1.5◦C above pre-industrial levels and related global greenhouse gas 
+emission pathways, in the context of strengthening the global response to the threat 
+of climate change,. [Masson-Delmotte, V., P. Zhai, H.-O. P¨ortner, D. Roberts, J. Skea, 
+P.R. Shukla, A. Pirani, W. Moufouma-Okia, C. P´ean, R. Pidcock, S. Connors, J.B.R. 
+Matthews, Y. Chen, X. Zhou, M.I. Gomis, E. Lonnoy, T. Maycock, M. Tignor, and T. 
+Waterfield (eds.)]. Available at: In Press. 
+Jha, P., et al., 2006. Prospective study of one million deaths in India: Rationale, design, 
+and validation results. PLoS Medicine 3 (2), 0191–0200. https://doi.org/10.1371/ 
+journal.pmed.0030018. 
+Jha, P., 2014. Reliable direct measurement of causes of death in low- and middle-income 
+countries. BMC Med 12 (1). https://doi.org/10.1186/1741-7015-12-19. 
+Johnson, P.I., Sutton, P., Atchley, D.S., Koustas, E., Lam, J., Sen, S., Robinson, K.A., 
+Axelrad, D.A., Woodruff, T.J., 2014. The Navigation guide—evidence-based 
+medicine meets environmental health: Systematic review of human evidence for 
+PFOA effects on fetal growth. Environ. Health Perspect. 122, 1028–1039. https:// 
+doi.org/10.1289/ehp.1307893. 
+Kinney, P.L., 2018a. Temporal trends in heat-related mortality: Implications for future 
+projections. Atmosphere 9 (10). https://doi.org/10.3390/atmos9100409. 
+Kinney, P.L., 2018b. Interactions of climate change, air pollution, and human health. 
+Curr. Envir. Health Rpt. 5 (1), 179–186. https://doi.org/10.1007/s40572-018-0188- 
+x. 
+Kinney, P., Schwartz, J., Pascal, M., Petkova, E., Tertre, A.L., Medina, S., Vautard, R., 
+2015. Winter season mortality: will climate warming bring benefits? Environ Res 
+Lett. 10 (6) https://doi.org/10.1088/1748-9326/10/6/064016. 
+Lindeboom, W., Alam, N., Begum, D., Kim Streatfield, P., 2012. The association of 
+meteorological factors and mortality in rural Bangladesh, 1983–2009. Global Health 
+Action 5 (1), 19063. https://doi.org/10.3402/gha.v5i0.19063. 
+Lundgren, K., Kjellstrom, T., 2013. Sustainability challenges from climate change and air 
+conditioning use in urban areas. Sustainability 5 (7), 3116–3128. https://doi.org/ 
+10.3390/su5073116. 
+Lutz, W., Muttarak, R., Striessnig, E., 2014. Universal education is key to enhanced 
+climate adaptation. Science 346 (6213), 1061–1062. 
+Maller, C.J., Strengers, Y., 2011. Housing, heat stress and health in a changing climate: 
+promoting the adaptive capacity of vulnerable households, a suggested way forward. 
+Health Promotion Int. 26 (4), 492–498. 
+Martínez-Solanas, `E., Basaga˜na, X., 2019. Temporal changes in temperature-related 
+mortality in Spain and effect of the implementation of a heat health prevention plan. 
+Environ. Res. 169, 102–113. 
+Mastrangelo, G., Fedeli, U., Visentin, C., Milan, G., Fadda, E., Spolaore, P., 2007. Pattern 
+and determinants of hospitalization during heat waves: an ecologic study. BMC 
+Public Health 7 (1). https://doi.org/10.1186/1471-2458-7-200. 
+Mastrucci, A., Byers, E., Pachauri, S., Rao, N.D., 2019. Improving the SDG energy poverty 
+targets: residential cooling needs in the global south. Energy Build. 186, 405–415. 
+Mazdiyasni, O., AghaKouchak, A., Davis, S.J., Madadgar, S., Mehran, A., Ragno, E., 
+Sadegh, M., Sengupta, A., Ghosh, S., Dhanya, C.T., Niknejad, M., 2017. Increasing 
+probability of mortality during Indian heat waves. Sci. Adv. 3 (6), e1700066. 
+https://doi.org/10.1126/sciadv.1700066. 
+McMichael, A.J., et al., 2008. International study of temperature, heat and urban 
+mortality: the “ISOTHURM” project. Int J Epidemiol 37 (5), 1121–1131. https://doi. 
+org/10.1093/ije/dyn086. 
+Michelozzi, P., 2006. Temperature and summer mortality: geographical and temporal 
+variations in four Italian cities. J. Epidemiol. Community Health 60 (5), 417–423. 
+Mikkelsen, L., Phillips, D.E., AbouZahr, C., Setel, P.W., de Savigny, D., Lozano, R., 
+Lopez, A.D., 2015. A global assessment of civil registration and vital statistics 
+systems: monitoring data quality and progress. The Lancet 386 (10001), 1395–1406. 
+Mil`a, C., Curto, A., Dimitrova, A., Sreekanth, V., Kinra, S., Marshall, J.D., Tonne, C., 
+2020. Identifying predictors of personal exposure to air temperature in peri-urban 
+India. Sci. Total Environ. 707, 136114. https://doi.org/10.1016/j. 
+scitotenv.2019.136114. 
+Moghadamnia, M.T., et al., 2017. Ambient temperature and cardiovascular mortality: a 
+systematic review and meta-analysis. PeerJ 5 (8), e3574. https://doi.org/10.7717/ 
+peerj.3574. 
+Mora, C., Dousset, B., Caldwell, I.R., Powell, F.E., Geronimo, R.C., Bielecki, C., 
+Counsell, C.W.W., Dietrich, B.S., Johnston, E.T., Louis, L.V., Lucas, M.P., 
+McKenzie, M.M., Shea, A.G., Tseng, H., Giambelluca, T.W., Leon, L.R., Hawkins, E. 
+D., Trauernicht, C., 2017. Global risk of deadly heat. Nature Clim Change 7 (7), 
+501–506. 
+Murari, K.K., Ghosh, S., Patwardhan, A., Daly, E., Salvi, K., 2015. Intensification of future 
+severe heat waves in India and their effect on heat stress and mortality. Reg. Environ. 
+Change 15 (4), 569–579. https://doi.org/10.1007/s10113-014-0660-6. 
+Mani, M., Bandyopadhyay, S., Chonabayashi, S., Markandya, A., Mosier, T., 2018. South 
+Asia’s Hotspots: The Impact of Temperature and Precipitation Changes on Living 
+Standards. The World Bank. 
+Nissan, H., et al., 2017. Defining and predicting heat waves in Bangladesh. Journal of 
+Applied Meteorology and Climatology 56 (10), 2653–2670. https://doi.org/ 
+10.1175/JAMC-D-17-0035.1. 
+Nori-Sarma, A., Anderson, G.B., Rajiva, A., ShahAzhar, G., Gupta, P., Pednekar, M.S., 
+Son, J.-Y., Peng, R.D., Bell, M.L., 2019a. The impact of heat waves on mortality in 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+
+Environment International 146 (2021) 106170
+27
+Northwest India. Environ. Res. 176, 108546. https://doi.org/10.1016/j. 
+envres.2019.108546. 
+Nori-Sarma, A., Benmarhnia, T., Rajiva, A., Azhar, G.S., Gupta, P., Pednekar, M.S., Bell, 
+M.L., 2019b. Advancing our Understanding of Heat Wave Criteria and Associated 
+Health Impacts to Improve Heat Wave Alerts in Developing Country Settings. Int. J. 
+Environ. Res. Public Health 16. https://doi.org/10.3390/ijerph16122089. 
+Oudin Åstr¨om, D., Bertil, F., Joacim, R., 2011. Heat wave impact on morbidity and 
+mortality in the elderly population: A review of recent studies. Maturitas 69 (2), 
+99–105. 
+Pailler, S., Tsaneva, M., 2018. The effects of climate variability on psychological well- 
+being in India. World Dev. 106, 15–26. 
+Petkova, E.P., Gasparrini, A., Kinney, P.L., 2014. Heat and mortality in New York City 
+since the beginning of the 20th century. Epidemiology 25 (4), 554–560. 
+Phung, D., et al., 2016. Science of the Total Environment Ambient temperature and risk 
+of cardiovascular hospitalization : An updated systematic review and meta-analysis. 
+Science of the Total Environment, The. Elsevier B.V. 550, 1084–1102. https://doi.org/ 
+10.1016/j.scitotenv.2016.01.154. 
+Pradesh, U., et al., 2019. Expanding heat resilience across India. NRDC Fact sheet 1–7. 
+Pramanik, S., Punia, M., 2019. Assessment of green space cooling effects in dense urban 
+landscape: a case study of Delhi, India. Model. Earth Syst. Environ. 5 (3), 867–884. 
+https://doi.org/10.1007/s40808-019-00573-3. 
+Rathi, S., Desai, V., Jariwala, P., Desai, H., Naik, A., Joseph, A., 2017. Summer 
+temperature andspatial variability of all-cause mortality in Surat city, India. Indian 
+J. Community Med. 42, 111. https://doi.org/10.4103/0970-0218.205216. 
+Ren, C., et al., 2011. Ambient temperature, air pollution, and heart rate variability in an 
+aging population. Am. J. Epidemiol. 173 (9), 1013–1021. https://doi.org/10.1093/ 
+aje/kwq477. 
+Rizwan, A.M., Dennis, L.Y.C., Liu, C., 2008. A review on the generation, determination 
+and mitigation of Urban Heat Island. J. Environ. Sci. 20 (1), 120–128. 
+Rohatgi, A. 2014. WebPlotDigitizer User Manual Version 3.4. URL http://arohatgi.info/ 
+WebPlotDigitizer/app, pp. 1–18. doi: 10.5281/zenodo.10532. 
+Ryti, N.R.I., Guo, Y., Jaakkola, J.J.K., 2016. ‘Global Association of Cold Spells and 
+Adverse Health Effects A Systematic’ 1, 12–22. 
+Saha, M.V., Davis, R.E., Hondula, D.M., 2014. Mortality displacement as a function of 
+heat event strength in 7 us cities. Am. J. Epidemiol. 179 (4), 467–474. https://doi. 
+org/10.1093/aje/kwt264. 
+Salve, H.R., et al., 2018. Impact of ambient air temperature on human health in India. 
+Rev. Environ. Health 33 (4), 433–439. https://doi.org/10.1515/reveh-2018-0024. 
+Schwartz, J., Zanobetti, A., 2000. Using meta-smoothing to estimate dose-response 
+trends across multiple studies, with application to air pollution and daily death. 
+Epidemiology 11 (6), 666–672. 
+Scott, A.A., et al., 2017. Temperature and heat in informal settlements in Nairobi. PLoS 
+ONE 12 (11), 1–17. https://doi.org/10.1371/journal.pone.0187300. 
+Scovronick, N., Armstrong, B., 2012. The impact of housing type on temperature-related 
+mortality in South Africa, 1996–2015. Environ. Res. Elsevier 113 (2012), 46–51. 
+https://doi.org/10.1016/j.envres.2012.01.004. 
+Scovronick, N., Lloyd, S.J., Kovats, R.S., 2015. Climate and health in informal urban 
+settlements. Environ. Urbanization 27 (2), 657–678. 
+Seltenrich, N., 2015. Between extremes: health effects of heat and cold. Environ. Health 
+Perspect. 123 (11), 276–280. https://doi.org/10.1289/ehp.123-A275. 
+Seposo, X., Dang, T., Honda, Y., 2017. How does ambient air temperature affect diabetes 
+mortality in tropical cities? IJERPH 14 (4), 385. https://doi.org/10.3390/ 
+ijerph14040385. 
+Setel, P.W., Macfarlane, S.B., Szreter, S., Mikkelsen, L., Jha, P., Stout, S., AbouZahr, C., 
+2007. A scandal of invisibility: making everyone count by counting everyone. The 
+Lancet 370 (9598), 1569–1577. 
+Odhiambo Sewe, M., Bunker, A., Ingole, V., Egondi, T., Oudin Åstr¨om, D., Hondula, D. 
+M., Rockl¨ov, J., Schumann, B., 2018. Estimated effect of temperature on years of life 
+lost: a retrospective time-series study of low-, middle-, and high-income regions. 
+Environ. Health Perspect. 126 (1), 017004. https://doi.org/10.1289/EHP1745. 
+Shrestha, S.L., Shrestha, I.L., Shrestha, N., Joshi, R.D., 2017. Statistical modeling of 
+health effects on climate-sensitive variables and assessment of environmental burden 
+of diseases attributable to climate change in Nepal. Environ. Model. Assess. 22 (5), 
+459–472. https://doi.org/10.1007/s10666-017-9547-5. 
+Singh, N., Mhawish, A., Ghosh, S., Banerjee, T., Mall, R.K., 2019. Attributing mortality 
+from temperature extremes: a time series analysis in Varanasi, India. Sci. Total 
+Environ. 665, 453–464. 
+Son, J.-Y., Lee, J.-T., Lane, K.J., Bell, M.L., 2019. Impacts of high temperature on adverse 
+birth outcomes in Seoul, Korea: disparities by individual- and community-level 
+characteristics. Environ. Res. 168, 460–466. 
+Sperber, A.D., Weitzman, S., 1997. Mind over matter about keeping warm. The Lancet 
+349 (9062), 1337–1338. 
+Stafoggia, M., Forastiere, F., Agostini, D., Biggeri, A., Bisanti, L., Cadum, E., Caranci, N., 
+de??Donato, F., De Lisio, S., De Maria, M., Michelozzi, P., Miglio, R., Pandolfi, P., 
+Picciotto, S., Rognoni, M., Russo, A., Scarnato, C., Perucci, C.A., 2006. Vulnerability 
+to heat-related mortality: a multicity, population-based, case-crossover analysis. 
+Epidemiology 17 (3), 315–323. 
+The Eurowinter Group, 1997. Cold exposure and winter mortality from ischaemic heart 
+disease, cerebrovascular disease, respiratory disease, and all causes in warm and 
+cold regions of Europe. The Eurowinter Group. Lancet 349 (9062), 1341–1346. 
+https://doi.org/10.1016/S0140-6736(96)12338-2. 
+Uejio, C.K., Wilhelmi, O.V., Golden, J.S., Mills, D.M., Gulino, S.P., Samenow, J.P., 2011. 
+Intra-urban societal vulnerability to extreme heat: The role of heat exposure and the 
+built environment, socioeconomics, and neighborhood stability. Health Place 17 (2), 
+498–507. 
+UN DESA (2010) ‘Status of Civil Registration and Vital Statistics in the SADC Region’. 
+UNDESA, 2018. World Urbanization Prospects: The 2018 Revision. United Nations, New 
+York. https://doi.org/10.4054/DemRes.2005.12.9.  
+Viechtbauer, W., 2010. Conducting meta-analyses in R with the metafor. J. Stat. Softw. 
+36 (3), 1–48. https://doi.org/10.18637/jss.v036.i03. 
+Wang, J., Kuffer, M., Sliuzas, R., Kohli, D., 2019. The exposure of slums to high 
+temperature: Morphology-based local scale thermal patterns. Sci. Total Environ. 
+650, 1805–1817. 
+Watts, N., Amann, M., Ayeb-Karlsson, S., Belesova, K., Bouley, T., Boykoff, M., Byass, P., 
+Cai, W., Campbell-Lendrum, D., Chambers, J., Cox, P.M., Daly, M., Dasandi, N., 
+Davies, M., Depledge, M., Depoux, A., Dominguez-Salas, P., Drummond, P., Ekins, P., 
+Flahault, A., Frumkin, H., Georgeson, L., Ghanei, M., Grace, D., Graham, H., 
+Grojsman, R., Haines, A., Hamilton, I., Hartinger, S., Johnson, A., Kelman, I., 
+Kiesewetter, G., Kniveton, D., Liang, L.u., Lott, M., Lowe, R., Mace, G., Odhiambo 
+Sewe, M., Maslin, M., Mikhaylov, S., Milner, J., Latifi, A.M., Moradi-Lakeh, M., 
+Morrissey, K., Murray, K., Neville, T., Nilsson, M., Oreszczyn, T., Owfi, F., 
+Pencheon, D., Pye, S., Rabbaniha, M., Robinson, E., Rockl¨ov, J., Schütte, S., 
+Shumake-Guillemot, J., Steinbach, R., Tabatabaei, M., Wheeler, N., Wilkinson, P., 
+Gong, P., Montgomery, H., Costello, A., 2017. The Lancet Countdown on health and 
+climate change: from 25 years of inaction to a global transformation for public 
+health. The Lancet 391 (10120), 581–630. 
+Watts, N. et al. 2019. Review The 2019 report of The Lancet Countdown on health and 
+climate change : ensuring that the health of a child born today is not defined by a 
+changing climate’, 394. doi: 10.1016/S0140-6736(19)32596-6. 
+Widerynski, S. et al. 2016. The Use of Cooling Centers to Prevent Heat-Related Illness: 
+Summary of Evidence and Strategies for Implementation Climate and Health 
+Technical Report Series’. Available at: https://www.cdc.gov/climateandhealth 
+/docs/UseOfCoolingCenters.pdf. 
+[dataset] World Bank. 2014. Population living in slums, World Development Indicators. 
+Available at: https://databank.worldbank.org/reports.aspx?source=2&series=EN. 
+POP.SLUM.UR.ZS. 
+[dataset] World Bank. 2019a. Employment in agriculture. Available at: https://data. 
+worldbank.org/indicator/SL.AGR.EMPL.ZS. 
+[dataset] World Bank. 2019b. World Development Indicators. Available at: https://data. 
+worldbank.org/indicator/SP.POP.TOTL?locations=8S (Accessed: 30 September 
+2019). 
+Xu, Y., Dadvand, P., Barrera-G´omez, J., Sartini, C., Marí-Dell’Olmo, M., Borrell, C., 
+Medina-Ram´on, M., Sunyer, J., Basaga˜na, X., 2013. Differences on the effect of heat 
+waves on mortality by sociodemographic and urban landscape characteristics. 
+J. Epidemiol. Community Health 67 (6), 519–525. 
+Yang, L., Wong, C.M., Chan, K.P., Chau, P.Y.K., Ou, C.Q., Chan, K.H., Peiris, JS.M., 2009. 
+Seasonal effects of influenza on mortality in a subtropical city. BMC Infect. Dis. 9 (1) 
+https://doi.org/10.1186/1471-2334-9-133. 
+Yu, W., Mengersen, K., Wang, X., 2012. Daily average temperature and mortality among 
+the elderly : a meta-analysis and systematic review of epidemiological evidence. Int. 
+J. Biometeorol. 569–581. https://doi.org/10.1007/s00484-011-0497-3. 
+Zanobetti, A., O’Neill, M.S., Gronlund, C.J., Schwartz, J.D., 2013. Susceptibility to 
+mortality in weather extremes: effect modification by personal and small-area 
+characteristics. Epidemiology 24 (6), 809–819. 
+Zanobetti, A., Schwartz, J., 2008. Temperature and mortality in Nine US cities. 
+Epidemiology 19 (4), 563–570. 
+Zhang, J., et al., 2014a. Impact of temperature on mortality in three major Chinese cities. 
+Biomed. Environ. Sci. 27 (7), 485–494. https://doi.org/10.3967/bes2014.080. 
+Zhang, X., Zhang, S., Wang, C., Wang, B., Guo, P., 2014b. Effects of moderate strength 
+cold air exposure on blood pressure and biochemical indicators among 
+cardiovascular and cerebrovascular patients. IJERPH 11 (3), 2472–2487. https:// 
+doi.org/10.3390/ijerph110302472. 
+A. Dimitrova et al.                                                                                                                                                                                                                              
+

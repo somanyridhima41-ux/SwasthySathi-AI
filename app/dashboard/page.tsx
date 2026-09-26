@@ -1,5 +1,5 @@
 "use client";
-
+import ReactMarkdown from "react-markdown";
 import React, { useState, useEffect, useCallback } from "react";
 import Link from "next/link";
 import { 
@@ -71,6 +71,7 @@ const POPULAR_INDIAN_CITIES: CityPreset[] = [
 
 export default function DashboardPage() {
   // User Profile State
+  const [isChatOpen, setIsChatOpen] = useState(false);
   const [profile, setProfile] = useState<UserProfile>(DEFAULT_PROFILE);
 
   // Selected Location
@@ -251,42 +252,82 @@ export default function DashboardPage() {
   };
 
   // AI Chat Submission
-  const handleSendMessage = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!inputMessage.trim() || !telemetry) return;
+ const handleSendMessage = async (e: React.FormEvent) => {
+  e.preventDefault();
 
-    const userText = inputMessage.trim();
-    const newMsg = {
-      sender: "user" as const,
-      text: userText,
-      time: "Just now",
-    };
+  if (!inputMessage.trim() || !telemetry) return;
 
-    setChatMessages((prev) => [...prev, newMsg]);
-    setInputMessage("");
+  const userText = inputMessage.trim();
 
-    setTimeout(() => {
-      let aiReply = "";
-      if (selectedBodyPart === "head") {
-        aiReply = `Current wet-bulb heat index (${telemetry.feelsLikeC}°C) and PM2.5 particulate levels (${telemetry.aqi} AQI) correlate directly with microvascular dilation and sinus irritation. Protocol: Cold towel compression to the forehead and ingest 300 mL electrolyte fluid immediately.`;
-      } else if (selectedBodyPart === "chest") {
-        aiReply = `Particulate concentration (PM2.5: ${telemetry.pm25} µg/m³, AQI: ${telemetry.aqi}) is triggering airway hyper-responsiveness. If you have asthma or cardiovascular sensitivity, retreat indoors with air filtration. If pulse exceeds 95 BPM, alert ${profile.emergencyContactName}.`;
-      } else if (selectedBodyPart === "joints") {
-        aiReply = `Barometric reading of ${telemetry.pressureHpa} hPa coupled with ${telemetry.humidityPct}% humidity induces synovial fluid pressure shifts. Gentle indoor mobility and adequate salt hydration will alleviate stiffness.`;
-      } else {
-        aiReply = `Prolonged physical activity under ${telemetry.temperatureC}°C solar radiation accelerates potassium and sodium depletion. Rest in shade for 20 minutes and consume rehydration salts.`;
-      }
-
-      setChatMessages((prev) => [
-        ...prev,
-        {
-          sender: "ai" as const,
-          text: aiReply,
-          time: "Just now",
-        },
-      ]);
-    }, 500);
+  const newMsg = {
+    sender: "user" as const,
+    text: userText,
+    time: "Just now",
   };
+
+  // Show user's message
+  setChatMessages((prev) => [...prev, newMsg]);
+
+  // Clear input
+  setInputMessage("");
+
+  // Show temporary loading message
+  setChatMessages((prev) => [
+    ...prev,
+    {
+      sender: "ai" as const,
+      text: "Thinking...",
+      time: "Just now",
+    },
+  ]);
+
+  try {
+    const response = await fetch("http://127.0.0.1:8000/ask", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        question: userText,
+      }),
+    });
+
+    if (!response.ok) {
+      throw new Error("RAG API request failed");
+    }
+
+    const data = await response.json();
+
+    // Replace "Thinking..." with the real AI answer
+    setChatMessages((prev) => {
+      const updated = [...prev];
+
+      updated[updated.length - 1] = {
+        sender: "ai" as const,
+        text: data.answer,
+        time: "Just now",
+      };
+
+      return updated;
+    });
+
+  } catch (error) {
+    console.error("RAG API error:", error);
+
+    setChatMessages((prev) => {
+      const updated = [...prev];
+
+      updated[updated.length - 1] = {
+        sender: "ai" as const,
+        text:
+          "I'm having trouble connecting to the SwasthyaSathi research system. Please try again.",
+        time: "Just now",
+      };
+
+      return updated;
+    });
+  }
+};
 
   // Visual Risk Color Mapping
   const riskColorConfig = {
@@ -656,7 +697,12 @@ export default function DashboardPage() {
 
             <div className="mt-4 pt-3 border-t border-surface-container flex items-center justify-between text-xs text-outline font-mono">
               <span>Station: {currentCity.name} Central</span>
-              <span>Updated: {lastRefreshedAt.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })}</span>
+            <span suppressHydrationWarning>
+  Updated: {lastRefreshedAt.toLocaleTimeString([], {
+    hour: "2-digit",
+    minute: "2-digit"
+  })}
+</span>
             </div>
           </div>
 
@@ -918,90 +964,155 @@ export default function DashboardPage() {
         {/* Row 4: SwasthyaSathi AI Symptom Assistant & Edge Engine Buffer */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
           
-          {/* AI Symptom Chat Panel (8 Cols) */}
-          <div className="lg:col-span-8 bg-white rounded-2xl p-6 border border-surface-container shadow-sm flex flex-col justify-between">
-            <div className="space-y-4">
-              <div className="flex items-center justify-between pb-3 border-b border-surface-container">
-                <div className="flex items-center gap-2.5">
-                  <div className="w-8 h-8 rounded-lg bg-primary flex items-center justify-center text-white shadow-xs">
-                    <Sparkles className="w-4 h-4 text-primary-fixed" />
-                  </div>
-                  <div>
-                    <h3 className="font-headline font-bold text-base text-on-surface">
-                      SwasthyaSathi AI Symptom Assistant
-                    </h3>
-                    <span className="text-[11px] text-primary font-mono font-medium">
-                      Physiological-Weather Cross-Referencing
-                    </span>
-                  </div>
-                </div>
-                <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-surface-container font-semibold text-outline">
-                  On-Device Triage
-                </span>
-              </div>
+          {/* Floating AI Assistant Button */}
+             <button
+  onClick={() => setIsChatOpen(!isChatOpen)}
+  className="fixed bottom-6 right-6 z-50 w-14 h-14 rounded-full bg-primary text-white shadow-lg flex items-center justify-center hover:scale-105 transition-all"
+  aria-label="Open SwasthyaSathi AI Assistant"
+>
+  {isChatOpen ? (
+    <span className="text-2xl">✕</span>
+  ) : (
+    <Sparkles className="w-6 h-6" />
+  )}
+             </button>
 
-              {/* Body Map Selector Pill Bar */}
-              <div className="p-3 rounded-xl bg-surface-container-low border border-surface-container flex flex-wrap items-center justify-between gap-2">
-                <span className="text-xs font-bold text-outline uppercase tracking-wider">
-                  Target Anatomical Focus:
-                </span>
-                <div className="flex items-center gap-1.5">
-                  {(["head", "chest", "joints", "lumbar"] as const).map((part) => (
-                    <button
-                      key={part}
-                      onClick={() => setSelectedBodyPart(part)}
-                      className={cn(
-                        "px-3 py-1 rounded-lg text-xs font-semibold capitalize transition-all",
-                        selectedBodyPart === part
-                          ? "bg-primary text-white shadow-xs"
-                          : "bg-white text-on-surface border border-surface-container hover:bg-surface-container"
-                      )}
-                    >
-                      {part}
-                    </button>
-                  ))}
-                </div>
-              </div>
+          {/* Floating AI Chat Window */}
+            {isChatOpen && (
+              <div className="fixed bottom-24 right-6 z-50 w-[calc(100vw-2rem)] sm:w-[400px] h-[550px] bg-white rounded-2xl border border-surface-container shadow-2xl flex flex-col overflow-hidden">
 
-              {/* Chat Messages Stream */}
-              <div className="space-y-3 max-h-64 overflow-y-auto pr-1">
-                {chatMessages.map((msg, idx) => (
-                  <div
-                    key={idx}
-                    className={cn(
-                      "flex flex-col max-w-[85%] rounded-xl p-3.5 text-xs sm:text-sm leading-relaxed",
-                      msg.sender === "user"
-                        ? "ml-auto bg-primary text-white rounded-br-none shadow-xs"
-                        : "mr-auto bg-surface-container-low text-on-surface border border-surface-container rounded-bl-none"
-                    )}
-                  >
-                    <span className="font-semibold text-[10px] uppercase font-mono tracking-wider opacity-70 mb-1">
-                      {msg.sender === "user" ? "You" : "SwasthyaSathi Companion"} • {msg.time}
-                    </span>
-                    <p>{msg.text}</p>
-                  </div>
-                ))}
-              </div>
-            </div>
+              {/* Header */}
+    <div className="p-4 bg-primary text-white flex items-center justify-between">
+      <div className="flex items-center gap-3">
+        <div className="w-9 h-9 rounded-lg bg-white/20 flex items-center justify-center">
+          <Sparkles className="w-5 h-5" />
+        </div>
 
-            {/* Chat Input Form */}
-            <form onSubmit={handleSendMessage} className="pt-4 border-t border-surface-container mt-3 flex gap-2">
-              <input
-                type="text"
-                placeholder="Ask SwasthyaSathi AI about dizziness, cramping, hydration, or air quality..."
-                value={inputMessage}
-                onChange={(e) => setInputMessage(e.target.value)}
-                className="flex-1 text-xs sm:text-sm px-3.5 py-2.5 rounded-xl bg-surface-container-low border border-surface-container focus:outline-none focus:ring-2 focus:ring-primary/20"
-              />
-              <button
-                type="submit"
-                className="px-4 py-2.5 rounded-xl bg-primary text-white font-semibold text-xs flex items-center gap-1.5 shadow-sm hover:bg-primary-container transition-all"
-              >
-                <span>Send</span>
-                <Send className="w-3.5 h-3.5" />
-              </button>
-            </form>
-          </div>
+        <div>
+          <h3 className="font-bold text-sm">
+            SwasthyaSathi AI
+          </h3>
+          <span className="text-[10px] opacity-80">
+            AI Health Assistant
+          </span>
+        </div>
+      </div>
+
+      <button
+        onClick={() => setIsChatOpen(false)}
+        className="text-white/80 hover:text-white text-xl"
+        aria-label="Close chat"
+      >
+        ✕
+      </button>
+    </div>
+    
+    {/* Chat Messages */}
+    <div className="flex-1 overflow-y-auto p-4 space-y-3">
+      {chatMessages.map((msg, idx) => (
+        <div
+          key={idx}
+          className={cn(
+            "flex flex-col max-w-[85%] rounded-xl p-3 text-xs sm:text-sm leading-relaxed",
+            msg.sender === "user"
+              ? "ml-auto bg-primary text-white rounded-br-none shadow-xs"
+              : "mr-auto bg-surface-container-low text-on-surface border border-surface-container rounded-bl-none"
+          )}
+        >
+          <span
+  suppressHydrationWarning
+  className="font-semibold text-[9px] uppercase font-mono tracking-wider opacity-70 mb-1"
+>
+            {msg.sender === "user"
+              ? "You"
+              : "SwasthyaSathi Companion"}{" "}
+            • {msg.time}
+          </span>
+
+          {msg.sender === "user" ? (
+  <p>{msg.text}</p>
+) : (
+  <div className="max-w-none">
+    <ReactMarkdown
+      components={{
+        h1: ({ children }) => (
+          <h1 className="text-base font-bold mt-3 mb-2">
+            {children}
+          </h1>
+        ),
+        h2: ({ children }) => (
+          <h2 className="text-base font-bold mt-3 mb-2">
+            {children}
+          </h2>
+        ),
+        h3: ({ children }) => (
+          <h3 className="text-sm font-bold mt-3 mb-1">
+            {children}
+          </h3>
+        ),
+        p: ({ children }) => (
+          <p className="mb-2 leading-relaxed">
+            {children}
+          </p>
+        ),
+        ul: ({ children }) => (
+          <ul className="list-disc ml-5 mb-2 space-y-1">
+            {children}
+          </ul>
+        ),
+        ol: ({ children }) => (
+          <ol className="list-decimal ml-5 mb-2 space-y-1">
+            {children}
+          </ol>
+        ),
+        li: ({ children }) => (
+          <li className="leading-relaxed">
+            {children}
+          </li>
+        ),
+        strong: ({ children }) => (
+          <strong className="font-bold">
+            {children}
+          </strong>
+        ),
+        blockquote: ({ children }) => (
+          <blockquote className="border-l-4 border-primary pl-3 my-3 italic">
+            {children}
+          </blockquote>
+        ),
+      }}
+    >
+      {msg.text}
+    </ReactMarkdown>
+  </div>
+)}
+        </div>
+      ))}
+    </div>
+
+    {/* Chat Input */}
+    <form
+      onSubmit={handleSendMessage}
+      className="p-3 border-t border-surface-container flex gap-2"
+    >
+      <input
+        type="text"
+        placeholder="Ask SwasthyaSathi AI..."
+        value={inputMessage}
+        onChange={(e) => setInputMessage(e.target.value)}
+        className="flex-1 text-xs sm:text-sm px-3.5 py-2.5 rounded-xl bg-surface-container-low border border-surface-container focus:outline-none focus:ring-2 focus:ring-primary/20"
+      />
+
+      <button
+        type="submit"
+        className="px-4 py-2.5 rounded-xl bg-primary text-white font-semibold text-xs shadow-sm hover:bg-primary-container transition-all"
+      >
+        Send
+      </button>
+    </form>
+
+  </div>
+)}
 
           {/* Edge Engine & Clinician Buffer Card (4 Cols) */}
           <div className="lg:col-span-4 bg-white rounded-2xl p-6 border border-surface-container shadow-sm flex flex-col justify-between space-y-4">
